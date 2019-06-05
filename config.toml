@@ -1,8 +1,7 @@
 baseURL = "https://sunboxlabs.com/"
 languageCode = "en-us"
-Title = "Solar Price Tracker & Platform for DIY solar"
-Subtitle = ""
-theme = "mediumish-gohugo-theme"
+Title = "sunboxlabs"
+Subtitle = "Solar Price Tracker & Platform for DIY solar"
 summaryLength = 25
 copyright = "sunboxlabs.com is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com. Big Set Software, LLC - All rights reserved"
 enableEmoji = true
@@ -10,12 +9,9 @@ publishDir = "docs"
 disqusShortname = "gridlesskits"
 googleAnalytics = "UA-103591436-1"
 
-[params]
-  logo = "/sarah_spinning_sun.gif"
   title = "sunboxlabs"
   description ="Solar Price Tracker & Platform for DIY solar"
   #mailchimp = "you can provide a mailchimp-link here"
-
 
 ## Main Menu
 [[menu.main]]

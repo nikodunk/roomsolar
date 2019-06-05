@@ -109,12 +109,6 @@
   </url>
   
   <url>
-    <loc>https://sunboxlabs.com/</loc>
-    <lastmod>2019-02-05T08:00:00-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://sunboxlabs.com/tags/</loc>
     <lastmod>2018-12-01T08:00:00-07:00</lastmod>
     <priority>0</priority>
@@ -123,6 +117,12 @@
   <url>
     <loc>https://sunboxlabs.com/tags/xantrex/</loc>
     <lastmod>2018-12-01T08:00:00-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunboxlabs.com/</loc>
+    <lastmod>2019-02-05T08:00:00-07:00</lastmod>
     <priority>0</priority>
   </url>
   
