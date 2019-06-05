@@ -9,6 +9,7 @@ publishDir = "docs"
 disqusShortname = "gridlesskits"
 googleAnalytics = "UA-103591436-1"
 
+[[Site.params]]
   title = "sunboxlabs"
   description ="Solar Price Tracker & Platform for DIY solar"
   #mailchimp = "you can provide a mailchimp-link here"

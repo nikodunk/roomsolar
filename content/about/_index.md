@@ -1,6 +1,6 @@
 ---
-layout: void
-
+layout: post
+title:  "About"
 ---
 
 

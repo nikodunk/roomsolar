@@ -1,10 +1,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        {{ .Hugo.Generator }}
-	{{ with .Site.Params.logo }}
-	<link rel="icon" href="{{ . | urlize | relURL }}">
-	{{ end }}
+		<link rel="icon" href="./sarah_spinning_sun.png">
 	<title>{{ .Page.Title }} | {{ .Site.Title }}</title>
 	{{ with .Site.Params.meta.description }}<meta name="description" content="{{ . }}">{{ end }}
 	{{ with .Site.Params.meta.keywords }}<meta name="keywords" content="{{ . }}">{{ end }}

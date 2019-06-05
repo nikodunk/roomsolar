@@ -1,3 +1,8 @@
+---
+layout: post
+title:  "Privacy"
+---
+
 <h1>Privacy Policy</h1>
 
 

@@ -42,14 +42,6 @@
   </url>
   
   <url>
-    <loc>https://sunboxlabs.com/privacy/</loc>
-  </url>
-  
-  <url>
-    <loc>https://sunboxlabs.com/terms/</loc>
-  </url>
-  
-  <url>
     <loc>https://sunboxlabs.com/tags/apartment/</loc>
     <lastmod>2018-12-01T08:00:00-07:00</lastmod>
     <priority>0</priority>
@@ -91,6 +83,11 @@
   </url>
   
   <url>
+    <loc>https://sunboxlabs.com/</loc>
+    <lastmod>2019-02-05T08:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://sunboxlabs.com/tags/hurricane/</loc>
     <lastmod>2019-02-04T08:00:00-07:00</lastmod>
     <priority>0</priority>
@@ -100,6 +97,10 @@
     <loc>https://sunboxlabs.com/tags/prepper/</loc>
     <lastmod>2019-02-04T08:00:00-07:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunboxlabs.com/privacy/</loc>
   </url>
   
   <url>
@@ -115,14 +116,12 @@
   </url>
   
   <url>
-    <loc>https://sunboxlabs.com/tags/xantrex/</loc>
-    <lastmod>2018-12-01T08:00:00-07:00</lastmod>
-    <priority>0</priority>
+    <loc>https://sunboxlabs.com/terms/</loc>
   </url>
   
   <url>
-    <loc>https://sunboxlabs.com/</loc>
-    <lastmod>2019-02-05T08:00:00-07:00</lastmod>
+    <loc>https://sunboxlabs.com/tags/xantrex/</loc>
+    <lastmod>2018-12-01T08:00:00-07:00</lastmod>
     <priority>0</priority>
   </url>
   
