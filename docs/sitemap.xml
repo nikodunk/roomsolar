@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
@@ -13,50 +13,43 @@
   </url>
   
   <url>
+    <loc>https://sunboxlabs.com/tags/california/</loc>
+    <lastmod>2019-02-04T08:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sunboxlabs.com/tags/emergency/</loc>
+    <lastmod>2019-02-04T08:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sunboxlabs.com/tags/florida/</loc>
+    <lastmod>2019-02-04T08:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sunboxlabs.com/tags/hurricane/</loc>
+    <lastmod>2019-02-04T08:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sunboxlabs.com/tags/prepper/</loc>
+    <lastmod>2019-02-04T08:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://sunboxlabs.com/prepper-offgrid-home-kit/</loc>
+    <lastmod>2019-02-04T08:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sunboxlabs.com/tags/solar/</loc>
     <lastmod>2019-02-04T08:00:00-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://sunboxlabs.com/tags/</loc>
     <lastmod>2019-02-04T08:00:00-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://sunboxlabs.com/tags/california/</loc>
-    <lastmod>2019-02-04T08:00:00-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://sunboxlabs.com/tags/emergency/</loc>
-    <lastmod>2019-02-04T08:00:00-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://sunboxlabs.com/tags/florida/</loc>
-    <lastmod>2019-02-04T08:00:00-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://sunboxlabs.com/tags/hurricane/</loc>
-    <lastmod>2019-02-04T08:00:00-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://sunboxlabs.com/tags/prepper/</loc>
-    <lastmod>2019-02-04T08:00:00-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://sunboxlabs.com/tags/solar/</loc>
-    <lastmod>2019-02-04T08:00:00-07:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -67,13 +60,11 @@
   <url>
     <loc>https://sunboxlabs.com/tags/apartment/</loc>
     <lastmod>2018-12-01T08:00:00-07:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://sunboxlabs.com/tags/xantrex/</loc>
     <lastmod>2018-12-01T08:00:00-07:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -82,14 +73,13 @@
   </url>
   
   <url>
-    <loc>https://sunboxlabs.com/what-will-solar-run/</loc>
+    <loc>https://sunboxlabs.com/tags/guide/</loc>
     <lastmod>2017-09-17T08:00:00-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sunboxlabs.com/tags/guide/</loc>
+    <loc>https://sunboxlabs.com/what-will-solar-run/</loc>
     <lastmod>2017-09-17T08:00:00-07:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -100,7 +90,6 @@
   <url>
     <loc>https://sunboxlabs.com/tags/festival/</loc>
     <lastmod>2017-09-06T08:00:00-07:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -110,19 +99,11 @@
   
   <url>
     <loc>https://sunboxlabs.com/about/</loc>
-  </url>
-  
-  <url>
-    <loc>https://sunboxlabs.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://sunboxlabs.com/privacy/</loc>
-  </url>
-  
-  <url>
-    <loc>https://sunboxlabs.com/terms/</loc>
+    <loc>https://sunboxlabs.com/categories/</loc>
   </url>
   
 </urlset>

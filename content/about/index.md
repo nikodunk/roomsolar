@@ -2,56 +2,50 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 		<link rel="icon" href="./sarah_spinning_sun.png">
-	<title> | sunboxlabs</title>
-	
-	
+	<title>{{ .Page.Title }} | {{ .Site.Title }}</title>
+	{{ with .Site.Params.meta.description }}<meta name="description" content="{{ . }}">{{ end }}
+	{{ with .Site.Params.meta.keywords }}<meta name="keywords" content="{{ . }}">{{ end }}
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp"
 	 crossorigin="anonymous">
 	<link href="https://fonts.googleapis.com/css?family=Righteous%7CMerriweather:300,300i,400,400i,700,700i" rel="stylesheet">
-	<link href="/css/medium.css" rel="stylesheet">
-	<link href="/css/additional.css" rel="stylesheet">
+	<link href="{{ "/css/medium.css" | urlize | relURL }}" rel="stylesheet">
+	<link href="{{ "/css/additional.css" | urlize | relURL }}" rel="stylesheet">
 </head>
 
 <nav class="navbar navbar-expand-lg navbar-light bg-white fixed-top mediumnavigation nav-down">
     <div class="container pr-0">
-        
-        <a class="navbar-brand" href="https://sunboxlabs.com//">
+        <!-- Begin Logo -->
+        <a class="navbar-brand" href="{{ .Site.BaseURL }}/">
             <img src="/sarah_spinning_sun.gif" alt="logo" />
-            <span >sunboxlabs</span>
+            <span >{{ .Site.Title }}</span>
         </a>
-        
+        <!-- End Logo -->
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarMediumish" aria-controls="navbarSupportedContent"
             aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
-        
+        <!-- Begin Menu -->
         <div class="collapse navbar-collapse" id="navbarMediumish">
-            
+            {{ $currentPage := . }}
             <ul class="navbar-nav ml-auto">
-                 
-                <li class="nav-item ">
-                    <a class="nav-link" href="/about">About</a>
+                {{ range .Site.Menus.main }} 
+                <li class="nav-item {{ if $currentPage.HasMenuCurrent "main" . }}active{{ end }}">
+                    <a class="nav-link" href="{{ .URL }}">{{ .Name | title }}</a>
                 </li>
-                 
-                <li class="nav-item ">
-                    <a class="nav-link" href="/">Guides</a>
-                </li>
-                 
-                <li class="nav-item ">
-                    <a class="nav-link" href="mailto:hello@sunboxlabs.com">Submit Your System</a>
-                </li>
-                
+                {{ end }}
             </ul>
         </div>
-        
+        <!-- End Menu -->
     </div>
 </nav>
 
 <div class="main-content" style="max-width: 800px; margin: 0 auto; margin-top: 100px">
     <header class="text-center">
-        
-        <h1 class="index-title"></h1>
+        {{ with .Site.Params.index.picture }}
+            <img src="{{ . | urlize | relURL }}" class="rounded-circle text-center index-image">
+        {{ end }}
+        <h1 class="index-title">{{ .Site.Params.index.title }}</h1>
     </header>
     <div class="main-content">
         <section class="recent-posts">            
