@@ -6,10 +6,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>sunboxlabs.com is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com. Big Set Software, LLC - All rights reserved</copyright>
-    <lastBuildDate>Tue, 05 Feb 2019 08:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 20 Jun 2019 08:00:00 -0700</lastBuildDate>
     
         <atom:link href="https://sunboxlabs.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title></title>
+      <link>https://sunboxlabs.com/about/</link>
+      <pubDate>Thu, 20 Jun 2019 08:00:00 -0700</pubDate>
+      
+      <guid>https://sunboxlabs.com/about/</guid>
+      <description>
+        About  This site provides information on how to build your own DIY solar energy + storage kit. If you have a kit you&#39;d like to get featured on the site, please send it in to hello@sunboxlabs.
+        <image>
+          <url></url>
+          <title></title>
+          <link></link>
+        </image>
+      </description>
+    </item>
     
     <item>
       <title>Draft 1200W solar &#43; 3600Wh battery system: Shortest Possible Payback Period</title>
@@ -121,22 +137,6 @@ Running 4 - 5 years straight powering full home office and TV, vacuum cleaning.
           <url>/img/money1.jpg</url>
           <title>$200 Solar Self-Sufficiency – without your landlord noticing</title>
           <link>/img/money1.jpg</link>
-        </image>
-      </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://sunboxlabs.com/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://sunboxlabs.com/about/</guid>
-      <description>
-        
-        <image>
-          <url></url>
-          <title></title>
-          <link></link>
         </image>
       </description>
     </item>

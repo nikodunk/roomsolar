@@ -3,12 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://sunboxlabs.com/shortest_payback/</loc>
-    <lastmod>2019-02-05T08:00:00-07:00</lastmod>
+    <loc>https://sunboxlabs.com/about/</loc>
+    <lastmod>2019-06-20T08:00:00-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://sunboxlabs.com/</loc>
+    <lastmod>2019-06-20T08:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sunboxlabs.com/shortest_payback/</loc>
     <lastmod>2019-02-05T08:00:00-07:00</lastmod>
   </url>
   
@@ -95,11 +100,6 @@
   <url>
     <loc>https://sunboxlabs.com/200-apartment-solar-system/</loc>
     <lastmod>2017-06-20T08:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sunboxlabs.com/about/</loc>
-    <priority>0</priority>
   </url>
   
   <url>

@@ -9,6 +9,9 @@ publishDir = "docs"
 disqusShortname = "gridlesskits"
 googleAnalytics = "UA-103591436-1"
 
+[markup.goldmark.renderer]
+  unsafe= true
+  
 [[Site.params]]
   title = "sunboxlabs"
   description ="Solar Price Tracker & Platform for DIY solar"
