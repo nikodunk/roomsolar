@@ -200,3 +200,15 @@ Energy prices are just too (unsustainably?) low. This system will not save you m
 #### 3) How much electricity will it make?
 
 Short answer It can charge all your laptops and phones and run your speakers and power your lights. It's a powerful solar system with a powerful battery and inverter attached. It cannot run your iron or laundry, but it is enough to back up a full-size, family fridge for a 4 hours a day in summer if the power goes out, or easily power a mini-fridge at the beach for 24 hours. Have fun! :)
+
+Longer answer is in SF it'll make on average 4.26 * 200W = 852Wh (0.85kWh) per day. Of that 500Wh will be stored. Of course in winter it'll make less, in summer more, which is why the solar is a little "over-specced". This means that if you're in a sunnier clime or in summer anywhere, your batteries will always be full even when you're using energy all day from the system.
+
+Any questions? Get in contact above.
+
+#### 4) What size is everything?
+
+**Each Solar panel:**
+4 feet x 1 ft 7 inches x 0.1 inches (1230mm x 500mm x 3mm)
+
+**Sunbox Battery/Controller/Inverter:**
+7.9 inches x 6.9 inches x 6.3 inches (200mm x 176mm x 160mm)
