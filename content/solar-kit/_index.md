@@ -17,6 +17,12 @@ Build an easy DIY solar micro-grid in your apartment, balcony, shared rooftop or
 <img src="img/press_icons.png" />
 
 
+Our new off-grid renewable energy micro-grid system is here! We tried to build the best system we possibly could at the lowest possible price. Some benefits include:
+
+<img src="img/benefits1.jpg" />
+<img src="img/benefits2.jpg" />
+
+
 -----
 
 #### What if you could order a solar system online like any other consumer electronic? Now you can!
@@ -44,7 +50,7 @@ We attempt to bypass both these problems by building a standalone solar power pl
 
 A windowsill solar system bought we install ourselves solves both problems at once: Renters don’t need permission from their landlords to place things on their windowsill and rooftops if it’s not altering the building, and it’s a one-click, direct purchase with no regulation as long as it’s not tied to the grid (which this one is designed not to be). Two birds with one stone. This makes the solar buying process more like buying a consumer electronic.
 
-<img src="img/banner.jpg" />
+<img src="img/header2.jpg" />
 
 Questions remain. Can this system make any meaningful energy? Does it make financial sense?
 
@@ -54,9 +60,9 @@ Questions remain. Can this system make any meaningful energy? Does it make finan
 
 Pre-order your Mobile Apartment Solar Kits, and you'll receive in 2 boxes by us hand-vetted and tested components:
 
-* 200W flexible solar panels (2 x 100W) with MC4 connectors. incl. 8 x zip ties to attach to balcony/RV/rooftop/garden structure.
-* 20ft solar cable (2 cables - 1x 20ft positive, 20ft negative) with MC4 connectors on both sides.
-* Indoor Storage Battery with integrated MPPT solar charge controller, 500Wh of storage, 500W inverter for max output (A/C), 3 USB-A, 1 USB-C, 1 A/C out (220V, 110V, up to 500W). 2 DC outs, 1 DC solar in.
+* **200W flexible solar panels** (2 x 100W) with MC4 connectors. incl. 8 x zip ties to attach to balcony/RV/rooftop/garden structure.
+* **20ft solar cable** (2 cables - 1x 20ft positive, 20ft negative) with MC4 connectors on both sides.
+* **Indoor Storage Battery** with integrated MPPT solar charge controller, 500Wh of storage, 500W inverter for max output (A/C), 3 USB-A, 1 USB-C, 1 A/C out (220V, 110V, up to 500W). 2 DC outs, 1 DC solar in.
 Personalized Zoom session with sunboxlabs founder for installation help.
 Money-back guarantee.
 
