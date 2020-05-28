@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Self-Install Solar + Battery Kit for off-grid Apartments, Backup and more"
+title:  "Self-Install Solar + Battery Kit for your off-grid Apartment, Condo, Balcony, Backup and Camping"
 date:   2020-01-20 08:00:00 -0700
 image: "/solar-kit/img/banner.jpg"
 cost: "$ "
@@ -10,7 +10,7 @@ comments: true
 ---
 
 
-### Self-Install Solar + Battery Kit for off-grid Apartments, Backup and more
+### Self-Install Solar + Battery Kit for your off-grid Apartment, Condo, Balcony, Backup and Camp
 
 Build an easy DIY solar micro-grid in your apartment, balcony, shared rooftop or garden for easy renewable independence, backup power and the odd outdoor adventure.
 
