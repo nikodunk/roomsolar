@@ -11,7 +11,7 @@ googleAnalytics = "UA-103591436-1"
 
 [markup.goldmark.renderer]
   unsafe= true
-  
+
 [[Site.params]]
   title = "sunboxlabs"
   description ="Solar Price Tracker & Platform for DIY solar"
@@ -31,6 +31,6 @@ googleAnalytics = "UA-103591436-1"
     url = "/about"
 
 [[menu.main]]
-    name = "Submit Your System"
-    identifier = "submit"
-    url = "mailto:hello@sunboxlabs.com"
+    name = "Buy Sunboxlabs Kit"
+    identifier = "buy"
+    url = "/apartment-solar-kit"

@@ -20,18 +20,18 @@
                 </p>
 
                 <br/>
-                <a href="https://gum.co/apartment-solar">
+                <a href="/solar-kit">
                     <img src="banner.jpg">
                 </a>
                 <br/><br/><br/><br/>
-                
+
                 <div class="main-content">
                     <h3>
                         Guides
                     </h3>
                     <!-- Posts Index
                     ================================================== -->
-                    <section class="recent-posts">            
+                    <section class="recent-posts">
                         <div class="row listrecent">
                             {{ $post_paginator := .Paginate (.Pages.Reverse) 12 }}
                             {{ range $post_paginator.Pages }}
@@ -59,8 +59,8 @@
                         </div>
                     </div>
                 </div>
-                
-    
+
+
     {{- partial "_shared/social.html" . -}}
     {{- partial "_shared/alertbar.html" . -}}
 
