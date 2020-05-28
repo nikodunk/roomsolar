@@ -2,7 +2,7 @@
 layout: post
 title:  "Self-Install Solar + Battery Kit for off-grid Apartments, Backup and more"
 date:   2020-01-20 08:00:00 -0700
-image: "/solar-kit/img/header.jpg"
+image: "/solar-kit/img/banner.jpg"
 cost: "$ "
 tags: ["solar", "apartment"]
 type: "post"
