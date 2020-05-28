@@ -125,7 +125,7 @@ If our initial run is successful, will offer expansions for you to upgrade to a 
 
 
 -----
-#### Our Mission
+#### Our Mission: Solar access for everyone.
 
 Our mission is to make purchasing solar/storage as easy as purchasing any other consumer electronic, as we believe in a bottom-up theory: once renewable energy does not require a professional it will spread as rapidly as other consumer electronics like window A/C units and satellite dishes, etc.
 
