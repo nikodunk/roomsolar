@@ -5,7 +5,7 @@
 
 {{ define "main" }}
 
-<div class="card">
+<div class="card" id="top">
   <img src="img/header.jpg" />
   <div class="row">
     <div class="col-md-4 order-md-2 p-4">
@@ -43,6 +43,8 @@
     </div>
     <div class="col-md-8 p-4 mt-4">
       {{ .Content}}
+      <br/><br/>
+      <a href="#top">Back to top</a>
     </div>
   </div>
 </div>
