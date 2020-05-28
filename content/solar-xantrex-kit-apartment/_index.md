@@ -207,8 +207,11 @@ Any questions? Get in contact above.
 
 #### 4) What size is everything?
 
-**Each Solar panel:**
-4 feet x 1 ft 7 inches x 0.1 inches (1230mm x 500mm x 3mm)
+    Each Solar panel:
+    4 feet x 1 ft 7 inches x 0.1 inches (1230mm x 500mm x 3mm)
 
-**Sunbox Battery/Controller/Inverter:**
-7.9 inches x 6.9 inches x 6.3 inches (200mm x 176mm x 160mm)
+    Connector cables (positive, negative)
+    20 feet each (6.1m)
+
+    Sunbox Battery/Controller/Inverter
+    7.9 inches x 6.9 inches x 6.3 inches (200mm x 176mm x 160mm)
