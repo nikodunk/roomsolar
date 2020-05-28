@@ -10,7 +10,7 @@ comments: true
 ---
 
 
-### Self-Install Solar + Battery Kit for your off-grid Apartment, Condo, Balcony, Backup and Camp
+### Self-Install Solar + Battery Kit for your off-grid Apartment, Condo, Balcony, Backup and Camping
 
 Build an easy DIY solar micro-grid in your apartment, balcony, shared rooftop or garden for easy renewable independence, backup power and the odd outdoor adventure.
 
