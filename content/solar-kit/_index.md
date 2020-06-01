@@ -27,7 +27,7 @@ Our new off-grid renewable energy micro-grid system is here! We tried to build t
   </div>
   <div class="col-6">
     <img src="img/benefits2.png" class="icon" />
-    <h4>Suits Apartments.</h4>
+    <h4>Suits<br/>Apartments.</h4>
     <p>Or vans. Or tiny homes.  Moving? Take it with you. No roof damage? Check.</p>
   </div>
   <div class="col-6">
