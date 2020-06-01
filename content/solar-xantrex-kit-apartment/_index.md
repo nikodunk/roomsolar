@@ -205,13 +205,15 @@ Longer answer is in SF it'll make on average 4.26 * 200W = 852Wh (0.85kWh) per d
 
 Any questions? Get in contact above.
 
-#### 4) What size is everything?
+#### 4) What're the dimensions? What size and weight is everything?
 
     Each Solar panel:
-    4 feet x 1 ft 7 inches x 0.1 inches (1230mm x 500mm x 3mm)
+    Size: 4 feet x 1 ft 7 inches x 0.1 inches (1230mm x 500mm x 3mm)
+    Weight: Roughly 1 lbs
 
     Connector cables (positive, negative)
-    20 feet each (6.1m)
+    Length: 20 feet each (6.1m)
 
     Sunbox Battery/Controller/Inverter
-    7.9 inches x 6.9 inches x 6.3 inches (200mm x 176mm x 160mm)
+    Size: 7.9 inches x 6.9 inches x 6.3 inches (200mm x 176mm x 160mm)
+    Weight: Roughly 12 lbs
