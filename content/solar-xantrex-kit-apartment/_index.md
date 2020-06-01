@@ -173,7 +173,7 @@ If our initial run is successful, will offer expansions for you to upgrade to a 
 Our mission is to make purchasing solar/storage as easy as purchasing any other consumer electronic, as we believe in a bottom-up theory: once renewable energy does not require a professional it will spread as rapidly as other consumer electronics like window A/C units and satellite dishes, etc.
 
 <img src="img/Vision.png" alt="Satellite Photo by Paweł Czerwiński | Air Conditioner Photo by Chromatograph" />
-<small style="text-align: center;">&nbsp;&nbsp;&nbsp;Solar as a modular consumer electronic - like air conditioning and satellite dishes? (Satellite Photo by Paweł Czerwiński | Air Conditioner Photo by Chromatograph)</small>
+<p style="margin-left: 10px; text-align: center"><small>Solar as a modular consumer electronic - like air conditioning and satellite dishes? (Satellite Photo by Paweł Czerwiński | Air Conditioner Photo by Chromatograph)</small></p>
 
 What if autonomous electric generation could be added room by room to a household (like window A/C units)?
 
