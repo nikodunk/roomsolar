@@ -193,7 +193,7 @@ What's the payback period for our solar battery system? Will it save me money?
 
     200W system payback period: $500 / $48 = 10 years until payback
 
-Energy prices are just too (unsustainably?) low. This system will not save you money. It will however be more valuable in the event of backup generator needs, at camping/outdoors, and of course it's just generally cool to be independent from the grid.
+In San Francisco, the payback is 10 years. The further south you are, or the more expensive energy is in your area, the shorter it'll be. This system will not save you money until after that, and even then is definitely not a "money-saver". It will however be more valuable in the event of backup generator needs, at camping/outdoors, and of course it's just generally cool to be independent from the grid and make your own renewable energy.
 
 
 
