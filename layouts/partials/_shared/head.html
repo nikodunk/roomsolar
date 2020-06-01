@@ -12,7 +12,12 @@
 
 
 	<!--  Essential META Tags -->
-  <meta property="og:title" content="{{ .Params.title }} | Sunboxlabs - The best DIY solar + storage kits for apartment, balcony, condos or back garden.">
+	{{ if .Params.title -}}
+    <meta property="og:title" content="Sunboxlabs - The best DIY solar + storage kits for apartment, balcony, condos or back garden.">
+  {{ else }}
+    <meta property="og:title" content="{{ .Params.title }} | Sunboxlabs - The best DIY solar + storage kits for apartment, balcony, condos or back garden.">
+  {{- end }}
+
   <meta property="og:description" content="Find the best off-grid solar + battery kits for all your RV and camping needs. | {{ .Summary | plainify | safeHTML }}">
 
   {{ if .Params.image -}}
