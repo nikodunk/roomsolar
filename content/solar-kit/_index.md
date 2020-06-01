@@ -18,9 +18,53 @@ Build an easy DIY mobile solar micro-grid in your apartment, balcony, shared roo
 
 Our new off-grid renewable energy micro-grid system is here! We tried to build the best system we possibly could at the lowest possible price. Some benefits include:
 
-<img src="img/benefits1.jpg" />
-<img src="img/benefits2.jpg" />
 
+<div class="row" style="text-align: center">
+  <div class="col-6">
+    <img src="img/benefits1.png" class="icon" />
+    <h3>Easy Install.</h3>
+    <h6>Electrician-free.<br/>Permit-free.<br/>Screwdriver-free.</h6>
+  </div>
+  <div class="col-6">
+    <img src="img/benefits2.png" class="icon" />
+    <h3>Suits Apartments.</h3>
+    <h6>Or vans. Or tiny homes.<br/> Moving? Take it with you.<br/>No roof damage? Check.</h6>
+  </div>
+  <div class="col-6">
+    <img src="img/benefits3.png" class="icon" />
+    <h3>Backup.</h3>
+    <h6>Wildfires. Hurricanes.<br/> Blackouts. No worries.<br/> Reliable, fuel-free power.</h6>
+  </div>
+  <div class="col-6">
+    <img src="img/benefits4.png" class="icon" />
+    <h3>Outdoors.</h3>
+    <h6>Great portable system  for camping & outdoors. <br/>Clean. No Noise. No trace.</h6>
+  </div>
+  <div class="col-6">
+    <img src="img/benefits5.png" class="icon" />
+    <h3>Live in the Future.</h3>
+    <h6>Make your<br/>own energy. <br/>Be independent.</h6>
+  </div>
+  <div class="col-6">
+    <img src="img/benefits6.png" class="icon" />
+    <h3>Running cost?</h3>
+    <h6>Nope. It generates<br/> electricity<br/>
+worth $50 a year.</h6>
+  </div>
+  <div class="col-6">
+    <img src="img/benefits7.png" class="icon" />
+    <h3>18650 Cells</h3>
+    <h6>Same lithium battery<br/>
+type used by Tesla.<br/>
+500Wh of them.</h6>
+  </div>
+  <div class="col-6">
+    <img src="img/benefits8.png" class="icon" />
+    <h3>Power</h3>
+    <h6>Run a small fridge. TV.<br/> Laptop. Lighting. Phone.<br/>
+With a standard plug.</h6>
+  </div>
+</div>
 
 -----
 
