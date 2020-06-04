@@ -84,6 +84,24 @@ s.parentNode.insertBefore(t,s)}(window, document,'script',
 fbq('init', '682935348800905');
 fbq('track', 'PageView');
 </script><noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=682935348800905&ev=PageView&noscript=1"/></noscript>
+<script type="text/javascript">
+  var button = document.getElementById('buy');
+  button.addEventListener(
+    'click',
+    function() {
+      fbq('track', 'buy');
+    },
+    false
+  );
+  var button2 = document.getElementById('buy2');
+  button2.addEventListener(
+    'click',
+    function() {
+      fbq('track', 'buy');
+    },
+    false
+  );
+</script>
 
 <div class="shadows" style="overflow: hidden; border-radius: 5px;" id="top">
   <img src="img/header.jpg" />
@@ -94,7 +112,9 @@ fbq('track', 'PageView');
         <h5>
           $499.00 Self-Install Solar Kit
         </h5>
-        <a target="_blank" href="https://checkout.square.site/buy/LLOXZNFJHRFT3MDW6K24OWUF"
+        <a
+        target="_blank" href="https://checkout.square.site/buy/LLOXZNFJHRFT3MDW6K24OWUF"
+        id="buy"
         class="btn btn-success shadows"
         style="
           font-size: 18px;
@@ -307,7 +327,9 @@ Weight: Roughly 12 lbs
       <h5>
         $499.00 Self-Install Solar Kit
       </h5>
-      <a target="_blank" href="https://checkout.square.site/buy/LLOXZNFJHRFT3MDW6K24OWUF"
+      <a
+      id="buy2"
+      target="_blank" href="https://checkout.square.site/buy/LLOXZNFJHRFT3MDW6K24OWUF"
       class="btn btn-success shadows"
       style="
         font-size: 18px;
