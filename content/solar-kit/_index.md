@@ -104,7 +104,7 @@ Questions remain. Can this system make any meaningful energy? Does it make finan
 
 Pre-order your Mobile Apartment Solar Kits, and you'll receive in 2 boxes by us hand-vetted and tested components:
 
-* **200W flexible solar panels** (2 x 100W) with MC4 connectors. incl. 8 x zip ties to attach to balcony/RV/rooftop/garden structure. Other attachments can be discussed.
+* **100W flexible solar panel** with standard MC4 connectors. incl. 4 x zip ties to attach to balcony/RV/rooftop/garden structure. Other attachments can be discussed.
 * **20ft solar cable** (2 cables - 1x 20ft positive, 20ft negative) with MC4 connectors on both sides.
 * **Indoor Storage Battery** with integrated MPPT solar charge controller, 500Wh of storage, 500W inverter for max output (A/C), 3 USB-A, 1 USB-C, 1 A/C out (220V, 110V, up to 500W). 2 DC outs, 1 DC solar in.
 Personalized Zoom session with sunboxlabs founder for installation help.
@@ -229,14 +229,14 @@ It'll take 3+ years of usage until this system is CO2 net-positive.
 
 What's the payback period for our solar battery system? Will it save me money?
 
-    Payback period for 200W, 500Wh system
+    Payback period for 100W, 500Wh system
     System cost: $499
 
-    Yearly energy creation: 365d * 4.26hsun/d * 200W = 311kWh/y
+    Yearly energy creation: 365d * 4.26hsun/d * 100W = 155kWh/y
 
-    Yearly value creation: 311kWh/y * 15c/kWh = $48/y energy created
+    Yearly value creation: 155kWh/y * 15c/kWh = $24/y energy created
 
-    200W system payback period: $500 / $48 = 10 years until payback
+    100W system payback period: $499 / $24 = 21 years until payback
 
 In San Francisco, the payback is 10 years. The further south you are, or the more expensive energy is in your area, the shorter it'll be. This system will not save you money until after that, and even then is definitely not a "money-saver". It will however be more valuable in the event of backup generator needs, at camping/outdoors, and of course it's just generally cool to be independent from the grid and make your own renewable energy.
 
@@ -246,7 +246,7 @@ In San Francisco, the payback is 10 years. The further south you are, or the mor
 
 Short answer It can charge all your laptops and phones and run your speakers and power your lights. It's a powerful solar system with a powerful battery and inverter attached. It cannot run your iron or laundry, but it is enough to back up a full-size, family fridge for a 4 hours a day in summer if the power goes out, or easily power a mini-fridge at the beach for 24 hours. Have fun! :)
 
-Longer answer is in SF it'll make on average 4.26 * 200W = 852Wh (0.85kWh) per day. Of that 500Wh will be stored. Of course in winter it'll make less, in summer more, which is why the solar is a little "over-specced". This means that if you're in a sunnier clime or in summer anywhere, your batteries will always be full even when you're using energy all day from the system.
+Longer answer is in SF it'll make on average 4.26 * 100W = 426Wh (0.426kWh) per day. Of course in winter it'll make less (around 300Wh), in summer more (around 800Wh). Of that 500Wh will be stored. And if you're further north, maybe you will want a second panel for winters. And if you're further south, even in winter your batteries will always be full even when you're using energy all day from the system.
 
 Any questions? Get in contact above.
 
