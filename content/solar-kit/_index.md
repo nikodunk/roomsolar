@@ -104,7 +104,7 @@ Questions remain. Can this system make any meaningful energy? Does it make finan
 
 Pre-order your Mobile Apartment Solar Kits, and you'll receive in 2 boxes by us hand-vetted and tested components:
 
-* **200W flexible solar panels** (2 x 100W) with MC4 connectors. incl. 8 x zip ties to attach to balcony/RV/rooftop/garden structure.
+* **200W flexible solar panels** (2 x 100W) with MC4 connectors. incl. 8 x zip ties to attach to balcony/RV/rooftop/garden structure. Other attachments can be discussed.
 * **20ft solar cable** (2 cables - 1x 20ft positive, 20ft negative) with MC4 connectors on both sides.
 * **Indoor Storage Battery** with integrated MPPT solar charge controller, 500Wh of storage, 500W inverter for max output (A/C), 3 USB-A, 1 USB-C, 1 A/C out (220V, 110V, up to 500W). 2 DC outs, 1 DC solar in.
 Personalized Zoom session with sunboxlabs founder for installation help.
@@ -173,7 +173,7 @@ If our initial run is successful, will offer expansions for you to upgrade to a 
 
 Our mission is to make purchasing solar/storage as easy as purchasing any other consumer electronic, as we believe in a bottom-up theory: once renewable energy does not require a professional it will spread as rapidly as other consumer electronics like window A/C units and satellite dishes, etc.
 
-<img src="img/Vision.png" alt="Satellite Photo by Paweł Czerwiński | Air Conditioner Photo by Chromatograph" />
+<img src="img/Vision.jpg" alt="Satellite Photo by Paweł Czerwiński | Air Conditioner Photo by Chromatograph" />
 <p style="margin-left: 10px; text-align: center"><small>Solar as a modular consumer electronic - like satellite dishes and air conditioning? (Satellite Photo by Paweł Czerwiński | Air Conditioner Photo by Chromatograph)</small></p>
 
 What if autonomous electric generation could be added room by room to a household (like window A/C units)?
