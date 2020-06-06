@@ -49,8 +49,8 @@ Our new off-grid renewable energy micro-grid system is here! We tried to build t
   <div class="col-6">
     <img src="img/benefits6.png" class="icon" />
     <h4>Running cost?</h4>
-    <p>Nope. It generates  electricity
-worth $50 a year.</p>
+    <p>Nope. It <i>generates</i>  electricity
+worth $25 a year.</p>
   </div>
   <div class="col-6">
     <img src="img/benefits7.png" class="icon" />
@@ -211,16 +211,16 @@ Questions or want to say hello? Send to hello@sunboxlabs.com or on WhatsApp +1 (
 Does it have an impact on my CO2 footprint? Let's calculate:
 
     Production footprint mono-cristalline PV:
-    4200kWhee/kW [1] * 0.2kW = 840kWh embodied energy
+    4200kWhee/kW [1] * 0.1kW = 420kWh embodied energy
 
     Production footprint li-ion 18650 battery:
     321kWhee/kWh [1] * 0.5kWh = 161kWh embodied energy
 
-    Total Footprint: 1001kWh
+    Total Footprint: 581kWh
 
-    Annual energy production system: 310kWh/y
+    Annual energy production system: 155kWh/y
 
-    Payback period: 1001kWh / 310kWh/y = 3.2 year CO2 footprint payback
+    Payback period: 581kWh / 155kWh/y = 3.7 year CO2 footprint payback
 
 It'll take 3+ years of usage until this system is CO2 net-positive.
 
