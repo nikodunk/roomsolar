@@ -69,13 +69,24 @@ With a standard plug.</p>
 
 -----
 
-#### What if you could order a solar system online like any other consumer electronic? Now you can!
-
 Due to popular demand, we've decided to offer **mobile apartment solar kits** with **hand-picked** and **tested** components guaranteed to work reliably together, distributed, sold and supported by sunboxlabs. If you'd prefer, you can still order components separately and assemble them yourself. This system is around 5x more powerful than the other ones on the site.
 
-* This is a pre-sale, so we'll only order in bulk when the first 10 orders are in.
 * For this initial run, we're taking a very small margin (under $100).
 * Additionally, we'll offer every sale a 1-on-1 personal installation session over Zoom with Niko, the founder of Sunboxlabs.
+
+
+#### Our Mission: Solar access for everyone.
+
+Our mission is to make purchasing solar/storage as easy as purchasing any other consumer electronic, as we believe in a bottom-up theory: once renewable energy does not require a professional it will spread as rapidly as other consumer electronics like window A/C units and satellite dishes, etc.
+
+<img src="img/Vision.jpg" alt="Satellite Photo by Paweł Czerwiński | Air Conditioner Photo by Chromatograph" />
+<p style="margin-left: 10px; text-align: center"><small>Solar as a modular consumer electronic - like satellite dishes and air conditioning? (Satellite Photo by Paweł Czerwiński | Air Conditioner Photo by Chromatograph)</small></p>
+
+What if autonomous electric generation could be added room by room to a household (like window A/C units)?
+
+If we look to the car, the smartphone, the window A/C unit — these devices spread like wildfire across the globe because they were off-the-shelf products that required no configuration but great benefits. Identical appliances were churned out at an industrial scale for a global audience. They were “plug n play”. Plug n play solar has been around for a while, but has never taken off (probably because behind-the-meter power is still sketchy and poorly understood). The potential for plug n play solar is huge — it could mean cheap, zero-configuration solar energy spreading to consumers at the pace of the smartphone, the car or air-conditioning.
+
+
 
 -----
 #### The problem
@@ -102,7 +113,7 @@ Questions remain. Can this system make any meaningful energy? Does it make finan
 -----
 #### The System's Components
 
-Pre-order your Mobile Apartment Solar Kits, and you'll receive in 2 boxes by us hand-vetted and tested components:
+Order your Mobile Apartment Solar Kits, and you'll receive in 2 boxes by us hand-vetted and tested components:
 
 * **100W flexible solar panel** with standard MC4 connectors. incl. 4 x zip ties to attach to balcony/RV/rooftop/garden structure. Other attachments can be discussed.
 * **20ft solar cable** (2 cables - 1x 20ft positive, 20ft negative) with MC4 connectors on both sides.
@@ -117,7 +128,7 @@ Money-back guarantee.
 #### Easy Assembly and installation
 
 ##### Step 1: Receive packages
-The kit should arrive within 30 days of the pre-order phase closing. It'll look like below:
+Your kit will arrive within 2-3 weeks. It'll look like below:
 
 <img src="img/Image_of_boxes.jpg" />
 
@@ -169,27 +180,9 @@ If our initial run is successful, will offer expansions for you to upgrade to a 
 
 
 -----
-#### Our Mission: Solar access for everyone.
-
-Our mission is to make purchasing solar/storage as easy as purchasing any other consumer electronic, as we believe in a bottom-up theory: once renewable energy does not require a professional it will spread as rapidly as other consumer electronics like window A/C units and satellite dishes, etc.
-
-<img src="img/Vision.jpg" alt="Satellite Photo by Paweł Czerwiński | Air Conditioner Photo by Chromatograph" />
-<p style="margin-left: 10px; text-align: center"><small>Solar as a modular consumer electronic - like satellite dishes and air conditioning? (Satellite Photo by Paweł Czerwiński | Air Conditioner Photo by Chromatograph)</small></p>
-
-What if autonomous electric generation could be added room by room to a household (like window A/C units)?
-
-
-If we look to the car, the smartphone, the window A/C unit — these devices spread like wildfire across the globe because they were off-the-shelf products that required no configuration but great benefits. Identical appliances were churned out at an industrial scale for a global audience. They were “plug n play”. Plug n play solar has been around for a while, but has never taken off (probably because behind-the-meter power is still sketchy and poorly understood). The potential for plug n play solar is huge — it could mean cheap, zero-configuration solar energy spreading to consumers at the pace of the smartphone, the car or air-conditioning.
-
-
------
 <h4 id="shipping">Shipping & Order Details</h4>
 
-If we do not receive 10 pre-orders before June 25, you will be re-funded in full and we will find another way to get you your system.
-
 Free shipping anywhere in the US. You will receive a follow-up email with exact instructions once we have received enough orders.
-
-Est. arrival time after pre-sale closes: 4 weeks.
 
 Questions or want to say hello? Send to hello@sunboxlabs.com or on WhatsApp +1 (917) 704 3031.
 
