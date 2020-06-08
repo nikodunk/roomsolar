@@ -102,6 +102,8 @@ fbq('track', 'PageView');
       <a href="#top">Back to top</a>
     </div>
 
+    {{- partial "_shared/social.html" . -}}
+    {{- partial "_shared/alertbar.html" . -}}
 
   </div>
 </div>
@@ -126,8 +128,7 @@ fbq('track', 'PageView');
 
 {{end}}
 
-{{- partial "_shared/social.html" . -}}
-{{- partial "_shared/alertbar.html" . -}}
+
 
 {{ define "footer" }}
 {{- partial "_shared/footer.html" . -}}
