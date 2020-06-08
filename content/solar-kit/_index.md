@@ -105,7 +105,7 @@ We attempt to bypass both these problems by building a standalone solar power pl
 
 A windowsill solar system bought we install ourselves solves both problems at once: Renters don’t need permission from their landlords to place things on their windowsill and rooftops if it’s not altering the building, and it’s a one-click, direct purchase with no regulation as long as it’s not tied to the grid (which this one is designed not to be). Two birds with one stone. This makes the solar buying process more like buying a consumer electronic.
 
-<img src="img/header2.jpg" />
+<img src="img/header.jpg" />
 
 Questions remain. Can this system make any meaningful energy? Does it make financial sense?
 
