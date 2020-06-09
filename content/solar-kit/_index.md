@@ -181,7 +181,7 @@ If our initial run is successful, will offer expansions for you to upgrade to a 
 -----
 <h4 id="shipping">Shipping & Order Details</h4>
 
-Free shipping anywhere in the US. You will receive a follow-up email with exact instructions once we have received enough orders.
+Free shipping anywhere in the US. You will receive a follow-up email with exact instructions.
 
 Questions or want to say hello? Send to hello@sunboxlabs.com or on WhatsApp +1 (917) 704 3031.
 
