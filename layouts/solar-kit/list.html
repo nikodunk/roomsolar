@@ -19,6 +19,12 @@ fbq('init', '682935348800905');
 fbq('track', 'PageView');
 </script><noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=682935348800905&ev=PageView&noscript=1"/></noscript>
 <!-- End Facebook Pixel Code -->
+<!-- Reddit Pixel -->
+<script>
+!function(w,d){if(!w.rdt){var p=w.rdt=function(){p.sendEvent?p.sendEvent.apply(p,arguments):p.callQueue.push(arguments)};p.callQueue=[];var t=d.createElement("script");t.src="https://www.redditstatic.com/ads/pixel.js",t.async=!0;var s=d.getElementsByTagName("script")[0];s.parentNode.insertBefore(t,s)}}(window,document);rdt('init','t2_11bd8l');rdt('track', 'PageVisit');
+</script>
+<!-- DO NOT MODIFY -->
+<!-- End Reddit Pixel -->
 
 <div id="top">
   <div style="padding: 10px">
@@ -111,7 +117,7 @@ fbq('track', 'PageView');
   </div>
 </div>
 
-<div style="position: fixed; bottom: 10px; right: 10px; ">
+<div style="position: fixed; bottom: 10px; right: 10px">
   <a href="sms:+19177043031">
     <div class="shadows" style="height: 55px; width: 55px; border: 1px solid #28a745; border-radius: 30px; background-color: #28a745;">
       <i style="color: white; margin: 17px" class="gg-comment"></i>
@@ -125,6 +131,7 @@ fbq('track', 'PageView');
     'click',
     function() {
       fbq('track', 'InitiateCheckout');
+      rdt('track', 'Purchase')
     },
     false
   );
@@ -133,6 +140,7 @@ fbq('track', 'PageView');
     'click',
     function() {
       fbq('track', 'InitiateCheckout');
+      rdt('track', 'Purchase')
     },
     false
   );
