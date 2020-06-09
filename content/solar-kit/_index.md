@@ -10,9 +10,8 @@ comments: true
 aliases: [/solar-xantrex-kit-apartment/]
 ---
 
-### The Landlord-Friendly, Self-Install Solar + Battery Kit for your off-grid Apartment, Condo, Balcony, Backup and Camping needs
 
-Build an easy DIY mobile solar micro-grid in your apartment, balcony, shared rooftop, garden or RV for easy renewable independence, backup power and the odd outdoor adventure.
+How to build an easy DIY mobile solar micro-grid in your apartment, balcony, shared rooftop, garden or RV for easy renewable independence, backup power and the odd outdoor adventure.
 
 <img src="img/press_icons.png" />
 
