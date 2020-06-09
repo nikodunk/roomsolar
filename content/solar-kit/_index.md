@@ -189,11 +189,10 @@ Questions or want to say hello? Send to hello@sunboxlabs.com or on WhatsApp +1 (
 -----
 #### Planned future expansions
 
-* Daisy-chain the batteries and solar for a bigger system up to 10kWh / 4kW.
+* Daisy-chain the batteries and solar for a bigger system up to 4kW Solar / 10kWh Storage.
 * Grid-tie them to your fuse box to run your household seamlessly during a power outage.
-* Window transmission (currently there will be a gap).
+* Window transmission (currently there will be a gap for the wires to pass through).
 * Energy trading between separate households and selling back to the grid (demand response, etc).
-
 
 -----
 <h4 id="faq"> FAQ</h4>
