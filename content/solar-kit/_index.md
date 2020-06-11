@@ -18,13 +18,13 @@ aliases: [/solar-xantrex-kit-apartment/]
   </div>
   <div class="col-6">
     <img src="img/benefits2.png" class="icon" />
-    <h4>Suits<br/>Apartments.</h4>
-    <p>Or vans. Or tiny homes.  Moving? Take it with you. No roof damage? Check.</p>
+    <h4>Apartment<br/>Compatible.</h4>
+    <p>Moving? Take it with you. Roof damage? Never.</p>
   </div>
   <div class="col-6">
     <img src="img/benefits3.png" class="icon" />
     <h4>Backup.</h4>
-    <p>Wildfires. Hurricanes. Blackouts. No worries.  Reliable, fuel-free power.</p>
+    <p>In Wildfires. Hurricanes. Blackouts. Reliable, fuel-free power.</p>
   </div>
   <div class="col-6">
     <img src="img/benefits4.png" class="icon" />
@@ -52,40 +52,34 @@ type used by Tesla.
   <div class="col-6">
     <img src="img/benefits8.png" class="icon" />
     <h4>Power</h4>
-    <p>Run a small fridge. TV.  Laptop. Lighting. Phone.
-With a standard plug.</p>
+    <p>Run a small fridge. TV. Laptop. Lighting. Phone.</p>
   </div>
 </div>
 
 
 
 ### The Landlord-Friendly, Self-Install Solar + Battery Kit
-##### for Off-Grid Apartments, Condos, Balconies, Backup or Camping
-
-How to build an easy DIY mobile solar micro-grid in your apartment, balcony, shared rooftop, garden or RV for easy renewable independence, backup power and the odd outdoor adventure.
+##### for Off-Grid Apartments, Condos, Balconies, Backup, Back Yards, RVs, Camping, Van-Life, Tiny home and more.
 
 <img src="img/press_icons.png" />
 
+How to build an easy DIY mobile solar micro-grid for easy renewable independence.
 
-Our new off-grid renewable energy micro-grid system is here! We tried to build the best system we possibly could at the lowest possible price. Some benefits include:
 
-
------
-
-Due to popular demand, we've decided to offer **mobile apartment solar kits** with **hand-picked** and **tested** components guaranteed to work reliably together, distributed, sold and supported by sunboxlabs. If you'd prefer, you can still order components separately and assemble them yourself. This system is around 5x more powerful than the other ones on the site.
+Due to popular demand, we've decided to offer **mobile apartment solar kits** with **hand-picked** and **tested** components guaranteed to work reliably together, distributed, sold and supported by sunboxlabs. If you'd prefer, you can still order components separately and assemble them yourself. This system is around 5x more powerful than the other ones on the site. We tried to build the best system we possibly could at the lowest possible price.
 
 * For this initial run, we're taking a very small margin (under $100).
 * Additionally, we'll offer every sale a 1-on-1 personal installation session over Zoom with Niko, the founder of Sunboxlabs.
 
 
-#### Our Mission: Solar access for everyone.
+#### The Mission: Solar everywhere.
 
-Our mission is to make purchasing solar/storage as easy as purchasing any other consumer electronic, as we believe in a bottom-up theory: once renewable energy does not require a professional it will spread as rapidly as other consumer electronics like window A/C units and satellite dishes, etc.
+Our mission is to make purchasing solar/storage as easy as purchasing any other consumer electronic, as we believe in a **bottom-up approach**: once renewable energy does not require a professional it will spread as rapidly as other consumer electronics like satellite dishes and window AC units, etc.
 
 <img src="img/Vision.jpg" alt="Satellite Photo by Paweł Czerwiński | Air Conditioner Photo by Chromatograph" />
 <p style="margin-left: 10px; text-align: center"><small>Solar as a modular consumer electronic - like satellite dishes and air conditioning? (Satellite Photo by Paweł Czerwiński | Air Conditioner Photo by Chromatograph)</small></p>
 
-What if autonomous electric generation could be added room by room to a household (like window A/C units)?
+What if decentralized electric generation could be added room by room to a household (like window A/C units)?
 
 If we look to the car, the smartphone, the window A/C unit — these devices spread like wildfire across the globe because they were off-the-shelf products that required no configuration but great benefits. Identical appliances were churned out at an industrial scale for a global audience. They were “plug n play”. Plug n play solar has been around for a while, but has never taken off (probably because behind-the-meter power is still sketchy and poorly understood). The potential for plug n play solar is huge — it could mean cheap, zero-configuration solar energy spreading to consumers at the pace of the smartphone, the car or air-conditioning.
 
