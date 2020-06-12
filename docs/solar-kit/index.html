@@ -406,6 +406,7 @@ Weight: Roughly 12 lbs
     'click',
     function() {
       fbq('track', 'InitiateCheckout');
+      ga('send', 'event', 'Checkout', 'clicked', 'Solar Kit');
     },
     false
   );
@@ -414,6 +415,7 @@ Weight: Roughly 12 lbs
     'click',
     function() {
       fbq('track', 'InitiateCheckout');
+      ga('send', 'event', 'Checkout', 'clicked', 'Solar Kit');
     },
     false
   );
