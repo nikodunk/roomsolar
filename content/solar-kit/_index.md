@@ -122,7 +122,7 @@ Money-back guarantee.
 
 
 -----
-#### Easy Assembly and installation
+<h4 id="howto"> How to install: Easy assembly and installation</h4>
 
 ##### Step 1: Receive packages
 Your kit will arrive within 2-3 weeks. It'll look like below:
