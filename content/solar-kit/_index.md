@@ -71,20 +71,6 @@ Due to popular demand, we've decided to offer **mobile apartment solar kits** wi
 * For this initial run, we're taking a very small margin (under $100).
 * Additionally, we'll offer every sale a 1-on-1 personal installation session over Zoom with Niko, the founder of Sunboxlabs.
 
-
-#### The Mission: Solar everywhere.
-
-Our mission is to make purchasing solar/storage as easy as purchasing any other consumer electronic, as we believe in a **bottom-up approach**: once renewable energy does not require a professional it will spread as rapidly as other consumer electronics like satellite dishes and window AC units, etc.
-
-<img src="img/Vision.jpg" alt="Satellite Photo by Paweł Czerwiński | Air Conditioner Photo by Chromatograph" />
-<p style="margin-left: 10px; text-align: center"><small>Solar as a modular consumer electronic - like satellite dishes and air conditioning? (Satellite Photo by Paweł Czerwiński | Air Conditioner Photo by Chromatograph)</small></p>
-
-What if decentralized electric generation could be added room by room to a household (like window A/C units)?
-
-If we look to the car, the smartphone, the window A/C unit — these devices spread like wildfire across the globe because they were off-the-shelf products that required no configuration but great benefits. Identical appliances were churned out at an industrial scale for a global audience. They were “plug n play”. Plug n play solar has been around for a while, but has never taken off (probably because behind-the-meter power is still sketchy and poorly understood). The potential for plug n play solar is huge — it could mean cheap, zero-configuration solar energy spreading to consumers at the pace of the smartphone, the car or air-conditioning.
-
-
-
 -----
 #### The problem
 
@@ -102,9 +88,14 @@ We attempt to bypass both these problems by building a standalone solar power pl
 
 A windowsill solar system bought we install ourselves solves both problems at once: Renters don’t need permission from their landlords to place things on their windowsill and rooftops if it’s not altering the building, and it’s a one-click, direct purchase with no regulation as long as it’s not tied to the grid (which this one is designed not to be). Two birds with one stone. This makes the solar buying process more like buying a consumer electronic.
 
-<img src="img/header2.jpg" />
+Our mission is to make purchasing solar/storage as easy as purchasing any other consumer electronic, as we believe in a **bottom-up approach**: once renewable energy does not require a professional it will spread as rapidly as other consumer electronics like satellite dishes and window AC units, etc.
 
-Questions remain. Can this system make any meaningful energy? Does it make financial sense?
+<img src="img/Vision.jpg" alt="Satellite Photo by Paweł Czerwiński | Air Conditioner Photo by Chromatograph" />
+<p style="margin-left: 10px; text-align: center"><small>Solar as a modular consumer electronic - like satellite dishes and air conditioning? (Satellite Photo by Paweł Czerwiński | Air Conditioner Photo by Chromatograph)</small></p>
+
+What if decentralized electric generation could be added room by room to a household (like window A/C units)?
+
+If we look to the car, the smartphone, the window A/C unit — these devices spread like wildfire across the globe because they were off-the-shelf products that required no configuration but great benefits. Identical appliances were churned out at an industrial scale for a global audience. They were “plug n play”. Plug n play solar has been around for a while, but has never taken off (probably because behind-the-meter power is still sketchy and poorly understood). The potential for plug n play solar is huge — it could mean cheap, zero-configuration solar energy spreading to consumers at the pace of the smartphone, the car or air-conditioning.
 
 
 -----
