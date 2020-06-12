@@ -34,36 +34,30 @@ aliases: [/solar-xantrex-kit-apartment/]
   <div class="col-6">
     <img class="lazy" data-src="img/benefits5.png" class="icon" />
     <h4>Live in the Future.</h4>
-    <p>Make your own energy.  Be independent.</p>
+    <p>Make your own energy. Be independent.</p>
   </div>
   <div class="col-6">
     <img class="lazy" data-src="img/benefits6.png" class="icon" />
     <h4>Running cost?</h4>
-    <p>Nope. It <i>generates</i>  electricity
-worth $25 a year.</p>
+    <p>Nope. It <i>generates</i>  electricity worth $25 a year.</p>
   </div>
   <div class="col-6">
     <img class="lazy" data-src="img/benefits7.png" class="icon" />
     <h4>18650 Cells</h4>
-    <p>Same lithium battery
-type used by Tesla.
-500Wh of them.</p>
+    <p>Same lithium battery type used by Tesla. 500Wh of them.</p>
   </div>
   <div class="col-6">
     <img class="lazy" data-src="img/benefits8.png" class="icon" />
     <h4>Power</h4>
-    <p>Run a small fridge. TV. Laptop. Lighting. Phone.</p>
+    <p>Run a mini-fridge. TV. Laptop. Lighting. Phone.</p>
   </div>
 </div>
 
+---------
 
+## A portable outlet that runs on sunshine.
 
-### The Landlord-Friendly, Self-Install Solar + Battery Kit
-##### for Off-Grid Apartments, Condos, Balconies, Backup, Back Yards, RVs, Camping, Van-Life, Tiny home and more.
-
-<img class="lazy" data-src="img/press_icons.png" />
-
-How to build an easy DIY mobile solar micro-grid for easy renewable independence.
+#### How to build an easy mobile micro-grid for renewable independence.
 
 
 Due to popular demand, we've decided to offer **mobile apartment solar kits** with **hand-picked** and **tested** components guaranteed to work reliably together, distributed, sold and supported by sunboxlabs. If you'd prefer, you can still order components separately and assemble them yourself. This system is around 5x more powerful than the other ones on the site. We tried to build the best system we possibly could at the lowest possible price.
@@ -86,7 +80,7 @@ We attempt to bypass both these problems by building a standalone solar power pl
 -----
 ####  A possible solution
 
-A windowsill solar system bought we install ourselves solves both problems at once: Renters don’t need permission from their landlords to place things on their windowsill and rooftops if it’s not altering the building, and it’s a one-click, direct purchase with no regulation as long as it’s not tied to the grid (which this one is designed not to be). Two birds with one stone. This makes the solar buying process more like buying a consumer electronic.
+A windowsill solar system we install ourselves solves both problems at once: Renters don’t need permission from their landlords to place things on their windowsill and rooftops if it’s not altering the building, and it’s a one-click, direct purchase with no regulation as long as it’s not tied to the grid (which this one is designed not to be). Two birds with one stone. This makes the solar buying process more like buying a consumer electronic.
 
 Our mission is to make purchasing solar/storage as easy as purchasing any other consumer electronic, as we believe in a **bottom-up approach**: once renewable energy does not require a professional it will spread as rapidly as other consumer electronics like satellite dishes and window AC units, etc.
 
