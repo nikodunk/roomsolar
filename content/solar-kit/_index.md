@@ -12,45 +12,45 @@ aliases: [/solar-xantrex-kit-apartment/]
 
 <div class="row" style="text-align: center; margin-bottom: 40px">
   <div class="col-6">
-    <img src="img/benefits1.png" class="icon" />
+    <img class="lazy" data-src="img/benefits1.png" class="icon" />
     <h4>Easy<br/>Install.</h4>
     <p>Electrician-free. Permit-free. Screwdriver-free.</p>
   </div>
   <div class="col-6">
-    <img src="img/benefits2.png" class="icon" />
+    <img class="lazy" data-src="img/benefits2.png" class="icon" />
     <h4>Apartment<br/>Compatible.</h4>
     <p>Moving? Take it with you. Roof damage? Never.</p>
   </div>
   <div class="col-6">
-    <img src="img/benefits3.png" class="icon" />
+    <img class="lazy" data-src="img/benefits3.png" class="icon" />
     <h4>Backup.</h4>
     <p>In Wildfires. Hurricanes. Blackouts. Reliable, fuel-free power.</p>
   </div>
   <div class="col-6">
-    <img src="img/benefits4.png" class="icon" />
+    <img class="lazy" data-src="img/benefits4.png" class="icon" />
     <h4>Outdoors.</h4>
     <p>Great portable system  for camping & outdoors.  Clean. No Noise. No trace.</p>
   </div>
   <div class="col-6">
-    <img src="img/benefits5.png" class="icon" />
+    <img class="lazy" data-src="img/benefits5.png" class="icon" />
     <h4>Live in the Future.</h4>
     <p>Make your own energy.  Be independent.</p>
   </div>
   <div class="col-6">
-    <img src="img/benefits6.png" class="icon" />
+    <img class="lazy" data-src="img/benefits6.png" class="icon" />
     <h4>Running cost?</h4>
     <p>Nope. It <i>generates</i>  electricity
 worth $25 a year.</p>
   </div>
   <div class="col-6">
-    <img src="img/benefits7.png" class="icon" />
+    <img class="lazy" data-src="img/benefits7.png" class="icon" />
     <h4>18650 Cells</h4>
     <p>Same lithium battery
 type used by Tesla.
 500Wh of them.</p>
   </div>
   <div class="col-6">
-    <img src="img/benefits8.png" class="icon" />
+    <img class="lazy" data-src="img/benefits8.png" class="icon" />
     <h4>Power</h4>
     <p>Run a small fridge. TV. Laptop. Lighting. Phone.</p>
   </div>
@@ -61,7 +61,7 @@ type used by Tesla.
 ### The Landlord-Friendly, Self-Install Solar + Battery Kit
 ##### for Off-Grid Apartments, Condos, Balconies, Backup, Back Yards, RVs, Camping, Van-Life, Tiny home and more.
 
-<img src="img/press_icons.png" />
+<img class="lazy" data-src="img/press_icons.png" />
 
 How to build an easy DIY mobile solar micro-grid for easy renewable independence.
 
@@ -76,7 +76,7 @@ Due to popular demand, we've decided to offer **mobile apartment solar kits** wi
 
 Apartment renters need the landlord’s permission to install anything on their rooftops. This makes installing solar difficult for people who rent. Because most of the world lives in urbanized areas where renting is common, I think this is a problem standing in the way of solar adoption.
 
-<img src="img/PROBLEM.png" />
+<img class="lazy" data-src="img/PROBLEM.png" />
 
 An additional speed bump is the complexity of installing solar: regulation around net-metering. Grid-tied systems. Installation permits (even if you do own your property). Getting quotes from different installers. Solar financing. All complex processes inherited from the construction industry which slow down mass private adoption of renewables.
 
@@ -90,7 +90,7 @@ A windowsill solar system bought we install ourselves solves both problems at on
 
 Our mission is to make purchasing solar/storage as easy as purchasing any other consumer electronic, as we believe in a **bottom-up approach**: once renewable energy does not require a professional it will spread as rapidly as other consumer electronics like satellite dishes and window AC units, etc.
 
-<img src="img/Vision.jpg" alt="Satellite Photo by Paweł Czerwiński | Air Conditioner Photo by Chromatograph" />
+<img class="lazy" data-src="img/Vision.jpg" alt="Satellite Photo by Paweł Czerwiński | Air Conditioner Photo by Chromatograph" />
 <p style="margin-left: 10px; text-align: center"><small>Solar as a modular consumer electronic - like satellite dishes and air conditioning? (Satellite Photo by Paweł Czerwiński | Air Conditioner Photo by Chromatograph)</small></p>
 
 What if decentralized electric generation could be added room by room to a household (like window A/C units)?
@@ -109,7 +109,7 @@ Order your Mobile Apartment Solar Kits, and you'll receive in 2 boxes by us hand
 Personalized Zoom session with sunboxlabs founder for installation help.
 Money-back guarantee.
 
-<img src="img/components.jpg" />
+<img class="lazy" data-src="img/components.jpg" />
 
 
 -----
@@ -118,28 +118,28 @@ Money-back guarantee.
 ##### Step 1: Receive packages
 Your kit will arrive within 2-3 weeks. It'll look like below:
 
-<img src="img/Image_of_boxes.jpg" />
+<img class="lazy" data-src="img/Image_of_boxes.jpg" />
 
 ##### Step 2: Zip-tie panels in place
 
 Assembly is simple – zip-tie to the panels anywhere in your garden, on your rooftop, to your balcony, etc. We zip-tie them so that strong winds don't blow them away.
 
-<img src="img/ASSEMBLY4-1.jpg" />
+<img class="lazy" data-src="img/ASSEMBLY4-1.jpg" />
 
-<img src="img/ASSEMBLY4.jpg" />
+<img class="lazy" data-src="img/ASSEMBLY4.jpg" />
 
 
 ##### Step 3: Run cords to battery indoors
 
 We then pass the cables through to the window inside...
 
-<img src="img/ASSEMBLY6.jpg" />
+<img class="lazy" data-src="img/ASSEMBLY6.jpg" />
 
 ##### Step 4: That's it – start charging. Energy Independence!
 
 ... and plug it into the inverter indoors. Close the window on the (thick) wires and you're good to go. We shall be offering a window transmission system soon, too.
 
-<img src="img/image_of_inside.jpg" />
+<img class="lazy" data-src="img/image_of_inside.jpg" />
 
 -----
 
@@ -153,18 +153,18 @@ In case of brownouts or **blackouts**, this is be a helpful way of wirelessly ch
 
 During a utility power outage backup for any reason – be it hurricanes or a scheduled wildfire blackout your sunboxlabs system can act as a clean, quiet backup generator. It's not "grid-tied", so you'll have to re-plug your device into the device's socket or move it near the device you want to run. We will offer an option to plug it into your central fuse-box soon, too.
 
-<img src="img/image_of_self_sufficiency.jpg" />
+<img class="lazy" data-src="img/image_of_self_sufficiency.jpg" />
 
 ##### Use case 2: Camping, outdoors & off-grid uses.
 Be it burning man, music **festivals**, or a weekend getaway – you can run speakers and lights off this system for many hours.
 
-<img src="img/festival_use.jpg" />
+<img class="lazy" data-src="img/festival_use.jpg" />
 
 ##### Use case 3: A fun start into clean energy.
 Make **clean, off-grid power** in your garden or on your apartment rooftop (south-facing, slightly slanted or flat surfaces strongly with some hours of direct sunshine preferred). The cable should be able to run indoors, or you can provide power to your greenhouse, etc.
 If our initial run is successful, will offer expansions for you to upgrade to a full household-sized solar system and storage solution to take your home completely off-grid.
 
-<img src="img/FINAL.jpg" />
+<img class="lazy" data-src="img/FINAL.jpg" />
 
 
 -----

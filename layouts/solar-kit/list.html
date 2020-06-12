@@ -19,6 +19,8 @@ fbq('init', '682935348800905');
 fbq('track', 'PageView');
 </script><noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=682935348800905&ev=PageView&noscript=1"/></noscript>
 <!-- End Facebook Pixel Code -->
+<script src="https://cdn.jsdelivr.net/npm/vanilla-lazyload@16.1.0/dist/lazyload.min.js"></script>
+
 
 <div id="top">
   <div class="row">
@@ -36,13 +38,13 @@ fbq('track', 'PageView');
             <img class="d-block w-100" src="img/header.jpg" alt="First slide">
           </div>
           <div class="carousel-item">
-            <img class="d-block w-100" src="img/header2.jpg" alt="Second slide">
+            <img class="d-block w-100 lazy" data-src="img/header2.jpg" alt="Second slide">
           </div>
           <div class="carousel-item">
-            <img class="d-block w-100" src="img/components.jpg" alt="Third slide">
+            <img class="d-block w-100 lazy" data-src="img/components.jpg" alt="Third slide">
           </div>
           <div class="carousel-item">
-            <img class="d-block w-100" src="img/specs1.jpg" alt="Fourth slide">
+            <img class="d-block w-100 lazy" data-src="img/specs1.jpg" alt="Fourth slide">
           </div>
         </div>
         <a class="carousel-control-prev" role="button" data-target="#carouselExampleIndicators" data-slide="prev">
@@ -98,7 +100,7 @@ fbq('track', 'PageView');
     <div class="col-md-8 p-4">
       {{ .Content}}
       <br/><br/>
-      <img src="img/header.jpg" />
+      <img class="lazy" data-src="img/header.jpg" />
       <br/>
       <s>$699.00</s>
       <h5>
@@ -106,7 +108,7 @@ fbq('track', 'PageView');
       </h5>
       <a
       href="https://checkout.square.site/buy/LLOXZNFJHRFT3MDW6K24OWUF"
-      id="buy"
+      id="buy2"
       class="btn btn-success shadows"
       style="
         font-size: 18px;
@@ -169,6 +171,9 @@ fbq('track', 'PageView');
     },
     false
   );
+  var lazyLoadInstance = new LazyLoad({
+    elements_selector: ".lazy"
+  });
 </script>
 
 {{end}}
