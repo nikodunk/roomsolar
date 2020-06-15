@@ -176,6 +176,7 @@ Questions or want to say hello? Send to hello@sunboxlabs.com or on WhatsApp +1 (
 * Grid-tie them to your fuse box to run your household seamlessly during a power outage.
 * Window transmission (currently there will be a gap for the wires to pass through).
 * Energy trading between separate households and selling back to the grid (demand response, etc).
+* Eventually, we want to manufacture domestically in the US.
 
 -----
 <h4 id="faq"> FAQ</h4>
