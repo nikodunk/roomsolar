@@ -99,7 +99,7 @@ Order your Mobile Apartment Solar Kits, and you'll receive in 2 boxes by us hand
 
 * **100W flexible solar panel** with standard MC4 connectors. incl. 4 x zip ties to attach to balcony/RV/rooftop/garden structure. Other attachments can be discussed.
 * **20ft solar cable** (2 cables - 1x 20ft positive, 20ft negative) with MC4 connectors on both sides.
-* **Indoor Storage Battery** with integrated MPPT solar charge controller, 500Wh of storage, 500W inverter for max output (A/C), 3 USB-A, 1 USB-C, 1 A/C out (220V, 110V, up to 500W). 2 DC outs, 1 DC solar in.
+* **Indoor Storage Battery** with integrated MPPT solar charge controller, 500Wh of storage, a 500W Pure Sine inverter with two outputs (alternating current), 3 x USB-A, 1 x USB-C, 1 A/C out (220V, 110V, up to 500W). 3 x DC out, 1 DC solar in.
 Personalized Zoom session with sunboxlabs founder for installation help.
 Money-back guarantee.
 
