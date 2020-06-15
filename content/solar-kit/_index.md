@@ -224,15 +224,50 @@ Longer answer is in SF it'll make on average 4.26 * 100W = 426Wh (0.426kWh) per 
 
 Any questions? Get in contact above.
 
-#### 4) What're the dimensions? What size and weight is everything?
 
-    Each Solar panel:
-    Size: 4 feet x 1 ft 7 inches x 0.1 inches (1230mm x 500mm x 3mm)
-    Weight: Roughly 1 lbs
+#### Full Tech Specs
 
-    Connector cables (positive, negative)
-    Length: 20 feet each (6.1m)
+Panel:
 
-    Sunbox Battery/Controller/Inverter
-    Size: 7.9 inches x 6.9 inches x 6.3 inches (200mm x 176mm x 160mm)
-    Weight: Roughly 12 lbs
+    Lightweight: 4.8 lb / 2.2 kg
+    Thickness: 1/8 in / 3 mm
+    Flexing up to 30 degrees
+    Stainless steel grommets in the panel, easy and low cost installation
+    25 year limited power output warranty
+    Maximum Power(Pmax): 100W
+    Maximum Power Voltage(Vmp): 18.7V
+    Maximum Power Current(Imp): 5.35A
+    Open Circuit Voltage(Voc): 22.3V
+    Short Circuit Current(Isc): 5.70A
+    Maximum System Voltage(Vmax): 600VDC
+    Temperature Range: -40°C ~ 85°C
+    Maximum Series Fuse Rating(A): 15A
+    Weight: 4.8 lb
+    Dimensions: 41.1 x 27.2 x 0.11 in
+
+
+Battery:
+
+    Capacity: Lithium battery 50AH/540WH
+    Continuous Power: 500W
+    Over-load Protection: 550W±50W
+    Peak Output Power: 1000W
+    Output Waveform: Pure sine wave
+    DC Adapter Input Charge: DC 24V/3.75A
+    AC Output Voltage: AC110V±10% 60Hz/AC220V± 10%
+    Output Real Power: 87%
+    Quiescent Current:＜3.5mA
+    Under-voltage: 8.5±0.5V
+    Over-voltage Protection: 13±0.5V
+    Fuse: 3*30A
+    Overheat Protection: ＞65°C
+    Cooling Fan: Temperature control fan
+    Short-circuit Protection: Have
+    USB Output: TYPE-C+2.4A+2.4A+QC3.0
+    DC Output 1: Cigarette lighter 12V/8A
+    DC Output 2: 12V*2 output ports (4A+4A)
+    LED Lighting: 4W LED Light
+    LED Instruction: Battery level, percentage, time, fan, DC, USB, AC output power, over temperature, as picture
+    Solar Input Charging Panel(Optional): Voltage 18V 100W-200W
+    Solar Panel Voltage: DC12V-24V
+    Size/Weight: 10.24*6.7*6.82in / 5.5kg (12.13 lb)
