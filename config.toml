@@ -8,11 +8,33 @@ enableEmoji = true
 publishDir = "docs"
 disqusShortname = "sunboxlabs"
 googleAnalytics = "UA-103591436-1"
-Author = "sunboxlabs"
-Publisher = "sunboxlabs"
 
 [markup.goldmark.renderer]
   unsafe= true
+
+  [author]
+    name = "Niko"
+
+[params]
+
+  [params.publisher]
+    name = "sunboxlabs"
+
+    [params.publisher.logo]
+      url = "/img/sarah_spinning_sun.png"
+      width = 50
+      height = 50
+
+  [params.logo]
+    url = "/img/logo.png"
+    width = 200
+    height = 200
+
+  [params.image]
+    url = "/img/bg-masthead.jpg"
+    width = 1360
+    height = 751
+
 
 [[Site.params]]
   title = "sunboxlabs"
