@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Landlord-Friendly, Self-Install Solar + Battery Generator Kit for your off-grid Apartment, Condo, Balcony, Backup and Camping needs"
+title:  "The Landlord-Friendly, Self-Install Solar Battery Generator Kit for your off-grid Apartment, Condo, Balcony, Backup and Camping needs"
 date:   2020-01-20 08:00:00 -0700
 image: "/solar-kit/img/banner.jpg"
 cost: "$ "
