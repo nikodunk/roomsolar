@@ -19,7 +19,7 @@ aliases: [/solar-xantrex-kit-apartment/, /kit/]
 Due to popular demand, we have decided to offer **mobile apartment solar kits** with **hand-picked** and **tested** components guaranteed to work reliably together, distributed, sold and supported by sunboxlabs. If you'd prefer, you can still order components separately and assemble them yourself. This system is around 5x more powerful than the other ones on the site. We tried to build the best system we possibly could at the lowest possible price.
 
 * For this initial run, we are taking a very small margin (under $100).
-* Additionally, we will offer every sale a 1-on-1 personal installation session over Zoom with Niko, the founder of Sunboxlabs.
+* Additionally, we will offer with every sale a 1-on-1 personal installation session over Zoom with Niko, the founder of Sunboxlabs.
 
 -----
 #### The problem
