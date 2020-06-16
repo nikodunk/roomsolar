@@ -6,8 +6,10 @@ summaryLength = 25
 copyright = "sunboxlabs.com is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com. Big Set Software, LLC - All rights reserved"
 enableEmoji = true
 publishDir = "docs"
-disqusShortname = "gridlesskits"
+disqusShortname = "sunboxlabs"
 googleAnalytics = "UA-103591436-1"
+Author = "sunboxlabs"
+Publisher = "sunboxlabs"
 
 [markup.goldmark.renderer]
   unsafe= true
