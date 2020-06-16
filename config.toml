@@ -1,9 +1,9 @@
 baseURL = "https://sunboxlabs.com/"
 languageCode = "en-us"
 Title = "sunboxlabs"
-Subtitle = "Solar Price Tracker & Platform for DIY solar"
+Subtitle = "DIY Solar Generator How-to guides and kits"
 summaryLength = 25
-copyright = "sunboxlabs.com is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com. Big Set Software, LLC - All rights reserved"
+copyright = "sunboxlabs.com is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com."
 enableEmoji = true
 publishDir = "docs"
 disqusShortname = "sunboxlabs"
