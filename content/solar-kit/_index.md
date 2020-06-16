@@ -10,50 +10,6 @@ comments: true
 aliases: [/solar-xantrex-kit-apartment/, /kit/]
 ---
 
-<div class="row" style="text-align: center; margin-bottom: 40px">
-  <div class="col-6">
-    <img class="lazy" data-src="img/benefits1.png" class="icon" />
-    <h4>Easy<br/>Install.</h4>
-    <p>Electrician-free. Permit-free. Screwdriver-free.</p>
-  </div>
-  <div class="col-6">
-    <img class="lazy" data-src="img/benefits2.png" class="icon" />
-    <h4>Apartment<br/>Compatible.</h4>
-    <p>Moving? Take it with you. Roof damage? Never.</p>
-  </div>
-  <div class="col-6">
-    <img class="lazy" data-src="img/benefits3.png" class="icon" />
-    <h4>Backup.</h4>
-    <p>In Wildfires. Hurricanes. Blackouts. Reliable, fuel-free power.</p>
-  </div>
-  <div class="col-6">
-    <img class="lazy" data-src="img/benefits4.png" class="icon" />
-    <h4>Outdoors.</h4>
-    <p>Great portable system  for camping & outdoors.  Clean. No Noise. No trace.</p>
-  </div>
-  <div class="col-6">
-    <img class="lazy" data-src="img/benefits5.png" class="icon" />
-    <h4>Live in the Future.</h4>
-    <p>Make your own energy. Be independent.</p>
-  </div>
-  <div class="col-6">
-    <img class="lazy" data-src="img/benefits6.png" class="icon" />
-    <h4>Running cost?</h4>
-    <p>Nope. It <i>generates</i>  electricity worth $25 a year.</p>
-  </div>
-  <div class="col-6">
-    <img class="lazy" data-src="img/benefits7.png" class="icon" />
-    <h4>18650 Cells</h4>
-    <p>Same lithium battery type used by Tesla. 500Wh of them.</p>
-  </div>
-  <div class="col-6">
-    <img class="lazy" data-src="img/benefits8.png" class="icon" />
-    <h4>Power</h4>
-    <p>Run a mini-fridge. TV. Laptop. Lighting. Phone.</p>
-  </div>
-</div>
-
----------
 
 ## A portable outlet that runs on sunshine.
 
