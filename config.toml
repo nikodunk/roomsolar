@@ -16,7 +16,7 @@ Publisher = "sunboxlabs"
 
 [[Site.params]]
   title = "sunboxlabs"
-  description ="Solar Price Tracker & Platform for DIY solar"
+  description ="DIY solar guides and kits"
   #mailchimp = "you can provide a mailchimp-link here"
 
 ## Main Menu
