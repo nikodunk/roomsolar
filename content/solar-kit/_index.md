@@ -55,7 +55,7 @@ Order your Mobile Apartment Solar Kits, and you'll receive in 2 boxes by us hand
 
 * **100W flexible solar panel** with standard MC4 connectors. incl. 4 x zip ties to attach to balcony/RV/rooftop/garden structure. Other attachments can be discussed.
 * **20ft solar cable** (2 cables - 1x 20ft positive, 20ft negative) with MC4 connectors on both sides.
-* **Indoor Storage Battery** with integrated MPPT solar charge controller, 500Wh of storage, a 500W Pure Sine inverter with two outputs (alternating current), 3 x USB-A, 1 x USB-C, 1 A/C out (220V, 110V, up to 500W). 3 x DC out, 1 DC solar in.
+* **Indoor Storage Battery** with integrated MPPT solar charge controller, 540Wh of storage, a 500W Pure Sine inverter with two outputs (alternating current), 3 x USB-A, 1 x USB-C, 1 A/C out (220V, 110V, up to 500W). 3 x DC out, 1 DC solar in.
 Personalized Zoom session with sunboxlabs founder for installation help.
 Money-back guarantee.
 
@@ -99,7 +99,7 @@ These are some of the places we've seen the sunboxlabs testing kits in action.
 
 ##### Use case 1: Blackout Resilience & Backup
 
-In case of brownouts or **blackouts**, this is be a helpful way of wirelessly charging communications devices without the grid. This 500W, 500Wh system can even keep full-size, 120W refrigerator running for 4 hours to conserve food, or 10 lights running 24 hours.
+In case of brownouts or **blackouts**, this is be a helpful way of wirelessly charging communications devices without the grid. This 500W, 540Wh system can even keep full-size, 120W refrigerator running for 4 hours to conserve food, or 10 lights running 24 hours.
 
 During a utility power outage backup for any reason – be it hurricanes or a scheduled wildfire blackout your sunboxlabs system can act as a clean, quiet backup generator. It's not "grid-tied", so you'll have to re-plug your device into the device's socket or move it near the device you want to run. We will offer an option to plug it into your central fuse-box soon, too.
 
@@ -160,7 +160,7 @@ It'll take 3+ years of usage until this system is CO2 net-positive.
 
 What's the payback period for our solar battery system? Will it save me money?
 
-    Payback period for 100W, 500Wh system
+    Payback period for 100W, 540Wh system
     System cost: $599
 
     Yearly energy creation: 365d * 4.26hsun/d * 100W = 155kWh/y
@@ -177,7 +177,7 @@ In San Francisco, the payback is 10 years. The further south you are, or the mor
 
 Short answer It can charge all your laptops and phones and run your speakers and power your lights. It's a powerful solar system with a powerful battery and inverter attached. It cannot run your iron or laundry, but it is enough to back up a full-size, family fridge for a 4 hours a day in summer if the power goes out, or easily power a mini-fridge at the beach for 24 hours. Have fun! :)
 
-Longer answer is in SF it'll make on average 4.26 * 100W = 426Wh (0.426kWh) per day. Of course in winter it'll make less (around 300Wh), in summer more (around 800Wh). Of that 500Wh will be stored. And if you're further north, maybe you will want a second panel for winters. And if you're further south, even in winter your batteries will always be full even when you're using energy all day from the system.
+Longer answer is in SF it'll make on average 4.26 * 100W = 426Wh (0.426kWh) per day. Of course in winter it'll make less (around 300Wh), in summer more (around 800Wh). Of that 540Wh will be stored. And if you're further north, maybe you will want a second panel for winters. And if you're further south, even in winter your batteries will always be full even when you're using energy all day from the system.
 
 Any questions? Get in contact above.
 
