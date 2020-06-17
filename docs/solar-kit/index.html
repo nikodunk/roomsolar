@@ -465,6 +465,7 @@ twq('track','PageView');
   button.addEventListener(
     'click',
     function() {
+      twq('track','Checkout Clicked');
       ga('send', 'event', 'Checkout', 'clicked', 'Solar Kit');
     },
     false
@@ -473,6 +474,7 @@ twq('track','PageView');
   button2.addEventListener(
     'click',
     function() {
+      twq('track','Checkout Clicked');
       ga('send', 'event', 'Checkout', 'clicked', 'Solar Kit');
     },
     false
