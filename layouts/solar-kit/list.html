@@ -212,7 +212,7 @@ twq('track','PageView');
   button.addEventListener(
     'click',
     function() {
-      twq('track','Checkout Clicked');
+      twq('track','Purchase', {value: '499.00',currency: 'USD',num_items: '1'});
       ga('send', 'event', 'Checkout', 'clicked', 'Solar Kit');
     },
     false
@@ -221,7 +221,7 @@ twq('track','PageView');
   button2.addEventListener(
     'click',
     function() {
-      twq('track','Checkout Clicked');
+      twq('track','Purchase', {value: '499.00',currency: 'USD',num_items: '1'});
       ga('send', 'event', 'Checkout', 'clicked', 'Solar Kit');
     },
     false
