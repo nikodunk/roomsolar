@@ -212,16 +212,19 @@
 </div> -->
 
 <!-- Twitter universal website tag code -->
-<script>
+<!-- <script>
 !function(e,t,n,s,u,a){e.twq||(s=e.twq=function(){s.exe?s.exe.apply(s,arguments):s.queue.push(arguments);
 },s.version='1.1',s.queue=[],u=t.createElement(n),u.async=!0,u.src='//static.ads-twitter.com/uwt.js',
 a=t.getElementsByTagName(n)[0],a.parentNode.insertBefore(u,a))}(window,document,'script');
 // Insert Twitter Pixel ID and Standard Event data below
 twq('init','o3znq');
 twq('track','PageView');
-</script>
+</script> -->
 <!-- End Twitter universal website tag code -->
 
+<!-- Twitter single-event website tag code -->
+<script src="//platform.twitter.com/oct.js" type="text/javascript"></script>
+<!-- End Twitter single-event website tag code -->
 
 <script type="text/javascript">
   var button = document.getElementById('buy');
@@ -229,8 +232,9 @@ twq('track','PageView');
     'click',
     function() {
       fbq('track', 'InitiateCheckout');
-      twq('init','o3znq');
-      twq('track','Purchase', {value: '599.00',currency: 'USD',num_items: '1'});
+      // twq('init','o3znq');
+      // twq('track','Purchase', {value: '599.00',currency: 'USD',num_items: '1'});
+      twttr.conversion.trackPid('o3zw0', { tw_sale_amount: 0, tw_order_quantity: 0 });
       ga('send', 'event', 'Checkout', 'clicked', 'Solar Kit');
     },
     false
@@ -240,8 +244,9 @@ twq('track','PageView');
     'click',
     function() {
       fbq('track', 'InitiateCheckout');
-      twq('init','o3znq');
-      twq('track','Purchase', {value: '599.00',currency: 'USD',num_items: '1'});
+      // twq('init','o3znq');
+      // twq('track','Purchase', {value: '599.00',currency: 'USD',num_items: '1'});
+      twttr.conversion.trackPid('o3zw0', { tw_sale_amount: 0, tw_order_quantity: 0 });
       ga('send', 'event', 'Checkout', 'clicked', 'Solar Kit');
     },
     false
