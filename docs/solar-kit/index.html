@@ -115,7 +115,8 @@
  
 
 <script src="https://cdn.jsdelivr.net/npm/vanilla-lazyload@16.1.0/dist/lazyload.min.js"></script>
-
+<script src="https://js.stripe.com/v3/"></script>
+<script>var stripe = Stripe('pk_live_8yXo9Oom2JQnurwuoUgL4nw9')</script>
 
 <div id="top">
   <div class="row">
@@ -163,8 +164,7 @@
         <h5>
           $599.00 Self-Install Solar Kit
         </h5>
-        <a
-        href="https://checkout.square.site/buy/LLOXZNFJHRFT3MDW6K24OWUF"
+        <div
         id="buy"
         class="btn btn-success shadows"
         style="
@@ -174,11 +174,9 @@
           width: 100%;
           font-weight: 600">
           Order Now 〉
-        </a>
+        </div>
         <small>
-          <a href="https://checkout.square.site/buy/LLOXZNFJHRFT3MDW6K24OWUF">
-          🔒 Secure Checkout</a>
-         powered by Square
+          🔒 Secure Checkout powered by Stripe
         </small>
         <br/><br/>
         <div class="card">
@@ -403,8 +401,7 @@ Size/Weight: 10.24*6.7*6.82in / 5.5kg (12.13 lb)
       <h5>
         $599.00 Self-Install Solar Kit
       </h5>
-      <a
-      href="https://checkout.square.site/buy/LLOXZNFJHRFT3MDW6K24OWUF"
+      <div
       id="buy2"
       class="btn btn-success shadows"
       style="
@@ -413,11 +410,9 @@ Size/Weight: 10.24*6.7*6.82in / 5.5kg (12.13 lb)
         text-align: center;
         width: 100%;">
         Order Now 〉
-      </a>
+      </div>
       <small>
-        <a href="https://checkout.square.site/buy/LLOXZNFJHRFT3MDW6K24OWUF">
-        🔒 Secure Checkout</a>
-       powered by Square
+        🔒 Secure Checkout powered by Stripe
       </small>
       <br/><br/>
       <div class="card">
@@ -488,6 +483,22 @@ twq('init','o3znq');
       twq('track','Purchase', {value: '599.00',currency: 'USD',num_items: '1'});
       
       ga('send', 'event', 'Checkout', 'clicked', 'Solar Kit');
+      stripe.redirectToCheckout({
+        lineItems: [
+          
+          {price: 'price_1Gw97iLVZVqouPZL4N8YuesL', quantity: 1}
+        ],
+        mode: 'payment',
+        successUrl: 'https://sunboxlabs.com/thanks',
+        cancelUrl: 'https://sunboxlabs.com/solar-kit',
+        shippingAddressCollection: {
+          allowedCountries: ['US', 'PR'],
+        }
+      }).then(function (result) {
+        
+        
+        
+      });
     },
     false
   );
@@ -499,6 +510,24 @@ twq('init','o3znq');
       twq('track','Purchase', {value: '599.00',currency: 'USD',num_items: '1'});
       
       ga('send', 'event', 'Checkout', 'clicked', 'Solar Kit');
+      stripe.redirectToCheckout({
+        lineItems: [
+          
+          {
+            price: 'price_1Gw97iLVZVqouPZL4N8YuesL', quantity: 1
+          }
+        ],
+        mode: 'payment',
+        successUrl: 'https://sunboxlabs.com/thanks',
+        cancelUrl: 'https://sunboxlabs.com/solar-kit',
+        shippingAddressCollection: {
+          allowedCountries: ['US', 'PR'],
+        }
+      }).then(function (result) {
+        
+        
+        
+      });
     },
     false
   );
