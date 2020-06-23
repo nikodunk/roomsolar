@@ -10,6 +10,7 @@ comments: true
 aliases: [/solar-xantrex-kit-apartment/, /kit/]
 ---
 
+<img class="lazy" data-src="img/press_icons.png" />
 
 ## A portable outlet that runs on sunshine.
 
