@@ -112,7 +112,7 @@
  fbq('init', '682935348800905');
  fbq('track', 'PageView');
  </script><noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=682935348800905&ev=PageView&noscript=1"/></noscript>
- 
+
 
 <script src="https://cdn.jsdelivr.net/npm/vanilla-lazyload@16.1.0/dist/lazyload.min.js"></script>
 <script src="https://js.stripe.com/v3/"></script>
@@ -470,10 +470,6 @@ twq('init','o3znq');
 </script>
 
 
-
-
-
-
 <script type="text/javascript">
   var button = document.getElementById('buy');
   button.addEventListener(
@@ -481,7 +477,6 @@ twq('init','o3znq');
     function() {
       fbq('track', 'InitiateCheckout');
       twq('track','Purchase', {value: '599.00',currency: 'USD',num_items: '1'});
-      
       ga('send', 'event', 'Checkout', 'clicked', 'Solar Kit');
       stripe.redirectToCheckout({
         lineItems: [
@@ -508,14 +503,11 @@ twq('init','o3znq');
     function() {
       fbq('track', 'InitiateCheckout');
       twq('track','Purchase', {value: '599.00',currency: 'USD',num_items: '1'});
-      
       ga('send', 'event', 'Checkout', 'clicked', 'Solar Kit');
       stripe.redirectToCheckout({
         lineItems: [
           
-          {
-            price: 'price_1Gw97iLVZVqouPZL4N8YuesL', quantity: 1
-          }
+          {price: 'price_1Gw97iLVZVqouPZL4N8YuesL', quantity: 1}
         ],
         mode: 'payment',
         successUrl: 'https://sunboxlabs.com/thanks',

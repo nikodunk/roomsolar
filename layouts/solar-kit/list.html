@@ -5,7 +5,7 @@
 
 {{ define "main" }}
 
-<!-- sgtart Facebook Pixel code -->
+<!-- start Facebook Pixel code -->
 <script>
  !function(f,b,e,v,n,t,s)
  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
@@ -18,7 +18,7 @@
  fbq('init', '682935348800905');
  fbq('track', 'PageView');
  </script><noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=682935348800905&ev=PageView&noscript=1"/></noscript>
- <!-- End Facebook Pixel Code -->
+<!-- End Facebook Pixel Code -->
 
 <script src="https://cdn.jsdelivr.net/npm/vanilla-lazyload@16.1.0/dist/lazyload.min.js"></script>
 <script src="https://js.stripe.com/v3/"></script>
@@ -217,14 +217,6 @@ twq('init','o3znq');
 </script>
 <!-- End Twitter universal website tag code -->
 
-<!-- Twitter single-event website tag code -->
-<!-- <script src="//platform.twitter.com/oct.js" type="text/javascript"></script>
-<noscript>
-<img height="1" width="1" style="display:none;" alt="" src="https://analytics.twitter.com/i/adsct?txn_id=o3zw0&p_id=Twitter&tw_sale_amount=0&tw_order_quantity=0" />
-<img height="1" width="1" style="display:none;" alt="" src="//t.co/i/adsct?txn_id=o3zw0&p_id=Twitter&tw_sale_amount=0&tw_order_quantity=0" />
-</noscript> -->
-<!-- End Twitter single-event website tag code -->
-
 <script type="text/javascript">
   var button = document.getElementById('buy');
   button.addEventListener(
@@ -232,7 +224,6 @@ twq('init','o3znq');
     function() {
       fbq('track', 'InitiateCheckout');
       twq('track','Purchase', {value: '599.00',currency: 'USD',num_items: '1'});
-      // twttr.conversion.trackPid('o3zw0', { tw_sale_amount: 0, tw_order_quantity: 0 });
       ga('send', 'event', 'Checkout', 'clicked', 'Solar Kit');
       stripe.redirectToCheckout({
         lineItems: [
@@ -259,14 +250,11 @@ twq('init','o3znq');
     function() {
       fbq('track', 'InitiateCheckout');
       twq('track','Purchase', {value: '599.00',currency: 'USD',num_items: '1'});
-      // twttr.conversion.trackPid('o3zw0', { tw_sale_amount: 0, tw_order_quantity: 0 });
       ga('send', 'event', 'Checkout', 'clicked', 'Solar Kit');
       stripe.redirectToCheckout({
         lineItems: [
           // Replace with the ID of your price
-          {
-            price: 'price_1Gw97iLVZVqouPZL4N8YuesL', quantity: 1
-          }
+          {price: 'price_1Gw97iLVZVqouPZL4N8YuesL', quantity: 1}
         ],
         mode: 'payment',
         successUrl: 'https://sunboxlabs.com/thanks',
