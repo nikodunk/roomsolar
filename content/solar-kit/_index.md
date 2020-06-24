@@ -185,6 +185,25 @@ Longer answer is in SF it'll make on average 4.26 * 100W = 426Wh (0.426kWh) per 
 Any questions? Get in contact above.
 
 
+#### 4) Where can I put the panel?
+
+Here are our main suggestions but you can get creative! Let the sunlight inspire you!
+
+* Rooftop
+* Off-Grid Apartments
+* Condos
+* Balconies
+* Backup during blackouts, hurricanes, earthquakes, etc
+* Backyard experiments
+* RVs
+* Camping
+* Van-Living
+* Tiny houses
+
+
+#### 5) Can I charge this panel off my car?
+
+
 #### Full Tech Specs
 
 Panel:
