@@ -102,3 +102,9 @@
   font-size: 30px;
   color: black;
 }
+
+
+.center{
+  text-align: center;
+  margin: 0 auto;
+}
