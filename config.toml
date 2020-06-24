@@ -55,6 +55,11 @@ googleAnalytics = "UA-103591436-1"
     url = "/about"
 
 [[menu.main]]
+    name = "Contact"
+    identifier = "contact"
+    url = "/contact"
+
+[[menu.main]]
     name = "Buy A Kit"
     identifier = "buy"
     url = "/solar-kit"
