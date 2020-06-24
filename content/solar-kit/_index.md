@@ -46,25 +46,28 @@ We then pass the cables through to the window inside...
 
 These are some of the places we've seen the sunboxlabs testing kits in action.
 
-##### Use case 1: Blackout Resilience & Backup
+##### Use case 1: Blackout Resilience & Power Outage Backup
 
 In case of brownouts or **blackouts**, this is be a helpful way of wirelessly charging communications devices without the grid. This 500W, 540Wh system can even keep full-size, 120W refrigerator running for 4 hours to conserve food, or 10 lights running 24 hours.
 
 During a utility power outage backup for any reason – be it hurricanes or a scheduled wildfire blackout your sunboxlabs system can act as a clean, quiet backup generator. It's not "grid-tied", so you'll have to re-plug your device into the device's socket or move it near the device you want to run. We will offer an option to plug it into your central fuse-box soon, too.
 
+
 <img class="lazy" data-src="img/image_of_self_sufficiency.jpg" />
+<img class="lazy" data-src="/img/money2.jpg" />
+
 
 ##### Use case 2: Camping, outdoors & off-grid uses.
 Be it burning man, music **festivals**, or a weekend getaway – you can run speakers and lights off this system for many hours.
 
 <img class="lazy" data-src="img/festival_use.jpg" />
+<img class="lazy" data-src="/img/money3.jpg" />
 
 ##### Use case 3: A fun start into clean energy.
 Make **clean, off-grid power** in your garden or on your apartment rooftop (south-facing, slightly slanted or flat surfaces strongly with some hours of direct sunshine preferred). The cable should be able to run indoors, or you can provide power to your greenhouse, etc.
 If our initial run is successful, will offer expansions for you to upgrade to a full household-sized solar system and storage solution to take your home completely off-grid.
 
-<img class="lazy" data-src="img/FINAL.jpg" />
-
+<img class="lazy" data-src="/img/finished3.jpg" />
 
 -----
 <h4 id="shipping">Shipping & Order Details</h4>
