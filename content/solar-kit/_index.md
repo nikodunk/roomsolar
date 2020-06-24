@@ -10,6 +10,70 @@ comments: true
 aliases: [/solar-xantrex-kit-apartment/, /kit/]
 ---
 
+<h4 id="howto"> How to install: Easy assembly and installation</h4>
+
+##### Step 1: Receive packages
+Your kit will arrive within 2-3 weeks. It'll look like below:
+
+<img class="lazy" data-src="img/Image_of_boxes.jpg" />
+
+##### Step 2: Zip-tie panels in place
+
+Assembly is simple – zip-tie to the panels anywhere in your garden, on your rooftop, to your balcony, etc. We zip-tie them so that strong winds don't blow them away.
+
+<img class="lazy" data-src="img/ASSEMBLY4-1.jpg" />
+
+<img class="lazy" data-src="img/ASSEMBLY4.jpg" />
+
+
+##### Step 3: Run cords to battery indoors
+
+We then pass the cables through to the window inside...
+
+<img class="lazy" data-src="img/ASSEMBLY6.jpg" />
+
+##### Step 4: That's it – start charging. Energy Independence!
+
+... and plug it into the inverter indoors. Close the window on the (thick) wires and you're good to go. We shall be offering a window transmission system soon, too.
+
+<img class="lazy" data-src="img/image_of_inside.jpg" />
+
+-----
+
+
+
+#### Use Cases
+
+These are some of the places we've seen the sunboxlabs testing kits in action.
+
+##### Use case 1: Blackout Resilience & Backup
+
+In case of brownouts or **blackouts**, this is be a helpful way of wirelessly charging communications devices without the grid. This 500W, 540Wh system can even keep full-size, 120W refrigerator running for 4 hours to conserve food, or 10 lights running 24 hours.
+
+During a utility power outage backup for any reason – be it hurricanes or a scheduled wildfire blackout your sunboxlabs system can act as a clean, quiet backup generator. It's not "grid-tied", so you'll have to re-plug your device into the device's socket or move it near the device you want to run. We will offer an option to plug it into your central fuse-box soon, too.
+
+<img class="lazy" data-src="img/image_of_self_sufficiency.jpg" />
+
+##### Use case 2: Camping, outdoors & off-grid uses.
+Be it burning man, music **festivals**, or a weekend getaway – you can run speakers and lights off this system for many hours.
+
+<img class="lazy" data-src="img/festival_use.jpg" />
+
+##### Use case 3: A fun start into clean energy.
+Make **clean, off-grid power** in your garden or on your apartment rooftop (south-facing, slightly slanted or flat surfaces strongly with some hours of direct sunshine preferred). The cable should be able to run indoors, or you can provide power to your greenhouse, etc.
+If our initial run is successful, will offer expansions for you to upgrade to a full household-sized solar system and storage solution to take your home completely off-grid.
+
+<img class="lazy" data-src="img/FINAL.jpg" />
+
+
+-----
+<h4 id="shipping">Shipping & Order Details</h4>
+
+Free shipping anywhere in the US. You will receive a follow-up email with exact instructions.
+
+Questions or want to say hello? Send to hello@sunboxlabs.com or on WhatsApp +1 (917) 704 3031.
+
+
 <img class="lazy" data-src="img/press_icons.png" />
 
 ## A portable outlet that runs on sunshine.
@@ -62,68 +126,6 @@ Money-back guarantee.
 
 <img class="lazy" data-src="img/components.jpg" />
 
-
------
-<h4 id="howto"> How to install: Easy assembly and installation</h4>
-
-##### Step 1: Receive packages
-Your kit will arrive within 2-3 weeks. It'll look like below:
-
-<img class="lazy" data-src="img/Image_of_boxes.jpg" />
-
-##### Step 2: Zip-tie panels in place
-
-Assembly is simple – zip-tie to the panels anywhere in your garden, on your rooftop, to your balcony, etc. We zip-tie them so that strong winds don't blow them away.
-
-<img class="lazy" data-src="img/ASSEMBLY4-1.jpg" />
-
-<img class="lazy" data-src="img/ASSEMBLY4.jpg" />
-
-
-##### Step 3: Run cords to battery indoors
-
-We then pass the cables through to the window inside...
-
-<img class="lazy" data-src="img/ASSEMBLY6.jpg" />
-
-##### Step 4: That's it – start charging. Energy Independence!
-
-... and plug it into the inverter indoors. Close the window on the (thick) wires and you're good to go. We shall be offering a window transmission system soon, too.
-
-<img class="lazy" data-src="img/image_of_inside.jpg" />
-
------
-
-#### Use Cases
-
-These are some of the places we've seen the sunboxlabs testing kits in action.
-
-##### Use case 1: Blackout Resilience & Backup
-
-In case of brownouts or **blackouts**, this is be a helpful way of wirelessly charging communications devices without the grid. This 500W, 540Wh system can even keep full-size, 120W refrigerator running for 4 hours to conserve food, or 10 lights running 24 hours.
-
-During a utility power outage backup for any reason – be it hurricanes or a scheduled wildfire blackout your sunboxlabs system can act as a clean, quiet backup generator. It's not "grid-tied", so you'll have to re-plug your device into the device's socket or move it near the device you want to run. We will offer an option to plug it into your central fuse-box soon, too.
-
-<img class="lazy" data-src="img/image_of_self_sufficiency.jpg" />
-
-##### Use case 2: Camping, outdoors & off-grid uses.
-Be it burning man, music **festivals**, or a weekend getaway – you can run speakers and lights off this system for many hours.
-
-<img class="lazy" data-src="img/festival_use.jpg" />
-
-##### Use case 3: A fun start into clean energy.
-Make **clean, off-grid power** in your garden or on your apartment rooftop (south-facing, slightly slanted or flat surfaces strongly with some hours of direct sunshine preferred). The cable should be able to run indoors, or you can provide power to your greenhouse, etc.
-If our initial run is successful, will offer expansions for you to upgrade to a full household-sized solar system and storage solution to take your home completely off-grid.
-
-<img class="lazy" data-src="img/FINAL.jpg" />
-
-
------
-<h4 id="shipping">Shipping & Order Details</h4>
-
-Free shipping anywhere in the US. You will receive a follow-up email with exact instructions.
-
-Questions or want to say hello? Send to hello@sunboxlabs.com or on WhatsApp +1 (917) 704 3031.
 
 
 -----
