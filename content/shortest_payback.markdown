@@ -6,7 +6,7 @@ image: ""
 cost: "$905.92"
 ---
 
-Based off the learnings from [this midsize 1800W system](/solar-xantrex-kit-apartment/), I'd like to propose an (as yet unbuilt) midsize system that is customized for short payback period to the best of my knowledge.
+Based off the learnings from [this midsize 1800W system](/solar-xantrex-kit-apartment/), I would like to propose an (as yet unbuilt) midsize system that is customized for short payback period to the best of my knowledge.
 
 This system is big enough to run lower voltage space heaters (750W), fridges (200W), washers (energy star around 500W), A/C units (medium window unit 900W), though not all at once. With this, you will actually start saving some money – $134.37 per year to be precise. With that, the payback period for this system is around 6.75 years – after that you'll start "earning" money with free elctricity.
 
@@ -17,7 +17,7 @@ This system is big enough to run lower voltage space heaters (750W), fridges (20
 
 	Total system cost: $905.92
 
-	Generation per year: 
+	Generation per year:
 		300W * 8h on average sunshine = 2.4kWh/day
 		2.4kWh/day * 15.34c/kWh * 365 = $134.37
 

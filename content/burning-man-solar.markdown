@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "100W Burning Man Solar + 420Wh Battery How-To"
+title:  "100W Burning Man Solar with 420Wh Battery How-To"
 date:   2017-09-06 08:00:00 -0700
 image: "/img/money3.jpg"
 cost: "$ "
@@ -10,7 +10,7 @@ comments: true
 ---
 
 
-Burning Man is a crazy desert art festival and party in northern Nevada. It takes place on federal public lands and attracts about 60,000 people each year. Everything there is radically offgrid. You bring your own power, water and food and take everything with you again when you leave. Here's an aerial view of the city in the desert (dubbed Black Rock City) that springs up overnight for the festival:
+Burning Man is a crazy desert art festival and party in northern Nevada. It takes place on federal public lands and attracts about 60,000 people each year. Everything there is radically off-grid. You bring your own power, water and food and take everything with you again when you leave. Here's an aerial view of the city in the desert (dubbed Black Rock City) that springs up overnight for the festival:
 
 ![](/img/sean/burningmanoverview.jpg)
 
@@ -25,7 +25,7 @@ Here's Sean's system for Burning Man 2017 in Nevada. He used it to run phones, f
 
 
 The Kit
-======= 
+=======
 
 <h4 style="color: lightgreen">Parts Cost on Amazon: $217.09</h4>
 
@@ -238,4 +238,3 @@ We're going to add a box to the recommended kit, to give it a more rugged and fi
     Cables (aka "Tender" or "B.O.M.")
     Alligator Clips (for connecting the battery to the solar controller)
     20Ft Extension Cable
-
