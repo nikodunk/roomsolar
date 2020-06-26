@@ -12,10 +12,10 @@ aliases: [/solar-xantrex-kit-apartment/, /kit/]
 
 ----
 
-<h4 id="howto"> How to install (It's easy!)</h4>
+<h4 id="howto"> How to install (It is easy!)</h4>
 
 ##### Step 1: Receive packages
-Your kit will arrive within 2-3 weeks. It'll look like below:
+Your kit will arrive within 2-3 weeks. It will look like below:
 
 <img class="lazy" data-src="img/Image_of_boxes.jpg" />
 
