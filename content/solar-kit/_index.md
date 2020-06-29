@@ -174,13 +174,13 @@ It'll take 3+ years of usage until this system is CO2 net-positive.
 What's the payback period for our solar battery system? Will it save me money?
 
     Payback period for 100W, 540Wh system
-    System cost: $599
+    System cost: $499
 
     Yearly energy creation: 365d * 4.26hsun/d * 100W = 155kWh/y
 
     Yearly value creation: 155kWh/y * 15c/kWh = $24/y energy created
 
-    100W system payback period: $599 / $24 = 25 years until payback
+    100W system payback period: $499 / $24 = 21 years until payback
 
 In San Francisco, the payback is 10 years. The further south you are, or the more expensive energy is in your area, the shorter it'll be. This system will not save you money until after that, and even then is definitely not a "money-saver". It will however be more valuable in the event of backup generator needs, at camping/outdoors, and of course it's just generally cool to be independent from the grid and make your own renewable energy.
 
