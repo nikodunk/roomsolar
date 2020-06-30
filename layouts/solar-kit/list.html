@@ -125,31 +125,6 @@
           $499.00 Self-Install Solar Kit
         </h5>
         <div id="paypal-button-container"></div>
-        <script src="https://www.paypal.com/sdk/js?client-id=Aek20dmP7ykbg6t11hEoDEzDDKo2zmjiD2RIfFVKQ13ByER61zlt7albq8NnOEmHzWT0LhyYqWGhUQdT&currency=USD" data-sdk-integration-source="button-factory"></script>
-        <script>
-          paypal.Buttons({
-              style: {
-                  shape: 'rect',
-                  color: 'blue',
-                  layout: 'vertical',
-                  label: 'paypal',
-              },
-              createOrder: function(data, actions) {
-                  return actions.order.create({
-                      purchase_units: [{
-                          amount: {
-                              value: '499'
-                          }
-                      }]
-                  });
-              },
-              onApprove: function(data, actions) {
-                  return actions.order.capture().then(function(details) {
-                      alert('Transaction completed by ' + details.payer.name.given_name + '!');
-                  });
-              }
-          }).render('#paypal-button-container');
-        </script>
         <!-- <div
         id="buy"
         class="btn btn-success shadows"
@@ -242,7 +217,55 @@
         <h5>
           $499.00 Self-Install Solar Kit
         </h5>
-        <div
+        <div id="paypal-button-container2"></div>
+        <script src="https://www.paypal.com/sdk/js?client-id=Aek20dmP7ykbg6t11hEoDEzDDKo2zmjiD2RIfFVKQ13ByER61zlt7albq8NnOEmHzWT0LhyYqWGhUQdT&currency=USD" data-sdk-integration-source="button-factory"></script>
+        <script>
+          paypal.Buttons({
+              style: {
+                  shape: 'rect',
+                  color: 'blue',
+                  layout: 'vertical',
+                  label: 'paypal',
+              },
+              createOrder: function(data, actions) {
+                  return actions.order.create({
+                      purchase_units: [{
+                          amount: {
+                              value: '499'
+                          }
+                      }]
+                  });
+              },
+              onApprove: function(data, actions) {
+                  return actions.order.capture().then(function(details) {
+                      alert('Transaction completed by ' + details.payer.name.given_name + '!');
+                  });
+              }
+          }).render('#paypal-button-container');
+          paypal.Buttons({
+              style: {
+                  shape: 'rect',
+                  color: 'blue',
+                  layout: 'vertical',
+                  label: 'paypal',
+              },
+              createOrder: function(data, actions) {
+                  return actions.order.create({
+                      purchase_units: [{
+                          amount: {
+                              value: '499'
+                          }
+                      }]
+                  });
+              },
+              onApprove: function(data, actions) {
+                  return actions.order.capture().then(function(details) {
+                      alert('Transaction completed by ' + details.payer.name.given_name + '!');
+                  });
+              }
+          }).render('#paypal-button-container2');
+        </script>
+        <!-- <div
         id="buy2"
         class="btn btn-success shadows"
         style="
@@ -255,7 +278,7 @@
         <small>
           🔒 Secure Checkout powered by Stripe
         </small>
-        <br/><br/>
+        <br/><br/> -->
         <div class="card">
           <div class="card-header">
             Ships by July 10. Full money-back guarantee.
@@ -292,69 +315,69 @@
 </div>
 
 <!-- Twitter universal website tag code -->
-<script>
+<!-- <script>
 !function(e,t,n,s,u,a){e.twq||(s=e.twq=function(){s.exe?s.exe.apply(s,arguments):s.queue.push(arguments);
 },s.version='1.1',s.queue=[],u=t.createElement(n),u.async=!0,u.src='//static.ads-twitter.com/uwt.js',
 a=t.getElementsByTagName(n)[0],a.parentNode.insertBefore(u,a))}(window,document,'script');
 // Insert Twitter Pixel ID and Standard Event data below
 twq('init','o3znq');
 // twq('track','PageView');
-</script>
+</script> -->
 <!-- End Twitter universal website tag code -->
 
 <script type="text/javascript">
-  var button = document.getElementById('buy');
-  button.addEventListener(
-    'click',
-    function() {
-      fbq('track', 'InitiateCheckout');
-      twq('track','Purchase', {value: '499.00',currency: 'USD',num_items: '1'});
-      ga('send', 'event', 'Checkout', 'clicked', 'Solar Kit');
-      stripe.redirectToCheckout({
-        lineItems: [
-          // Replace with the ID of your price
-          {price: 'price_1GzP4WLVZVqouPZLVPwtoWr5', quantity: 1}
-        ],
-        mode: 'payment',
-        successUrl: 'https://sunboxlabs.com/thanks',
-        cancelUrl: 'https://sunboxlabs.com/solar-kit',
-        shippingAddressCollection: {
-          allowedCountries: ['US'],
-        }
-      }).then(function (result) {
-        // If `redirectToCheckout` fails due to a browser or network
-        // error, display the localized error message to your customer
-        // using `result.error.message`.
-      });
-    },
-    false
-  );
-  var button2 = document.getElementById('buy2');
-  button2.addEventListener(
-    'click',
-    function() {
-      fbq('track', 'InitiateCheckout');
-      twq('track','Purchase', {value: '499.00',currency: 'USD',num_items: '1'});
-      ga('send', 'event', 'Checkout', 'clicked', 'Solar Kit');
-      stripe.redirectToCheckout({
-        lineItems: [
-          // Replace with the ID of your price
-          {price: 'price_1GzP4WLVZVqouPZLVPwtoWr5', quantity: 1}
-        ],
-        mode: 'payment',
-        successUrl: 'https://sunboxlabs.com/thanks',
-        cancelUrl: 'https://sunboxlabs.com/solar-kit',
-        shippingAddressCollection: {
-          allowedCountries: ['US'],
-        }
-      }).then(function (result) {
-        // If `redirectToCheckout` fails due to a browser or network
-        // error, display the localized error message to your customer
-        // using `result.error.message`.
-      });
-    },
-    false
-  );
+  // var button = document.getElementById('buy');
+  // button.addEventListener(
+  //   'click',
+  //   function() {
+  //     fbq('track', 'InitiateCheckout');
+  //     twq('track','Purchase', {value: '499.00',currency: 'USD',num_items: '1'});
+  //     ga('send', 'event', 'Checkout', 'clicked', 'Solar Kit');
+  //     stripe.redirectToCheckout({
+  //       lineItems: [
+  //         // Replace with the ID of your price
+  //         {price: 'price_1GzP4WLVZVqouPZLVPwtoWr5', quantity: 1}
+  //       ],
+  //       mode: 'payment',
+  //       successUrl: 'https://sunboxlabs.com/thanks',
+  //       cancelUrl: 'https://sunboxlabs.com/solar-kit',
+  //       shippingAddressCollection: {
+  //         allowedCountries: ['US'],
+  //       }
+  //     }).then(function (result) {
+  //       // If `redirectToCheckout` fails due to a browser or network
+  //       // error, display the localized error message to your customer
+  //       // using `result.error.message`.
+  //     });
+  //   },
+  //   false
+  // );
+  // var button2 = document.getElementById('buy2');
+  // button2.addEventListener(
+  //   'click',
+  //   function() {
+  //     fbq('track', 'InitiateCheckout');
+  //     twq('track','Purchase', {value: '499.00',currency: 'USD',num_items: '1'});
+  //     ga('send', 'event', 'Checkout', 'clicked', 'Solar Kit');
+  //     stripe.redirectToCheckout({
+  //       lineItems: [
+  //         // Replace with the ID of your price
+  //         {price: 'price_1GzP4WLVZVqouPZLVPwtoWr5', quantity: 1}
+  //       ],
+  //       mode: 'payment',
+  //       successUrl: 'https://sunboxlabs.com/thanks',
+  //       cancelUrl: 'https://sunboxlabs.com/solar-kit',
+  //       shippingAddressCollection: {
+  //         allowedCountries: ['US'],
+  //       }
+  //     }).then(function (result) {
+  //       // If `redirectToCheckout` fails due to a browser or network
+  //       // error, display the localized error message to your customer
+  //       // using `result.error.message`.
+  //     });
+  //   },
+  //   false
+  // );
   var lazyLoadInstance = new LazyLoad({
     elements_selector: ".lazy"
   });
