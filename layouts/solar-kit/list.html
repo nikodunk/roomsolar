@@ -296,7 +296,7 @@ twq('init','o3znq');
     'click',
     function() {
       fbq('track', 'InitiateCheckout');
-      twq('track','Purchase', {value: '499.00',currency: 'USD',num_items: '1'});
+      // twq('track','Purchase', {value: '499.00',currency: 'USD',num_items: '1'});
       ga('send', 'event', 'Checkout', 'clicked', 'Solar Kit');
       stripe.redirectToCheckout({
         lineItems: [
@@ -322,7 +322,7 @@ twq('init','o3znq');
     'click',
     function() {
       fbq('track', 'InitiateCheckout');
-      twq('track','Purchase', {value: '499.00',currency: 'USD',num_items: '1'});
+      // twq('track','Purchase', {value: '499.00',currency: 'USD',num_items: '1'});
       ga('send', 'event', 'Checkout', 'clicked', 'Solar Kit');
       stripe.redirectToCheckout({
         lineItems: [

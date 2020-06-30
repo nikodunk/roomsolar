@@ -575,7 +575,7 @@ Size/Weight: 10.24*6.7*6.82in / 5.5kg (12.13 lb)
     'click',
     function() {
       fbq('track', 'InitiateCheckout');
-      twq('track','Purchase', {value: '499.00',currency: 'USD',num_items: '1'});
+      
       ga('send', 'event', 'Checkout', 'clicked', 'Solar Kit');
       stripe.redirectToCheckout({
         lineItems: [
@@ -601,7 +601,7 @@ Size/Weight: 10.24*6.7*6.82in / 5.5kg (12.13 lb)
     'click',
     function() {
       fbq('track', 'InitiateCheckout');
-      twq('track','Purchase', {value: '499.00',currency: 'USD',num_items: '1'});
+      
       ga('send', 'event', 'Checkout', 'clicked', 'Solar Kit');
       stripe.redirectToCheckout({
         lineItems: [
