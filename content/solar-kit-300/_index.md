@@ -10,8 +10,107 @@ comments: true
 aliases: [/solar-xantrex-kit-apartment/, /kit/]
 ---
 
-----
 
+#### The problem
+
+Apartment renters need the landlord’s permission to install anything on their rooftops. This makes installing solar difficult for people who rent. Because most of the world lives in urbanized areas where renting is common, I think this is a problem standing in the way of solar adoption.
+
+<img class="lazy" data-src="img/PROBLEM.png" />
+
+An additional speed bump is the complexity of installing solar: regulation around net-metering. Grid-tied systems. Installation permits (even if you do own your property). Getting quotes from different installers. Solar financing. All complex processes inherited from the construction industry which slow down mass private adoption of renewables.
+
+We attempt to bypass both these problems by building a standalone solar power plant on for windowsill, rooftop or garden with off-the-shelf parts, and discuss the pros and cons of this approach to solar.
+
+
+-----
+####  A possible solution
+
+A windowsill solar system we install ourselves solves both problems at once: Renters don’t need permission from their landlords to place things on their windowsill and rooftops if it’s not altering the building, and it’s a one-click, direct purchase with no regulation as long as it’s not tied to the grid (which this one is designed not to be). Two birds with one stone. This makes the solar buying process more like buying a consumer electronic.
+
+<img class="lazy" data-src="img/press_icons.png" />
+
+Our mission is to make purchasing solar/storage as easy as purchasing any other consumer electronic, as we believe in a **bottom-up approach**: once renewable energy does not require a professional it will spread as rapidly as other consumer electronics like satellite dishes and window AC units, etc.
+
+<img class="lazy" data-src="img/Vision.jpg" alt="Satellite Photo by Paweł Czerwiński | Air Conditioner Photo by Chromatograph" />
+<p style="margin-left: 10px; text-align: center"><small>Solar as a modular consumer electronic - like satellite dishes and air conditioning? (Satellite Photo by Paweł Czerwiński | Air Conditioner Photo by Chromatograph)</small></p>
+
+What if decentralized electric generation could be added room by room to a household (like window A/C units)?
+
+If we look to the car, the smartphone, the window A/C unit — these devices spread like wildfire across the globe because they were off-the-shelf products that required no configuration but great benefits. Identical appliances were churned out at an industrial scale for a global audience. They were “plug n play”. Plug n play solar has been around for a while, but has never taken off (probably because behind-the-meter power is still sketchy and poorly understood). The potential for plug n play solar is huge — it could mean cheap, zero-configuration solar energy spreading to consumers at the pace of the smartphone, the car or air-conditioning.
+
+
+------
+
+
+<div class="row">
+    <div class="col-12 mt-5">
+      <h4>How it works:</h4>
+      <img data-src="img/header2.jpg" class="lazy">
+      <img data-src="img/header3.jpg" class="lazy">
+    </div>
+    <div class="col-12 mt-5">
+      <h4>Great for: Off-Grid Apartments & Condos, Power Outage Backup, Backyard or Balcony installation, RVs, Camping, Boating, Van-Living, Tiny houses and more.</h4>
+      <img data-src="img/where_to_put_panel.jpg" class="lazy">
+      <img data-src="img/where_to_put_panel_2.jpg" class="lazy">
+    </div>
+    <hr/>
+    <div class="col-12 mt-5">
+      <h4>Power anything up to 300W:</h4>
+      <img data-src="img/what_will_it_run_2.jpg" class="lazy">
+      <img data-src="img/what_will_it_run.jpg" class="lazy">
+      <p>Questions about whether it can run your device? Reach out!</p>
+    </div>
+</div>
+<br/><br/>
+<hr/>
+
+<div class="row">
+    <div class="col-12">
+      <h4>Features:</h4>
+    </div>
+    <div class="col-6 center">
+      <img class="lazy" data-src="img/benefits1.png" class="icon" />
+      <h4>Easy<br/>Install.</h4>
+      <p>Electrician-free. Permit-free. Screwdriver-free.</p>
+    </div>
+    <div class="col-6 center">
+      <img class="lazy" data-src="img/benefits2.png" class="icon" />
+      <h4>Apartment<br/>Compatible.</h4>
+      <p>Moving? Take it with you. Roof damage? Never.</p>
+    </div>
+    <div class="col-6 center">
+      <img class="lazy" data-src="img/benefits3.png" class="icon" />
+      <h4>Backup.</h4>
+      <p>In Wildfires. Hurricanes.  Blackouts. Reliable, fuel-free power.</p>
+    </div>
+    <div class="col-6 center">
+      <img class="lazy" data-src="img/benefits4.png" class="icon" />
+      <h4>Outdoors.</h4>
+      <p>Great portable system  for camping & outdoors.  Clean. No Noise. No trace.</p>
+    </div>
+    <div class="col-6 center">
+      <img class="lazy" data-src="img/benefits5.png" class="icon" />
+      <h4>Live in the Future.</h4>
+      <p>Make your own energy. Be independent.</p>
+    </div>
+    <div class="col-6 center">
+      <img class="lazy" data-src="img/benefits6.png" class="icon" />
+      <h4>Running cost?</h4>
+      <p>Nope. It <i>generates</i>  electricity worth $25 a year.</p>
+    </div>
+    <div class="col-6 center">
+      <img class="lazy" data-src="img/benefits7.png" class="icon" />
+      <h4>18650 Cells</h4>
+      <p>Same lithium battery type used by Tesla. 340Wh of them.</p>
+    </div>
+    <div class="col-6 center">
+      <img class="lazy" data-src="img/benefits8.png" class="icon" />
+      <h4>Power</h4>
+      <p>Run a mini-fridge. TV. Laptop. Lighting. Phone.</p>
+    </div>
+  </div>
+
+----
 <h4 id="howto"> How to install (It is easy!)</h4>
 
 ##### Step 1: Receive packages
@@ -42,7 +141,6 @@ We then pass the cables through to the window inside...
 
 -----
 
-<img class="lazy" data-src="img/press_icons.png" />
 
 ### Use Cases
 
@@ -95,33 +193,6 @@ Due to popular demand, we have decided to offer **mobile apartment solar kits** 
 
 * For this initial run, we are taking a very small margin (under $100).
 * Additionally, we will offer with every sale a 1-on-1 personal installation session over Zoom with Niko, the founder of Sunboxlabs.
-
------
-#### The problem
-
-Apartment renters need the landlord’s permission to install anything on their rooftops. This makes installing solar difficult for people who rent. Because most of the world lives in urbanized areas where renting is common, I think this is a problem standing in the way of solar adoption.
-
-<img class="lazy" data-src="img/PROBLEM.png" />
-
-An additional speed bump is the complexity of installing solar: regulation around net-metering. Grid-tied systems. Installation permits (even if you do own your property). Getting quotes from different installers. Solar financing. All complex processes inherited from the construction industry which slow down mass private adoption of renewables.
-
-We attempt to bypass both these problems by building a standalone solar power plant on for windowsill, rooftop or garden with off-the-shelf parts, and discuss the pros and cons of this approach to solar.
-
-
------
-####  A possible solution
-
-A windowsill solar system we install ourselves solves both problems at once: Renters don’t need permission from their landlords to place things on their windowsill and rooftops if it’s not altering the building, and it’s a one-click, direct purchase with no regulation as long as it’s not tied to the grid (which this one is designed not to be). Two birds with one stone. This makes the solar buying process more like buying a consumer electronic.
-
-Our mission is to make purchasing solar/storage as easy as purchasing any other consumer electronic, as we believe in a **bottom-up approach**: once renewable energy does not require a professional it will spread as rapidly as other consumer electronics like satellite dishes and window AC units, etc.
-
-<img class="lazy" data-src="img/Vision.jpg" alt="Satellite Photo by Paweł Czerwiński | Air Conditioner Photo by Chromatograph" />
-<p style="margin-left: 10px; text-align: center"><small>Solar as a modular consumer electronic - like satellite dishes and air conditioning? (Satellite Photo by Paweł Czerwiński | Air Conditioner Photo by Chromatograph)</small></p>
-
-What if decentralized electric generation could be added room by room to a household (like window A/C units)?
-
-If we look to the car, the smartphone, the window A/C unit — these devices spread like wildfire across the globe because they were off-the-shelf products that required no configuration but great benefits. Identical appliances were churned out at an industrial scale for a global audience. They were “plug n play”. Plug n play solar has been around for a while, but has never taken off (probably because behind-the-meter power is still sketchy and poorly understood). The potential for plug n play solar is huge — it could mean cheap, zero-configuration solar energy spreading to consumers at the pace of the smartphone, the car or air-conditioning.
-
 
 -----
 #### The System's Components
