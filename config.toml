@@ -60,6 +60,11 @@ googleAnalytics = "UA-103591436-1"
     url = "/contact"
 
 [[menu.main]]
-    name = "Buy A Kit"
+    name = "500W Solar Kit"
     identifier = "buy"
     url = "/solar-kit"
+
+[[menu.main]]
+    name = "300W Solar Kit"
+    identifier = "buy300"
+    url = "/solar-kit-300"
