@@ -111,6 +111,7 @@ If we look to the car, the smartphone, the window A/C unit — these devices spr
   </div>
 
 ----
+
 <h4 id="howto"> How to install (It is easy!)</h4>
 
 ##### Step 1: Receive packages
