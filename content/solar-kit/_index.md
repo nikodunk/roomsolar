@@ -115,12 +115,14 @@ If we look to the car, the smartphone, the window A/C unit — these devices spr
 
 <h4 id="howto"> How to install (It is easy!)</h4>
 
-##### Step 1: Receive packages
+##### Step 1: Receive packages & unbox
 Your kit will arrive within 2-3 weeks. It will look like below:
 
 <img class="lazy" data-src="img/ASSEMBLY1.jpg" />
 
 <img class="lazy" data-src="img/ASSEMBLY2.jpg" />
+
+<img class="lazy" data-src="img/ASSEMBLY3.jpg" />
 
 ##### Step 2: Zip-tie panels in place
 
@@ -177,7 +179,7 @@ Be it burning man, music **festivals**, or a weekend getaway – you can run sp
 Make **clean, off-grid power** in your garden or on your apartment rooftop (south-facing, slightly slanted or flat surfaces strongly with some hours of direct sunshine preferred). The cable should be able to run indoors, or you can provide power to your greenhouse, etc.
 If our initial run is successful, will offer expansions for you to upgrade to a full household-sized solar system and storage solution to take your home completely off-grid.
 
-<img class="lazy" data-src="/img/finished3.jpg" />
+<img class="lazy" data-src="/img/FINAL.jpg" />
 
 -----
 <h4 id="shipping">Shipping & Order Details</h4>
