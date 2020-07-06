@@ -118,7 +118,9 @@ If we look to the car, the smartphone, the window A/C unit — these devices spr
 ##### Step 1: Receive packages
 Your kit will arrive within 2-3 weeks. It will look like below:
 
-<img class="lazy" data-src="img/Image_of_boxes.jpg" />
+<img class="lazy" data-src="img/image_of_boxes.jpg" />
+
+<img class="lazy" data-src="img/image_of_boxes2.jpg" />
 
 ##### Step 2: Zip-tie panels in place
 

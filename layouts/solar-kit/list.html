@@ -21,8 +21,6 @@
 <!-- End Facebook Pixel Code -->
 
 <script src="https://cdn.jsdelivr.net/npm/vanilla-lazyload@16.1.0/dist/lazyload.min.js"></script>
-<script src="https://js.stripe.com/v3/"></script>
-<script>var stripe = Stripe('pk_live_8yXo9Oom2JQnurwuoUgL4nw9')</script>
 
   <div class="row" id="top">
     <div class="col-12 col-md-8" id="slider">
@@ -114,8 +112,9 @@
         <h5>
           <span style="font-size: 1rem;"><s>$699</s></span> $499 <span style="font-size: 1rem; font-weight: 300">Pre-Order Price (2 left)</span>
         </h5>
-        <div
+        <a
         id="buy"
+        href="https://checkout.square.site/buy/LLOXZNFJHRFT3MDW6K24OWUF"
         class="btn btn-success shadows"
         style="
           font-size: 18px;
@@ -124,9 +123,9 @@
           width: 100%;
           font-weight: 600">
           Order Now 〉
-        </div>
+        </a>
         <small>
-          🔒 Secure Checkout powered by Stripe
+          🔒 Secure Checkout powered by Square
         </small>
         <br/><br/>
         <h5>
@@ -165,8 +164,9 @@
         <h5>
           <span style="font-size: 1rem;"><s>$699</s></span> $499 <span style="font-size: 1rem; font-weight: 300">Pre-Order Price (2 left)</span>
         </h5>
-        <div
+        <a
         id="buy2"
+        href="https://checkout.square.site/buy/LLOXZNFJHRFT3MDW6K24OWUF"
         class="btn btn-success shadows"
         style="
           font-size: 18px;
@@ -175,9 +175,9 @@
           width: 100%;
           font-weight: 600">
           Order Now 〉
-        </div>
+        </a>
         <small>
-          🔒 Secure Checkout powered by Stripe
+          🔒 Secure Checkout powered by Square
         </small>
         <br/><br/>
         <h5>
@@ -240,22 +240,6 @@ twq('init','o3znq');
       fbq('track', 'InitiateCheckout');
       // twq('track','Purchase', {value: '499.00',currency: 'USD',num_items: '1'});
       ga('send', 'event', 'Checkout', 'clicked', 'Solar Kit');
-      stripe.redirectToCheckout({
-        lineItems: [
-          // Replace with the ID of your price
-          {price: 'price_1GzP4WLVZVqouPZLVPwtoWr5', quantity: 1}
-        ],
-        mode: 'payment',
-        successUrl: 'https://sunboxlabs.com/thanks',
-        cancelUrl: 'https://sunboxlabs.com/solar-kit',
-        shippingAddressCollection: {
-          allowedCountries: ['US'],
-        }
-      }).then(function (result) {
-        // If `redirectToCheckout` fails due to a browser or network
-        // error, display the localized error message to your customer
-        // using `result.error.message`.
-      });
     },
     false
   );
@@ -266,22 +250,6 @@ twq('init','o3znq');
       fbq('track', 'InitiateCheckout');
       // twq('track','Purchase', {value: '499.00',currency: 'USD',num_items: '1'});
       ga('send', 'event', 'Checkout', 'clicked', 'Solar Kit');
-      stripe.redirectToCheckout({
-        lineItems: [
-          // Replace with the ID of your price
-          {price: 'price_1GzP4WLVZVqouPZLVPwtoWr5', quantity: 1}
-        ],
-        mode: 'payment',
-        successUrl: 'https://sunboxlabs.com/thanks',
-        cancelUrl: 'https://sunboxlabs.com/solar-kit',
-        shippingAddressCollection: {
-          allowedCountries: ['US'],
-        }
-      }).then(function (result) {
-        // If `redirectToCheckout` fails due to a browser or network
-        // error, display the localized error message to your customer
-        // using `result.error.message`.
-      });
     },
     false
   );
