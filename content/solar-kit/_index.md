@@ -31,7 +31,7 @@ A windowsill solar system we install ourselves solves both problems at once: Ren
 
 Our mission is to make purchasing solar/storage as easy as purchasing any other consumer electronic, as we believe in a **bottom-up approach**: once renewable energy does not require a professional it will spread as rapidly as other consumer electronics like satellite dishes and window AC units, etc.
 
-<img class="lazy" data-src="img/Vision.jpg" alt="Satellite Photo by Paweł Czerwiński | Air Conditioner Photo by Chromatograph" />
+<img class="lazy" data-src="img/SOLUTION.jpg" alt="Satellite Photo by Paweł Czerwiński | Air Conditioner Photo by Chromatograph" />
 <p style="margin-left: 10px; text-align: center"><small>Solar as a modular consumer electronic - like satellite dishes and air conditioning? (Satellite Photo by Paweł Czerwiński | Air Conditioner Photo by Chromatograph)</small></p>
 
 What if decentralized electric generation could be added room by room to a household (like window A/C units)?
@@ -204,7 +204,7 @@ Be it burning man, music **festivals**, or a weekend getaway – you can run sp
 Make **clean, off-grid power** in your garden or on your apartment rooftop (south-facing, slightly slanted or flat surfaces strongly with some hours of direct sunshine preferred). The cable should be able to run indoors, or you can provide power to your greenhouse, etc.
 If our initial run is successful, will offer expansions for you to upgrade to a full household-sized solar system and storage solution to take your home completely off-grid.
 
-<img class="lazy" data-src="/img/FINAL.jpg" />
+<img class="lazy" data-src="img/FINAL.jpg" />
 
 -----
 <h4 id="shipping">Shipping & Order Details</h4>
@@ -238,7 +238,6 @@ Personalized Zoom session with sunboxlabs founder for installation help.
 Money-back guarantee.
 
 <img class="lazy" data-src="img/components.jpg" />
-
 
 
 -----
