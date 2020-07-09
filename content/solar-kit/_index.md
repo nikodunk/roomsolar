@@ -127,14 +127,15 @@ Unpack the boxes:
 <img class="lazy" data-src="img/ASSEMBLY3.jpg" />
 
 
-##### Step 2: Zip-tie panels in place
-
+##### Step 2: Position the panels.
 
 Place the panel on the rooftop, or in your back yard, or wherever you want it to go in the sunshine.
 
 <img class="lazy" data-src="img/ASSEMBLY3-1.jpg" />
 
 <img class="lazy" data-src="img/ASSEMBLY4.jpg" />
+
+##### Step 2: Connect the panels and zip-tie in place (zipties included)
 
 Assembly is simple – zip-tie to the panels anywhere in your garden, on your rooftop, to your balcony, etc. We zip-tie them so that strong winds don't blow them away.
 
