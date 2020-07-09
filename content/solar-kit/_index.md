@@ -120,18 +120,33 @@ Your kit will arrive within 2-3 weeks. It will look like below:
 
 <img class="lazy" data-src="img/ASSEMBLY1.jpg" />
 
+Unpack the boxes:
+
 <img class="lazy" data-src="img/ASSEMBLY2.jpg" />
 
 <img class="lazy" data-src="img/ASSEMBLY3.jpg" />
 
+
 ##### Step 2: Zip-tie panels in place
+
+
+Place the panel on the rooftop, or in your back yard, or wherever you want it to go in the sunshine.
+
+<img class="lazy" data-src="img/ASSEMBLY3-1.jpg" />
+
+<img class="lazy" data-src="img/ASSEMBLY4.jpg" />
 
 Assembly is simple – zip-tie to the panels anywhere in your garden, on your rooftop, to your balcony, etc. We zip-tie them so that strong winds don't blow them away.
 
 <img class="lazy" data-src="img/ASSEMBLY4-1.jpg" />
 
-<img class="lazy" data-src="img/ASSEMBLY4.jpg" />
+Connect the MC4 connectors to the 20ft connector cable that's included. The MC4 connectors are dumb-ass proof, so only the right side will connect with the right side of positive.
 
+<img class="lazy" data-src="img/ASSEMBLY4-2.jpg" />
+
+Your panel should now look like this – with the cables leading to wherever your battery generator is – in our case, down the back of the building.
+
+<img class="lazy" data-src="img/ASSEMBLY5.jpg" />
 
 ##### Step 3: Run cords to battery indoors
 
@@ -139,9 +154,19 @@ We then pass the cables through to the window inside...
 
 <img class="lazy" data-src="img/ASSEMBLY6.jpg" />
 
-##### Step 4: That's it – start charging. Energy Independence!
+and plug them into the included 2-to-1 adapter...
 
-... and plug it into the inverter indoors. Close the window on the (thick) wires and you're good to go. We shall be offering a window transmission system soon, too.
+<img class="lazy" data-src="img/ASSEMBLY7.jpg" />
+
+##### Step 4: That's it – plug in and start charging. Energy Independence!
+
+...and plug that into our battery.
+<img class="lazy" data-src="img/ASSEMBLY8.jpg" />
+
+Close the window on the (thick) wires and you're good to go. We shall be offering a window transmission system soon, too. That's it! Plug in whatever you want to power (up to 500W) – and you're done!
+
+<img class="lazy" data-src="img/ASSEMBLY9.jpg" />
+
 
 <img class="lazy" data-src="img/image_of_inside.jpg" />
 
