@@ -314,10 +314,14 @@ Here are our main suggestions but you can get creative! Let the sunlight inspire
 * Tiny houses
 
 
-#### 5) Can I charge this panel off my car?
+#### 5) Can I charge the battery off my car?
+
+Yes you can! 12V DC in is supported, and an adapter is included in the box.
 
 
-#### Full Tech Specs
+---------
+
+### Full Tech Specs
 
 Panel:
 

@@ -1,43 +1,128 @@
 <!-- Begin Footer
 ================================================== -->
-<footer class="footer">
+<!-- Footer -->
+<footer class="footer bg-dark">
     <div class="container">
-        <div class="row">
-          <div id="col-12">
-              <a class="btn btn-primary btn-sm" style="color: white; background-color: rgb(29, 161, 242); border: none" href="https://twitter.com/intent/follow?screen_name=sunboxlabs&amp;tw_p=followbutton">
-                Follow <b>@sunboxlabs</b> on Twitter
-              </a>
-          </div>
+    <div class="row mb-2">
+        <div class="col-12 col-md-8 offset-md-4">
+            <h3 class="mt-4 text-light text-right">Get Updates</h3>
+            <p class="text-light text-right">Sign up for our list and hear about updates to the kits!</p>
+            <div class="row">
+              <div class="col-12 col-md-6"></div>
+              <form class="form-group form-inline col-12 col-md-6" id="electrade-form" >
+                <input type="email" required name="email" placeholder="you@email.com" class="form-control col-7" style="border-radius: 0; border-top-left-radius: 3px; border-bottom-left-radius: 3px;" />
+                <input class="btn btn-block btn-primary form-control col-5" style="border-radius: 0; border-top-right-radius: 3px; border-bottom-right-radius: 3px;" type="submit" value="Get Updates" id="submit-form" />
+              </form>
+            </div>
+
+            <div id="WIP"  style="display: none">
+                <p class="text-light text-right">Submitting...</p>
+            </div>
+
+            <div id="thanks" style="display: none">
+              <h3 class="text-light text-right">Thank you!</h3>
+              <p class="text-light text-right">We'll be in touch shortly.</p>
+            </div>
         </div>
-        <div class="row">
-          <div id="col-12">
-              <br/><br/>
-              <a href="/">
-                Home
-              </a>
-              |
-              <a href="/contact">
-                Contact
-              </a>
-              |
-              <a href="/about">
-                About
-              </a>
-              |
-              <a href="/solar-kit">
-                The Kit
-              </a>
-              <br/><br/>
-          </div>
+      </div>
+
+      <div class="row">
+        <div class="col-lg-6  text-center text-lg-left my-auto">
+          <ul class="list-inline mb-2">
+            <li class="list-inline-item">
+                <a href="/">Home</a>
+            </li>
+            <li class="list-inline-item">&sdot;</li>
+            <li class="list-inline-item">
+              <a href="/about">About</a>
+            </li>
+            <li class="list-inline-item">&sdot;</li>
+          </ul>
+          <p class="text-muted small mb-4 mb-lg-0">&copy; sunboxlabs 2020. All Rights Reserved.</p>
         </div>
-        <div class="row">
-          <div class="col-12">
-              <p>
-                &copy; Copyright {{ .Site.Copyright }}
-              </p>
-          </div>
+        <div class="col-lg-6 text-center text-lg-right my-auto">
+          <ul class="list-inline mb-0">
+            <li class="list-inline-item mr-3">
+              <a style="text-decoration: none" href="https://www.facebook.com/sunboxlabs/">
+                <!-- Facebook -->
+                <span class="icon-social-facebook"></span>
+              </a>
+            </li>
+            <li class="list-inline-item mr-3">
+              <a style="text-decoration: none" href="https://twitter.com/sunboxlabs">
+                <!-- Twitter -->
+                <span class="icon-social-twitter"></span>
+              </a>
+            </li>
+            <!-- <li class="list-inline-item">
+              <a style="text-decoration: none" href="https://medium.com/@electrade_electric_insurance">
+                <span style="font-family: serif"><b>M</b></span>
+              </a>
+            </li> -->
+          </ul>
         </div>
+      </div>
     </div>
-</footer>
-<!-- End Footer
-================================================== -->
+  </footer>
+
+  <script>
+      var $form = $('form#electrade-form')
+      var url = 'https://script.google.com/macros/s/AKfycbwRbZS37yjD4W-qV8f8nFxlVFcuS-D3eBjEQomLZHA6TkXkoMg/exec'
+      $.fn.serializeObject = function()
+      {
+        var o = {};
+        var a = this.serializeArray();
+        $.each(a, function() {
+            if (o[this.name]) {
+                if (!o[this.name].push) {
+                    o[this.name] = [o[this.name]];
+                }
+                o[this.name].push(this.value || '');
+            } else {
+                o[this.name] = this.value || '';
+            }
+        });
+        return o;
+      };
+
+
+      // Example starter JavaScript for disabling form submissions if there are invalid fields
+      (function() {
+        'use strict';
+        window.addEventListener('load', function() {
+          // Loop over them and prevent submission
+          var validation = Array.prototype.filter.call($form, function(form) {
+            form.addEventListener('submit', function(event) {
+              console.log('working')
+              $("#electrade-form").hide();
+              $("#WIP").show();
+              if (form.checkValidity() === false) {
+                event.preventDefault();
+                event.stopPropagation();
+              }
+              else{
+                  event.preventDefault();
+                  var jqxhr = $.ajax({
+                    url: url,
+                    method: "GET",
+                    dataType: "json",
+                    data: $form.serializeObject(),
+                    success: function(result){ $("#WIP").hide(); $("#thanks").show() }
+                  })
+              }
+              form.classList.add('was-validated');
+            }, false);
+          });
+        }, false);
+      })();
+    </script>
+
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
+    <link media="screen" href="https://fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic,700italic" rel="stylesheet" type="text/css">
+
+</body>
+</html>

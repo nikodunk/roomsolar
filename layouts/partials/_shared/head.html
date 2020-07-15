@@ -2,7 +2,12 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 		<link rel="icon" href="./sarah_spinning_sun.png">
-	<title>{{ .Page.Title }} | {{ .Site.Title }}</title>
+		{{ if .Page.Title -}}
+	    <title>{{ .Page.Title }} | sunboxlabs</title>
+	  {{ else }}
+	    <title>500W Portable Solar Backup Generator Kit | sunboxlabs</title>
+	  {{- end }}
+
 	{{ with .Site.Params.meta.description }}<meta name="description" content="{{ . }}">{{ end }}
 	{{ with .Site.Params.meta.keywords }}<meta name="keywords" content="{{ . }}">{{ end }}
 
@@ -27,6 +32,7 @@
   <!--  Non-Essential, But Recommended -->
   <meta property="og:site_name" content="{{ .Params.title }} | sunboxlabs">
   <meta name="twitter:image:alt" content="Find the best off-grid solar + battery kits for all your RV and camping needs.">
+
 
 	{{ partial "_shared/site-schema" . }}
 
