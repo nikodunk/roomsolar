@@ -121,8 +121,8 @@
               <span >RVs</span>
             </div>
             <div style="margin-top: 20px; max-width: 300px">
-              <a href="https://checkout.square.site/buy/LLOXZNFJHRFT3MDW6K24OWUF" class="btn btn-block btn-lg btn-primary">Order Kit Now for $499 ⚡️</a>
-              <p style="font-size: 18px; font-weight: 200"><br/>Free Shipping<br/>1-on-1 remote installation support<br/>Full money-back guarantee<br/>Ships Aug 15 </p>
+              <a id="buy" href="https://checkout.square.site/buy/LLOXZNFJHRFT3MDW6K24OWUF" class="btn btn-block btn-lg btn-primary shadows">☀️ Order Kit Now for $499 〉</a>
+              <p style="font-size: 18px; font-weight: 200"><br/>Free Shipping<br/>1-on-1 remote installation support<br/>Full money-back guarantee<br/>Ships in 3 days </p>
             </div>
           </h1>
 
@@ -211,7 +211,7 @@
           <h2>...but a small solar generator is now as easy as installing a window AC unit.</h2>
           <p class="lead mb-0 p-2">
             <b>Silent, Fuel-Free, Clean & Easy.<br/>
-            <a href="https://checkout.square.site/buy/LLOXZNFJHRFT3MDW6K24OWUF" class="btn btn-primary">Order Now ⚡️</a>
+            <a id="buy2" href="https://checkout.square.site/buy/LLOXZNFJHRFT3MDW6K24OWUF" class="btn btn-primary shadows">☀️ Order Now 〉</a>
           </p>
         </div>
       </div>
@@ -228,7 +228,6 @@
             </div>
             <div class="col-lg-3">
                 <img class="fit-image img-fluid lazy" data-src="kit/img/ASSEMBLY1.jpg" alt="" >
-
 
                 <h3>Fast delivery with UPS. </h3>
                 <p class="lead mb-0">Everything’s included - panel to plug.</p>
@@ -256,7 +255,7 @@
           <h2 class="mb-4">Not ready to buy? Sign up for our list!</h2>
           <form class="form-group form-inline" id="electrade-form" >
             <input type="email" required name="email" placeholder="you@email.com" class="form-control col-5" style="border-radius: 0; border-top-left-radius: 3px; border-bottom-left-radius: 3px;" />
-            <input class="btn btn-block btn-primary form-control col-5" style="border-radius: 0; border-top-right-radius: 3px; border-bottom-right-radius: 3px;" type="submit" value="Get Updates ✉️" id="submit-form" />
+            <input class="btn btn-block btn-primary form-control col-5" style="border-radius: 0; border-top-right-radius: 3px; border-bottom-right-radius: 3px;" type="submit" value="✉️ Get Updates" id="submit-form" />
           </form>
       </div>
 </section>
@@ -603,7 +602,36 @@
       }
     });
   </script>
+  <script type="text/javascript">
+    var button = document.getElementById('buy');
+    button.addEventListener(
+      'click',
+      function() {
+        
+        
+        ga('send', 'event', 'Checkout', 'clicked', 'Solar Kit');
+      },
+      false
+    );
+    var button2 = document.getElementById('buy2');
+    button2.addEventListener(
+      'click',
+      function() {
+        
+        
+        ga('send', 'event', 'Checkout', 'clicked', 'Solar Kit');
+      },
+      false
+    );
+  </script>
 
+  <div style="position: fixed; bottom: 10px; right: 10px">
+    <a href="sms:+19177043031">
+      <div class="shadows btn btn-primary" style="height: 55px; width: 55px; border-radius: 30px; ">
+        <i style="color: white; margin-top: 10px; margin-left: 5px;" class="gg-comment"></i>
+      </div>
+    </a>
+  </div>
 
   </div>
 
@@ -621,7 +649,7 @@
               <div class="col-12 col-md-6"></div>
               <form class="form-group form-inline col-12 col-md-6" id="electrade-form" >
                 <input type="email" required name="email" placeholder="you@email.com" class="form-control col-7" style="border-radius: 0; border-top-left-radius: 3px; border-bottom-left-radius: 3px;" />
-                <input class="btn btn-block btn-primary form-control col-5" style="border-radius: 0; border-top-right-radius: 3px; border-bottom-right-radius: 3px;" type="submit" value="Get Updates" id="submit-form" />
+                <input class="btn btn-block btn-primary form-control col-5" style="border-radius: 0; border-top-right-radius: 3px; border-bottom-right-radius: 3px;" type="submit" value="✉️ Get Updates" id="submit-form" />
               </form>
             </div>
 
