@@ -2,9 +2,69 @@
 <section class="mt-5 mb-5" style="">
       <div class="col-12 col-md-6 offset-md-3">
           <h2 class="mb-4">Not ready to buy? Sign up for our list!</h2>
-          <form class="form-group form-inline" id="electrade-form" >
+          <form class="form-group form-inline" id="electrade-form-learn" >
             <input type="email" required name="email" placeholder="you@email.com" class="form-control col-5" style="border-radius: 0; border-top-left-radius: 3px; border-bottom-left-radius: 3px;" />
             <input class="btn btn-block btn-primary form-control col-5" style="border-radius: 0; border-top-right-radius: 3px; border-bottom-right-radius: 3px;" type="submit" value="✉️ Get Updates" id="submit-form" />
           </form>
       </div>
 </section>
+
+<div id="WIP-learn"  style="display: none">
+    <p class="text-dark text-center">Submitting...</p>
+</div>
+
+<div id="thanks-learn" style="display: none">
+  <h3 class="text-dark text-center">Thank you!</h3>
+</div>
+
+<script>
+    var learnForm = $('form#electrade-form-learn')
+    var url = 'https://script.google.com/macros/s/AKfycbwRbZS37yjD4W-qV8f8nFxlVFcuS-D3eBjEQomLZHA6TkXkoMg/exec'
+    $.fn.serializeObject = function()
+    {
+      var o = {};
+      var a = this.serializeArray();
+      $.each(a, function() {
+          if (o[this.name]) {
+              if (!o[this.name].push) {
+                  o[this.name] = [o[this.name]];
+              }
+              o[this.name].push(this.value || '');
+          } else {
+              o[this.name] = this.value || '';
+          }
+      });
+      return o;
+    };
+
+
+    // Example starter JavaScript for disabling form submissions if there are invalid fields
+    (function() {
+      'use strict';
+      window.addEventListener('load', function() {
+        // Loop over them and prevent submission
+        var validation = Array.prototype.filter.call(learnForm, function(form) {
+          form.addEventListener('submit', function(event) {
+            console.log('working')
+            learnForm.hide();
+            $("#WIP-learn").show();
+            if (form.checkValidity() === false) {
+              event.preventDefault();
+              event.stopPropagation();
+            }
+            else{
+                event.preventDefault();
+                var jqxhr = $.ajax({
+                  url: url,
+                  method: "GET",
+                  dataType: "json",
+                  data: learnForm.serializeObject(),
+                  success: function(result){ $("#WIP-learn").hide(); $("#thanks-learn").show() }
+                })
+            }
+            form.classList.add('was-validated');
+          }, false);
+        });
+      }, false);
+    })();
+  </script>
