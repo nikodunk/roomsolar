@@ -543,7 +543,7 @@
       function() {
         // fbq('track', 'InitiateCheckout');
         // twq('track','Purchase', {value: '499.00',currency: 'USD',num_items: '1'});
-        ga('send', 'event', 'Checkout', 'clicked', 'Solar Kit');
+        gtag('event', 'begin_checkout', {'event_label': 'Buy1 from homepage'});
       },
       false
     );
@@ -553,7 +553,7 @@
       function() {
         // fbq('track', 'InitiateCheckout');
         // twq('track','Purchase', {value: '499.00',currency: 'USD',num_items: '1'});
-        ga('send', 'event', 'Checkout', 'clicked', 'Solar Kit');
+        gtag('event', 'begin_checkout', {'event_label': 'Buy2 from homepage'});
       },
       false
     );
