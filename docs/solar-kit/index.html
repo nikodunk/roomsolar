@@ -686,6 +686,7 @@ Size/Weight: 10.24*6.7*6.82in / 5.5kg (12.13 lb)
          disallowed: [ paypal.FUNDING.CARD ]
        },
       createOrder: function(data, actions) {
+          ga('send', 'event', 'Paypal', 'clicked', 'Solar Kit');
           return actions.order.create({
               purchase_units: [{
                   amount: {
@@ -696,7 +697,7 @@ Size/Weight: 10.24*6.7*6.82in / 5.5kg (12.13 lb)
       },
       onApprove: function(data, actions) {
           return actions.order.capture().then(function(details) {
-              alert('Transaction completed by ' + details.payer.name.given_name + '!');
+              ga('send', 'event', 'Paypal', 'complete', 'Solar Kit');
           });
       }
   }).render('#paypal-button-container');
@@ -712,6 +713,7 @@ Size/Weight: 10.24*6.7*6.82in / 5.5kg (12.13 lb)
          disallowed: [ paypal.FUNDING.CARD ]
        },
       createOrder: function(data, actions) {
+          ga('send', 'event', 'Checkout', 'clicked', 'Solar Kit');
           return actions.order.create({
               purchase_units: [{
                   amount: {
@@ -722,7 +724,7 @@ Size/Weight: 10.24*6.7*6.82in / 5.5kg (12.13 lb)
       },
       onApprove: function(data, actions) {
           return actions.order.capture().then(function(details) {
-              alert('Transaction completed by ' + details.payer.name.given_name + '!');
+              ga('send', 'event', 'Paypal', 'complete', 'Solar Kit');
           });
       }
   }).render('#paypal-button-container2');
