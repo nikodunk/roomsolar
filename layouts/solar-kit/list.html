@@ -212,13 +212,13 @@
   </div>
 
 
-<div style="position: fixed; bottom: 10px; right: 10px">
-  <a href="sms:+19177043031">
-    <div class="shadows" style="height: 55px; width: 55px; border: 1px solid #28a745; border-radius: 30px; background-color: #28a745;">
-      <i style="color: white; margin: 17px" class="gg-comment"></i>
-    </div>
-  </a>
-</div>
+  <div style="position: fixed; bottom: 10px; right: 10px">
+    <a href="sms:+19177043031">
+      <div class="shadows btn btn-primary" style="height: 55px; width: 55px; border-radius: 30px; ">
+        <i style="color: white; margin-top: 10px; margin-left: 5px;" class="gg-comment"></i>
+      </div>
+    </a>
+  </div>
 
 <!-- Twitter universal website tag code -->
 <!-- <script>
@@ -321,4 +321,9 @@ twq('init','o3znq');
 
 {{ define "footer" }}
 {{- partial "_shared/footer.html" . -}}
+
+    <style>
+    img{
+      max-width: 100% !important;
+    }</style>
 {{end}}

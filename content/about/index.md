@@ -18,7 +18,7 @@ comments: false
                 Air Conditioner Photo by Chromatograph</small>
             </div>
             <hr>
-            <p> I'm Niko, and I usually write <a href="https://nikodunk.github.io" target="_blank">here</a>. Email, Github, Linkedin and other projects are on that personal site. I work on a project called <a href="https://www.electrade.app" taget="_blank">Electrade.app</a> which helps Tesla and EV owners find affordable insurance.</p>
+            <p> I'm Niko, and I usually write <a href="https://nikodunk.com" target="_blank">here</a>. Email, Github, Linkedin and other projects are on that personal site. I work on a project called <a href="https://www.electrade.app" taget="_blank">Electrade.app</a> which helps Tesla and EV owners find affordable insurance.</p>
             <hr>
         </div>            
     </section>

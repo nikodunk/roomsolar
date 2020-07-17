@@ -4,6 +4,8 @@
 
 {{ define "main" }}
 
+
+
     <div class="main-content">
         <!-- Begin Article
         ================================================== -->
@@ -49,7 +51,7 @@
                     <!-- End Featured Image -->
 
                     <!-- Post Content -->
-                    <div class="article-post">
+                    <div class="article-post" style>
                         {{ .Content}}
                     </div>
 
@@ -71,4 +73,7 @@
 {{ define "footer"}}
 
     {{- partial "_shared/footer.html" . -}}
+    <style>img{
+      max-width: 100% !important;
+    }</style>
 {{ end }}
