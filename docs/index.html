@@ -46,17 +46,19 @@
 </script>
 
 
-	
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-103591436-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+		
+		<script>
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
 
-  gtag('config', 'UA-103591436-1');
-</script>
+		ga('create', 'UA-103591436-1', 'auto');
+		ga('send', 'pageview');
+		</script>
+		
 
-<script src="https://code.jquery.com/jquery-3.5.1.min.js" crossorigin="anonymous"></script>
+		<script src="https://code.jquery.com/jquery-3.5.1.min.js" crossorigin="anonymous"></script>
 
 </head>
 
@@ -176,7 +178,6 @@
               <span >Backup</span>
               <span >Power Outages</span>
               <span >Hurricane Season</span>
-              <span >Wildfire Shutoffs</span>
               <span >Camping</span>
               <span >Boats</span>
               <span >Back Yard Solar</span>
@@ -738,7 +739,7 @@
       function() {
         
         
-        gtag('event', 'begin_checkout', {'event_label': 'Buy1 from homepage'});
+        ga('send', 'event', 'Checkout', 'clicked', 'Solar Kit');
       },
       false
     );
@@ -748,7 +749,7 @@
       function() {
         
         
-        gtag('event', 'begin_checkout', {'event_label': 'Buy2 from homepage'});
+        ga('send', 'event', 'Checkout', 'clicked', 'Solar Kit');
       },
       false
     );

@@ -22,7 +22,6 @@
               <span >Backup</span>
               <span >Power Outages</span>
               <span >Hurricane Season</span>
-              <span >Wildfire Shutoffs</span>
               <span >Camping</span>
               <span >Boats</span>
               <span >Back Yard Solar</span>
@@ -543,7 +542,7 @@
       function() {
         // fbq('track', 'InitiateCheckout');
         // twq('track','Purchase', {value: '499.00',currency: 'USD',num_items: '1'});
-        gtag('event', 'begin_checkout', {'event_label': 'Buy1 from homepage'});
+        ga('send', 'event', 'Checkout', 'clicked', 'Solar Kit');
       },
       false
     );
@@ -553,7 +552,7 @@
       function() {
         // fbq('track', 'InitiateCheckout');
         // twq('track','Purchase', {value: '499.00',currency: 'USD',num_items: '1'});
-        gtag('event', 'begin_checkout', {'event_label': 'Buy2 from homepage'});
+        ga('send', 'event', 'Checkout', 'clicked', 'Solar Kit');
       },
       false
     );
