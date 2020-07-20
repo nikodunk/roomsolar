@@ -187,7 +187,9 @@
  </script><noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=682935348800905&ev=PageView&noscript=1"/></noscript>
 
 
-<script src="https://cdn.jsdelivr.net/npm/vanilla-lazyload@16.1.0/dist/lazyload.min.js"></script>
+
+<link media="screen" href="/css/styles.css" rel="stylesheet" type="text/css">
+<link media="screen" href="/css/additional.css" rel="stylesheet" type="text/css">
 
   <div class="row" id="top">
     <div class="col-12 col-md-8" id="slider">
@@ -636,7 +638,7 @@ Size/Weight: 10.24*6.7*6.82in / 5.5kg (12.13 lb)
 
 
   <div style="position: fixed; bottom: 10px; right: 10px">
-    <a href="sms:+19177043031">
+    <a href="mailto:hello@sunboxlabs.com">
       <div class="shadows btn btn-primary" style="height: 55px; width: 55px; border-radius: 30px; ">
         <i style="color: white; margin-top: 10px; margin-left: 5px;" class="gg-comment"></i>
       </div>
@@ -729,6 +731,32 @@ Size/Weight: 10.24*6.7*6.82in / 5.5kg (12.13 lb)
           });
       }
   }).render('#paypal-button-container2');
+</script>
+
+
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    var lazyImages = [].slice.call(document.querySelectorAll("img.lazy"));
+
+    if ("IntersectionObserver" in window) {
+      let lazyImageObserver = new IntersectionObserver(function(entries, observer) {
+        entries.forEach(function(entry) {
+          if (entry.isIntersecting) {
+            let lazyImage = entry.target;
+            lazyImage.src = lazyImage.dataset.src;
+            lazyImage.classList.remove("lazy");
+            lazyImageObserver.unobserve(lazyImage);
+          }
+        });
+      });
+
+      lazyImages.forEach(function(lazyImage) {
+        lazyImageObserver.observe(lazyImage);
+      });
+    } else {
+      
+    }
+  });
 </script>
 
 
