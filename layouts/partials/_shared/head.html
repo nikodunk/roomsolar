@@ -8,22 +8,22 @@
 	    <title>500W Portable Solar Backup Generator Kit | sunboxlabs</title>
 	  {{- end }}
 
-	{{ with .Site.Params.meta.description }}<meta name="description" content="{{ . }}">{{ end }}
+	<meta name="description" content="Sunboxlabs - The best portable solar generator kits for backup or fun.">
 	{{ with .Site.Params.meta.keywords }}<meta name="keywords" content="{{ . }}">{{ end }}
 
 	<!--  Essential META Tags -->
 	{{ if .Params.title -}}
-    <meta property="og:title" content="Sunboxlabs - The best DIY solar + storage kits for apartment, balcony, condos or back garden.">
+    <meta property="og:title" content="Sunboxlabs - Portable solar generator kits for backup or fun.">
   {{ else }}
-    <meta property="og:title" content="{{ .Params.title }} | Sunboxlabs - The best DIY solar + storage kits for apartment, balcony, condos or back garden.">
+    <meta property="og:title" content="{{ .Params.title }} | Sunboxlabs - Portable solar generator kits for backup or fun.">
   {{- end }}
 
-  <meta property="og:description" content="Find the best off-grid solar + battery kits for all your RV and camping needs. | {{ .Summary | plainify | safeHTML }}">
+  <meta property="og:description" content="Sunboxlabs - Portable solar generator kits for backup or fun. | {{ .Summary | plainify | safeHTML }}">
 
   {{ if .Params.image -}}
     <meta property="og:image" content="{{ .Params.image | absURL }}">
   {{ else }}
-    <meta property="og:image" content="https://sunboxlabs.com/solar-kit/img/banner.jpg">
+    <meta property="og:image" content="https://sunboxlabs.com/kit/img/banner.jpg">
   {{- end }}
 
   <meta property="og:url" content="{{ .Permalink }}">
@@ -31,7 +31,7 @@
 
   <!--  Non-Essential, But Recommended -->
   <meta property="og:site_name" content="{{ .Params.title }} | sunboxlabs">
-  <meta name="twitter:image:alt" content="Find the best off-grid solar + battery kits for all your RV and camping needs.">
+  <meta name="twitter:image:alt" content="Sunboxlabs - Portable solar generator kits for backup or fun.">
 
 
 	{{ partial "_shared/site-schema" . }}

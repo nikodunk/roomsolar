@@ -38,7 +38,7 @@ googleAnalytics = "UA-103591436-1"
 
 [[Site.params]]
   title = "sunboxlabs"
-  description ="DIY solar guides and kits"
+  description ="Sunboxlabs - The best portable solar generator kits for backup or fun."
   #mailchimp = "you can provide a mailchimp-link here"
 
 ## Main Menu
