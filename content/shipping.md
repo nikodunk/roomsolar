@@ -8,7 +8,7 @@ comments: true
 
 ### Shipping
 
-We ship via UPS Ground delivery, shipping cost is included in the price you pay at checkout.
+We ship via UPS Ground. Anywhere in the continental United States, shipping cost is included in the price you pay at checkout.
 
 Standard Shipping: 5 - 7 business days after order is processed
 
