@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Returns and warranty"
+title:  "Frequently Asked Questions"
 type: "post"
 comments: true
 ---

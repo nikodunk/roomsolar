@@ -2,6 +2,7 @@
 layout: About
 date:   2019-06-20 08:00:00 -0700
 cost: "$"
+title: "About"
 comments: false
 ---
 
@@ -9,7 +10,6 @@ comments: false
 <div class="main-content">
     <section class="recent-posts">            
         <div class="section-title">                
-            <h3>About</h3>
             <p> This site provides information on how to build your own DIY solar energy + storage kit. If you have a kit you'd like to get featured on the site, please send it in to <a href="mailto:hello@sunboxlabs.com">hello@sunboxlabs.com</a></p>
             <p> The site originally started on a Hackernoon post (see below). The site's goal is to make installing solar as easy and commonplace as installing a satellite dish or a window AC unit.</p>
             <div class="row">

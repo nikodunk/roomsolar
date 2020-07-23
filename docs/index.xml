@@ -12,17 +12,17 @@
     
     
     <item>
-      <title></title>
+      <title>Contact</title>
       <link>https://sunboxlabs.com/contact/</link>
       <pubDate>Sat, 20 Jun 2020 08:00:00 -0700</pubDate>
       
       <guid>https://sunboxlabs.com/contact/</guid>
       <description>
-        Contact Questions? Not sure about something? We would love to hear from you! Please email us at hello@sunboxlabs.com or below:
+        Questions? Not sure about something? We would love to hear from you! Please email us at hello@sunboxlabs.com or below:
 Email Us    
         <image>
           <url></url>
-          <title></title>
+          <title>Contact</title>
           <link></link>
         </image>
       </description>
@@ -61,16 +61,16 @@ Email Us
     </item>
     
     <item>
-      <title></title>
+      <title>About</title>
       <link>https://sunboxlabs.com/about/</link>
       <pubDate>Thu, 20 Jun 2019 08:00:00 -0700</pubDate>
       
       <guid>https://sunboxlabs.com/about/</guid>
       <description>
-        About  This site provides information on how to build your own DIY solar energy + storage kit. If you have a kit you&#39;d like to get featured on the site, please send it in to hello@sunboxlabs.
+        This site provides information on how to build your own DIY solar energy + storage kit. If you have a kit you&#39;d like to get featured on the site, please send it in to hello@sunboxlabs.
         <image>
           <url></url>
-          <title></title>
+          <title>About</title>
           <link></link>
         </image>
       </description>
@@ -189,6 +189,38 @@ Email Us
     </item>
     
     <item>
+      <title>Frequently Asked Questions</title>
+      <link>https://sunboxlabs.com/faq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sunboxlabs.com/faq/</guid>
+      <description>
+        1) How green is it? How green is the 500W solar kit? Compared to a 500W Honda Gas Backup Generator that fire up all over the US when power outages occur – yes.
+        <image>
+          <url></url>
+          <title>Frequently Asked Questions</title>
+          <link></link>
+        </image>
+      </description>
+    </item>
+    
+    <item>
+      <title>Privacy</title>
+      <link>https://sunboxlabs.com/privacy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sunboxlabs.com/privacy/</guid>
+      <description>
+        
+        <image>
+          <url></url>
+          <title>Privacy</title>
+          <link></link>
+        </image>
+      </description>
+    </item>
+    
+    <item>
       <title>Refunds, Returns and Warranty</title>
       <link>https://sunboxlabs.com/returns-and-warranty/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -205,39 +237,7 @@ Email Us
     </item>
     
     <item>
-      <title>Returns and warranty</title>
-      <link>https://sunboxlabs.com/faq/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://sunboxlabs.com/faq/</guid>
-      <description>
-        1) How green is it? How green is the 500W solar kit? Compared to a 500W Honda Gas Backup Generator that fire up all over the US when power outages occur – yes.
-        <image>
-          <url></url>
-          <title>Returns and warranty</title>
-          <link></link>
-        </image>
-      </description>
-    </item>
-    
-    <item>
-      <title>Returns and warranty</title>
-      <link>https://sunboxlabs.com/privacy/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://sunboxlabs.com/privacy/</guid>
-      <description>
-        
-        <image>
-          <url></url>
-          <title>Returns and warranty</title>
-          <link></link>
-        </image>
-      </description>
-    </item>
-    
-    <item>
-      <title>Returns and warranty</title>
+      <title>Shipping</title>
       <link>https://sunboxlabs.com/shipping/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -247,14 +247,14 @@ Email Us
 Standard Shipping: 5 - 7 business days after order is processed
         <image>
           <url></url>
-          <title>Returns and warranty</title>
+          <title>Shipping</title>
           <link></link>
         </image>
       </description>
     </item>
     
     <item>
-      <title>Returns and warranty</title>
+      <title>Terms and Conditions</title>
       <link>https://sunboxlabs.com/terms/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -263,7 +263,7 @@ Standard Shipping: 5 - 7 business days after order is processed
         
         <image>
           <url></url>
-          <title>Returns and warranty</title>
+          <title>Terms and Conditions</title>
           <link></link>
         </image>
       </description>

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Returns and warranty"
+title:  "Terms and Conditions"
 type: "post"
 comments: true
 ---
