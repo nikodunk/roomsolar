@@ -114,7 +114,7 @@
 
     <div class="col-12 col-md-4 mt-md-5">
         <h5>Plug & Play Solar Battery Bundle</h5>
-        <div style="margin-top: 20px; max-width: 300px">
+        <div style="margin-top: 20px;">
           <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top" style="margin-bottom: 0px;">
               <input type="hidden" name="cmd" value="_s-xclick">
               <input type="hidden" name="hosted_button_id" value="KETHE7EKE9WBW">
@@ -151,29 +151,13 @@
         <img class="lazy" data-src="img/header.jpg" />
         <br/>
         <h5>Plug & Play Solar Battery Bundle</h5>
-        <h5>
-          <span style="font-size: 1rem;"><s>$699</s></span> $499 <span style="font-size: 1rem; font-weight: 300">Pre-Order Price (2 left)</span>
-        </h5>
-        <a
-        id="buy2"
-        href="https://checkout.square.site/buy/LLOXZNFJHRFT3MDW6K24OWUF"
-        class="btn btn-success shadows"
-        style="
-          font-size: 18px;
-          padding: 10px;
-          text-align: center;
-          width: 100%;
-          font-weight: 600">
-          Order Now 〉
-        </a>
-        <small>
-          🔒 Secure Checkout powered by Square
-        </small>
-        <br/><br/>
-        <h5>
-          <span style="font-size: 1rem;"><s>$116/mo</s></span> $84/mo<span style="font-size: 1rem; font-weight: 300"> for 6 months (Paypal Credit)</span>
-        </h5>
-        <div id="paypal-button-container2"></div>
+        <div style="margin-top: 20px;">
+          <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top" style="margin-bottom: 0px;">
+              <input type="hidden" name="cmd" value="_s-xclick">
+              <input type="hidden" name="hosted_button_id" value="KETHE7EKE9WBW">
+              <button id="buy2" class="btn btn-block btn-lg btn-primary shadows" type="submit" name="submit">☀️ Buy Now for $499 〉&nbsp;<img src="https://sunboxlabs.com/kit/img/paypal.png" style="height: 12px;" /></button>
+          </form>
+        </div>
         <br/>
         <div class="card">
           <div class="card-header">
@@ -242,66 +226,6 @@ twq('init','o3znq');
     },
     false
   );
-  var lazyLoadInstance = new LazyLoad({
-    elements_selector: ".lazy"
-  });
-</script>
-<script src="https://www.paypal.com/sdk/js?client-id=Aek20dmP7ykbg6t11hEoDEzDDKo2zmjiD2RIfFVKQ13ByER61zlt7albq8NnOEmHzWT0LhyYqWGhUQdT&currency=USD" data-sdk-integration-source="button-factory"></script>
-<script>
-  paypal.Buttons({
-      style: {
-          layout: 'horizontal',
-          shape: 'rect',
-          color: 'blue',
-          label: 'paypal',
-          tagline: false
-      },
-      funding: {
-         disallowed: [ paypal.FUNDING.CARD ]
-       },
-      createOrder: function(data, actions) {
-          ga('send', 'event', 'Paypal', 'clicked', 'Solar Kit');
-          return actions.order.create({
-              purchase_units: [{
-                  amount: {
-                      value: '499'
-                  }
-              }]
-          });
-      },
-      onApprove: function(data, actions) {
-          return actions.order.capture().then(function(details) {
-              ga('send', 'event', 'Paypal', 'complete', 'Solar Kit');
-          });
-      }
-  }).render('#paypal-button-container');
-  paypal.Buttons({
-      style: {
-          layout: 'horizontal',
-          shape: 'rect',
-          color: 'blue',
-          label: 'paypal',
-          tagline: false
-      },
-      funding: {
-         disallowed: [ paypal.FUNDING.CARD ]
-       },
-      createOrder: function(data, actions) {
-          ga('send', 'event', 'Checkout', 'clicked', 'Solar Kit');
-          return actions.order.create({
-              purchase_units: [{
-                  amount: {
-                      value: '499'
-                  }
-              }]
-          });
-      },
-      onApprove: function(data, actions) {
-          return actions.order.capture().then(function(details) {
-              ga('send', 'event', 'Paypal', 'complete', 'Solar Kit');
-          });
-      }
-  }).render('#paypal-button-container2');
 </script>
 
 <!-- to load images async -->
