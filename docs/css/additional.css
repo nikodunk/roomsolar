@@ -168,3 +168,13 @@ left: 0
 #myCarousel .carousel-indicators > li.active img {
     opacity: 0.7;
 }
+
+
+
+td {
+  padding: 5px;
+}
+
+table {
+  margin-bottom: 10px;
+}
