@@ -334,20 +334,15 @@
       <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
         <input type="hidden" name="cmd" value="_s-xclick">
         <input type="hidden" name="hosted_button_id" value="NUYLV26BA63FA">
-        <table>
-          <tr>
-            <td><input type="hidden" name="on0" value="Pick recharge speed">Pick recharge speed</td>
-          </tr>
-          <tr>
-            <td><select name="os0">
-                <option value="1 Solar Panel (battery charged in 3h sun)">1 Solar Panel (battery charged in 3h sun)
-                  $399 USD</option>
-                <option value="No Solar Panel (battery charges only from outlet)">No Solar Panel (battery charges only
-                  from outlet) $259 USD</option>
-              </select> </td>
-          </tr>
-        </table>
+        <input type="hidden" name="on0" value="Pick recharge speed">Pick recharge speed<br />
+        <select name="os0">
+          <option value="1 Solar Panel (battery charged in 3h sun)">1 Solar Panel (battery charged in 3h sun)
+            $399 USD</option>
+          <option value="No Solar Panel (battery charges only from outlet)">No Solar Panel (battery charges only
+            from outlet) $259 USD</option>
+        </select>
         <input type="hidden" name="currency_code" value="USD">
+        <br /><br />
         <button id="buy" class="btn btn-block btn-lg btn-primary shadows" type="submit" name="submit">☀️ Buy now for
           $399 〉&nbsp;<img src="kit/img/paypal.png" style="height: 12px;" />
         </button>
