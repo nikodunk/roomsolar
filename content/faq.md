@@ -7,10 +7,12 @@ comments: true
 
 #### 1) How green is it?
 
-How green is the 500W solar kit? Compared to a 500W Honda Gas Backup Generator that fire up all over the US when power outages occur – yes. You will be emitting zero (and your fuel cost will be zero!).
+How green is the 1000W solar kit? Compared to 1000W Honda Gas Backup Generators – yes. While they fire up all over the US during power outages and at RV parks, you will be emitting zero (and your fuel cost will be zero!). 
+
+For every hour you run this **vs. a gas generator, you reduce your GHG by roughly 4.4lbs every hour** (0.22 gallons/hour @ 1.3bhp/1000W assumed * [20 lbs CO2/gallon](https://www.fueleconomy.gov/feg/contentincludes/co2_inc.htm)), but more importantly you're not emitting Carbon Monoxide (CO), Hydrocarbons or Nitrogen Oxide near your house.
 
 
-Does it have an impact on your CO2 footprint, though? Let's calculate:
+Does it have an impact on your **CO2 footprint vs. the grid**, though? Let's calculate:
 
     Production footprint mono-cristalline PV:
     4200kWhee/kW [1] * 0.1kW = 420kWh embodied energy
