@@ -15,18 +15,18 @@ For every hour you run this **vs. a gas generator, you reduce your GHG by roughl
 Does it have an impact on your **CO2 footprint vs. the grid**, though? Let's calculate:
 
     Production footprint mono-cristalline PV:
-    4200kWhee/kW [1] * 0.1kW = 420kWh embodied energy
+    4200kWhee/kW [1] * 0.4kW = 1,680kWh embodied energy
 
     Production footprint li-ion 18650 battery:
-    321kWhee/kWh [1] * 0.5kWh = 161kWh embodied energy
+    457kWhee/kWh [1] * 1.5kWh = 684kWh embodied energy
 
-    Total Footprint: 581kWh
+    Total Footprint: 2364kWh ([source](https://renew.org.au/renew-magazine/solar-batteries/energy-flows-how-green-is-my-solar/))
 
-    Annual energy production system: 155kWh/y
+    Annual energy production system: 620kWh/y
 
-    Payback period: 581kWh / 155kWh/y = 3.7 year CO2 footprint payback
+    Payback period: 2364kWh / 620kWh/y = 3.8 year CO2 footprint payback
 
-It'll take 3+ years of usage until this system is CO2 net-positive.
+It'll take **3.8 years of usage every day until this whole system is CO2 net-positive vs. not using it.**
 
 
 #### 2) Will this system save me a money?
