@@ -1,168 +1,4 @@
-<head>
-	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-	<link rel="icon" href="./sarah_spinning_sun.png">
-	
-	<title>Portable Solar Backup Generator Kits | sunboxlabs</title>
-
-	<meta name="description"
-		content="Sunboxlabs - The Portable Solar Generator Kits for Backup or Fun. Now $499 w/ Free Shipping.">
-	
-
-	
-	
-	<meta property="og:title"
-		content=" | Sunboxlabs - Portable Solar Generator Kits for Backup or Fun. Now $499 w/ Free Shipping.">
-
-	<meta property="og:description"
-		content="Sunboxlabs - Portable Solar Generator Kits for Backup or Fun. Now $499 w/ Free Shipping. | ">
-
-	
-	<meta property="og:image" content="https://sunboxlabs.com/kit/img/header.jpg">
-
-	<meta property="og:url" content="">
-	<meta name="twitter:card" content="summary_large_image">
-
-	
-	<meta property="og:site_name" content=" | sunboxlabs">
-	<meta name="twitter:image:alt"
-		content="Sunboxlabs - Portable Solar Generator Kits for Backup or Fun. Now $499 w/ Free Shipping.">
-
-
-	<script type="application/ld+json">
-{
-  "@context": "http://schema.org",
-  "@type": "NewsArticle",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": ""
-  },
-  "headline": "",
-  
-  "datePublished": "",
-  
-  
-  
-  "description": ""
-}
-</script>
-
-
-	
-	<script>
-		(function (i, s, o, g, r, a, m) {
-			i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
-				(i[r].q = i[r].q || []).push(arguments)
-			}, i[r].l = 1 * new Date(); a = s.createElement(o),
-				m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
-		})(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
-
-		ga('create', 'UA-103591436-1', 'auto');
-		ga('send', 'pageview');
-	</script>
-	
-
-	<script src="https://code.jquery.com/jquery-3.5.1.min.js" crossorigin="anonymous"></script>
-
-</head>
-
-<body>
-  <nav class="navbar navbar-expand-lg navbar-light bg-light" style="background-color: white !important">
-    <div class="container">
-        <div class="navbar-header">
-          <a class="navbar-brand" href="/">
-            <img src="/sarah_spinning_sun.gif" width="30" height="30" class="d-inline-block align-top" alt="">
-            &nbsp;sunboxlabs
-          </a>
-        </div>
-        <div class="nav navbar-nav navbar-right">
-          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-          </button>
-          <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-            <div class="navbar-nav navbar-right">
-              <a class="nav-item nav-link" href="/">Home</a>
-              <a class="nav-item nav-link" href="/about">About</a>
-              <a class="nav-item nav-link" href="/contact">Contact</a>
-              <span class="nav-item nav-link d-none d-md-inline" href="">&nbsp;</span>
-              <form class="form-group form-inline col-12 col-md-6" id="electrade-nav">
-                <input type="email" required name="email" placeholder="you@email.com" class="form-control col-7" style="border-radius: 0; border-top-left-radius: 3px; border-bottom-left-radius: 3px;" />
-                <input class="btn btn-block btn-primary form-control col-5" style="border-radius: 0; border-top-right-radius: 3px; border-bottom-right-radius: 3px;" type="submit" value="Subscribe" id="submit-form" />
-              </form>
-              <div id="WIP-nav"  style="display: none">
-                  <p class="text-dark text-right">Submitting...</p>
-              </div>
-
-              <div id="thanks-nav" style="display: none">
-                <h3 class="text-dark text-right">Thank you!</h3>
-              </div>
-            </div>
-          </div>
-        </div>
-    </div>
-  </nav>
-
-
-
-
-    <script>
-        var navForm = $('form#electrade-nav')
-        var url = 'https://script.google.com/macros/s/AKfycbwRbZS37yjD4W-qV8f8nFxlVFcuS-D3eBjEQomLZHA6TkXkoMg/exec'
-        $.fn.serializeObject = function()
-        {
-          var o = {};
-          var a = this.serializeArray();
-          $.each(a, function() {
-              if (o[this.name]) {
-                  if (!o[this.name].push) {
-                      o[this.name] = [o[this.name]];
-                  }
-                  o[this.name].push(this.value || '');
-              } else {
-                  o[this.name] = this.value || '';
-              }
-          });
-          return o;
-        };
-
-
-        
-        (function() {
-          'use strict';
-          window.addEventListener('load', function() {
-            
-            var validation = Array.prototype.filter.call(navForm, function(form) {
-              form.addEventListener('submit', function(event) {
-                console.log('working')
-                $("#electrade-nav").hide();
-                $("#WIP-nav").show();
-                if (form.checkValidity() === false) {
-                  event.preventDefault();
-                  event.stopPropagation();
-                }
-                else{
-                    event.preventDefault();
-                    var jqxhr = $.ajax({
-                      url: url,
-                      method: "GET",
-                      dataType: "json",
-                      data: navForm.serializeObject(),
-                      success: function(result){ $("#WIP-nav").hide(); $("#thanks-nav").show() }
-                    })
-                }
-                form.classList.add('was-validated');
-              }, false);
-            });
-          }, false);
-        })();
-      </script>
-
-
-
-
-
-
-
+<!-- Facebook Pixel Code -->
 <script>
     !function (f, b, e, v, n, t, s) {
         if (f.fbq) return; n = f.fbq = function () {
@@ -182,7 +18,7 @@
     <img height="1" width="1" style="display:none"
         src="https://www.facebook.com/tr?id=682935348800905&ev=PageView&noscript=1" />
 </noscript>
-
+<!-- End Facebook Pixel Code -->
 
 <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.9"></script>
 <link media="screen" href="/css/styles.css" rel="stylesheet" type="text/css">
@@ -243,7 +79,7 @@
 <div class="container">
 
 
-    
+    <!-- WHERE TO USE THEM -->
     <br /><br />
     <div class="row no-gutters" id="where">
         <div class="col-lg-6">
@@ -267,7 +103,7 @@
 
 
 
-    
+    <!-- WHAT WILL THEY RUN -->
     <br /><br />
     <h2 id="what_will_it_run">We offer three different sizes for different needs. What will they run?</h2>
     <div class="row no-gutters">
@@ -301,7 +137,7 @@
 
     <br /><br />
 
-    
+    <!-- QUOTE -->
     <hr />
     <br />
     <h3 style="text-align: center">
@@ -315,7 +151,7 @@
 
 
     <h2 id="kits">Kit comes in various sizes</h2>
-    
+    <!-- KIT 1 -->
     <div class="row no-gutters">
         <div class="col-lg-6 order-lg-2">
             <img class="fit-image img-fluid lazy" data-src="/img_3/300-kit.jpg" alt="Main Tesla and EV Insurance Image">
@@ -354,7 +190,7 @@
 
     <hr />
 
-    
+    <!-- KIT 2 -->
     <div class="row no-gutters">
         <div class="col-lg-6">
             <img class="fit-image img-fluid lazy" data-src="/img_3/500-kit.jpg" alt="Main Tesla and EV Insurance Image">
@@ -394,7 +230,13 @@
 
 
 
-            
+            <!-- <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top" style="margin-bottom: 0px;">
+          <input type="hidden" name="cmd" value="_s-xclick">
+          <input type="hidden" name="hosted_button_id" value="KETHE7EKE9WBW">
+          <button id="buy" class="btn btn-block btn-lg btn-primary shadows" type="submit" name="submit">☀️ Buy now for
+            $599 〉&nbsp;<img src="/kit/img/paypal.png" style="height: 12px;" />
+          </button>
+        </form> -->
 
 
         </div>
@@ -402,7 +244,7 @@
 
     <hr />
 
-    
+    <!-- KIT 3 -->
     <div class="row no-gutters">
         <div class="col-lg-6 order-lg-2">
             <img class="fit-image img-fluid lazy" data-src="/img_3/1000-kit.jpg"
@@ -452,7 +294,7 @@
 
 
 
-    
+    <!-- PROBLEM -->
     <div class="row no-gutters">
         <div class="col-lg-6 order-lg-2">
             <img class="fit-image img-fluid lazy" data-src="/kit/img/PROBLEM.jpg" alt="">
@@ -485,7 +327,7 @@
 
 
 
-    
+    <!-- SOLUTION -->
     <div class="row no-gutters">
         <div class="col-lg-6 order-lg-2">
             <img class="fit-image img-fluid lazy" data-src="/kit/img/header0.jpg" alt="">
@@ -495,7 +337,7 @@
             <p class="lead mb-0 p-2">
                 Compact, Silent, Fuel-Free, Clean & Easy. Power, no matter what. Indoor use even
                 encouraged!<br /><br />
-                
+                <!-- <a id="buy2" href="https://checkout.square.site/buy/LLOXZNFJHRFT3MDW6K24OWUF" class="btn btn-primary shadows">☀️ Order Now 〉</a> -->
                 <a id="buy" href="#where" class="btn btn-block btn-lg btn-primary shadows">☀️ Learn More 〉</a>
             </p>
         </div>
@@ -537,90 +379,50 @@
     <hr />
 
 
-    
-<section class="mt-5 mb-5" style="">
-      <div class="col-12 col-md-6 offset-md-3">
-          <h2 class="mb-4">Not ready to buy? Sign up for our list!</h2>
-          <form class="form-group form-inline" id="electrade-form-learn" >
-            <input type="email" required name="email" placeholder="you@email.com" class="form-control col-5" style="border-radius: 0; border-top-left-radius: 3px; border-bottom-left-radius: 3px;" />
-            <input class="btn btn-block btn-primary form-control col-5" style="border-radius: 0; border-top-right-radius: 3px; border-bottom-right-radius: 3px;" type="submit" value="✉️ Get Updates" id="submit-form" />
-          </form>
-      </div>
-</section>
-
-<div id="WIP-learn"  style="display: none">
-    <p class="text-dark text-center">Submitting...</p>
-</div>
-
-<div id="thanks-learn" style="display: none">
-  <h3 class="text-dark text-center">Thank you!</h3>
-</div>
-
-<script>
-    var learnForm = $('form#electrade-form-learn')
-    var url = 'https://script.google.com/macros/s/AKfycbwRbZS37yjD4W-qV8f8nFxlVFcuS-D3eBjEQomLZHA6TkXkoMg/exec'
-    $.fn.serializeObject = function()
-    {
-      var o = {};
-      var a = this.serializeArray();
-      $.each(a, function() {
-          if (o[this.name]) {
-              if (!o[this.name].push) {
-                  o[this.name] = [o[this.name]];
-              }
-              o[this.name].push(this.value || '');
-          } else {
-              o[this.name] = this.value || '';
-          }
-      });
-      return o;
-    };
-
-
-    
-    (function() {
-      'use strict';
-      window.addEventListener('load', function() {
-        
-        var validation = Array.prototype.filter.call(learnForm, function(form) {
-          form.addEventListener('submit', function(event) {
-            console.log('working')
-            learnForm.hide();
-            $("#WIP-learn").show();
-            if (form.checkValidity() === false) {
-              event.preventDefault();
-              event.stopPropagation();
-            }
-            else{
-                event.preventDefault();
-                var jqxhr = $.ajax({
-                  url: url,
-                  method: "GET",
-                  dataType: "json",
-                  data: learnForm.serializeObject(),
-                  success: function(result){ $("#WIP-learn").hide(); $("#thanks-learn").show() }
-                })
-            }
-            form.classList.add('was-validated');
-          }, false);
-        });
-      }, false);
-    })();
-  </script>
-
+    {{ partial "learnmore.html"}}
 
     <hr />
     <br /><br />
 
 
 
-    
-    
-    
+    <!-- HOW IT WORKS -->
+    <!-- <h2>How it works</h2><br /> -->
+    <!-- <section class="features-icons bg-white text-center" style="padding: 0px !important">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-3">
+            <img class="fit-image img-fluid lazy rounded-circle mb-2" data-src="kit/img/How1.jpg" alt=""
+              style="max-width: 200px !important">
+            <h3>Accept Delivery </h3>
+            <p class="lead mb-0">Best in class quality and price, incl. Panel, Zipties and everything.</p>
+          </div>
+          <div class="col-lg-3">
+            <img class="fit-image img-fluid lazy rounded-circle mb-2" data-src="kit/img/How2.jpg" alt=""
+              style="max-width: 200px !important">
+            <h3>We help you install it remotely</h3>
+            <p class="lead mb-0">personal installation session over Zoom. We'll walk you through the install and help
+              you position the panel.</p>
+          </div>
+          <div class="col-lg-3">
+            <img class="fit-image img-fluid lazy rounded-circle mb-2" data-src="kit/img/How3.jpg" alt=""
+              style="max-width: 200px !important">
+            <h3>Plug in to backup power</h3>
+            <p class="lead mb-0">Enjoy up to 500W output of independent backup power, in any situation.</p>
+          </div>
+          <div class="col-lg-3">
+            <img class="fit-image img-fluid lazy rounded-circle mb-2" data-src="kit/img/image_of_inside.jpg" alt=""
+              style="max-width: 200px !important">
+            <h3>...Or use it year round!</h3>
+            <p class="lead mb-0">Because why not when the fuel is free? Camping, RVs, or in your back yard!</p>
+          </div>
+        </div>
+      </div>
+    </section> -->
 
     <hr />
 
-    
+    <!-- HOW TO INSTALL -->
     <div class="row no-gutters">
         <div class="col-lg-6">
             <div id="myCarousel" class="carousel slide" data-touch="true" data-ride="carousel">
@@ -674,7 +476,7 @@
                     </a>
 
                 </div>
-                
+                <!-- main slider carousel nav controls -->
 
 
                 <ul class="carousel-indicators list-inline mx-auto border px-2">
@@ -842,14 +644,14 @@
 
 
 
-    
+    <!-- Testimonials -->
     <section class="testimonials text-center bg-white">
         <div class="container">
             <h2 class="mb-5">What people are saying...</h2>
             <div class="row">
                 <div class="col-lg-4">
                     <div class="testimonial-item mx-auto mb-5 mb-lg-0">
-                        
+                        <!-- <img class="img-fluid rounded-circle mb-3" src="/img_2/testimonials-1.jpg" alt=""> -->
                         <img class="img-fluid rounded-circle mb-3 lazy" data-src="/img_2/testimonials-1.jpg"
                             alt="Testimonial-person electric vehicle insurance 1">
                         <h5>Nicholas E. – Cupertino, CA</h5>
@@ -860,7 +662,7 @@
                 </div>
                 <div class="col-lg-4">
                     <div class="testimonial-item mx-auto mb-5 mb-lg-0">
-                        
+                        <!-- <img class="img-fluid rounded-circle mb-3" src="/img_2/testimonials-2.jpg" alt=""> -->
                         <img class="img-fluid rounded-circle mb-3 lazy" data-src="/img_2/testimonials-2.jpg"
                             alt="Testimonial-person electric vehicle insurance 2">
                         <h5>Sarah W. – Tenafly, NJ</h5>
@@ -871,7 +673,7 @@
                 </div>
                 <div class="col-lg-4">
                     <div class="testimonial-item mx-auto mb-5 mb-lg-0">
-                        
+                        <!-- <img class="img-fluid rounded-circle mb-3" src="/img_2/testimonials-3.jpg" alt=""> -->
                         <img class="img-fluid rounded-circle mb-3 lazy" data-src="/img_2/testimonials-3.jpg"
                             alt="Testimonial-person electric vehicle insurance 3">
                         <h5>Armin S. – Philadelphia, PA</h5>
@@ -884,7 +686,7 @@
         </div>
     </section>
 
-    
+    <!-- for typing effect -->
     <script>
         var typed = new Typed('#typed', {
             stringsElement: '#typed-strings',
@@ -896,7 +698,7 @@
     </script>
 
 
-    
+    <!-- to load images async -->
     <script>
         document.addEventListener("DOMContentLoaded", function () {
             var lazyImages = [].slice.call(document.querySelectorAll("img.lazy"));
@@ -917,7 +719,7 @@
                     lazyImageObserver.observe(lazyImage);
                 });
             } else {
-                
+                // Possibly fall back to a more compatible method here
             }
         });
     </script>
@@ -927,7 +729,7 @@
             'click',
             function () {
                 fbq('track', 'InitiateCheckout');
-                
+                // twq('track','Purchase', {value: '599.00',currency: 'USD',num_items: '1'});
                 ga('send', 'event', 'Checkout', 'clicked', 'Solar Kit');
             },
             false
@@ -937,7 +739,7 @@
             'click',
             function () {
                 fbq('track', 'InitiateCheckout');
-                
+                // twq('track','Purchase', {value: '599.00',currency: 'USD',num_items: '1'});
                 ga('send', 'event', 'Checkout', 'clicked', 'Solar Kit');
             },
             false
@@ -953,145 +755,3 @@
     </div>
 
 </div>
-
-
-
-
-
-<footer class="footer bg-dark">
-    <div class="container">
-    <div class="row mb-2">
-        <div class="col-12 col-md-8 offset-md-4">
-            <h3 class="mt-4 text-light text-right">Get Updates</h3>
-            <p class="text-light text-right">Sign up for our list and hear about updates to the kits!</p>
-            <div class="row">
-              <div class="col-12 col-md-6"></div>
-              <form class="form-group form-inline col-12 col-md-6" id="electrade-form-footer" >
-                <input type="email" required name="email" placeholder="you@email.com" class="form-control col-7" style="border-radius: 0; border-top-left-radius: 3px; border-bottom-left-radius: 3px;" />
-                <input class="btn btn-block btn-primary form-control col-5" style="border-radius: 0; border-top-right-radius: 3px; border-bottom-right-radius: 3px;" type="submit" value="✉️ Get Updates" id="submit-form" />
-              </form>
-            </div>
-
-            <div id="WIP-footer"  style="display: none">
-                <p class="text-light text-right">Submitting...</p>
-            </div>
-
-            <div id="thanks-footer" style="display: none">
-              <h3 class="text-light text-right">Thank you!</h3>
-            </div>
-        </div>
-      </div>
-
-      <div class="row">
-        <div class="col-lg-6  text-center text-lg-left my-auto">
-          <ul class="list-inline mb-2">
-            <li class="list-inline-item">
-                <a href="/">Home</a>
-            </li>
-            <li class="list-inline-item">&sdot;</li>
-            <li class="list-inline-item">
-              <a href="/about">About</a>
-            </li>
-            <li class="list-inline-item">&sdot;</li>
-            <li class="list-inline-item">
-              <a href="/contact">Contact</a>
-            </li>
-            <li class="list-inline-item">&sdot;</li>
-            <li class="list-inline-item">
-              <a href="/faq">FAQ</a>
-            </li>
-            <li class="list-inline-item">&sdot;</li>
-            <li class="list-inline-item">
-              <a href="/shipping">Shipping</a>
-            </li>
-            <li class="list-inline-item">&sdot;</li>
-            <li class="list-inline-item">
-              <a href="/returns-and-warranty">Refunds, Returns & Warranty</a>
-            </li>
-          </ul>
-          <p class="text-muted small mb-4 mb-lg-0">&copy; sunboxlabs 2020. All Rights Reserved.</p>
-        </div>
-        <div class="col-lg-6 text-center text-lg-right my-auto">
-          <ul class="list-inline mb-0">
-            <li class="list-inline-item mr-3">
-              <a style="text-decoration: none" href="https://www.facebook.com/sunboxlabs/">
-                
-                <span class="icon-social-facebook"></span>
-              </a>
-            </li>
-            <li class="list-inline-item mr-3">
-              <a style="text-decoration: none" href="https://twitter.com/sunboxlabs">
-                
-                <span class="icon-social-twitter"></span>
-              </a>
-            </li>
-            
-          </ul>
-        </div>
-      </div>
-    </div>
-  </footer>
-
-
-  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
-  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
-  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
-  <link media="screen" href="https://fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic,700italic" rel="stylesheet" type="text/css">
-
-  <script>
-      var $form = $('form#electrade-form-footer')
-      var url = 'https://script.google.com/macros/s/AKfycbwRbZS37yjD4W-qV8f8nFxlVFcuS-D3eBjEQomLZHA6TkXkoMg/exec'
-      $.fn.serializeObject = function()
-      {
-        var o = {};
-        var a = this.serializeArray();
-        $.each(a, function() {
-            if (o[this.name]) {
-                if (!o[this.name].push) {
-                    o[this.name] = [o[this.name]];
-                }
-                o[this.name].push(this.value || '');
-            } else {
-                o[this.name] = this.value || '';
-            }
-        });
-        return o;
-      };
-
-
-      
-      (function() {
-        'use strict';
-        window.addEventListener('load', function() {
-          
-          var validation = Array.prototype.filter.call($form, function(form) {
-            form.addEventListener('submit', function(event) {
-              console.log('working')
-              $("#electrade-form-footer").hide();
-              $("#WIP-footer").show();
-              if (form.checkValidity() === false) {
-                event.preventDefault();
-                event.stopPropagation();
-              }
-              else{
-                  event.preventDefault();
-                  var jqxhr = $.ajax({
-                    url: url,
-                    method: "GET",
-                    dataType: "json",
-                    data: $form.serializeObject(),
-                    success: function(result){ $("#WIP-footer").hide(); $("#thanks-footer").show() }
-                  })
-              }
-              form.classList.add('was-validated');
-            }, false);
-          });
-        }, false);
-      })();
-    </script>
-
-
-
-
-</body>
-</html>
