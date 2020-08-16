@@ -212,7 +212,7 @@
                         <span>Festivals</span>
                     </div>
                     <div style="margin-top: 20px; max-width: 300px">
-                        <a id="buy" href="#where" class="btn btn-block btn-lg btn-primary shadows">☀️
+                        <a href="#where" class="btn btn-block btn-lg btn-primary shadows">☀️
                             Learn
                             More 〉
                         </a>
@@ -384,17 +384,12 @@
                     <option value="No Solar Panel (outlet only)">No Solar Panel (outlet only) $459 USD</option>
                 </select>
                 <input type="hidden" name="currency_code" value="USD">
-                <button id="buy" class="btn btn-block btn-lg btn-primary shadows" type="submit" name="submit">
+                <button id="buy2" class="btn btn-block btn-lg btn-primary shadows" type="submit" name="submit">
                     ☀️ Buy Medium Kit Now 〉 &nbsp;
                     <img src="/kit/img/paypal.png" style="height: 12px;" />
                 </button>
                 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
             </form>
-
-
-
-
-            
 
 
         </div>
@@ -434,7 +429,7 @@
                     </option>
                 </select>
                 <input type="hidden" name="currency_code" value="USD">
-                <button id="buy" class="btn btn-block btn-lg btn-primary shadows" type="submit" name="submit">
+                <button id="buy3" class="btn btn-block btn-lg btn-primary shadows" type="submit" name="submit">
                     ☀️ Buy Large Kit Now 〉&nbsp;
                     <img src="/kit/img/paypal.png" style="height: 12px;" />
                 </button>
@@ -495,8 +490,7 @@
             <p class="lead mb-0 p-2">
                 Compact, Silent, Fuel-Free, Clean & Easy. Power, no matter what. Indoor use even
                 encouraged!<br /><br />
-                
-                <a id="buy" href="#where" class="btn btn-block btn-lg btn-primary shadows">☀️ Learn More 〉</a>
+                <a href="#where" class="btn btn-block btn-lg btn-primary shadows">☀️ Learn More 〉</a>
             </p>
         </div>
     </div>
@@ -934,6 +928,16 @@
             false
         );
         var button2 = document.getElementById('buy2');
+        button2.addEventListener(
+            'click',
+            function () {
+                fbq('track', 'InitiateCheckout');
+                
+                ga('send', 'event', 'Checkout', 'clicked', 'Solar Kit');
+            },
+            false
+        );
+        var button2 = document.getElementById('buy3');
         button2.addEventListener(
             'click',
             function () {

@@ -38,7 +38,7 @@ It'll take **3.8 years of usage every day until this whole system is CO2 net-pos
 
 What's the payback period for our solar battery system? Will it save me money?
 
-##### Compared to a gas generator**: 
+##### Compared to a gas generator: 
 
     Payback period for 1000W (Large) system:
     $0/hour running cost.
@@ -52,7 +52,7 @@ What's the payback period for our solar battery system? Will it save me money?
 
 Maintenance cost of the gas generator is not included in this.
 
-##### Compared to the grid**: 
+##### Compared to the grid: 
 
     Payback period for 400W, 1500Wh system
     System cost: $1,899
