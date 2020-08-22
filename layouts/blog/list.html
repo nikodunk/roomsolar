@@ -1,0 +1,46 @@
+{{ define "header"}}
+{{- partial "_shared/navbar.html" . -}}
+{{ end }}
+
+{{ define "main" }}
+
+
+<div class="main-content">
+  <h3>
+    How to build a DIY solar generator for your apartment.
+  </h3>
+
+  <p>
+    sunboxlabs is a solar price tracker & platform for sharing DIY solar projects <br />
+    If you have a kit you'd like to get featured on the site, please send it in to <a
+      href="mailto:hello@sunboxlabs.com">hello@sunboxlabs.com</a>. <br />
+    Also, if you own or are thinking about owning a Tesla or EV, be sure to check out <a
+      href="https://www.electrade.app" taget="_blank">Electrade.app</a>.
+  </p>
+
+
+  <div class="main-content">
+    <h3>
+      Sunboxlabs: Older Guides
+    </h3>
+    <!-- Posts Index ================================================== -->
+    <section class="recent-posts">
+      <div class="row listrecent">
+        {{ $post_paginator := .Paginate (.Pages.Reverse) 12 }}
+        {{ range $post_paginator.Pages }}
+        {{- partial "list-partials/postbox.html" . -}}
+        {{end}}
+      </div>
+    </section>
+    {{- partial "list-partials/pagination.html" $post_paginator -}}
+  </div>
+</div>
+
+
+{{end}}
+
+
+
+{{ define "footer" }}
+{{- partial "_shared/footer.html" . -}}
+{{end}}

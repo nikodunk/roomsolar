@@ -1,33 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>solar on sunboxlabs</title>
-    <link>https://sunboxlabs.com/tags/solar/</link>
-    <description>Recent content in solar on sunboxlabs</description>
+    <title>Blog on sunboxlabs</title>
+    <link>https://sunboxlabs.com/blog/</link>
+    <description>Recent content in Blog on sunboxlabs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>sunboxlabs.com is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com.</copyright>
-    <lastBuildDate>Mon, 20 Jan 2020 08:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 05 Feb 2019 08:00:00 -0700</lastBuildDate>
     
-	<atom:link href="https://sunboxlabs.com/tags/solar/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sunboxlabs.com/blog/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>The Landlord-Friendly, Self-Install Solar Battery Generator Guide</title>
-      <link>https://sunboxlabs.com/kit/</link>
-      <pubDate>Mon, 20 Jan 2020 08:00:00 -0700</pubDate>
-      
-      <guid>https://sunboxlabs.com/kit/</guid>
-      <description>The problem Apartment renters need the landlord’s permission to install anything on their rooftops. This makes installing solar difficult for people who rent. Because most of the world lives in urbanized areas where renting is common, I think this is a problem standing in the way of solar adoption.</description>
-    </item>
     
     <item>
-      <title>The Landlord-Friendly, Self-Install Solar Battery Generator Guide</title>
-      <link>https://sunboxlabs.com/solar-kit/</link>
-      <pubDate>Mon, 20 Jan 2020 08:00:00 -0700</pubDate>
+      <title>Draft 1200W solar with 3600Wh battery system: Shortest Possible Payback Period</title>
+      <link>https://sunboxlabs.com/blog/shortest_payback/</link>
+      <pubDate>Tue, 05 Feb 2019 08:00:00 -0700</pubDate>
       
-      <guid>https://sunboxlabs.com/solar-kit/</guid>
-      <description>The problem Apartment renters need the landlord’s permission to install anything on their rooftops. This makes installing solar difficult for people who rent. Because most of the world lives in urbanized areas where renting is common, I think this is a problem standing in the way of solar adoption.</description>
+      <guid>https://sunboxlabs.com/blog/shortest_payback/</guid>
+      <description>Based off the learnings from this midsize 1800W system, I would like to propose an (as yet unbuilt) midsize system that is customized for short payback period to the best of my knowledge.</description>
     </item>
     
     <item>

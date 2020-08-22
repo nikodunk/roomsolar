@@ -1,4 +1,3 @@
-
 {{ define "header"}}
 {{- partial "_shared/navbar.html" . -}}
 {{ end }}
@@ -7,27 +6,32 @@
 
 <!-- start Facebook Pixel code -->
 <script>
- !function(f,b,e,v,n,t,s)
- {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
- n.callMethod.apply(n,arguments):n.queue.push(arguments)};
- if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
- n.queue=[];t=b.createElement(e);t.async=!0;
- t.src=v;s=b.getElementsByTagName(e)[0];
- s.parentNode.insertBefore(t,s)}(window, document,'script',
- 'https://connect.facebook.net/en_US/fbevents.js');
- fbq('init', '682935348800905');
- fbq('track', 'PageView');
- fbq('track', 'Purchase', {value: 499.00, currency: 'USD'});
- </script><noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=682935348800905&ev=PageView&noscript=1"/></noscript>
+  !function (f, b, e, v, n, t, s) {
+    if (f.fbq) return; n = f.fbq = function () {
+      n.callMethod ?
+      n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+    };
+    if (!f._fbq) f._fbq = n; n.push = n; n.loaded = !0; n.version = '2.0';
+    n.queue = []; t = b.createElement(e); t.async = !0;
+    t.src = v; s = b.getElementsByTagName(e)[0];
+    s.parentNode.insertBefore(t, s)
+  }(window, document, 'script',
+    'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '682935348800905');
+  fbq('track', 'PageView');
+  fbq('track', 'Purchase', { value: 499.00, currency: 'USD' });
+</script><noscript><img height="1" width="1" style="display:none"
+    src="https://www.facebook.com/tr?id=682935348800905&ev=PageView&noscript=1" /></noscript>
 <!-- End Facebook Pixel Code -->
 
 <div id="top" style="min-height: 80vh">
   <div class="row">
     <div style="text-align: center; max-width: 400px; margin: 0 auto">
-      <br/><br/><br/>
+      <br /><br /><br />
       <img src="/sarah_spinning_sun.gif" />
       <h2>Thank you for your order</h2>
-      <p>You have received a confirmation email and we will be in touch shortly. For any questions in the meantime please email <a href="mailto:hello@sunboxlabs.com">hello@sunboxlabs.com</a>.</p>
+      <p>You have received a confirmation email and we will be in touch shortly. For any questions in the meantime
+        please email <a href="mailto:hello@sunboxlabs.com">hello@sunboxlabs.com</a>.</p>
       <a class="btn btn-primary" href="/">Back to Homepage</a>
     </div>
   </div>

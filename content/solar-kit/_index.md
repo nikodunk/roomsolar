@@ -80,12 +80,12 @@ If we look to the car, the smartphone, the window A/C unit — these devices spr
       <div class="col-6 center">
         <img class="lazy" data-src="img/benefits3.png" class="icon" />
         <h4>Backup.</h4>
-        <p>In Wildfires. Hurricanes.  Blackouts. Reliable, fuel-free power.</p>
+        <p>In Wildfires. Hurricanes. Blackouts. Reliable, fuel-free power.</p>
       </div>
       <div class="col-6 center">
         <img class="lazy" data-src="img/benefits4.png" class="icon" />
         <h4>Outdoors.</h4>
-        <p>Great portable system  for camping & outdoors.  Clean. No Noise. No trace.</p>
+        <p>Great portable system for camping & outdoors. Clean. No Noise. No trace.</p>
       </div>
       <div class="col-6 center">
         <img class="lazy" data-src="img/benefits5.png" class="icon" />
