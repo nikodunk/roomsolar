@@ -78,112 +78,117 @@
 	<script src="https://code.jquery.com/jquery-3.5.1.min.js" crossorigin="anonymous"></script>
 
 </head><body>
+
 <body>
   <nav class="navbar navbar-expand-lg navbar-light bg-light" style="background-color: white !important">
     <div class="container">
-        <div class="navbar-header">
-          <a class="navbar-brand" href="/">
-            <img src="/sarah_spinning_sun.gif" width="30" height="30" class="d-inline-block align-top" alt="">
-            &nbsp;sunboxlabs
-          </a>
-        </div>
-        <div class="nav navbar-nav navbar-right">
-          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-          </button>
-          <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-            <div class="navbar-nav navbar-right">
-              <a class="nav-item nav-link" href="/">Home</a>
-              <a class="nav-item nav-link" href="/about">About</a>
-              <a class="nav-item nav-link" href="/contact">Contact</a>
-              <span class="nav-item nav-link d-none d-md-inline" href="">&nbsp;</span>
-              <form class="form-group form-inline col-12 col-md-6" id="electrade-nav">
-                <input type="email" required name="email" placeholder="you@email.com" class="form-control col-7" style="border-radius: 0; border-top-left-radius: 3px; border-bottom-left-radius: 3px;" />
-                <input class="btn btn-block btn-primary form-control col-5" style="border-radius: 0; border-top-right-radius: 3px; border-bottom-right-radius: 3px;" type="submit" value="Subscribe" id="submit-form" />
-              </form>
-              <div id="WIP-nav"  style="display: none">
-                  <p class="text-dark text-right">Submitting...</p>
-              </div>
+      <div class="navbar-header">
+        <a class="navbar-brand" href="/">
+          <img src="/sarah_spinning_sun.gif" width="30" height="30" class="d-inline-block align-top" alt="">
+          &nbsp;sunboxlabs
+        </a>
+      </div>
+      <div class="nav navbar-nav navbar-right">
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup"
+          aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+          <div class="navbar-nav navbar-right">
+            <a class="nav-item nav-link" href="/">Kits</a>
+            <a class="nav-item nav-link" href="/about">About</a>
+            <a class="nav-item nav-link" href="/blog">Blog</a>
+            <a class="nav-item nav-link" href="/faq">FAQ</a>
+            <a class="nav-item nav-link" href="/contact">Contact</a>
+            <span class="nav-item nav-link d-none d-md-inline" href="">&nbsp;</span>
+            <form class="form-group form-inline col-12 col-md-6" id="electrade-nav">
+              <input type="email" required name="email" placeholder="you@email.com" class="form-control col-7"
+                style="border-radius: 0; border-top-left-radius: 3px; border-bottom-left-radius: 3px;" />
+              <input class="btn btn-block btn-primary form-control col-5"
+                style="border-radius: 0; border-top-right-radius: 3px; border-bottom-right-radius: 3px;" type="submit"
+                value="Subscribe" id="submit-form" />
+            </form>
+            <div id="WIP-nav" style="display: none">
+              <p class="text-dark text-right">Submitting...</p>
+            </div>
 
-              <div id="thanks-nav" style="display: none">
-                <h3 class="text-dark text-right">Thank you!</h3>
-              </div>
+            <div id="thanks-nav" style="display: none">
+              <h3 class="text-dark text-right">Thank you!</h3>
             </div>
           </div>
         </div>
+      </div>
     </div>
   </nav>
 
 
 
 
-    <script>
-        var navForm = $('form#electrade-nav')
-        var url = 'https://script.google.com/macros/s/AKfycbwRbZS37yjD4W-qV8f8nFxlVFcuS-D3eBjEQomLZHA6TkXkoMg/exec'
-        $.fn.serializeObject = function()
-        {
-          var o = {};
-          var a = this.serializeArray();
-          $.each(a, function() {
-              if (o[this.name]) {
-                  if (!o[this.name].push) {
-                      o[this.name] = [o[this.name]];
-                  }
-                  o[this.name].push(this.value || '');
-              } else {
-                  o[this.name] = this.value || '';
-              }
-          });
-          return o;
-        };
+  <script>
+    var navForm = $('form#electrade-nav')
+    var url = 'https://script.google.com/macros/s/AKfycbwRbZS37yjD4W-qV8f8nFxlVFcuS-D3eBjEQomLZHA6TkXkoMg/exec'
+    $.fn.serializeObject = function () {
+      var o = {};
+      var a = this.serializeArray();
+      $.each(a, function () {
+        if (o[this.name]) {
+          if (!o[this.name].push) {
+            o[this.name] = [o[this.name]];
+          }
+          o[this.name].push(this.value || '');
+        } else {
+          o[this.name] = this.value || '';
+        }
+      });
+      return o;
+    };
 
 
+    
+    (function () {
+      'use strict';
+      window.addEventListener('load', function () {
         
-        (function() {
-          'use strict';
-          window.addEventListener('load', function() {
-            
-            var validation = Array.prototype.filter.call(navForm, function(form) {
-              form.addEventListener('submit', function(event) {
-                console.log('working')
-                $("#electrade-nav").hide();
-                $("#WIP-nav").show();
-                if (form.checkValidity() === false) {
-                  event.preventDefault();
-                  event.stopPropagation();
-                }
-                else{
-                    event.preventDefault();
-                    var jqxhr = $.ajax({
-                      url: url,
-                      method: "GET",
-                      dataType: "json",
-                      data: navForm.serializeObject(),
-                      success: function(result){ $("#WIP-nav").hide(); $("#thanks-nav").show() }
-                    })
-                }
-                form.classList.add('was-validated');
-              }, false);
-            });
+        var validation = Array.prototype.filter.call(navForm, function (form) {
+          form.addEventListener('submit', function (event) {
+            console.log('working')
+            $("#electrade-nav").hide();
+            $("#WIP-nav").show();
+            if (form.checkValidity() === false) {
+              event.preventDefault();
+              event.stopPropagation();
+            }
+            else {
+              event.preventDefault();
+              var jqxhr = $.ajax({
+                url: url,
+                method: "GET",
+                dataType: "json",
+                data: navForm.serializeObject(),
+                success: function (result) { $("#WIP-nav").hide(); $("#thanks-nav").show() }
+              })
+            }
+            form.classList.add('was-validated');
           }, false);
-        })();
-      </script>
+        });
+      }, false);
+    })();
+  </script>
 
 
-
-
+  
         <div class="site-content">
             <div class="container">
 
 
-<div class="main-content">
+<div class="main-content mt-5 mb-5">
   <h3>
-    How to build a DIY solar generator for your apartment.
+    Sunboxlabs Blog
   </h3>
 
-  <p>
-    sunboxlabs is a solar price tracker & platform for sharing DIY solar projects <br />
-    If you have a kit you'd like to get featured on the site, please send it in to <a
+  <p>Sunboxlabs started as a blog of DIY guides & user submitted kits. We only then started selling the kits ourselves.
+    Here are some of the best ones.<br />
+    If you have a DIY kit you'd like to get featured on the blog, please send it in to <a
       href="mailto:hello@sunboxlabs.com">hello@sunboxlabs.com</a>. <br />
     Also, if you own or are thinking about owning a Tesla or EV, be sure to check out <a
       href="https://www.electrade.app" taget="_blank">Electrade.app</a>.
@@ -191,9 +196,6 @@
 
 
   <div class="main-content">
-    <h3>
-      Sunboxlabs: Older Guides
-    </h3>
     
     <section class="recent-posts">
       <div class="row listrecent">
@@ -201,20 +203,20 @@
         
 <div class="col-lg-4 col-md-6 mb-3 card-group">
     <div class="card h-100">
-        <div class="maxthumb">
-            <a href="/blog/200-apartment-solar-system/">
+        <div style="height: 200px; overflow: hidden">
+            <a href="/blog/we-now-sell-kits-directly/">
                 
                 <img class="img-fluid" src="/img/money1.jpg" alt="A thumbnail image">
                 
             </a>
         </div>
         <div class="card-body">
-            <h2 class="card-title"><a class="text-dark" href="/blog/200-apartment-solar-system/">$200 Solar Self-Sufficiency – without your landlord noticing</a></h2>
+            <h4 class="card-title"><a class="text-dark" href="/blog/we-now-sell-kits-directly/">$200 Solar Self-Sufficiency – without your landlord noticing</a></h4>
         </div>
         <div class="card-footer bg-white">
             <div class="wrapfooter">
                 <span class="post-date">Jun 20, 2017 - 10 min read</span>
-                <span class="post-read-more"><a href="/blog/200-apartment-solar-system/" title="Read Story"><svg class="svgIcon-use" width="25"
+                <span class="post-read-more"><a href="/blog/we-now-sell-kits-directly/" title="Read Story"><svg class="svgIcon-use" width="25"
                             height="25" viewbox="0 0 25 25">
                             <path
                                 d="M19 6c0-1.1-.9-2-2-2H8c-1.1 0-2 .9-2 2v14.66h.012c.01.103.045.204.12.285a.5.5 0 0 0 .706.03L12.5 16.85l5.662 4.126a.508.508 0 0 0 .708-.03.5.5 0 0 0 .118-.285H19V6zm-6.838 9.97L7 19.636V6c0-.55.45-1 1-1h9c.55 0 1 .45 1 1v13.637l-5.162-3.668a.49.49 0 0 0-.676 0z"
@@ -228,7 +230,7 @@
 
 <div class="col-lg-4 col-md-6 mb-3 card-group">
     <div class="card h-100">
-        <div class="maxthumb">
+        <div style="height: 200px; overflow: hidden">
             <a href="/blog/burning-man-solar/">
                 
                 <img class="img-fluid" src="/img/money3.jpg" alt="A thumbnail image">
@@ -236,7 +238,7 @@
             </a>
         </div>
         <div class="card-body">
-            <h2 class="card-title"><a class="text-dark" href="/blog/burning-man-solar/">100W Burning Man Solar with 420Wh Battery How-To</a></h2>
+            <h4 class="card-title"><a class="text-dark" href="/blog/burning-man-solar/">100W Burning Man Solar with 420Wh Battery How-To</a></h4>
         </div>
         <div class="card-footer bg-white">
             <div class="wrapfooter">
@@ -255,34 +257,7 @@
 
 <div class="col-lg-4 col-md-6 mb-3 card-group">
     <div class="card h-100">
-        <div class="maxthumb">
-            <a href="/blog/what-will-solar-run/">
-                
-                <img class="img-fluid" src="/img/devices/transportafter.jpg" alt="A thumbnail image">
-                
-            </a>
-        </div>
-        <div class="card-body">
-            <h2 class="card-title"><a class="text-dark" href="/blog/what-will-solar-run/">What household devices will 100W DIY Solar run</a></h2>
-        </div>
-        <div class="card-footer bg-white">
-            <div class="wrapfooter">
-                <span class="post-date">Sep 17, 2017 - 4 min read</span>
-                <span class="post-read-more"><a href="/blog/what-will-solar-run/" title="Read Story"><svg class="svgIcon-use" width="25"
-                            height="25" viewbox="0 0 25 25">
-                            <path
-                                d="M19 6c0-1.1-.9-2-2-2H8c-1.1 0-2 .9-2 2v14.66h.012c.01.103.045.204.12.285a.5.5 0 0 0 .706.03L12.5 16.85l5.662 4.126a.508.508 0 0 0 .708-.03.5.5 0 0 0 .118-.285H19V6zm-6.838 9.97L7 19.636V6c0-.55.45-1 1-1h9c.55 0 1 .45 1 1v13.637l-5.162-3.668a.49.49 0 0 0-.676 0z"
-                                fill-rule="evenodd"></path>
-                        </svg></a></span>
-                <div class="clearfix"></div>
-            </div>
-        </div>
-    </div>
-</div>
-
-<div class="col-lg-4 col-md-6 mb-3 card-group">
-    <div class="card h-100">
-        <div class="maxthumb">
+        <div style="height: 200px; overflow: hidden">
             <a href="/blog/200-solar-lithium-update/">
                 
                 <img class="img-fluid" src="/img/v2/icon_lithium.jpg" alt="A thumbnail image">
@@ -290,7 +265,7 @@
             </a>
         </div>
         <div class="card-body">
-            <h2 class="card-title"><a class="text-dark" href="/blog/200-solar-lithium-update/">Simplified 100W Micro Solar &#43; 150Wh Li-Po Storage kit</a></h2>
+            <h4 class="card-title"><a class="text-dark" href="/blog/200-solar-lithium-update/">Simplified 100W Micro Solar &#43; 150Wh Li-Po Storage kit</a></h4>
         </div>
         <div class="card-footer bg-white">
             <div class="wrapfooter">
@@ -309,7 +284,7 @@
 
 <div class="col-lg-4 col-md-6 mb-3 card-group">
     <div class="card h-100">
-        <div class="maxthumb">
+        <div style="height: 200px; overflow: hidden">
             <a href="/blog/solar-xantrex-kit-apartment/">
                 
                 <img class="img-fluid" src="/anonymous/solar_panel_balcony.jpg" alt="A thumbnail image">
@@ -317,7 +292,7 @@
             </a>
         </div>
         <div class="card-body">
-            <h2 class="card-title"><a class="text-dark" href="/blog/solar-xantrex-kit-apartment/">1800W Apartment Balcony Solar &#43; 2400Wh Battery Microgrid that can power fridge</a></h2>
+            <h4 class="card-title"><a class="text-dark" href="/blog/solar-xantrex-kit-apartment/">1800W Apartment Balcony Solar &#43; 2400Wh Battery Microgrid that can power fridge</a></h4>
         </div>
         <div class="card-footer bg-white">
             <div class="wrapfooter">
@@ -336,7 +311,7 @@
 
 <div class="col-lg-4 col-md-6 mb-3 card-group">
     <div class="card h-100">
-        <div class="maxthumb">
+        <div style="height: 200px; overflow: hidden">
             <a href="/blog/prepper-offgrid-home-kit/">
                 
                 <img class="img-fluid" src="/img/money2.jpg" alt="A thumbnail image">
@@ -344,7 +319,7 @@
             </a>
         </div>
         <div class="card-body">
-            <h2 class="card-title"><a class="text-dark" href="/blog/prepper-offgrid-home-kit/">Prepper 1200W solar &#43; 1200Wh battery system: For PG&amp;E outages in California, Florida, Puerto Rico Post-Hurricane, etc</a></h2>
+            <h4 class="card-title"><a class="text-dark" href="/blog/prepper-offgrid-home-kit/">Prepper 1200W solar &#43; 1200Wh battery system: For PG&amp;E outages in California, Florida, Puerto Rico Post-Hurricane, etc</a></h4>
         </div>
         <div class="card-footer bg-white">
             <div class="wrapfooter">
@@ -363,20 +338,47 @@
 
 <div class="col-lg-4 col-md-6 mb-3 card-group">
     <div class="card h-100">
-        <div class="maxthumb">
+        <div style="height: 200px; overflow: hidden">
             <a href="/blog/shortest_payback/">
                 
-                <img class="img-fluid" src="/img/devices/transportafter.jpg" alt="A thumbnail image">
+                <img class="img-fluid" src="/img_3/how_it_works_1.jpg" alt="A thumbnail image">
                 
             </a>
         </div>
         <div class="card-body">
-            <h2 class="card-title"><a class="text-dark" href="/blog/shortest_payback/">Draft 1200W solar with 3600Wh battery system: Shortest Possible Payback Period</a></h2>
+            <h4 class="card-title"><a class="text-dark" href="/blog/shortest_payback/">Draft 1200W solar with 3600Wh battery system: Shortest Possible Payback Period</a></h4>
         </div>
         <div class="card-footer bg-white">
             <div class="wrapfooter">
                 <span class="post-date">Feb 5, 2019 - 2 min read</span>
                 <span class="post-read-more"><a href="/blog/shortest_payback/" title="Read Story"><svg class="svgIcon-use" width="25"
+                            height="25" viewbox="0 0 25 25">
+                            <path
+                                d="M19 6c0-1.1-.9-2-2-2H8c-1.1 0-2 .9-2 2v14.66h.012c.01.103.045.204.12.285a.5.5 0 0 0 .706.03L12.5 16.85l5.662 4.126a.508.508 0 0 0 .708-.03.5.5 0 0 0 .118-.285H19V6zm-6.838 9.97L7 19.636V6c0-.55.45-1 1-1h9c.55 0 1 .45 1 1v13.637l-5.162-3.668a.49.49 0 0 0-.676 0z"
+                                fill-rule="evenodd"></path>
+                        </svg></a></span>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="col-lg-4 col-md-6 mb-3 card-group">
+    <div class="card h-100">
+        <div style="height: 200px; overflow: hidden">
+            <a href="/blog/200-apartment-solar-system/">
+                
+                <img class="img-fluid" src="/banner.jpg" alt="A thumbnail image">
+                
+            </a>
+        </div>
+        <div class="card-body">
+            <h4 class="card-title"><a class="text-dark" href="/blog/200-apartment-solar-system/">New: We now sell kits directly!</a></h4>
+        </div>
+        <div class="card-footer bg-white">
+            <div class="wrapfooter">
+                <span class="post-date">Jun 20, 2020 - 1 min read</span>
+                <span class="post-read-more"><a href="/blog/200-apartment-solar-system/" title="Read Story"><svg class="svgIcon-use" width="25"
                             height="25" viewbox="0 0 25 25">
                             <path
                                 d="M19 6c0-1.1-.9-2-2-2H8c-1.1 0-2 .9-2 2v14.66h.012c.01.103.045.204.12.285a.5.5 0 0 0 .706.03L12.5 16.85l5.662 4.126a.508.508 0 0 0 .708-.03.5.5 0 0 0 .118-.285H19V6zm-6.838 9.97L7 19.636V6c0-.55.45-1 1-1h9c.55 0 1 .45 1 1v13.637l-5.162-3.668a.49.49 0 0 0-.676 0z"

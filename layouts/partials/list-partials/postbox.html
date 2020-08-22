@@ -1,7 +1,7 @@
 <!-- begin post -->
 <div class="col-lg-4 col-md-6 mb-3 card-group">
     <div class="card h-100">
-        <div class="maxthumb">
+        <div style="height: 200px; overflow: hidden">
             <a href="{{ .URL }}">
                 {{with .Params.image}}
                 <img class="img-fluid" src="{{ . | urlize | relURL }}" alt="A thumbnail image">
@@ -9,7 +9,7 @@
             </a>
         </div>
         <div class="card-body">
-            <h2 class="card-title"><a class="text-dark" href="{{ .URL }}">{{ .Title }}</a></h2>
+            <h4 class="card-title"><a class="text-dark" href="{{ .URL }}">{{ .Title }}</a></h4>
         </div>
         <div class="card-footer bg-white">
             <div class="wrapfooter">

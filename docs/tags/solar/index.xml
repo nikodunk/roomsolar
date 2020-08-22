@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>sunboxlabs.com is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com.</copyright>
-    <lastBuildDate>Mon, 20 Jan 2020 08:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2020 08:00:00 -0700</lastBuildDate>
     
 	<atom:link href="https://sunboxlabs.com/tags/solar/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>New: We now sell kits directly!</title>
+      <link>https://sunboxlabs.com/blog/200-apartment-solar-system/</link>
+      <pubDate>Sat, 20 Jun 2020 08:00:00 -0700</pubDate>
+      
+      <guid>https://sunboxlabs.com/blog/200-apartment-solar-system/</guid>
+      <description>After watching the DIY home solar market for many years, we&amp;rsquo;ve now started selling kits directly. The prices for lithium powered batteries has come way down, as has the price for solar.</description>
+    </item>
     
     <item>
       <title>The Landlord-Friendly, Self-Install Solar Battery Generator Guide</title>
@@ -60,15 +69,6 @@ Running 4 - 5 years straight powering full home office and TV, vacuum cleaning.
     </item>
     
     <item>
-      <title>What household devices will 100W DIY Solar run</title>
-      <link>https://sunboxlabs.com/blog/what-will-solar-run/</link>
-      <pubDate>Sun, 17 Sep 2017 08:00:00 -0700</pubDate>
-      
-      <guid>https://sunboxlabs.com/blog/what-will-solar-run/</guid>
-      <description>A lot of questions we receive here are as to what you can charge and how far the energy will reach. I thought this would be worth a separate, more in-depth analysis.</description>
-    </item>
-    
-    <item>
       <title>100W Burning Man Solar with 420Wh Battery How-To</title>
       <link>https://sunboxlabs.com/blog/burning-man-solar/</link>
       <pubDate>Wed, 06 Sep 2017 08:00:00 -0700</pubDate>
@@ -79,10 +79,10 @@ Running 4 - 5 years straight powering full home office and TV, vacuum cleaning.
     
     <item>
       <title>$200 Solar Self-Sufficiency – without your landlord noticing</title>
-      <link>https://sunboxlabs.com/blog/200-apartment-solar-system/</link>
+      <link>https://sunboxlabs.com/blog/we-now-sell-kits-directly/</link>
       <pubDate>Tue, 20 Jun 2017 08:00:00 -0700</pubDate>
       
-      <guid>https://sunboxlabs.com/blog/200-apartment-solar-system/</guid>
+      <guid>https://sunboxlabs.com/blog/we-now-sell-kits-directly/</guid>
       <description>Building a solar micro-grid in my bedroom with parts from Amazon  The problem Apartment renters need the landlord’s permission to install anything on their rooftops.</description>
     </item>
     
