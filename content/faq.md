@@ -5,16 +5,16 @@ type: "post"
 comments: true
 ---
 
-#### 1) How green is it?
+#### 1) How green are the kits we sell?
 
-How green is the 1000W solar kit? Compared to 1000W Honda Gas Backup Generators – yes. While they fire up all over the US during power outages and at RV parks, you will be emitting zero (and your fuel cost will be zero!). 
+Let's look at the example of how green the 1000W solar kit is: Compared to 1000W Honda Gas Backup Generators – yes. While they fire up all over the US during power outages and at RV parks, you will be emitting zero (and your fuel cost will be zero!). 
 
-##### Footprint vs. a gas generator
+##### Solar generator environmental footprint vs. a gas generator
 
 For every hour you run this **vs. a gas generator, you reduce your GHG by roughly 4.4lbs every hour** (0.22 gallons/hour @ 1.3bhp/1000W assumed * [20 lbs CO2/gallon](https://www.fueleconomy.gov/feg/contentincludes/co2_inc.htm)), but more importantly you're not emitting Carbon Monoxide (CO), Hydrocarbons or Nitrogen Oxide near your house.
 
 
-##### CO2 footprint vs. the grid
+##### Solar generator environmental footprint vs. the grid
 
 Let's calculate:
 
@@ -36,7 +36,7 @@ It'll take **3.8 years of usage every day until this whole system is CO2 net-pos
 
 #### 2) Will this system save me a money?
 
-What's the payback period for our solar battery system? Will it save me money?
+What's the payback period for our solar battery system? Will it save me money? Let's calculate:
 
 ##### Compared to a gas generator: 
 
