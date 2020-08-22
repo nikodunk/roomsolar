@@ -2,7 +2,7 @@
 layout: About
 date:   2019-06-20 08:00:00 -0700
 cost: "$"
-title: "About"
+title: "About Us"
 comments: false
 ---
 
@@ -10,8 +10,6 @@ comments: false
 <div class="main-content">
     <section class="recent-posts">            
         <div class="section-title">                
-            <p> This site provides information on how to build your own DIY solar energy + storage kit. If you have a kit you'd like to get featured on the site, please send it in to <a href="mailto:hello@sunboxlabs.com">hello@sunboxlabs.com</a></p>
-            <p> The site originally started on a Hackernoon post (see below). The site's goal is to make installing solar as easy and commonplace as installing a satellite dish or a window AC unit.</p>
             <div class="row">
               <div class="col-12">
                 <img src="/solar-kit/img/SOLUTION.jpg">
@@ -19,7 +17,10 @@ comments: false
               <small style="text-align: center; width: 100%">Satellite Photo by Paweł Czerwiński | Air Conditioner Photo by Chromatograph</small>
             </div>
             <hr>
-            <p> I'm Niko, and I usually write <a href="https://nikodunk.com" target="_blank">here</a>. Email, Github, Linkedin and other projects are on that personal site. I work on a project called <a href="https://www.electrade.app" taget="_blank">Electrade.app</a> which helps Tesla and EV owners find affordable insurance.</p>
+            <p>If we look to the car, the smartphone, the window A/C unit — these devices spread like wildfire across the globe because they were off-the-shelf products that required no configuration but great benefits. Identical appliances were churned out at an industrial scale for a global audience. They were “plug n play”. Plug n play solar has been around for a while, but has never taken off (probably because behind-the-meter power is still sketchy and poorly understood). The potential for plug n play solar is huge — it could mean cheap, zero-configuration solar energy spreading to consumers at the pace of the smartphone, the car or air-conditioning.
+            <br/><br/>
+            This site provides information on how to install your own DIY solar energy + storage kits, and we started selling them in early 2020 too.</p>
+            <p> The site originally started on a Hackernoon post (see below), and was extended here with the goal of to making installing solar as easy and commonplace as installing a satellite dish or a window AC unit.</p>
             <hr>
         </div>            
     </section>
