@@ -9,88 +9,93 @@
 
 <url>
   <loc>https://sunboxlabs.com/</loc>
-  <lastmod>2020-08-22T21:15:15+00:00</lastmod>
+  <lastmod>2020-08-23T20:03:46+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://sunboxlabs.com/about/</loc>
-  <lastmod>2020-08-22T21:30:18+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://sunboxlabs.com/contact/</loc>
-  <lastmod>2020-08-22T21:30:18+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://sunboxlabs.com/faq/</loc>
-  <lastmod>2020-08-22T21:15:15+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://sunboxlabs.com/shipping/</loc>
-  <lastmod>2020-08-22T21:15:15+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://sunboxlabs.com/returns-and-warranty/</loc>
-  <lastmod>2020-08-22T21:15:15+00:00</lastmod>
+  <lastmod>2020-08-23T20:03:46+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://sunboxlabs.com/blog/</loc>
-  <lastmod>2020-08-22T21:30:18+00:00</lastmod>
+  <lastmod>2020-08-23T20:03:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sunboxlabs.com/faq/</loc>
+  <lastmod>2020-08-23T20:03:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sunboxlabs.com/contact/</loc>
+  <lastmod>2020-08-23T20:03:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sunboxlabs.com/shipping/</loc>
+  <lastmod>2020-08-23T20:03:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sunboxlabs.com/returns-and-warranty/</loc>
+  <lastmod>2020-08-23T20:03:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sunboxlabs.com/blog/ecoflow-delta-1800w-2400wh-review-2020/</loc>
+  <lastmod>2020-08-23T20:03:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://sunboxlabs.com/blog/maxoak-bluetti-1000w-2400wh-review/</loc>
+  <lastmod>2020-08-23T20:03:46+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://sunboxlabs.com/blog/we-now-sell-kits-directly/</loc>
-  <lastmod>2020-08-22T21:30:18+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://sunboxlabs.com/blog/burning-man-solar/</loc>
-  <lastmod>2020-08-22T21:30:18+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://sunboxlabs.com/blog/200-solar-lithium-update/</loc>
-  <lastmod>2020-08-22T21:30:18+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://sunboxlabs.com/blog/solar-xantrex-kit-apartment/</loc>
-  <lastmod>2020-08-22T21:30:18+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://sunboxlabs.com/blog/prepper-offgrid-home-kit/</loc>
-  <lastmod>2020-08-22T21:30:18+00:00</lastmod>
-  <priority>0.51</priority>
+  <lastmod>2020-08-23T20:03:46+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://sunboxlabs.com/blog/shortest_payback/</loc>
-  <lastmod>2020-08-22T21:30:18+00:00</lastmod>
-  <priority>0.51</priority>
+  <lastmod>2020-08-23T20:03:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://sunboxlabs.com/blog/prepper-offgrid-home-kit/</loc>
+  <lastmod>2020-08-23T20:03:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://sunboxlabs.com/blog/solar-xantrex-kit-apartment/</loc>
+  <lastmod>2020-08-23T20:03:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://sunboxlabs.com/blog/200-solar-lithium-update/</loc>
+  <lastmod>2020-08-23T20:03:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://sunboxlabs.com/blog/burning-man-solar/</loc>
+  <lastmod>2020-08-23T20:03:46+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://sunboxlabs.com/blog/200-apartment-solar-system/</loc>
-  <lastmod>2020-08-22T21:30:18+00:00</lastmod>
-  <priority>0.51</priority>
+  <lastmod>2020-08-23T20:03:46+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://sunboxlabs.com/what-will-solar-run/</loc>
-  <lastmod>2020-08-22T21:30:19+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://sunboxlabs.com/200-apartment-solar-system/</loc>
-  <lastmod>2020-08-22T21:30:18+00:00</lastmod>
-  <priority>0.41</priority>
+  <lastmod>2020-08-23T20:03:46+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
   <loc>https://sunboxlabs.com/solar-kit/</loc>
-  <lastmod>2020-08-22T21:30:19+00:00</lastmod>
-  <priority>0.33</priority>
+  <lastmod>2020-08-23T20:03:46+00:00</lastmod>
+  <priority>0.41</priority>
 </url>
 
 
