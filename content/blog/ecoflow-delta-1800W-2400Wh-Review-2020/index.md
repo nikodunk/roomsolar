@@ -1,0 +1,45 @@
+---
+layout: post
+title:  "Ecoflow Delta 1800W 2400Wh Review 2020"
+date:   2020-06-23 08:00:00 -0700
+image: "blog/ecoflow-delta-1800W-2400Wh-Review-2020/ecoflow_review_youtube.jpg"
+type: "post"
+comments: true
+---
+
+Originally started as a kickstarter campaign, this consistently ranks as one of the most-sold powerful generators out there.
+
+
+
+<div style="width: 100%; text-align: center">
+  <a href="https://www.amazon.com/EF-ECOFLOW-Portable-Station-Generator/dp/B083FR3762/ref=as_li_ss_il?ie=UTF8&linkCode=li3&tag=gridlesskits-20&linkId=c7ba95a78519540153fc058f279a8def&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B083FR3762&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=gridlesskits-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=gridlesskits-20&language=en_US&l=li3&o=1&a=B083FR3762" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <br/><br/><br/>
+  <a onclick="ga('send', 'event', 'Amazon Affiliate', 'clicked', 'Ecoflow')" class="btn btn-primary btn-lg" target="_blank" style="background-color: orange; border: none" href="https://www.amazon.com/EF-ECOFLOW-Portable-Station-Generator/dp/B083FR3762/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=gridlesskits-20&linkId=bd36c1062c96e0d43a82dba2f347266f&language=en_US" >Check latest price on Amazon</a>
+</div>
+<hr/>
+
+
+This excellent review covers the Ecoflow delta, and impressively even gets plugged into the central switch board of the home – literally running everything in the house.
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/YyMonPCxzog" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+As demonstrated above, it's very powerful, and is can definitely run anything in your household (add too much AC though, and it'll fade out). Definitely a fridge for keeping your meat cool if the power runs out, and other use cases.
+
+This could come in very handy during:
+* Backup
+* Power Outages
+* Hurricane Season
+* Wildfire Shutoffs
+* Earthquake kits
+* Blizzard backup
+* Camping
+* Boats
+* Back Yard Solar
+* RVs
+* Off-Grid Energy
+* Festivals
+
+
+
+
