@@ -10,7 +10,7 @@ Based off the learnings from [this midsize 1800W system](/solar-xantrex-kit-apar
 
 This system is big enough to run lower voltage space heaters (750W), fridges (200W), washers (energy star around 500W), A/C units (medium window unit 900W), though not all at once. With this, you will actually start saving some money – $134.37 per year to be precise. With that, the payback period for this system is around 6.75 years – after that you'll start "earning" money with free elctricity.
 
- All components should last that long, too: the battery is oversized (it can hold 3.6kWh, but the panels only generate 2.4kWh per day and we calculate using those full 2.4kWh per day ie. plugging in a 100W fridge for 24hours), as completely discharging a Deep Cycle battery will reduce it's life and prohibit getting to the full payback period 6.74 years, as learned from the [original 100W DIY apartment microgrid](/200-apartment-solar-system/)
+ All components should last that long, too: the battery is oversized (it can hold 3.6kWh, but the panels only generate 2.4kWh per day and we calculate using those full 2.4kWh per day ie. plugging in a 100W fridge for 24hours), as completely discharging a Deep Cycle battery will reduce it's life and prohibit getting to the full payback period 6.74 years, as learned from the [original 100W DIY apartment microgrid](/blog/200-apartment-solar-system/)
 
 ------
 # The calculations
