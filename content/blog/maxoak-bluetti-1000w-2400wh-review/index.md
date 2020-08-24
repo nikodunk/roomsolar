@@ -8,9 +8,9 @@ comments: true
 ---
 
 
-This is a very powerful portable generator, especially compared to competitors like the Goal Zero Yeti 3000. It's very similar to the Richsolar model we sell in our own kits (see the 1000W solar kit), so we thought we'd spread the love here.
+This is a very powerful portable generator, especially compared to competitors like the Goal Zero Yeti 3000. It is very similar to the 1000W Richsolar model [we sell in our own kits](https://sunboxlabs.com#kits), so we thought we'd review this model here. To be clear: these are the same generators often from the same factory in China (or another factory using the same moulds). US companies like us simply, Richsolar, Bluetti etc simply private-label them and deal with shipping, imports, distribution, etc.
 
-As demonstrated above, it's very powerful, and is bordering on being able to run anything in your household (maybe not an inefficient A/C, but everything else). Definitely a fridge.
+As demonstrated in the video below – it's very powerful. It is bordering on being able to run anything in your household (maybe not an inefficient A/C, but everything else). Definitely a fridge.
 
 <hr/>
 <div style="width: 100%; text-align: center">
