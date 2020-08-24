@@ -26,11 +26,6 @@ In the following I attempt to bypass both these problems by building a standalon
 
 
 
-
-
-
-
-
 ### A possible solution
 
 A windowsill solar system bought off Amazon solves both problems at once: Renters don’t need permission from their landlords to place things on their windowsill and rooftops if it’s not altering the building, and it’s a one-click Amazon purchase with no regulation as long as it’s not tied to the grid (which mine is designed not to be). Two birds with one stone. This makes the solar buying process more like buying a consumer electronic.
