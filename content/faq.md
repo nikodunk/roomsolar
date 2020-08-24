@@ -7,7 +7,7 @@ comments: true
 
 #### 1) How green are the kits we sell?
 
-Let's look at the example of how green the 1000W solar kit is: Compared to 1000W Honda Gas Backup Generators – yes. While they fire up all over the US during power outages and at RV parks, you will be emitting zero (and your fuel cost will be zero!). 
+Let us look at the example of how green the 1000W solar kit is. Compared to 1000W Honda Gas Backup Generators is the 1000W sunboxlabs kit green? The answer is a resounding "yes!". While gas generators fire up all over the US during power outages and at RV parks, you will be emitting zero (and your fuel cost will be zero!). 
 
 ##### Solar generator environmental footprint vs. a gas generator
 
