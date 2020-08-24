@@ -58,96 +58,62 @@ The Kit
 ### Solar Panel
 
 
-<script type="text/javascript">
-amzn_assoc_tracking_id = "gridlesskits-20";
-amzn_assoc_ad_mode = "manual";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_design = "enhanced_links";
-amzn_assoc_asins = "B07DNP14JY";
-amzn_assoc_placement = "adunit";
-amzn_assoc_linkid = "bd4d228bf695e23c932e01bdc28684dd";
-</script>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+<div style="width: 100%; text-align: center">
+  <a href="https://www.amazon.com/dp/B07DNP14JY/ref=as_li_ss_il?ie=UTF8&linkCode=li3&tag=gridlesskits-20&linkId=87223b0c9afae6afc319f3e5570a7e0b&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07DNP14JY&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=gridlesskits-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=gridlesskits-20&language=en_US&l=li3&o=1&a=B07DNP14JY" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <br/><br/><br/>
+  <a onclick="ga('send', 'event', 'Amazon Affiliate', 'clicked', '200Solar')" class="btn btn-primary btn-lg" target="_blank" style="background-color: orange; border: none" href="https://www.amazon.com/dp/B07DNP14JY/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=gridlesskits-20&linkId=5471c575905d3ddc3e5db437ffeb1fb6&language=en_US" >Check latest price on Amazon</a>
+</div>
+<hr/>
 
 
 ### Cable
 
-<script type="text/javascript">
-amzn_assoc_tracking_id = "gridlesskits-20";
-amzn_assoc_ad_mode = "manual";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_design = "enhanced_links";
-amzn_assoc_asins = "B017PI2OUS";
-amzn_assoc_placement = "adunit";
-amzn_assoc_linkid = "5f6d444601895263b862079d7dc2d8ca";
-</script>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+<div style="width: 100%; text-align: center">
+  <a href="https://www.amazon.com/dp/B017PI2OUS/ref=as_li_ss_il?ie=UTF8&linkCode=li3&tag=gridlesskits-20&linkId=dba78e3132d8873bd364f83876c1116e&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B017PI2OUS&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=gridlesskits-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=gridlesskits-20&language=en_US&l=li3&o=1&a=B017PI2OUS" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <br/><br/><br/>
+  <a onclick="ga('send', 'event', 'Amazon Affiliate', 'clicked', '200Solar')" class="btn btn-primary btn-lg" target="_blank" style="background-color: orange; border: none" href="https://www.amazon.com/dp/B017PI2OUS/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=gridlesskits-20&linkId=e7e63ccedf31a9d74dd9a6b8bde254ec&language=en_US" >Check latest price on Amazon</a>
+</div>
+<hr/>
+
 
 ### Solar Controller
 
-<script type="text/javascript">
-amzn_assoc_tracking_id = "gridlesskits-20";
-amzn_assoc_ad_mode = "manual";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_design = "enhanced_links";
-amzn_assoc_asins = "B073WQC558";
-amzn_assoc_placement = "adunit";
-amzn_assoc_linkid = "9d75b86e67f5f247b648d2a76b084f76";
-</script>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+<div style="width: 100%; text-align: center">
+  <a href="https://www.amazon.com/dp/B073WQC558/ref=as_li_ss_il?ie=UTF8&linkCode=li3&tag=gridlesskits-20&linkId=f087b583de3343bc9d3c91f4f182d80f&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B073WQC558&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=gridlesskits-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=gridlesskits-20&language=en_US&l=li3&o=1&a=B073WQC558" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <br/><br/><br/>
+  <a onclick="ga('send', 'event', 'Amazon Affiliate', 'clicked', '200Solar')" class="btn btn-primary btn-lg" target="_blank" style="background-color: orange; border: none" href="https://www.amazon.com/dp/B073WQC558/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=gridlesskits-20&linkId=5a02f34e92654fc0426c3549033a5632&language=en_US" >Check latest price on Amazon</a>
+</div>
+<hr/>
+
 
 ### Cable 2
 
-<script type="text/javascript">
-amzn_assoc_tracking_id = "gridlesskits-20";
-amzn_assoc_ad_mode = "manual";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_design = "enhanced_links";
-amzn_assoc_asins = "B000ND0WB6";
-amzn_assoc_placement = "adunit";
-amzn_assoc_linkid = "8d39a97ad4cdf49a5eb418fa1e32f372";
-</script>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+<div style="width: 100%; text-align: center">
+  <a href="https://www.amazon.com/dp/B000ND0WB6/ref=as_li_ss_il?ie=UTF8&linkCode=li3&tag=gridlesskits-20&linkId=e9456173d61a3a8b947706af6135848e&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B000ND0WB6&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=gridlesskits-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=gridlesskits-20&language=en_US&l=li3&o=1&a=B000ND0WB6" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <br/><br/><br/>
+  <a onclick="ga('send', 'event', 'Amazon Affiliate', 'clicked', '200Solar')" class="btn btn-primary btn-lg" target="_blank" style="background-color: orange; border: none" href="https://www.amazon.com/dp/B000ND0WB6/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=gridlesskits-20&linkId=28854196c90c1665934aa0a767f6405e&language=en_US" >Check latest price on Amazon</a>
+</div>
+<hr/>
 
 ### Lead-Acid Deep Cycle Battery
 
-<script type="text/javascript">
-amzn_assoc_tracking_id = "gridlesskits-20";
-amzn_assoc_ad_mode = "manual";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_design = "enhanced_links";
-amzn_assoc_asins = "B00K8E0WAG";
-amzn_assoc_placement = "adunit";
-amzn_assoc_linkid = "f400303cc05ace9f60e578eaf3911f83";
-</script>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+<div style="width: 100%; text-align: center">
+  <a href="https://www.amazon.com/dp/B00K8E0WAG/ref=as_li_ss_il?ie=UTF8&linkCode=li3&tag=gridlesskits-20&linkId=9e007e816d3d9669eeb4de45b4433aad&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00K8E0WAG&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=gridlesskits-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=gridlesskits-20&language=en_US&l=li3&o=1&a=B00K8E0WAG" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <br/><br/><br/>
+  <a onclick="ga('send', 'event', 'Amazon Affiliate', 'clicked', '200Solar')" class="btn btn-primary btn-lg" target="_blank" style="background-color: orange; border: none" href="https://www.amazon.com/dp/B00K8E0WAG/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=gridlesskits-20&linkId=5ec01d8ee25212984710b2d9fc05f5e0&language=en_US" >Check latest price on Amazon</a>
+</div>
+<hr/>
+
 
 ### Inverter
 
-<script type="text/javascript">
-amzn_assoc_tracking_id = "gridlesskits-20";
-amzn_assoc_ad_mode = "manual";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_design = "enhanced_links";
-amzn_assoc_asins = "B01NAUV18K";
-amzn_assoc_placement = "adunit";
-amzn_assoc_linkid = "8a2af36e20a65da19e8735d27af0de10";
-</script>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+<div style="width: 100%; text-align: center">
+  <a href="https://www.amazon.com/dp/B01NAUV18K/ref=as_li_ss_il?ie=UTF8&linkCode=li3&tag=gridlesskits-20&linkId=c4ad25f042cf8143a3fc2163c104c100&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01NAUV18K&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=gridlesskits-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=gridlesskits-20&language=en_US&l=li3&o=1&a=B01NAUV18K" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <br/><br/><br/>
+  <a onclick="ga('send', 'event', 'Amazon Affiliate', 'clicked', '200Solar')" class="btn btn-primary btn-lg" target="_blank" style="background-color: orange; border: none" href="https://www.amazon.com/dp/B01NAUV18K/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=gridlesskits-20&linkId=15e787accb5370fd81a69e14c5c987ad&language=en_US" >Check latest price on Amazon</a>
+</div>
+<hr/>
 
-Note: Turn off ad-blockers to see the images above or use the links instead
 
 --------
 
