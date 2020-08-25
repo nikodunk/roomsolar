@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Prepper 1200W solar + 1200Wh battery system: For PG&E outages in California, Florida, Puerto Rico Post-Hurricane, etc"
+title:  "Prepper 1200W solar w/ 1200Wh battery system for PG&E outages in California, Florida, Puerto Rico Post-Hurricane, etc"
 date:   2019-02-04 08:00:00 -0700
 image: "/img/money2.jpg"
 cost: "$1195.92"
@@ -9,7 +9,7 @@ type: "post"
 comments: true
 ---
 
-On Youtube, this product combination is currently very popular, as in the videos below. A lack of Gasoline in both Puerto Rico and Florida apparently lead to issues running gas generators there. The main upside to this is its unlimited fuel source. Video and full kit below. The two most popular battery/inverter/controller systems are the Goal Zero Yeti 1400 vs. the Inergy Kodiak systems. Videos to both below, and the Yeti (which is cheaper and similarly specced) linked below.
+On Youtube, this product combination is currently very popular as in the videos below. A lack of Gasoline in both Puerto Rico and Florida apparently lead to issues running gas generators there. The main upside to this is its unlimited fuel source. Video and full kit below. The two most popular battery/inverter/controller systems are the Goal Zero Yeti 1400 vs. the Inergy Kodiak systems. Videos to both below, and the Yeti (which is cheaper and similarly specced) linked below.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WFSWW_EjqnQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
