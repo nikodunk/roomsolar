@@ -7,6 +7,7 @@ cost: "$2,064.57"
 tags: ["solar", "xantrex", "apartment"]
 type: "post"
 comments: true
+aliases: [/solar-xantrex-kit-apartment/]
 ---
 
 

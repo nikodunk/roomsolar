@@ -7,6 +7,7 @@ cost: "$ "
 tags: ["solar", "apartment"]
 type: "post"
 comments: true
+aliases: [/200-apartment-solar-system/]
 ---
 
 

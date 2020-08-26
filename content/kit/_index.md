@@ -7,7 +7,7 @@ cost: "$ "
 tags: ["solar", "apartment"]
 type: "post"
 comments: true
-aliases: [/solar-xantrex-kit-apartment/, /kit/]
+aliases: [/kit/]
 ---
 
 

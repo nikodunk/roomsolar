@@ -7,6 +7,7 @@ cost: "$ "
 tags: ["solar", "festival"]
 type: "post"
 comments: true
+aliases: [/burning-man-solar/]
 ---
 
 

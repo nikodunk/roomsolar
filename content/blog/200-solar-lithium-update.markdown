@@ -7,6 +7,7 @@ cost: "lithiumPrice"
 tags: ["solar", "apartment"]
 type: "post"
 comments: true
+aliases: [/200-solar-lithium-update/]
 ---
 
 
