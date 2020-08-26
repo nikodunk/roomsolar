@@ -7,10 +7,13 @@ cost: "$12 - $999"
 tags: ["solar", "guide"]
 type: "post"
 comments: true
+aliases: [/what-will-solar-run/]
 ---
 
 
-A lot of questions we receive here are as to what you can charge and how far the energy will reach. I thought this would be worth a separate, more in-depth analysis.
+A lot of questions we receive here are as to what you can charge with the [$200 solar self sufficiency DIY kit](/blog/200-solar-apartment-system/) and how far the energy will reach. We thought this would be worth a separate, more in-depth analysis.
+
+**Please note that this only applies to the above 100W system, _not_ the new [300, 500 and 1000W kits](/) we sell ourselves. They can run most things**
 
 What adjustments would living off a single 420Wh system require of your lifestyle?
 Worst energy culprits in my household are roughly in order of energy use: hot water tank for showers, stove/kettle, transportation, air heating, air cooling, fridge, dishwasher, washer/dryer, lighting. Living off 420wh a day requires replacing the culprits with lower-power parts (often intended for car, RV or marine use). At this point this project becomes very similar to the original inspiration for these projects - Robin Rhineharts <a href="https://arstechnica.com/gadgets/2015/08/op-ed-how-i-gave-up-alternating-current/" target="_blank">How I gave up alternating current</a> (Robin Rhinehart is the founder of Soylent). Replacing high-energy AC appliances with low-energy DC ones to stay within the 420Wh "budget".
