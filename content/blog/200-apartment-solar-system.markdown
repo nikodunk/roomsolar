@@ -10,6 +10,7 @@ comments: true
 aliases: [/200-apartment-solar-system/]
 ---
 
+![](/img/TEASER.jpg)
 
 #### Building a solar micro-grid in my bedroom with parts from Amazon
 

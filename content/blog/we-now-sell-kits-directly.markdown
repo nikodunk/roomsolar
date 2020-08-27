@@ -9,6 +9,7 @@ type: "post"
 comments: true
 ---
 
+![](/banner.jpg)
 
 After watching the DIY home solar market for many years, we have now started selling kits directly. The prices for lithium powered batteries has come way down, as has the price for solar. 
 

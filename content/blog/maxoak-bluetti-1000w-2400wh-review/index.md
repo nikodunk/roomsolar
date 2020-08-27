@@ -8,6 +8,9 @@ comments: true
 ---
 
 
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/A9MVTWGvPho" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 This is a very powerful portable generator, especially compared to competitors like the Goal Zero Yeti 3000. It is very similar to the 1000W Richsolar model [we sell in our own kits](https://sunboxlabs.com#kits), so we decided to review this model here. To be clear: these are the same generators often from the same factory in China (or another factory using the same moulds). US companies like us, Richsolar, Bluetti etc simply private-label them and deal with shipping, imports, distribution, etc.
 
 As demonstrated in the video below – it's very powerful. It is bordering on being able to run anything in your household (maybe not an inefficient A/C, but everything else). Definitely a fridge.
@@ -25,13 +28,9 @@ The Maxoak Bluetti is a 1000W generator with a lithium polymer battery cell. It 
 
 It also offers users the option to charge the Maxoak Bluetti with solar panels, but they are not included in your initial purchase. You can reach a full charge in just 12 hours to power your household items for longer than the average product.
 
-
-The best video review of the Maxoak Bluetti we could find in 2020 out there right now is this one. 
-
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/A9MVTWGvPho" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
 You get everything you need right out of the box for an easy setup and the backup generator also features fancy capabilities such as an LCD display screen and more safeguards.
+
+![](maxoak_bluetti_youtube.jpg)
 
 ### Pros
 
@@ -63,4 +62,6 @@ This could come in very handy during:
 * Off-Grid Energy
 * Festivals
 
+-----
 
+Thanks for reading, and feel free to reach out if you have any comments. We are considering adding something this powerful to our [line-up](/), so let us know if you would be interested.

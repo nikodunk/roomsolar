@@ -10,6 +10,7 @@ comments: true
 aliases: [/burning-man-solar/]
 ---
 
+![](/img/money3.jpg)
 
 Burning Man is a crazy desert art festival and party in northern Nevada. It takes place on federal public lands and attracts about 60,000 people each year. Everything there is radically off-grid. You bring your own power, water and food and take everything with you again when you leave. Here's an aerial view of the city in the desert (dubbed Black Rock City) that springs up overnight for the festival:
 

@@ -7,6 +7,10 @@ type: "post"
 comments: true
 ---
 
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/YyMonPCxzog" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
 Originally started as a kickstarter campaign, this consistently ranks as one of the most-sold powerful generators out there.
 
 The excellent video review linked below covers the Ecoflow delta, and impressively even gets plugged into the central switch board of a home to run the whole home on backup. It literally runs everything in the house. But first, the product.
@@ -24,8 +28,7 @@ The Ecoflow Delta features a sleek and luxurious design that packs a lot of powe
 
 The backup generator has three rechargeable modes: with the lithium battery, solar panel or AC wall adapter. It doesn’t matter where you are, you never have to worry about running out of juice. 
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/YyMonPCxzog" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+![](ecoflow_review_youtube.jpg)
 
 The best part about the Ecoflow Delta is it charges to its full capacity in just 2 hours. This is due to the patented X-Stream Technology that allows the Delta to recharge at 10x the speed of regular generators.
 
@@ -58,4 +61,4 @@ This could come in very handy during:
 * Festivals
 
 
-Thanks for reading, and feel free to reach out if you have any comments!
+Thanks for reading, and feel free to reach out if you have any comments. We are considering adding something this powerful to our [line-up](/), so let us know if you would be interested.
