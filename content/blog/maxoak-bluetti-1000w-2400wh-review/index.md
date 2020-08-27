@@ -21,6 +21,33 @@ As demonstrated in the video below – it's very powerful. It is bordering on be
 <hr/>
 
 
+The Maxoak Bluetti is a 1000W generator with a lithium polymer battery cell. It features multiple outputs for a variety of products and can power devices like mini fridges to lights and fans. 
+
+It also offers users the option to charge the Maxoak Bluetti with solar panels, but they are not included in your initial purchase. You can reach a full charge in just 12 hours to power your household items for longer than the average product.
+
+
+The best video review of the Maxoak Bluetti we could find in 2020 out there right now is this one. 
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/A9MVTWGvPho" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+You get everything you need right out of the box for an easy setup and the backup generator also features fancy capabilities such as an LCD display screen and more safeguards.
+
+### Pros
+
+High power
+Longer life cycle
+Multiple outputs
+Can be solar recharged
+LCD display screen
+Safeguards
+Easy setup
+Auto shut-off after full charge
+
+### Why We Like It
+
+The Maxoak Bluetti has an auto shut-off function when the device is fully charged to prevent overheating.
+
 
 This could come in very handy during:
 * Backup
@@ -35,12 +62,5 @@ This could come in very handy during:
 * RVs
 * Off-Grid Energy
 * Festivals
-
-
-
-
-The best video review of the Maxoak Bluetti we could find in 2020 out there right now is this one. 
-
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/A9MVTWGvPho" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
