@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Prepper 1200W solar w/ 1200Wh battery system for PG&E outages in California, Florida, Puerto Rico Post-Hurricane, etc"
+title:  "Prepper 1200W solar with 1200Wh battery system for PG and E outages in California, Florida, Puerto Rico Post-Hurricane, etc"
 date:   2019-02-04 08:00:00 -0700
 image: "/img/money2.jpg"
 cost: "$1195.92"
