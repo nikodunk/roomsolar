@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Maxoak Bluetti 1000w 2400wh Review - 2020"
-date:   2020-06-23 08:00:00 -0700
+date:   2020-06-24 08:00:00 -0700
 image: "blog/maxoak-bluetti-1000w-2400wh-review/maxoak_bluetti_youtube.jpg"
 type: "post"
 comments: true
