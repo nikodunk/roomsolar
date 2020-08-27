@@ -1,77 +1,98 @@
 {{ if .IsHome -}}
 <script type="application/ld+json">
-{
-  "@context": "http://schema.org",
-  "@type": "WebSite",
-  "url": "{{ .Site.BaseURL }}",
-  {{ if .Site.Author.name -}}
-  "author": {
-    "@type": "Person",
-    "name": "{{ .Site.Author.name }}"
-  },
-  {{- end }}
-  {{ if .Site.Params.description -}}
-  "description": "{{ .Site.Params.description }}",
-  {{- end }}
-  {{ with .Site.Params.image -}}
-  "image": "{{ .url | absURL }}",
-  {{- end }}
-  {{ with .Site.Params.logo -}}
-  "thumbnailUrl": "{{ .url | absURL }}",
-  {{- end }}
-  {{ with .Site.Copyright -}}
-  "license": "{{ . }}",
-  {{- end }}
-  "name": "{{ .Site.Title }}"
-}
-</script>
+  {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Sunboxlabs 300W Solar Generator Kit",
+    "image": [
+      "https://sunboxlabs.com/img_3/header3.jpg"
+     ],
+    "description": "Sleeker than ACME's Classic Anvil, the Executive Anvil is perfect for the business traveler looking for something to drop from a height.",
+    "sku": "sb-1",
+    "mpn": "901343",
+    "brand": {
+      "@type": "Brand",
+      "name": "Sunboxlabs"
+    },
+    "review": {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5",
+        "bestRating": "5"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Niko Dunk"
+      }
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.7",
+      "reviewCount": "54"
+    },
+    "offers": {
+      "@type": "Offer",
+      "url": "https://sunboxlabs.com/",
+      "priceCurrency": "USD",
+      "price": "259.00",
+      "priceValidUntil": "2020-12-31",
+      "itemCondition": "https://schema.org/NewCondition",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "sunboxlabs"
+      }
+    }
+  }
+  </script>
 {{- else -}}
 <script type="application/ld+json">
-{
-  "@context": "http://schema.org",
-  "@type": "NewsArticle",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "{{ .Permalink }}"
-  },
-  "headline": "{{ .Title }}",
-  {{ if .Params.image -}}
-    "image": [
-      "{{ .Params.image | absURL }}"
-    ],
-  {{- end }}
-  {{ if not .PublishDate.IsZero -}}
-    "datePublished": {{ .PublishDate.Format "2006-01-02T15:04:05-07:00" | safeHTML }},
-  {{- else if not .Date.IsZero -}}
-    "datePublished": {{ .Date.Format "2006-01-02T15:04:05-07:00" | safeHTML }},
-  {{- end }}
-  {{ with .Lastmod -}}
-  "dateModified": {{ .Format "2006-01-02T15:04:05-07:00" | safeHTML }},
-  {{- end }}
-  {{ if .Params.author -}}
-  "author": {
-    "@type": "Person",
-    "name": "{{ .Params.author }}"
-  },
-  {{- else if .Site.Author.name -}}
-  "author": {
-    "@type": "Person",
-    "name": "{{ .Site.Author.name }}"
-  },
-  {{- end }}
-  {{ with .Site.Params.publisher -}}
-  "publisher": {
-    "@type": "Organization",
-    "name": "{{ .name }}",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "{{ .logo.url | absURL }}",
-      "width": {{ .logo.width }},
-      "height": {{ .logo.height }}
-    }
-  },
-  {{- end }}
-  "description": "{{ .Summary | plainify | safeHTML }}"
-}
-</script>
+  {
+    "@context": "http://schema.org",
+    "@type": "NewsArticle",
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "{{ .Permalink }}"
+    },
+    "headline": "{{ .Title }}",
+    {{ if .Params.image -}}
+      "image": [
+        "{{ .Params.image | absURL }}"
+      ],
+    {{- end }}
+    {{ if not .PublishDate.IsZero -}}
+      "datePublished": {{ .PublishDate.Format "2006-01-02T15:04:05-07:00" | safeHTML }},
+    {{- else if not .Date.IsZero -}}
+      "datePublished": {{ .Date.Format "2006-01-02T15:04:05-07:00" | safeHTML }},
+    {{- end }}
+    {{ with .Lastmod -}}
+    "dateModified": {{ .Format "2006-01-02T15:04:05-07:00" | safeHTML }},
+    {{- end }}
+    {{ if .Params.author -}}
+    "author": {
+      "@type": "Person",
+      "name": "{{ .Params.author }}"
+    },
+    {{- else if .Site.Author.name -}}
+    "author": {
+      "@type": "Person",
+      "name": "{{ .Site.Author.name }}"
+    },
+    {{- end }}
+    {{ with .Site.Params.publisher -}}
+    "publisher": {
+      "@type": "Organization",
+      "name": "{{ .name }}",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "{{ .logo.url | absURL }}",
+        "width": {{ .logo.width }},
+        "height": {{ .logo.height }}
+      }
+    },
+    {{- end }}
+    "description": "{{ .Summary | plainify | safeHTML }}"
+  }
+  </script>
 {{- end }}
