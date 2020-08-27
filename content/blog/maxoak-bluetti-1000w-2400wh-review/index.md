@@ -46,7 +46,7 @@ Auto shut-off after full charge
 
 ### Why We Like It
 
-The Maxoak Bluetti has an auto shut-off function when the device is fully charged to prevent overheating.
+The Maxoak Bluetti has an auto shut-off function when the device is fully charged to prevent overheating. It is very powerful for the price, and nevertheless portable. We think it is one of the best generators of this size on the market in 2020.
 
 
 This could come in very handy during:
