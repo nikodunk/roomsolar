@@ -1,13 +1,13 @@
 ---
 layout: foo
 title:  "The Landlord-Friendly, Self-Install Solar + Battery Kit for your off-grid Apartment, Condo, Balcony, Backup and Camping needs"
-date:   2020-01-20 08:00:00 -0700
-image: "/solar-kit/img/banner.jpg"
+date:   2020-05-28 08:00:00 -0700
+image: "/blog/solar-kit/img/banner.jpg"
 cost: "$ "
 tags: ["solar", "apartment"]
 type: "post"
 comments: true
-aliases: [/solar-xantrex-kit-apartment/]
+aliases: [/solar-kit/]
 ---
 
 ### The Landlord-Friendly, Self-Install Solar + Battery Kit for your off-grid Apartment, Condo, Balcony, Backup and Camping needs
@@ -34,12 +34,12 @@ Our new off-grid renewable energy micro-grid system is here! We tried to build t
   <div class="col-6">
     <img src="img/benefits3.png" class="icon" />
     <h4>Backup.</h4>
-    <p>Wildfires. Hurricanes. Blackouts. No worries.  Reliable, fuel-free power.</p>
+    <p>Wildfires. Hurricanes.Blackouts. No worries.  Reliable, fuel-free power.</p>
   </div>
   <div class="col-6">
     <img src="img/benefits4.png" class="icon" />
     <h4>Outdoors.</h4>
-    <p>Great portable system  for camping & outdoors.  Clean. No Noise. No trace.</p>
+    <p>Great portable system for camping & outdoors. Clean. No Noise. No trace.</p>
   </div>
   <div class="col-6">
     <img src="img/benefits5.png" class="icon" />
