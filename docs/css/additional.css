@@ -119,14 +119,16 @@ left: 0
 }
 
 
-.carousel-control-prev-icon,
+/* .carousel-control-prev-icon,
 .carousel-control-next-icon {
   height: 50px;
   width: 50px;
   background-size: 100%, 100%;
   background-color: white;
-}
+} */
 
+
+/* 
 .carousel-control-next-icon:after
 {
   content: '>';
@@ -138,7 +140,7 @@ left: 0
   content: '<';
   font-size: 30px;
   color: black;
-}
+} */
 
 
 .center{
