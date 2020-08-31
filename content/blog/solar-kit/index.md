@@ -1,5 +1,5 @@
 ---
-layout: foo
+layout: solarkit
 title:  "The Landlord-Friendly, Self-Install Solar Battery Generator Guide"
 date:   2020-05-28 08:00:00 -0700
 image: "/blog/solar-kit/img/banner.jpg"
@@ -58,7 +58,7 @@ If we look to the car, the smartphone, the window A/C unit — these devices spr
       </div>
       <hr/>
       <div class="col-12 mt-5">
-        <h4>Power anything up to 500W:</h4>
+        <h4>Power anything up to 300W:</h4>
         <img data-src="img/what_will_it_run_2.jpg" class="lazy">
         <img data-src="img/what_will_it_run.jpg" class="lazy">
         <p>Questions about whether it can run your device? Reach out!</p>
@@ -103,10 +103,10 @@ If we look to the car, the smartphone, the window A/C unit — these devices spr
       <div class="col-6 center">
         <img class="lazy" data-src="img/benefits7.png" class="icon" />
         <h4>18650 Cells</h4>
-        <p>Same lithium battery type used by Tesla. 540Wh of them.</p>
+        <p>Same lithium battery type used by Tesla. 300Wh of them.</p>
       </div>
       <div class="col-6 center">
-        <img class="lazy" data-src="img/benefits8.png" class="icon" />
+        <img class="lazy" data-src="img/benefits8 copy.png" class="icon" />
         <h4>Power</h4>
         <p>Run a mini-fridge. TV. Laptop. Lighting. Phone.</p>
       </div>
@@ -167,7 +167,7 @@ and plug them into the included 2-to-1 adapter...
 ...and plug that into our battery.
 <img class="lazy" data-src="img/ASSEMBLY8.jpg" />
 
-Close the window on the (thick) wires and you're good to go. We shall be offering a window transmission system soon, too. That's it! Plug in whatever you want to power (up to 500W) – and you're done!
+Close the window on the (thick) wires and you're good to go. We shall be offering a window transmission system soon, too. That's it! Plug in whatever you want to power (up to 300W) – and you're done!
 
 <img class="lazy" data-src="img/ASSEMBLY9.jpg" />
 
@@ -183,7 +183,7 @@ These are some of the places we've seen the sunboxlabs testing kits in action.
 
 #### Use case 1: Blackout Resilience & Power Outage Backup
 
-In case of brownouts or **blackouts**, this is be a helpful way of wirelessly charging communications devices without the grid. This 500W, 540Wh system can even keep full-size, 120W refrigerator running for 4 hours to conserve food, or 10 lights running 24 hours.
+In case of brownouts or **blackouts**, this is be a helpful way of wirelessly charging communications devices without the grid. This 300W, 300Wh system can even keep full-size, 120W refrigerator running for 4 hours to conserve food, or 10 lights running 24 hours.
 
 During a utility power outage backup for any reason – be it hurricanes or a scheduled wildfire blackout your sunboxlabs system can act as a clean, quiet backup generator. It's not "grid-tied", so you'll have to re-plug your device into the device's socket or move it near the device you want to run. We will offer an option to plug it into your central fuse-box soon, too.
 
@@ -237,7 +237,7 @@ Order your Mobile Apartment Solar Kits, and you'll receive in 2 boxes by us hand
 
 * **100W flexible solar panel** with standard MC4 connectors. incl. 4 x zip ties to attach to balcony/RV/rooftop/garden structure. Other attachments can be discussed.
 * **20ft solar cable** (2 cables - 1x 20ft positive, 20ft negative) with MC4 connectors on both sides.
-* **Indoor Storage Battery** with integrated MPPT solar charge controller, 540Wh of storage, a 500W Pure Sine inverter with two outputs (alternating current), 3 x USB-A, 1 x USB-C, 1 A/C out (220V, 110V, up to 500W). 3 x DC out, 1 DC solar in.
+* **Indoor Storage Battery** with integrated MPPT solar charge controller, 300Wh of storage, a 300W Pure Sine inverter with two outputs (alternating current), 3 x USB-A, 1 x USB-C, 1 A/C out (220V, 110V, up to 300W). 3 x DC out, 1 DC solar in.
 Personalized Zoom session with sunboxlabs founder for installation help.
 Money-back guarantee.
 
@@ -279,14 +279,14 @@ It'll take 3+ years of usage until this system is CO2 net-positive.
 
 What's the payback period for our solar battery system? Will it save me money?
 
-    Payback period for 100W, 540Wh system
-    System cost: $499
+    Payback period for 100W, 300Wh system
+    System cost: $399
 
     Yearly energy creation: 365d * 4.26hsun/d * 100W = 155kWh/y
 
     Yearly value creation: 155kWh/y * 15c/kWh = $24/y energy created
 
-    100W system payback period: $499 / $24 = 21 years until payback
+    100W system payback period: $399 / $24 = 21 years until payback
 
 In San Francisco, the payback is 10 years. The further south you are, or the more expensive energy is in your area, the shorter it'll be. This system will not save you money until after that, and even then is definitely not a "money-saver". It will however be more valuable in the event of backup generator needs, at camping/outdoors, and of course it's just generally cool to be independent from the grid and make your own renewable energy.
 
@@ -296,7 +296,7 @@ In San Francisco, the payback is 10 years. The further south you are, or the mor
 
 Short answer It can charge all your laptops and phones and run your speakers and power your lights. It's a powerful solar system with a powerful battery and inverter attached. It cannot run your iron or laundry, but it is enough to back up a full-size, family fridge for a 4 hours a day in summer if the power goes out, or easily power a mini-fridge at the beach for 24 hours. Have fun! :)
 
-Longer answer is in SF it'll make on average 4.26 * 100W = 426Wh (0.426kWh) per day. Of course in winter it'll make less (around 300Wh), in summer more (around 800Wh). Of that 540Wh will be stored. And if you're further north, maybe you will want a second panel for winters. And if you're further south, even in winter your batteries will always be full even when you're using energy all day from the system.
+Longer answer is in SF it'll make on average 4.26 * 100W = 426Wh (0.426kWh) per day. Of course in winter it'll make less (around 300Wh), in summer more (around 800Wh). Of that 300Wh will be stored. And if you're further north, maybe you will want a second panel for winters. And if you're further south, even in winter your batteries will always be full even when you're using energy all day from the system.
 
 Any questions? Get in contact above.
 
@@ -347,10 +347,10 @@ Panel:
 
 Battery:
 
-    Capacity: Lithium battery 50AH/540WH
-    Continuous Power: 500W
-    Over-load Protection: 550W±50W
-    Peak Output Power: 1000W
+    Capacity: Lithium battery 30AH/300WH
+    Continuous Power: 300W
+    Over-load Protection: 350W±50W
+    Peak Output Power: 500W
     Output Waveform: Pure sine wave
     DC Adapter Input Charge: DC 24V/3.75A
     AC Output Voltage: AC110V±10% 60Hz/AC220V± 10%
