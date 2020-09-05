@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Refunds, Returns and Warranty"
-type: "post"
 comments: true
 ---
 ### Refund Policy

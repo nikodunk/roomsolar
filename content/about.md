@@ -1,6 +1,5 @@
 ---
 layout: About
-date:   2019-06-20 08:00:00 -0700
 cost: "$"
 title: "About Us"
 comments: false

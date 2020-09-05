@@ -3,9 +3,9 @@
     <div class="card h-100">
         <div style="height: 200px; overflow: hidden">
             <a href="{{ .URL }}">
-                {{with .Params.image}}
-                <img class="img-fluid" src="{{ . | urlize | relURL }}" alt="A thumbnail image">
-                {{end}}
+
+                <img class="img-fluid" src="https://sunboxlabs.com/{{ .Params.image  }}" alt="A thumbnail image">
+
             </a>
         </div>
         <div class="card-body">

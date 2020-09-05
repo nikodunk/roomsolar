@@ -6,27 +6,10 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>sunboxlabs.com is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com.</copyright>
-    <lastBuildDate>Sat, 20 Jun 2020 08:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2020 08:00:00 -0700</lastBuildDate>
     
         <atom:link href="https://sunboxlabs.com/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Contact</title>
-      <link>https://sunboxlabs.com/contact/</link>
-      <pubDate>Sat, 20 Jun 2020 08:00:00 -0700</pubDate>
-      
-      <guid>https://sunboxlabs.com/contact/</guid>
-      <description>
-        Questions? Not sure about something? We would love to hear from you! Please email us at hello@sunboxlabs.com or below:
-Email Us    
-        <image>
-          <url></url>
-          <title>Contact</title>
-          <link></link>
-        </image>
-      </description>
-    </item>
     
     <item>
       <title>The Landlord-Friendly, Self-Install Solar Battery Generator Guide</title>
@@ -34,38 +17,6 @@ Email Us
       <pubDate>Mon, 20 Jan 2020 08:00:00 -0700</pubDate>
       
       <guid>https://sunboxlabs.com/kit/</guid>
-      <description>
-        The problem Apartment renters need the landlord’s permission to install anything on their rooftops. This makes installing solar difficult for people who rent. Because most of the world lives in urbanized areas where renting is common, I think this is a problem standing in the way of solar adoption.
-        <image>
-          <url>/solar-kit/img/banner.jpg</url>
-          <title>The Landlord-Friendly, Self-Install Solar Battery Generator Guide</title>
-          <link>/solar-kit/img/banner.jpg</link>
-        </image>
-      </description>
-    </item>
-    
-    <item>
-      <title>The Landlord-Friendly, Self-Install Solar Battery Generator Guide</title>
-      <link>https://sunboxlabs.com/solar-kit-1000/</link>
-      <pubDate>Mon, 20 Jan 2020 08:00:00 -0700</pubDate>
-      
-      <guid>https://sunboxlabs.com/solar-kit-1000/</guid>
-      <description>
-        The problem Apartment renters need the landlord’s permission to install anything on their rooftops. This makes installing solar difficult for people who rent. Because most of the world lives in urbanized areas where renting is common, I think this is a problem standing in the way of solar adoption.
-        <image>
-          <url>/solar-kit/img/banner.jpg</url>
-          <title>The Landlord-Friendly, Self-Install Solar Battery Generator Guide</title>
-          <link>/solar-kit/img/banner.jpg</link>
-        </image>
-      </description>
-    </item>
-    
-    <item>
-      <title>The Landlord-Friendly, Self-Install Solar Battery Generator Guide</title>
-      <link>https://sunboxlabs.com/solar-kit-300/</link>
-      <pubDate>Mon, 20 Jan 2020 08:00:00 -0700</pubDate>
-      
-      <guid>https://sunboxlabs.com/solar-kit-300/</guid>
       <description>
         The problem Apartment renters need the landlord’s permission to install anything on their rooftops. This makes installing solar difficult for people who rent. Because most of the world lives in urbanized areas where renting is common, I think this is a problem standing in the way of solar adoption.
         <image>
@@ -88,22 +39,6 @@ Email Us
           <url>/solar-kit/img/banner.jpg</url>
           <title>The Landlord-Friendly, Self-Install Solar Battery Generator Guide</title>
           <link>/solar-kit/img/banner.jpg</link>
-        </image>
-      </description>
-    </item>
-    
-    <item>
-      <title>About Us</title>
-      <link>https://sunboxlabs.com/about/</link>
-      <pubDate>Thu, 20 Jun 2019 08:00:00 -0700</pubDate>
-      
-      <guid>https://sunboxlabs.com/about/</guid>
-      <description>
-        Satellite Photo by Paweł Czerwiński | Air Conditioner Photo by Chromatograph   If we look to the car, the smartphone, the window A/C unit — these devices spread like wildfire across the globe because they were off-the-shelf products that required no configuration but great benefits.
-        <image>
-          <url></url>
-          <title>About Us</title>
-          <link></link>
         </image>
       </description>
     </item>
@@ -135,6 +70,71 @@ Email Us
         <image>
           <url></url>
           <title>Thank you for your order</title>
+          <link></link>
+        </image>
+      </description>
+    </item>
+    
+    <item>
+      <title>The Landlord-Friendly, Self-Install Solar Battery Generator Guide</title>
+      <link>https://sunboxlabs.com/solar-kit-1000/</link>
+      <pubDate>Wed, 20 Jan 2010 08:00:00 -0700</pubDate>
+      
+      <guid>https://sunboxlabs.com/solar-kit-1000/</guid>
+      <description>
+        The problem Apartment renters need the landlord’s permission to install anything on their rooftops. This makes installing solar difficult for people who rent. Because most of the world lives in urbanized areas where renting is common, I think this is a problem standing in the way of solar adoption.
+        <image>
+          <url>/solar-kit/img/banner.jpg</url>
+          <title>The Landlord-Friendly, Self-Install Solar Battery Generator Guide</title>
+          <link>/solar-kit/img/banner.jpg</link>
+        </image>
+      </description>
+    </item>
+    
+    <item>
+      <title>The Landlord-Friendly, Self-Install Solar Battery Generator Guide</title>
+      <link>https://sunboxlabs.com/solar-kit-300/</link>
+      <pubDate>Wed, 20 Jan 2010 08:00:00 -0700</pubDate>
+      
+      <guid>https://sunboxlabs.com/solar-kit-300/</guid>
+      <description>
+        The problem Apartment renters need the landlord’s permission to install anything on their rooftops. This makes installing solar difficult for people who rent. Because most of the world lives in urbanized areas where renting is common, I think this is a problem standing in the way of solar adoption.
+        <image>
+          <url>/solar-kit/img/banner.jpg</url>
+          <title>The Landlord-Friendly, Self-Install Solar Battery Generator Guide</title>
+          <link>/solar-kit/img/banner.jpg</link>
+        </image>
+      </description>
+    </item>
+    
+    <item>
+      <title>About Us</title>
+      <link>https://sunboxlabs.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sunboxlabs.com/about/</guid>
+      <description>
+        Satellite Photo by Paweł Czerwiński | Air Conditioner Photo by Chromatograph   If we look to the car, the smartphone, the window A/C unit — these devices spread like wildfire across the globe because they were off-the-shelf products that required no configuration but great benefits.
+        <image>
+          <url></url>
+          <title>About Us</title>
+          <link></link>
+        </image>
+      </description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://sunboxlabs.com/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sunboxlabs.com/contact/</guid>
+      <description>
+        Questions? Not sure about something? We would love to hear from you! Please email us at hello@sunboxlabs.com or below:
+Email Us    
+        <image>
+          <url></url>
+          <title>Contact</title>
           <link></link>
         </image>
       </description>

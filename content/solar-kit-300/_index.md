@@ -1,11 +1,11 @@
 ---
 layout: solarkit300
 title:  "The Landlord-Friendly, Self-Install Solar Battery Generator Guide"
-date:   2020-01-20 08:00:00 -0700
+date:   2010-01-20 08:00:00 -0700
 image: "/solar-kit/img/banner.jpg"
 cost: "$ "
 tags: ["solar", "apartment"]
-type: "post"
+
 comments: true
 ---
 

@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Shipping"
-type: "post"
 comments: true
 ---
 

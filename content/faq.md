@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Frequently Asked Questions"
-type: "post"
 comments: true
 ---
 

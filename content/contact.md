@@ -1,6 +1,5 @@
 ---
 layout: Contact
-date:   2020-06-20 08:00:00 -0700
 title: "Contact"
 ---
 
