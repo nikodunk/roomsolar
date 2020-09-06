@@ -240,7 +240,7 @@ Order your Mobile Apartment Solar Kits, and you'll receive in 2 boxes by us hand
 Personalized Zoom session with sunboxlabs founder for installation help.
 Money-back guarantee.
 
-<img class="lazy" data-src="img/components.jpg" />
+<img class="lazy" data-src="img/components2.jpg" />
 
 
 -----
