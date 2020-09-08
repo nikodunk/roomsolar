@@ -12,6 +12,14 @@ a:hover {
     text-decoration: none;
 }
 
+
+.carousel-control-prev, .carousel-control-next {
+    background-color: black; 
+    height: 50px; 
+    max-width: 50px; 
+    margin-top: 30%;
+  }
+  
 pre {
     -moz-box-sizing: border-box;
     box-sizing: border-box;

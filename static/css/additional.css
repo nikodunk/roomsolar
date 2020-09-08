@@ -118,29 +118,12 @@ left: 0
   border-right: 0
 }
 
-
-/* .carousel-control-prev-icon,
-.carousel-control-next-icon {
-  height: 50px;
-  width: 50px;
-  background-size: 100%, 100%;
-  background-color: white;
-} */
-
-
-/* 
-.carousel-control-next-icon:after
-{
-  content: '>';
-  font-size: 30px;
-  color: black;
+.carousel-control-prev, .carousel-control-next {
+  background-color: black !important; 
+  height: 50px ; 
+  max-width: 50px; 
+  margin-top: 30%;
 }
-
-.carousel-control-prev-icon:after {
-  content: '<';
-  font-size: 30px;
-  color: black;
-} */
 
 
 .center{
