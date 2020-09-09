@@ -2,7 +2,7 @@
 layout: post
 title:  "Ecoflow Delta 1800W 2400Wh Review 2020"
 date:   2020-09-03 08:00:00 -0700
-image: "blog/ecoflow-delta-1800W-2400Wh-Review-2020/ecoflow_review_youtube.jpg"
+image: "blog/ecoflow-delta-1800w-2400wh-review-2020/ecoflow_review_youtube.jpg"
 type: "post"
 comments: true
 ---
