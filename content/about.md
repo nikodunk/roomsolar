@@ -51,9 +51,9 @@ comments: false
             <div style="padding: 10px">
                 <a style="color: inherit" href="https://www.reddit.com/r/geek/comments/6ov9oc/200_solar_selfsufficiency_without_your_landlord/" target="_blank"><img src="/img/press2.png" style="max-height: 39px"></a>
             </div>
-            <div style="padding: 10px">
+            <!-- <div style="padding: 10px">
                 <a style="color: inherit" href="/img/bilanz.jpg" target="_blank"><img src="/img/press4.png" style="max-height: 39px"></a>
-            </div>
+            </div> -->
         </div>
     </div>
 </div>    
