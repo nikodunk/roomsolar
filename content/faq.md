@@ -131,7 +131,7 @@ Longer answer is in SF it'll make on average 4.26 * 400W = 1,704Wh (1.7kWh) per 
 Any questions? Get in contact above.
 
 
-#### 9) Where can I put the panel?
+#### 9) Where can use the solar panel and solar generator?
 
 Here are our main suggestions but you can get creative! Let the sunlight inspire you!
 
@@ -146,3 +146,44 @@ Here are our main suggestions but you can get creative! Let the sunlight inspire
 * Van-Living
 * Tiny houses
 * Boats
+
+**1. Car Camping**
+Most people immediately think about camping when solar generators are mentioned. It doesn’t matter if you’re looking to go off grid for a few months or just a fun weekend camping trip in the wilderness, a solar generator is a useful tool to keep with you so you never have to worry about running out of juice.
+
+**2. Sleeping in Your Van on Weekends**
+Are you between houses or caught in an emergency and need to spend a night or two in your van? In this case, don’t forget your solar generator! A car or van battery is no match for advanced equipment such as this and your generator can definitely offer long charges and battery life.
+
+**3. Living in an RV**
+An RV is luxurious camping if you ask us. But it doesn’t matter what amenities your new recreational vehicle comes with if you don’t have the battery to power everything. As said, vehicle batteries are no match for a solar generator, so if you love camping, you definitely need to pick one up.
+
+**4. Skoolie Transformation**
+Most of us are striving to make smaller environmental footprints and with housing prices skyrocketing, a shipping crate abode or skoolie houses are great options. For those of you that don’t know, a skoolie is a school bus renovated to become a livable residence.
+
+Indoor plumbing and power may be hard to come by in this case, so your best bet is a solar generator. Not to mention, it will also eliminate some parts of your carbon footprint and is better for the environment as a whole since it utilizes solar power.
+
+**5. Off-Grid House**
+Sometimes you just need to get away for a bit – or for a long time. Off-grid houses such as secluded cabins may need an external power source to make living comfortable. In cases like this, a solar generator is a great choice. They are portable devices that can pretty much supply you power whenever you need it.
+
+Power is always a limiting factor for your range. Many people have shore power anxiety, or have large generators that destroy the otherwise tranquil nature you went out to seek peace in.
+
+**6. PG&E Shutoffs**
+There are many reasons why PG&E may temporarily shut off power. Depending on where you live, you may be faced with severe weather conditions, fire threats, or other natural or man-made issues that may threaten public safety.
+
+If the location of a part of the electric system is at stake, PG&E may decide to shut it off. In these cases, having a backup solar generator won’t leave you in the dust. You will still have access to power to charge your devices.
+
+**7. Power Outages During Wildfire Season**
+Most of us are familiar with the wildfires that devastated California last year. In these extreme cases, power outages can be inevitable. For this reason, the presence of a solar generator can offer you access to electricity regardless of outside conditions.
+
+**8. Hurricanes**
+Unfortunately, for some southern USA states, hurricane warnings come every year. Only a few of us have lived through the full impact of these storms, and many of us will say we wish we had access to electricity.
+
+A preventative measure for when the next hurricane hits is to invest in a solar generator. This way, the machine can keep you protected during a storm.
+
+**9. Blackouts in General**
+Blackouts happen sometimes due to the failure of power grids. You can never really predict when they will hit, so to have a backup solar generator means you will always be ready.
+
+**10. Preserving the Contents of your Fridge**
+Solar generators come in different sizes and can keep small items like lightbulbs running to powering all your appliances. To guarantee the safety and freshness of the food in your fridge, a solar generator can keep things cool during a power outage.
+
+**11. Keeping Your Wi-Fi Working and Your Phone Charged**
+During disasters, people fear for the safety of their loved ones. Having working phones and computers is essential to reaching out to family and friends. A backup solar generator will keep your Wi-Fi running.
