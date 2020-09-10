@@ -19,8 +19,6 @@ The Goal Zero Yeti 400 is a stylish portable generator that can charge up to 7 d
 It can charge anything from your mobile devices to small appliances and lights. What’s great about gas-free solar generators is that they are silent, without fumes, little to no maintenance and are overall better for the environment.
 
 
-
-
 This solar generator was designed and created by power station experts for a sturdy build and reliable performance. 
 
 You can charge your Goal Zero Yeti 3 different ways – from an A/C charger, solar panels or a car charger.
