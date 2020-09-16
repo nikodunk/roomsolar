@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Embrace the Future when you Install Solar Panels"
+title:  "Embrace the Future when you install Solar Panels"
 date:   2020-09-16 08:00:00 -0700
 image: "blog/embrace-the-future-when-you-install-solar-panels/embrace-the-future-when-you-install-solar-panels.jpg"
 type: "post"
