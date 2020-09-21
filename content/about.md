@@ -38,7 +38,7 @@ comments: false
         <h2>As seen on</h2>
         <div style="margin: 0 auto; display: flex; flex-wrap: wrap; justify-content: space-around;">
          <div style="padding: 10px">
-                <a style="color: inherit" href="https://myemail.constantcontact.com/Sustainability-Hub-Newsletter-9-10.html?soid=1134523489002&aid=IOkD9z9RbRg" target="_blank"><img src="/img/press5.png" style="max-height: 39px"></a>
+                <a style="color: inherit" href="https://conta.cc/3hLT8lD" target="_blank"><img src="/img/press5.png" style="max-height: 39px"></a>
             </div>
             <div style="padding: 10px">
                 <a style="color: inherit" href="https://porch.com/advice/embrace-future-install-solar-panels-roof" target="_blank"><img src="/img/press6.png" style="max-height: 39px"></a>
