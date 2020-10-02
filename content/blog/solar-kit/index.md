@@ -6,7 +6,6 @@ image: "/blog/solar-kit/img/banner.jpg"
 cost: "$ "
 tags: ["solar", "apartment"]
 type: "post"
-aliases: [/solar-kit/]
 comments: true
 ---
 

@@ -1,0 +1,8 @@
+{
+    "redirects": [
+        {
+            "source": "/solar-kit/",
+            "destination": "/blog/solar-kit/"
+        }
+    ]
+}
