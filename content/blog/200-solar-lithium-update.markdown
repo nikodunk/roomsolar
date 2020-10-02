@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Simplified 100W Micro Solar w/ 150Wh Li-Po Battery kit"
+title:  "Simplified 100W Micro Solar with 150Wh Li-Po Battery kit"
 date:   2018-02-15 08:00:00 -0700
 image: "/img/v2/icon_lithium.jpg"
 cost: "lithiumPrice"
