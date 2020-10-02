@@ -7,6 +7,22 @@
         {
             "source": "/2017/06/20/200-apartment-solar-system.html",
             "destination": "/blog/200-apartment-solar-system"
+        },
+        {
+            "source": "/200-apartment-solar-system",
+            "destination": "/blog/200-apartment-solar-system"
+        },
+        {
+            "source": "/blog/200-solar-apartment-system/",
+            "destination": "/blog/200-apartment-solar-system"
+        },
+        {
+            "source": "/2017/06/20/200-apartment-solar-system.html",
+            "destination": "/blog/200-apartment-solar-system"
+        },
+        {
+            "source": "/2017/06/20/200-apartment-solar-system.html",
+            "destination": "/blog/200-apartment-solar-system"
         }
     ]
 }
