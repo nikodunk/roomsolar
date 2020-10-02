@@ -11,7 +11,7 @@ comments: false
 <div class="main-content">
     <section class="recent-posts">            
         <div class="section-title">   
-        Sunboxlabs was started in 2017 when Niko, our founder, was living in a rented San Francisco apartment and ran into a problem installing solar: He couldn't get panels on his roof because he needed his landlord's approval. Plus, installing rooftop solar and wiring it to the fuse box would need to be undone next time he moved. 
+        Sunboxlabs was started in 2017 when Niko, our founder, was living in a rented San Francisco apartment and ran into a problem installing solar: He could not put panels on his roof because he needed approval from his landlord. Plus, installing rooftop solar and wiring it to the fuse box would need to be undone next time he moved. 
 		<br/><br/>
         He needed solar to be mobile, easy and uncomplicated. Then he had an idea: What if personal solar power was a consumer electronic you could order online and install yourself? That's when he started writing about, then making it easier to buy solar panel kits which have since been used for camping, RVs, van-life, festivals, backup power after extreme weather and of course in urban apartments.
         <br/><br/>
