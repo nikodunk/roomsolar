@@ -13,6 +13,10 @@
             "destination": "/blog/200-apartment-solar-system"
         },
         {
+            "source": "/200-apartment-solar-system/",
+            "destination": "/blog/200-apartment-solar-system"
+        },
+        {
             "source": "/blog/200-solar-apartment-system/",
             "destination": "/blog/200-apartment-solar-system"
         },
@@ -23,6 +27,30 @@
         {
             "source": "/2017/06/20/200-apartment-solar-system.html",
             "destination": "/blog/200-apartment-solar-system"
+        },
+        {
+            "source": "/burning-man-solar/",
+            "destination": "/blog/burning-man-solar"
+        },
+        {
+            "source": "/2017/10/01/burning-man-solar-2.html",
+            "destination": "/blog/burning-man-solar"
+        },
+        {
+            "source": "/2017/09/06/burning-man-update.html",
+            "destination": "/blog/burning-man-solar"
+        },
+        {
+            "source": "/prepper-offgrid-home-kit/",
+            "destination": "/blog/prepper-offgrid-home-kit"
+        },
+        {
+            "source": "/2017/10/09/hurricane.html",
+            "destination": "/blog/prepper-offgrid-home-kit"
+        },
+        {
+            "source": "/diy-solar-for-hurricane/",
+            "destination": "/blog/prepper-offgrid-home-kit"
         }
     ]
 }

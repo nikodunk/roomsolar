@@ -7,7 +7,6 @@ cost: "$ "
 tags: ["solar", "festival"]
 type: "post"
 comments: true
-aliases: [/burning-man-solar/, /2017/10/01/burning-man-solar-2.html, /2017/09/06/burning-man-update.html]
 ---
 
 ![](/img/money3.jpg)

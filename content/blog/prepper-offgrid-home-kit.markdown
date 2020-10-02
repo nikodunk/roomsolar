@@ -7,7 +7,6 @@ cost: "$1195.92"
 tags: ["solar", "emergency", "hurricane", "florida", "california", "prepper"]
 type: "post"
 comments: true
-aliases: [/prepper-offgrid-home-kit/, /2017/10/09/hurricane.html, /diy-solar-for-hurricane/]
 ---
 
 On Youtube, this product combination is currently very popular as in the videos below. A lack of Gasoline in both Puerto Rico and Florida apparently lead to issues running gas generators there. The main upside to this is its unlimited fuel source. Video and full kit below. The two most popular battery/inverter/controller systems are the Goal Zero Yeti 1400 vs. the Inergy Kodiak systems. Videos to both below, and the Yeti (which is cheaper and similarly specced) linked below.
