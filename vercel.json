@@ -51,6 +51,34 @@
         {
             "source": "/diy-solar-for-hurricane/",
             "destination": "/blog/prepper-offgrid-home-kit"
+        },
+        {
+            "source": "/200-solar-version-2-simplified-lithium/",
+            "destination": "/blog/200-solar-lithium-update"
+        },
+        {
+            "source": "/200-solar-lithium-update/",
+            "destination": "/blog/200-solar-lithium-update"
+        },
+        {
+            "source": "/2017/09/30/box-update.html",
+            "destination": "/blog/200-solar-lithium-update"
+        },
+        {
+            "source": "/200-solar-version-2-simplified-lithium/",
+            "destination": "/blog/200-solar-lithium-update"
+        },
+        {
+            "source": "/2018/02/15/version-2-simplified.html",
+            "destination": "/blog/200-solar-lithium-update"
+        },
+        {
+            "source": "/200-solar-version-2-simplified-lithium/",
+            "destination": "/blog/200-solar-lithium-update"
+        },
+        {
+            "source": "/2017/10/09/hurricane.html",
+            "destination": "/blog/200-solar-lithium-update"
         }
     ]
 }
