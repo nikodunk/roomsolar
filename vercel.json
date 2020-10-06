@@ -5,6 +5,10 @@
             "destination": "/blog/solar-kit/"
         },
         {
+            "source": "/kit/",
+            "destination": "/blog/solar-kit/"
+        },
+        {
             "source": "/solar-kit/",
             "destination": "/blog/solar-kit/"
         },
