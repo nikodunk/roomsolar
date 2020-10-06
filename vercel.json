@@ -1,6 +1,10 @@
 {
     "redirects": [
         {
+            "source": "/kit",
+            "destination": "/blog/solar-kit/"
+        },
+        {
             "source": "/solar-kit/",
             "destination": "/blog/solar-kit/"
         },
