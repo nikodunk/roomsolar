@@ -19,7 +19,7 @@ comments: false
         <br/><br/>
             <div class="row">
               <div class="col-12">
-                <img src="https://sunboxlabs.com/solar-kit/img/SOLUTION.jpg">
+                <img src="https://sunboxlabs.com/blog/solar-kit/img/SOLUTION.jpg">
               </div>
               <span style="text-align: center; width: 100%">Solar as a modular consumer electronic - like satellite dishes and air conditioning?</span>
               <small style="text-align: center; width: 100%">(Satellite Photo by Paweł Czerwiński | Air Conditioner Photo by Chromatograph)</small>
