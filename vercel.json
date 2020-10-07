@@ -13,6 +13,10 @@
             "destination": "/blog/solar-kit/"
         },
         {
+            "source": "/solar-kit",
+            "destination": "/blog/solar-kit/"
+        },
+        {
             "source": "/2017/06/20/200-apartment-solar-system.html",
             "destination": "/blog/200-apartment-solar-system/"
         },
