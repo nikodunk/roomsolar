@@ -589,12 +589,8 @@ twq('init','o3znq');
   }
 
   function addCoupon() {
-    var x = document.getElementById("coupon");
-    if (x.style.display === "none") {
-      x.style.display = "block";
-    } else {
-      x.style.display = "none";
-    }
+    let couponCode = 'foo'
+    fetch('https://sunboxlabs.vercel.app/api/coupon?name=' + couponCode)
   }
 
   var button1 = document.getElementById('buy1');

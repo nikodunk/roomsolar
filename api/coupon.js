@@ -2,7 +2,8 @@
 
 module.exports = async (req, res) => {
   try {
-    res.send('this is the coupon: ', req.body.coupon)
+    const { name } = req.query
+  	res.status(200).send(`Hello ${name}!`)
   } catch(error){
     console.log(error);
     res.end()
