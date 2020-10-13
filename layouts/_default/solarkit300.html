@@ -145,7 +145,12 @@
         </ul>
       </small>
     </div>
-    <small>Have a coupon code from one of our partners? Email us at hello@sunboxlabs.com :)</small>
+    Coupon code? <a onclick="myFunction()">Add it
+      here</a></span>
+    <div id="coupon" style="display: none">
+      <input />
+      <button onclick="addCoupon()">Add</button>
+    </div>
   </div>
 
   <div class="col-12 col-md-8">
@@ -574,6 +579,24 @@ twq('init','o3znq');
 
 
 <script type="text/javascript">
+  function myFunction() {
+    var x = document.getElementById("coupon");
+    if (x.style.display === "none") {
+      x.style.display = "block";
+    } else {
+      x.style.display = "none";
+    }
+  }
+
+  function addCoupon() {
+    var x = document.getElementById("coupon");
+    if (x.style.display === "none") {
+      x.style.display = "block";
+    } else {
+      x.style.display = "none";
+    }
+  }
+
   var button1 = document.getElementById('buy1');
   button1.addEventListener(
     'click',
