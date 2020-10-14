@@ -2,7 +2,7 @@
 
 module.exports = async (req, res) => {
   try {
-    const { code } = req.query
+    let { code } = req.query
     let response = false
     code = code.toLowerCase()
     if(code === 'resource'){
