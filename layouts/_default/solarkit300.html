@@ -116,10 +116,13 @@
       <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
         <input type="hidden" name="cmd" value="_s-xclick">
         <input type="hidden" name="hosted_button_id" value="NUYLV26BA63FA">
-        <select name="os0" style="display: none; margin-bottom: 30px !important" class="form-control">
-          <option value="1 Solar Panel (3h sun to full)">1 Solar Panel (3h sun to full) $399 USD
-          <option value="No Solar Panel (outlet only)">No Solar Panel (outlet only) $259 USD</option>
+        <select name="os0" style="display: none; margin-bottom: 30px !important" id="paypalSelector"
+          class="form-control">
+          <option value="1 Solar Panel (3h sun to full)">1 Solar Panel (3h sun to full) $399 </option>
+          <option value="1 Solar Panel (3h sun to full) with Coupon">1 Solar Panel (3h sun to full) with Coupon $379
+          </option>
         </select>
+        <input type=”hidden” style="display: none" name=”custom” value="" id="finalCode">
         <input type="hidden" name="currency_code" value="USD">
         <button id="buy1" class="btn btn-block btn-lg btn-primary shadows" type="submit" name="submit">
           ☀️ Buy Now for $399 〉&nbsp;<img src="https://sunboxlabs.com/kit/img/paypal.png" style="height: 12px;" />
@@ -127,6 +130,7 @@
         <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
         <span style="color: grey; text-align: center">Free shipping. </span>
       </form>
+
 
     </div>
     <br />
@@ -144,13 +148,13 @@
         </ul>
       </small>
     </div>
-    Coupon code? <a onclick="myFunction()">Add it
-      here</a></span>
+    Coupon code? <a onclick="showCouponInput()">Add it
+      here ⌄</a></span>
     <div id="coupon" style="display: none">
       <input id="couponCode" />
       <button onclick="addCoupon()">Add</button>
-      <span style="color: red; display: none" id="errorCoupon">Error adding coupon</span>
-      <span style="color: green; display: none" id="successCoupon">Coupon successfully added. Press checkout to see
+      <span style="color: red; display: none;" id="errorCoupon">Invalid code</span>
+      <span style="color: green; display: none;" id="successCoupon">Code successfully added. Press checkout to see
         updated price.</span>
     </div>
   </div>
@@ -526,7 +530,7 @@
           </option>
         </select>
         <input type="hidden" name="currency_code" value="USD">
-        <button id="buy1" class="btn btn-block btn-lg btn-primary shadows" type="submit" name="submit">
+        <button id="buy2" class="btn btn-block btn-lg btn-primary shadows" type="submit" name="submit">
           ☀️ Buy Now for $399 〉&nbsp;<img src="https://sunboxlabs.com/kit/img/paypal.png" style="height: 12px;" />
         </button>
         <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
@@ -581,7 +585,7 @@ twq('init','o3znq');
 
 
 <script type="text/javascript">
-  function myFunction() {
+  function showCouponInput() {
     var x = document.getElementById("coupon");
     if (x.style.display === "none") {
       x.style.display = "block";
@@ -592,14 +596,20 @@ twq('init','o3znq');
 
   function addCoupon() {
     let couponCode = document.getElementById('couponCode').value
-    fetch('/api/coupon?code=' + couponCode).then(res => {
-      if (res === true) {
-        document.getElementById('successCoupon').style.display === 'block'
-        document.getElementById('errorCoupon').style.display === 'hidden'
+    fetch('https://sunboxlabs.com/api/coupon?code=' + couponCode).then(res => res.json()).then(json => {
+      console.log(json)
+      if (json === true) {
+        document.getElementById('successCoupon').style.display = 'block'
+        document.getElementById('errorCoupon').style.display = 'none'
+        document.getElementById('paypalSelector').value = '1 Solar Panel (3h sun to full) with Coupon'
+        document.getElementById('finalCode').value = couponCode
+        document.getElementById('buy1').innerText = document.getElementById('buy1').innerText.replace('399', '379')
       }
       else {
-        document.getElementById('errorCoupon').style.display === 'block'
-        document.getElementById('successCoupon').style.display === 'hidden'
+        document.getElementById('errorCoupon').style.display = 'block'
+        document.getElementById('successCoupon').style.display = 'none'
+        document.getElementById('paypalSelector').value = '1 Solar Panel (3h sun to full)'
+        document.getElementById('finalCode').value = ""
       }
     })
   }
