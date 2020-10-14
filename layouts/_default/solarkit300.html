@@ -119,7 +119,6 @@
         <select name="os0" style="display: none; margin-bottom: 30px !important" class="form-control">
           <option value="1 Solar Panel (3h sun to full)">1 Solar Panel (3h sun to full) $399 USD
           <option value="No Solar Panel (outlet only)">No Solar Panel (outlet only) $259 USD</option>
-          </option>
         </select>
         <input type="hidden" name="currency_code" value="USD">
         <button id="buy1" class="btn btn-block btn-lg btn-primary shadows" type="submit" name="submit">
@@ -148,8 +147,11 @@
     Coupon code? <a onclick="myFunction()">Add it
       here</a></span>
     <div id="coupon" style="display: none">
-      <input />
+      <input id="couponCode" />
       <button onclick="addCoupon()">Add</button>
+      <span style="color: red; display: none" id="errorCoupon">Error adding coupon</span>
+      <span style="color: green; display: none" id="successCoupon">Coupon successfully added. Press checkout to see
+        updated price.</span>
     </div>
   </div>
 
@@ -589,8 +591,17 @@ twq('init','o3znq');
   }
 
   function addCoupon() {
-    let couponCode = 'foo'
-    fetch('https://sunboxlabs.vercel.app/api/coupon?name=' + couponCode)
+    let couponCode = document.getElementById('couponCode').value
+    fetch('/api/coupon?code=' + couponCode).then(res => {
+      if (res === true) {
+        document.getElementById('successCoupon').style.display === 'block'
+        document.getElementById('errorCoupon').style.display === 'hidden'
+      }
+      else {
+        document.getElementById('errorCoupon').style.display === 'block'
+        document.getElementById('successCoupon').style.display === 'hidden'
+      }
+    })
   }
 
   var button1 = document.getElementById('buy1');
