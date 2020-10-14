@@ -4,10 +4,11 @@ module.exports = async (req, res) => {
   try {
     const { code } = req.query
     let response = false
-    if(code === 'joe20'){
+    code = code.toLowerCase()
+    if(code === 'resource'){
       response = true
     }
-    if(code === 'latchcollective20'){
+    if(code === 'latch'){
       response = true
     }
     res.status(200).send(response)
