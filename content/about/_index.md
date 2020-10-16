@@ -36,26 +36,26 @@ The site originally started on a Hackernoon post (see below), and was extended h
     <h2>As seen on</h2>
     <div style="margin: 0 auto; display: flex; flex-wrap: wrap; justify-content: space-around;">
      <div style="padding: 10px">
-            <a style="color: inherit" href="https://conta.cc/3hLT8lD" target="_blank"><img src="/img/press5.png" style="max-height: 39px"></a>
+            <a style="color: inherit" href="https://conta.cc/3hLT8lD" target="_blank"><img src="press5.png" style="max-height: 39px"></a>
         </div>
         <div style="padding: 10px">
-            <a style="color: inherit" href="https://porch.com/advice/embrace-future-install-solar-panels-roof" target="_blank"><img src="/img/press6.png" style="max-height: 39px"></a>
+            <a style="color: inherit" href="https://porch.com/advice/embrace-future-install-solar-panels-roof" target="_blank"><img src="press6.png" style="max-height: 39px"></a>
         </div>
         <div style="padding: 10px">
-            <a style="color: inherit" href="https://news.ycombinator.com/item?id=14821478" target="_blank"><img src="/img/press1.jpg" style="max-height: 39px"></a>
+            <a style="color: inherit" href="https://news.ycombinator.com/item?id=14821478" target="_blank"><img src="press1.jpg" style="max-height: 39px"></a>
         </div>
         <div style="padding: 10px">
-            <a style="color: inherit" href="https://hackernoon.com/200-for-a-green-diy-self-sufficient-bedroom-that-your-landlord-wont-hate-b3b4cdcfb4f4" target="_blank"><img src="/img/press3.png" style="max-height: 39px"></a>
+            <a style="color: inherit" href="https://hackernoon.com/200-for-a-green-diy-self-sufficient-bedroom-that-your-landlord-wont-hate-b3b4cdcfb4f4" target="_blank"><img src="press3.png" style="max-height: 39px"></a>
         </div>
         <div style="padding: 10px">
-            <a style="color: inherit" href="https://www.reddit.com/r/geek/comments/6ov9oc/200_solar_selfsufficiency_without_your_landlord/" target="_blank"><img src="/img/press2.png" style="max-height: 39px"></a>
+            <a style="color: inherit" href="https://www.reddit.com/r/geek/comments/6ov9oc/200_solar_selfsufficiency_without_your_landlord/" target="_blank"><img src="press2.png" style="max-height: 39px"></a>
         </div>
          <div style="padding: 10px">
-            <a style="color: inherit" href="https://www.genios.de/fachzeitschriften/artikel/BILA/20160408/der-sonnige/144014626.html" target="_blank"><img src="/img/press4.png" style="max-height: 39px"></a>
+            <a style="color: inherit" href="https://www.genios.de/fachzeitschriften/artikel/BILA/20160408/der-sonnige/144014626.html" target="_blank"><img src="press4.png" style="max-height: 39px"></a>
         </div>
         <div style="padding: 10px">
             <a style="color: inherit" href="https://latchcollective.com/resources" target="_blank">
-                <img src="/img/press4.png" style="max-height: 39px">
+                <img src="press7.png" style="max-height: 39px">
             </a>
         </div>
         <!-- <div style="padding: 10px">
