@@ -23,7 +23,7 @@
     <!-- Posts Index ================================================== -->
     <section class="recent-posts">
       <div class="row listrecent">
-        {{ $post_paginator := .Paginate .Pages 10 }}
+        {{ $post_paginator := .Paginate .Pages 20 }}
         {{ range $post_paginator.Pages }}
         {{- partial "list-partials/postbox.html" . -}}
         {{end}}
