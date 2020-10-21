@@ -185,7 +185,7 @@ table {
 
 /* Declare heights because of positioning of img element */
 #jumboCarousel  .carousel-item {
-  height: 30vh;
+  height: 35vh;
 }
 
 #jumboCarousel  .carousel-item > img {
@@ -221,7 +221,7 @@ table {
   }
 
   #jumboCarousel .carousel-item {
-    height: 50vh;
+    height: 40vh;
   }
 
   
