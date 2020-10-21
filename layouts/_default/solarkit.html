@@ -1,8 +1,7 @@
-{{ define "header"}}
-{{- partial "_shared/navbar.html" . -}}
-{{ end }}
+{{ partial "_shared/head.html"}}
+{{ partial "_shared/navbar.html"}}
+{{ partial "_shared/product-schema.html"}}
 
-{{ define "main" }}
 
 <!-- Facebook Pixel Code -->
 <script>
@@ -29,7 +28,7 @@
 <link media="screen" href="/css/styles.css" rel="stylesheet" type="text/css">
 <link media="screen" href="/css/additional.css" rel="stylesheet" type="text/css">
 
-<div class="row" id="top">
+<div class="row" id="top" style="max-width: 1000px; margin: 0 auto;">
   <div class="col-12 col-md-8" id="slider">
     <h2>The Self-Install Solar + Battery Kit</h2>
     <div id="myCarousel" class="carousel" data-touch="true" data-ride="carousel">
@@ -280,16 +279,11 @@ twq('init','o3znq');
   });
 </script>
 
-{{end}}
 
-
-
-{{ define "footer" }}
-{{- partial "_shared/footer.html" . -}}
+{{ partial "_shared/footer.html" . -}}
 
 <style>
   img {
     max-width: 100% !important;
   }
 </style>
-{{end}}

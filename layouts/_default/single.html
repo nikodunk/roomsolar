@@ -1,8 +1,6 @@
-{{ define "header"}}
-{{- partial "_shared/navbar.html" . -}}
-{{ end }}
-
-{{ define "main" }}
+{{ partial "_shared/head.html"}}
+{{ partial "_shared/navbar.html"}}
+{{ partial "_shared/product-schema.html"}}
 
 
 
@@ -65,14 +63,11 @@
 </div>
 <br /><br /><br /><br /><br /><br /><br /><br />
 
-{{ end }}
 
-{{ define "footer"}}
 
-{{- partial "_shared/footer.html" . -}}
+{{ partial "_shared/footer.html" . -}}
 <style>
     img {
         max-width: 100% !important;
     }
 </style>
-{{ end }}
