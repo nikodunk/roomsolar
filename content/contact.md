@@ -1,6 +1,6 @@
 ---
-layout: Contact
 title: "Contact"
+layout: post
 ---
 
 

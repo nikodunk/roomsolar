@@ -1,8 +1,8 @@
 ---
-layout: About
 cost: "$"
 title: "About Us"
 comments: false
+layout: post
 ---
 
 
