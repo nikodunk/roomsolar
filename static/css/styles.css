@@ -395,6 +395,8 @@ label{
     transition: opacity 2000ms;
 }
 
+
+
 .carousel-control-prev, .carousel-control-next {
   background-color: black; 
   height: 50px; 

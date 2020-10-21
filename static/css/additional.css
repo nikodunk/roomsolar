@@ -122,7 +122,7 @@ left: 0
   background-color: black !important; 
   height: 50px ; 
   max-width: 50px; 
-  margin-top: 20%;
+  margin-top: 30%;
 }
 
 
@@ -137,8 +137,20 @@ left: 0
     overflow-x:auto;
 }
 
+#myCarousel .carousel-indicators {
+    position: static;
+    left: initial;
+    width: initial;
+    margin-left: initial;
+}
 
-#myCarousel .jumbotron-carousel-indicators > li.active img {
+#myCarousel .carousel-indicators > li {
+    width: initial;
+    height: initial;
+    text-indent: initial;
+}
+
+#myCarousel .carousel-indicators > li.active img {
     opacity: 0.7;
 }
 
@@ -152,6 +164,7 @@ table {
   margin-bottom: 10px;
 }
 
+
 .overlay{
   background-color: rgba(0,0,0,.44)
 }
@@ -161,21 +174,21 @@ table {
 -------------------------------------------------- */
 
 /* Carousel base class */
-.jumbotron-carousel {
+#jumboCarousel .carousel {
   margin-bottom: 4rem;
 }
 /* Since positioning the image, we need to help out the caption */
-.jumbotron-carousel-caption {
+#jumboCarousel  .carousel-caption {
   bottom: 3rem;
   z-index: 10;
 }
 
 /* Declare heights because of positioning of img element */
-.jumbotron-carousel-item {
+#jumboCarousel  .carousel-item {
   height: 30vh;
 }
 
-.jumbotron-carousel-item > img {
+#jumboCarousel  .carousel-item > img {
   position: absolute;
   top: 0;
   left: 0;
@@ -184,22 +197,30 @@ table {
 }
 
 
+#jumboCarousel .carousel-control-prev, #jumboCarousel .carousel-control-next {
+  background-color: black !important; 
+  height: 50px ; 
+  max-width: 50px; 
+  margin-top: 20%;
+}
+
+
 /* RESPONSIVE CSS
 -------------------------------------------------- */
 
 @media (min-width: 40em) {
   /* Bump up size of carousel content */
-  .jumbotron-carousel-caption p {
+  #jumboCarousel  .carousel-caption p {
     margin-bottom: 1.25rem;
     font-size: 1.25rem;
     line-height: 1.4;
   }
 
-  .featurette-heading {
+  #jumboCarousel .featurette-heading {
     font-size: 50px;
   }
 
-  .jumbotron-carousel-item {
+  #jumboCarousel .carousel-item {
     height: 40vh;
   }
 
@@ -207,11 +228,11 @@ table {
 }
 
 @media (min-width: 62em) {
-  .featurette-heading {
+  #jumboCarousel .featurette-heading {
     margin-top: 7rem;
   }
 
-  .jumbotron-carousel-item {
+  #jumboCarousel .carousel-item {
     height: 60vh;
   }
 }
