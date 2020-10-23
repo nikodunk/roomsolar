@@ -11,6 +11,9 @@ module.exports = async (req, res) => {
     if(code === 'latch'){
       response = true
     }
+    if(code === 'frederick'){
+      response = true
+    }
     res.status(200).send(response)
   } catch(error){
     console.log(error);
