@@ -2,15 +2,24 @@
 cost: "$"
 title: "About Us"
 comments: false
-layout: post
 ---
 
+#### Our Story
 
+Sunboxlabs was started in 2017 when Niko was renting a San Francisco apartment and ran into a problem installing solar: He could not put panels on his roof because he needed approval from his landlord. Additionally, he would need to remove the rooftop solar and undo the electrical work next time he moved. 
 
-* Sunboxlabs was started in 2017 when Niko was living in a rented San Francisco apartment and ran into a problem installing solar: He could not put panels on his roof because he needed approval from his landlord. Plus, installing rooftop solar and wiring it to the fuse box would need to be undone next time he moved. 
-* He needed solar to be self-contained, removable and self-installable. That's how sunboxlabs was born: What if solar power was a consumer electronic you could order online and install yourself? He built a system with parts from Amazon, wrote about it, and received 200,000 reads in a few days and great feedback on this article. Three years and many articles and kits later, we started offering easy kits for purchase. They have been used for camping, RVs, van-life, festivals, backup power after extreme weather and of course in urban apartments.
-* Our <b>mission</b> is to make purchasing solar/storage as easy as purchasing any other consumer electronic. 
-* Our <b>vision</b> is that once renewable energy does not require a professionals and red tape it will spread – bottom-up from the people – as rapidly as other consumer electronics like satellite dishes, window AC units & smartphones around the globe.
+Niko needed a self-contained, removable and self-installable solar system. That's how sunboxlabs was born: What if solar power was a consumer electronic you could order online and install yourself? 
+
+He built a system with parts from Amazon, wrote about it, and received 200,000 reads in a few days and great feedback on this article. Three years and many articles and kits later, we started offering easy kits for purchase. They have been used for camping, RVs, van-life, festivals, backup power after extreme weather and of course in urban apartments.
+
+---
+
+#### Our Mission
+ Our mission is to **make purchasing solar/storage as easy as purchasing any other consumer electronic**. 
+
+---
+#### Our Vision
+Our vision is that <b>solar energy will spread as rapidly as satellite dishes, window AC units & smartphones if we can make it a consumer electronic</b> that doesn't require getting quotes and red tape. We are starting small, but with battery and solar prices plummeting will scale up fast to be able to cover any use case.
 
 <div class="row">
   <div class="col-12">
