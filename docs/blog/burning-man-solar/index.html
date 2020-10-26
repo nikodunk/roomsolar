@@ -1,0 +1,528 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<link rel="icon" href="https://sunboxlabs.com/sarah_spinning_sun.png">
+	
+	<title>Portable Solar Backup Generator Kits | sunboxlabs</title>
+
+	<meta name="description"
+		content="Sunboxlabs - The Portable Solar Generator Kits for Backup or Fun. Now $499 w/ Free Shipping.">
+	
+
+	
+	
+	<meta property="og:title"
+		content=" | Sunboxlabs - Portable Solar Generator Kits for Backup, Off-Grid or Fun. From $399 w/ Free Shipping.">
+
+	<meta property="og:description"
+		content="Sunboxlabs - Portable Solar Generator Kits for Backup, Off-Grid or Fun. From $399 w/ Free Shipping. | ">
+
+	
+	<meta property="og:image" content="https://sunboxlabs.com/kit/img/header.jpg">
+
+	<meta property="og:url" content="">
+	<meta name="twitter:card" content="summary_large_image">
+
+	
+	<meta property="og:site_name" content=" | sunboxlabs">
+	<meta name="twitter:image:alt"
+		content="Sunboxlabs - Portable Solar Generator Kits for Backup, Off-Grid or Fun. From $399 w/ Free Shipping.">
+
+
+	
+
+	
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-9NC1ZDYBQM"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag() { dataLayer.push(arguments); }
+		gtag('js', new Date());
+		gtag('config', 'G-9NC1ZDYBQM');
+	</script>
+
+	<script src="https://code.jquery.com/jquery-3.5.1.min.js" crossorigin="anonymous"></script>
+
+	<link media="screen" href="/css/styles.css" rel="stylesheet" type="text/css">
+	<link media="screen" href="/css/additional.css" rel="stylesheet" type="text/css">
+
+</head>
+
+
+<body>
+  <nav class="navbar navbar-expand-lg navbar-light bg-light" style="background-color: white !important">
+    <div class="container">
+      <div class="navbar-header">
+        <a class="navbar-brand" href="/">
+          <img src="/sarah_spinning_sun.gif" width="30" height="30" class="d-inline-block align-top" alt="">
+          &nbsp;sunboxlabs
+        </a>
+      </div>
+      <div class="nav navbar-nav navbar-right">
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup"
+          aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+          <div class="navbar-nav navbar-right">
+            <a class="nav-item nav-link" href="/">Kits</a>
+            <a class="nav-item nav-link" href="/about">About</a>
+            <a class="nav-item nav-link" href="/blog">Blog</a>
+            <a class="nav-item nav-link" href="/faq">FAQ</a>
+            <a class="nav-item nav-link" href="/contact">Contact</a>
+            <span class="nav-item nav-link d-none d-md-inline" href="">&nbsp;</span>
+            <form class="form-group form-inline col-12 col-md-6" id="electrade-nav" style="margin-bottom: 0px">
+              <input type="email" required name="email" placeholder="you@email.com" class="form-control col-7"
+                style="border-radius: 0; border-top-left-radius: 3px; border-bottom-left-radius: 3px;" />
+              <input class="btn btn-block btn-primary form-control col-5"
+                style="border-radius: 0; border-top-right-radius: 3px; border-bottom-right-radius: 3px;" type="submit"
+                value="Subscribe" id="submit-form" />
+            </form>
+            <div id="WIP-nav" style="display: none">
+              <p class="text-dark text-right">Submitting...</p>
+            </div>
+
+            <div id="thanks-nav" style="display: none">
+              <h3 class="text-dark text-right">Thank you!</h3>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </nav>
+
+
+
+
+  <script>
+    var navForm = $('form#electrade-nav')
+    var url = 'https://script.google.com/macros/s/AKfycbwRbZS37yjD4W-qV8f8nFxlVFcuS-D3eBjEQomLZHA6TkXkoMg/exec'
+    $.fn.serializeObject = function () {
+      var o = {};
+      var a = this.serializeArray();
+      $.each(a, function () {
+        if (o[this.name]) {
+          if (!o[this.name].push) {
+            o[this.name] = [o[this.name]];
+          }
+          o[this.name].push(this.value || '');
+        } else {
+          o[this.name] = this.value || '';
+        }
+      });
+      return o;
+    };
+
+
+    
+    (function () {
+      'use strict';
+      window.addEventListener('load', function () {
+        
+        var validation = Array.prototype.filter.call(navForm, function (form) {
+          form.addEventListener('submit', function (event) {
+            console.log('working')
+            $("#electrade-nav").hide();
+            $("#WIP-nav").show();
+            if (form.checkValidity() === false) {
+              event.preventDefault();
+              event.stopPropagation();
+            }
+            else {
+              event.preventDefault();
+              var jqxhr = $.ajax({
+                url: url,
+                method: "GET",
+                dataType: "json",
+                data: navForm.serializeObject(),
+                success: function (result) { $("#WIP-nav").hide(); $("#thanks-nav").show() }
+              })
+            }
+            form.classList.add('was-validated');
+          }, false);
+        });
+      }, false);
+    })();
+  </script>
+
+
+  
+
+
+
+
+<div class="main-content">
+    
+    <div class="container" style="min-height: 50vh !important">
+        <div class="row">
+            
+            <div class="col-md-2 pl-0">
+
+            </div>
+            
+            <div class="col-md-9 flex-first flex-md-unordered">
+                <div class="mainheading">
+                    
+                    
+                    
+                    <h1 class="posttitle">100W Burning Man Solar with 420Wh Battery How-To</h1>
+                </div>
+
+
+
+                
+                <div class="article-post" style>
+                    <p><img src="/img/money3.jpg" alt=""></p>
+<p>Burning Man is a crazy desert art festival and party in northern Nevada. It takes place on federal public lands and attracts about 60,000 people each year. Everything there is radically off-grid. You bring your own power, water and food and take everything with you again when you leave. Here&rsquo;s an aerial view of the city in the desert (dubbed Black Rock City) that springs up overnight for the festival:</p>
+<p><img src="/img/sean/burningmanoverview.jpg" alt=""></p>
+<p>But this means visitors generally bring diesel generators for power, or use built-in RV generators for camp power. And did I mention the driving and flying to get there? People think nothing of driving ten or fifteen hours to get there, or flying in from the East Coast or Europe.</p>
+<p>Efforts are abundant to green up Burning Man, and now that solar components are getting cheaper on Amazon, we&rsquo;re increasingly see DIY systems crop up.</p>
+<p>Here&rsquo;s Sean&rsquo;s system for Burning Man 2017 in Nevada. He used it to run phones, fans, swamp coolers and lights.</p>
+<hr>
+<h1 id="the-kit">The Kit</h1>
+<h4 style="color: lightgreen">Parts Cost on Amazon: $217.09</h4>
+<h3 id="solar-panel">Solar Panel</h3>
+<script type="text/javascript">
+amzn_assoc_tracking_id = "gridlesskits-20";
+amzn_assoc_ad_mode = "manual";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_design = "enhanced_links";
+amzn_assoc_asins = "B07DNP14JY";
+amzn_assoc_placement = "adunit";
+amzn_assoc_linkid = "bd4d228bf695e23c932e01bdc28684dd";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+<h3 id="cable">Cable</h3>
+<script type="text/javascript">
+amzn_assoc_tracking_id = "gridlesskits-20";
+amzn_assoc_ad_mode = "manual";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_design = "enhanced_links";
+amzn_assoc_asins = "B017PI2OUS";
+amzn_assoc_placement = "adunit";
+amzn_assoc_linkid = "5f6d444601895263b862079d7dc2d8ca";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+<h3 id="solar-controller">Solar Controller</h3>
+<script type="text/javascript">
+amzn_assoc_tracking_id = "gridlesskits-20";
+amzn_assoc_ad_mode = "manual";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_design = "enhanced_links";
+amzn_assoc_asins = "B073WQC558";
+amzn_assoc_placement = "adunit";
+amzn_assoc_linkid = "9d75b86e67f5f247b648d2a76b084f76";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+<h3 id="cable-2">Cable 2</h3>
+<script type="text/javascript">
+amzn_assoc_tracking_id = "gridlesskits-20";
+amzn_assoc_ad_mode = "manual";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_design = "enhanced_links";
+amzn_assoc_asins = "B000ND0WB6";
+amzn_assoc_placement = "adunit";
+amzn_assoc_linkid = "8d39a97ad4cdf49a5eb418fa1e32f372";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+<h3 id="lead-acid-deep-cycle-battery">Lead-Acid Deep Cycle Battery</h3>
+<script type="text/javascript">
+amzn_assoc_tracking_id = "gridlesskits-20";
+amzn_assoc_ad_mode = "manual";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_design = "enhanced_links";
+amzn_assoc_asins = "B00K8E0WAG";
+amzn_assoc_placement = "adunit";
+amzn_assoc_linkid = "f400303cc05ace9f60e578eaf3911f83";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+<h3 id="inverter">Inverter</h3>
+<script type="text/javascript">
+amzn_assoc_tracking_id = "gridlesskits-20";
+amzn_assoc_ad_mode = "manual";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_design = "enhanced_links";
+amzn_assoc_asins = "B01NAUV18K";
+amzn_assoc_placement = "adunit";
+amzn_assoc_linkid = "8a2af36e20a65da19e8735d27af0de10";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+<p>Note: Turn off ad-blockers to see the images above or use the links instead</p>
+<hr>
+<p><b>How-To Guide</b><a name="how-to"></a></p>
+<p>The goal is to take care of my festival energy needs for during Burning Man 2017. 4 main components are all we need to achieve this: A solar panel to collect, a battery to store, an inverter to convert the direct current to alternating current, and a “charge controller” to balance the three other components.</p>
+<p>I’m using bargain-basement parts intended for RV, marine &amp; car usage which keeps my system cheap and mobile. The main components as found on Amazon are above.</p>
+<table>
+<thead>
+<tr>
+<th align="center"><img src="/img/BOXES.jpg" alt=""></th>
+<th align="center"><img src="/img/COMPONENTS.jpg" alt=""></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p>I ordered the system on July 2nd, and with ground shipping the PV panel arrived July 11th from Canada, and the battery, wiring, controller and inverter arrived July 15th from Amazon USA.</p>
+<p><br><br><br></p>
+<p><b>Assembly</b><a name="assembly"></a></p>
+<table>
+<thead>
+<tr>
+<th align="center"><img src="/img/ASSEMBLY1.jpg" alt=""></th>
+<th align="center"><img src="/img/ASSEMBLY2.jpg" alt=""></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p><img src="/img/ASSEMBLY3.jpg" alt=""></p>
+<p><b>Step 1</b> Cut and lay bare the end of the battery &amp; inverter wires (battery disconnected, please). The panel’s wires are already bare on one end. Do a dry run connecting battery, inverter and panel to the controller — it should look like above.</p>
+<p><img src="/img/sean/burningman1.JPG" alt=""></p>
+<p><b>Step 2</b> Detach the panel wires again and place the panel on the car, tent or wherever you get the most sunlight. Attach the panel to something: I zip-tied the back of the panel to a car with multiple zipties. You don&rsquo;t want this coming undone in a dust storm! The panel is mounted on top of the car at a fixed angle, and run the power lines back to your main battery next to the tent.</p>
+<p><img src="/img/sean/burningman3.JPG" alt="">
+<b>Step 3</b> Assemble the solar controller, inverter and battery into a tighter package. Re-clamp the wire from the panel to the solar controller and place it in the box. It should look as above. The charge begins! Next to the tent, the toolbox contains the battery, inverter and controller. Next to it is a swamp cooler and a cable leading into his tent (AC extension cable from the inverter in the box) powering another fan, chargers and lights.</p>
+<p><img src="/img/sean/burningman2.JPG" alt="">
+In the evening, turn on the inverter. My lamp, computer, tablet &amp; phone are all being powered simultaneously here on the day’s solar charge! Self sufficiency achieved?</p>
+<p>Sean&rsquo;s running a great modified system – DC power goes to the swamp cooler&rsquo;s fan, the battery is laid into the tool tray. Plenty of extra space in this toolbox, which protects the system from dust and the sun.</p>
+<p>Sean listed the main three reasons he decided to build his own system vs. bringing a diesel generator:</p>
+<pre><code>* No Fuel Required
+* No Noise
+* Compact
+</code></pre>
+<p>&ldquo;A <i>green</i> (his words) device with enough wattage to power a DC swamp cooler&rdquo;. He usually got 6 hours into the night before the battery was drained, but at that moment the sun came up and started generating energy again to power the swamp cooler.</p>
+<p><img src="/img/sean/sketch.jpg" alt=""></p>
+<p>We&rsquo;re going to add a box to the recommended kit, to give it a more rugged and finished look for outdoors and festival use.</p>
+<p><br><br><br></p>
+<h3>Tech Specs</h3>
+<pre><code>Polychristalline Solar Panel
+Size: 39.8 x 1.2 x 26.6 inches
+Weight: 19.6 pounds
+Voltage: 12V DC
+Max power rating: 100W
+Max amperage: 8.3A
+
+
+Inverter
+Max power rating: 150W&lt;br&gt; (turns off if you use more than this, but a 300W version is $6 more)
+Voltage: 12V DC in, 110V AC out
+Only DC 12V, NOT for DC 24V
+USB Output: 5V/1+2.1A (5W and 10.5W respectively)
+
+Solar controller
+Voltage: 12V/24V
+Ports: 2x USB, 1x DC in, 1x DC out
+Charge Current: 20A
+Discharge Current: 20A
+Max in: 20A * 12V = 240W
+Max out: 20A * 12V = 240W
+USB Output: 5V/3A (15W) each
+Type: PWM
+Weight: 0.25 pounds
+Size: 5.9 x 3 x 1.4in
+Will upgrade to a USB-C version when available
+
+Marine lead-acid battery (Deep Cycle)
+Voltage: 12V DC
+Storage Capacity: 0.42Kwh, 35Ah
+Size: 6.5 x 7.7 x 5.1 in
+Weight: 25 pounds
+
+
+Cables (aka &quot;Tender&quot; or &quot;B.O.M.&quot;)
+Alligator Clips (for connecting the battery to the solar controller)
+20Ft Extension Cable
+</code></pre>
+
+                </div>
+
+
+
+
+            </div>
+            
+        </div>
+    </div>
+    
+
+</div>
+<br /><br /><br /><br /><br /><br /><br /><br />
+
+
+
+
+
+<footer class="footer bg-dark">
+  <div class="container">
+    <div class="row mb-2">
+      <div class="col-12 col-md-8 offset-md-4">
+        <h3 class="mt-4 text-light text-right">Get Updates</h3>
+        <p class="text-light text-right">Sign up for our list and hear about updates to the kits!</p>
+        <div class="row">
+          <div class="col-12 col-md-6"></div>
+          <form class="form-group form-inline col-12 col-md-6" id="electrade-form-footer">
+            <input type="email" required name="email" placeholder="you@email.com" class="form-control col-7"
+              style="border-radius: 0; border-top-left-radius: 3px; border-bottom-left-radius: 3px;" />
+            <input class="btn btn-block btn-primary form-control col-5"
+              style="border-radius: 0; border-top-right-radius: 3px; border-bottom-right-radius: 3px;" type="submit"
+              value="✉️ Get Updates" id="submit-form" />
+          </form>
+        </div>
+
+        <div id="WIP-footer" style="display: none">
+          <p class="text-light text-right">Submitting...</p>
+        </div>
+
+        <div id="thanks-footer" style="display: none">
+          <h3 class="text-light text-right">Thank you!</h3>
+        </div>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col-lg-6  text-center text-lg-left my-auto">
+        <ul class="list-inline mb-2">
+          <li class="list-inline-item">
+            <a href="/">Home</a>
+          </li>
+          <li class="list-inline-item">&sdot;</li>
+          <li class="list-inline-item">
+            <a href="/about">About</a>
+          </li>
+          <li class="list-inline-item">&sdot;</li>
+          <li class="list-inline-item">
+            <a href="/contact">Contact</a>
+          </li>
+          <li class="list-inline-item">&sdot;</li>
+          <li class="list-inline-item">
+            <a href="/faq">FAQ</a>
+          </li>
+          <li class="list-inline-item">&sdot;</li>
+          <li class="list-inline-item">
+            <a href="/shipping">Shipping</a>
+          </li>
+          <li class="list-inline-item">&sdot;</li>
+          <li class="list-inline-item">
+            <a href="/returns-and-warranty">Refunds, Returns & Warranty</a>
+          </li>
+        </ul>
+        <p class="text-muted small mb-4 mb-lg-0">&copy; sunboxlabs 2020. All Rights Reserved.</p>
+      </div>
+      <div class="col-lg-6 text-center text-lg-right my-auto">
+        <ul class="list-inline mb-0">
+          <li class="list-inline-item mr-3">
+            <a style="text-decoration: none" href="https://www.facebook.com/sunboxlabs/">
+              
+              <i class="gg-facebook"></i>
+            </a>
+          </li>
+          <li class="list-inline-item mr-3">
+            <a style="text-decoration: none" href="https://twitter.com/sunboxlabs">
+              
+              <i class="gg-twitter"></i>
+            </a>
+          </li>
+          <li class="list-inline-item">
+            
+            <a style="text-decoration: none" href="https://www.instagram.com/sunboxlabs/">
+              <i class="gg-instagram"></i>
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</footer>
+
+
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"
+  integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+  integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css"
+  integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+<link media="screen" href="https://fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic,700italic"
+  rel="stylesheet" type="text/css">
+
+<script>
+  var $form = $('form#electrade-form-footer')
+  var url = 'https://script.google.com/macros/s/AKfycbwRbZS37yjD4W-qV8f8nFxlVFcuS-D3eBjEQomLZHA6TkXkoMg/exec'
+  $.fn.serializeObject = function () {
+    var o = {};
+    var a = this.serializeArray();
+    $.each(a, function () {
+      if (o[this.name]) {
+        if (!o[this.name].push) {
+          o[this.name] = [o[this.name]];
+        }
+        o[this.name].push(this.value || '');
+      } else {
+        o[this.name] = this.value || '';
+      }
+    });
+    return o;
+  };
+
+
+  
+  (function () {
+    'use strict';
+    window.addEventListener('load', function () {
+      
+      var validation = Array.prototype.filter.call($form, function (form) {
+        form.addEventListener('submit', function (event) {
+          console.log('working')
+          $("#electrade-form-footer").hide();
+          $("#WIP-footer").show();
+          if (form.checkValidity() === false) {
+            event.preventDefault();
+            event.stopPropagation();
+          }
+          else {
+            event.preventDefault();
+            var jqxhr = $.ajax({
+              url: url,
+              method: "GET",
+              dataType: "json",
+              data: $form.serializeObject(),
+              success: function (result) { $("#WIP-footer").hide(); $("#thanks-footer").show() }
+            })
+          }
+          form.classList.add('was-validated');
+        }, false);
+      });
+    }, false);
+  })();
+</script>
+
+
+
+
+</body>
+
+</html><style>
+    img {
+        max-width: 100% !important;
+    }
+</style>

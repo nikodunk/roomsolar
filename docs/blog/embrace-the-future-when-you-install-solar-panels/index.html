@@ -1,0 +1,406 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<link rel="icon" href="https://sunboxlabs.com/sarah_spinning_sun.png">
+	
+	<title>Portable Solar Backup Generator Kits | sunboxlabs</title>
+
+	<meta name="description"
+		content="Sunboxlabs - The Portable Solar Generator Kits for Backup or Fun. Now $499 w/ Free Shipping.">
+	
+
+	
+	
+	<meta property="og:title"
+		content=" | Sunboxlabs - Portable Solar Generator Kits for Backup, Off-Grid or Fun. From $399 w/ Free Shipping.">
+
+	<meta property="og:description"
+		content="Sunboxlabs - Portable Solar Generator Kits for Backup, Off-Grid or Fun. From $399 w/ Free Shipping. | ">
+
+	
+	<meta property="og:image" content="https://sunboxlabs.com/kit/img/header.jpg">
+
+	<meta property="og:url" content="">
+	<meta name="twitter:card" content="summary_large_image">
+
+	
+	<meta property="og:site_name" content=" | sunboxlabs">
+	<meta name="twitter:image:alt"
+		content="Sunboxlabs - Portable Solar Generator Kits for Backup, Off-Grid or Fun. From $399 w/ Free Shipping.">
+
+
+	
+
+	
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-9NC1ZDYBQM"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag() { dataLayer.push(arguments); }
+		gtag('js', new Date());
+		gtag('config', 'G-9NC1ZDYBQM');
+	</script>
+
+	<script src="https://code.jquery.com/jquery-3.5.1.min.js" crossorigin="anonymous"></script>
+
+	<link media="screen" href="/css/styles.css" rel="stylesheet" type="text/css">
+	<link media="screen" href="/css/additional.css" rel="stylesheet" type="text/css">
+
+</head>
+
+
+<body>
+  <nav class="navbar navbar-expand-lg navbar-light bg-light" style="background-color: white !important">
+    <div class="container">
+      <div class="navbar-header">
+        <a class="navbar-brand" href="/">
+          <img src="/sarah_spinning_sun.gif" width="30" height="30" class="d-inline-block align-top" alt="">
+          &nbsp;sunboxlabs
+        </a>
+      </div>
+      <div class="nav navbar-nav navbar-right">
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup"
+          aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+          <div class="navbar-nav navbar-right">
+            <a class="nav-item nav-link" href="/">Kits</a>
+            <a class="nav-item nav-link" href="/about">About</a>
+            <a class="nav-item nav-link" href="/blog">Blog</a>
+            <a class="nav-item nav-link" href="/faq">FAQ</a>
+            <a class="nav-item nav-link" href="/contact">Contact</a>
+            <span class="nav-item nav-link d-none d-md-inline" href="">&nbsp;</span>
+            <form class="form-group form-inline col-12 col-md-6" id="electrade-nav" style="margin-bottom: 0px">
+              <input type="email" required name="email" placeholder="you@email.com" class="form-control col-7"
+                style="border-radius: 0; border-top-left-radius: 3px; border-bottom-left-radius: 3px;" />
+              <input class="btn btn-block btn-primary form-control col-5"
+                style="border-radius: 0; border-top-right-radius: 3px; border-bottom-right-radius: 3px;" type="submit"
+                value="Subscribe" id="submit-form" />
+            </form>
+            <div id="WIP-nav" style="display: none">
+              <p class="text-dark text-right">Submitting...</p>
+            </div>
+
+            <div id="thanks-nav" style="display: none">
+              <h3 class="text-dark text-right">Thank you!</h3>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </nav>
+
+
+
+
+  <script>
+    var navForm = $('form#electrade-nav')
+    var url = 'https://script.google.com/macros/s/AKfycbwRbZS37yjD4W-qV8f8nFxlVFcuS-D3eBjEQomLZHA6TkXkoMg/exec'
+    $.fn.serializeObject = function () {
+      var o = {};
+      var a = this.serializeArray();
+      $.each(a, function () {
+        if (o[this.name]) {
+          if (!o[this.name].push) {
+            o[this.name] = [o[this.name]];
+          }
+          o[this.name].push(this.value || '');
+        } else {
+          o[this.name] = this.value || '';
+        }
+      });
+      return o;
+    };
+
+
+    
+    (function () {
+      'use strict';
+      window.addEventListener('load', function () {
+        
+        var validation = Array.prototype.filter.call(navForm, function (form) {
+          form.addEventListener('submit', function (event) {
+            console.log('working')
+            $("#electrade-nav").hide();
+            $("#WIP-nav").show();
+            if (form.checkValidity() === false) {
+              event.preventDefault();
+              event.stopPropagation();
+            }
+            else {
+              event.preventDefault();
+              var jqxhr = $.ajax({
+                url: url,
+                method: "GET",
+                dataType: "json",
+                data: navForm.serializeObject(),
+                success: function (result) { $("#WIP-nav").hide(); $("#thanks-nav").show() }
+              })
+            }
+            form.classList.add('was-validated');
+          }, false);
+        });
+      }, false);
+    })();
+  </script>
+
+
+  
+
+
+
+
+<div class="main-content">
+    
+    <div class="container" style="min-height: 50vh !important">
+        <div class="row">
+            
+            <div class="col-md-2 pl-0">
+
+            </div>
+            
+            <div class="col-md-9 flex-first flex-md-unordered">
+                <div class="mainheading">
+                    
+                    
+                    
+                    <h1 class="posttitle">Embrace the Future when you install Solar Panels</h1>
+                </div>
+
+
+
+                
+                <div class="article-post" style>
+                    <p><img src="embrace-the-future-when-you-install-solar-panels.jpg" alt=""></p>
+<p>Looking for a better way to power your house? Go solar. Rooftop solar panels convert sunlight into electricity for your home, eliminating or drastically reducing your monthly electric bill. Solar panels are not the right fit for everyone, but for many they're a great green way to reduce your carbon footprint.</p>
+<p>Solar panels are an investment, but you can recoup the initial cost – and more – in the years to come.</p>
+<p>Going off the energy grid is becoming an increasingly popular option, with about 600,000 U.S. homeowners enjoying solar panel energy, according to the Solar Energy Industries Association (SEIA), and many more solar systems operating world-wide.</p>
+<p>You can feel good about helping this planet move toward sustainable energy sources. Nonrenewable energy-produced electricity sources pollute the earth, but solar energy ensures clean, renewable energy.</p>
+<p>Because solar panels have become more popular and technologically advanced, the manufacturing price has dropped, so it's not just for wealthy homeowners anymore.</p>
+<p>Is solar energy the right choice for you? Consider things like your home's location, how long you'll remain in your home, whether you want to own or lease your panels, your present electric bill, and financial incentives that may be available.</p>
+<h1 id="what-are-solar-panels-and-how-do-they-work">What are Solar Panels and How Do They Work?</h1>
+<p>Solar panels are made from tempered glass. They're installed on a rack system on your roof and an inverter system generates <a href="https://porch.com/home-projects/electrical">electricity for your home</a>, potentially eliminating dependence on your local electricity company. Your system may include a bi-directional meter that measures the power produced and the amount you use. You may be able to sell any excess power if your local electric company participates.</p>
+<p>The system's monitoring system lets you see the amount of energy your panels produce daily (and over time) and also notifies you if there's a problem with a panel.</p>
+<h1 id="pros-of-solar-panels">Pros of Solar Panels</h1>
+<p>There are a plethora of reasons to go solar, including reducing your carbon footprint and saving money. Many countries rely on fossil-fuel-produced energy, including coal and fuel. Producing electricity from those fuels is expensive. So is the cost of building new nuclear-powered plants. Those increasing costs are passed on to you.</p>
+<p>Solar Saves Money</p>
+<p>If you dread paying your massive <a href="https://porch.com/advice/save-30000-life-home">monthly electricity bill</a>, solar is definitely an option. Solar could drastically reduce your dependency on your present electric supplier. Installing a solar-powered electric system now could mean your future electric bills could shrink, especially once you're no longer paying for the cost of the panel system.</p>
+<p>You may even be able to make some money from your solar panels. Check with your government and your electric company to see if they have a buy-back energy metering program and solar renewable energy credits. These kinds of programs let you bank money (or receive credit on your electric bill) while your system generates electricity. You could be paid for extra electricity your panels produce.</p>
+<p>Low Maintenance Costs</p>
+<p>Solar rooftop panels require little maintenance, especially if they're tilted. They may need a light cleaning every few months to remove dirt, leaves and other debris using a leaf blower or garden hose, and you may also need to clear panels after a heavy snowfall. Panels installed on the ground are even easier to keep clean because they're on your level.</p>
+<p>Solar panels are sturdy so they can weather storms and even hail, but you'll still want to have a warranty or homeowner's insurance in case you need to repair or replace any storm-damaged panels.</p>
+<p>Reduce your Carbon Footprint</p>
+<p>Solar energy is clean and renewable, the perfect way to reduce the atmosphere-damaging carbon dioxide emissions coming from your property. Producing solar electricity doesn't create pollutants and is even more earth-friendly than nuclear energy.</p>
+<p>Your choice to transition your home to solar energy also helps lessen the need for – and the dependency on – fossil fuels.</p>
+<h1 id="solar-considerations">Solar Considerations</h1>
+<p>There are some things to consider before you jump on the solar bandwagon. For instance, how long do you plan to stay in your home? How long will the panels last, and how much should you budget for buying or leasing?</p>
+<p>Solar energy isn't a get-reimbursed-quickly system. Instead, it's a <a href="https://blog.hireahelper.com/the-5-diy-projects-that-will-boost-your-homes-curb-appeal-and-resale-value/">long-term investment</a> so consider how long you'll live in your home. It could take seven or more years for you to recoup the purchase cost through energy savings.</p>
+<p>Another thing to consider is the condition of your present roof. You'll have to remove the panels and put them back when you replace shingles on your roof. Therefore, if you're considering getting panels, take a good look at your roof. If it has seen better days, you may want to replace it before you install solar panels.</p>
+<p>How Long do Panels Last?</p>
+<p>Panels are made to give you years of dependable electric service and can last from 25 to 35 years. You can enjoy energy-saving benefits for quite a while before you need to replace them.</p>
+<p>Installation costs</p>
+<p>Look for a professional company to install your panels. The cost of both panels and installation vary according to your system, region and the location of the panels (on a roof or on the ground).</p>
+<p>Can Your Roof Hold Solar Panels?</p>
+<p>Before signing up, do some homework on your own roof's age and materials. Installing solar panels consists of mounting a connected racking system directly onto your roof, and not all roofs are suitable. Roofs on homes that are historical (or are older), those with slate or cedar tile roofs, or homes with skylights or roof decks are difficult to fit with racking systems. There could also be concerns with roof leaks because the racking is screwed directly onto your roof.</p>
+<p>If your roof isn't a candidate for panels but you have the room in your yard, you can have panels installed on the ground. If neither of those locations is an option, you can research whether there's a local community &quot;solar garden&quot; that you can participate in.</p>
+<p>Climate and Weather</p>
+<p>The amount of sun that hits your roof and its orientation to the sun can impact how much energy your solar panel system generates each day. The more sun (and less shade) your roof has, the more energy those panels can produce. This is great news for homeowners in high-sun regions.</p>
+<p>Solar panels can lose a small amount of their efficiency in climates whose heat rises above about 90 degrees, though. You can keep track of how weather affects your panels through the monitoring panel.</p>
+<p>Don't Forget Insurance</p>
+<p>Installing solar panels on your roof may increase – or decrease – the cost of your homeowner's insurance. This is something to discuss with your insurance company before you have panels secured onto your roof.</p>
+<h1 id="cost-of-solar-panels">Cost of Solar Panels</h1>
+<p>The cost of installing solar panels will depend upon the location, the number of panels, the size of the system and other factors. Remember that the more electricity you normally use, the sooner you can recoup your investment by going solar. If you know your current energy usage, you can calculate how much you'll need to budget monthly for solar panels.</p>
+<p>Leasing vs. Buying</p>
+<p>There are a couple of ways to start taking advantage of this earth-friendly &quot;off the grid&quot; energy source: you can buy your solar panel system outright or you can lease it. Both ways have pros and cons.</p>
+<p>Why Lease?</p>
+<p>Some homeowners choose to lease their solar electric systems. Leasing lets you go solar without the big up-front costs. If you don't have thousands of dollars for a down payment, you can lease while still helping the environment and lowering your electrical bills some.</p>
+<p>Leasing lets you install solar panels and start saving right away. You may have numerous finance options when leasing. For instance, you can pay the leasing company for the equipment and use as much energy as you want, or you can pay the solar company based on monthly kilowatt hours used. Some leasing companies also offer the option of buying the panel system at the end of your lease. Financing and leasing options will vary depending on where you live.</p>
+<p>Another advantage to leasing solar panels: you won't have to fix them if there's an issue. The company you lease them from should do the maintenance and repairs, depending on the terms of your lease.</p>
+<p>Down Sides to Leasing</p>
+<p>While there are definite pluses to leasing your solar electric system, there also are some drawbacks to ponder.</p>
+<p>Solar leasing contracts can last up to 20 years or longer. Also, you probably won't get any tax benefits or rebates (if wherever you reside offers those) by leasing versus owning. In addition, you're locked into having equipment on your roof that belongs to a company, not you.</p>
+<p>All in all, you still should save money by leasing while doing your part for the planet.</p>
+<p>Advantages of Owning</p>
+<p>There are definite advantages to owning your solar panel system rather than leasing. One of the biggest pluses is that many governments or electric companies offer incentives for installing this green energy source.</p>
+<p>Owning your own system also means you're not tied to a years-long contract. You own the panels instead of someone else owning the panels. Also, if you decide to sell your home, having a solar energy system can be a great selling point and increase the home's value.</p>
+<p>Disadvantages of Owning</p>
+<p>There are some negatives to buying your own system. The most obvious disadvantage is the up-front investment required. If you buy, it may take some years before you break even, depending on how much your electricity bill is now. If you normally don't have a hefty bill, it will take longer to recoup your costs. If your normal electricity bills are high it could be less time, depending on the cost of your system.</p>
+<p>If you own your solar panels and monitoring system, you'll be responsible for maintaining and repairing (or replacing) when parts fail or need work.</p>
+<h1 id="solar-is-the-future">Solar is the Future</h1>
+<p>Installing solar panels is an enticing, Earth-friendly option, but it's wise to consider all factors before taking the plunge. Solar energy system installation and material costs are decreasing as technology and production methods improve, so it's becoming an appealing alternative to expensive electricity. It is definitely an investment, but worth adding value to your home as you help make this a greener planet.</p>
+<p>This article was originally posted on <a href="https://porch.com/">Porch.com.</a> on their <a href="https://porch.com/advice/embrace-future-install-solar-panels-roof">advice blog</a> and is re-posted here with their permission.</p>
+
+                </div>
+
+
+
+
+            </div>
+            
+        </div>
+    </div>
+    
+
+</div>
+<br /><br /><br /><br /><br /><br /><br /><br />
+
+
+
+
+
+<footer class="footer bg-dark">
+  <div class="container">
+    <div class="row mb-2">
+      <div class="col-12 col-md-8 offset-md-4">
+        <h3 class="mt-4 text-light text-right">Get Updates</h3>
+        <p class="text-light text-right">Sign up for our list and hear about updates to the kits!</p>
+        <div class="row">
+          <div class="col-12 col-md-6"></div>
+          <form class="form-group form-inline col-12 col-md-6" id="electrade-form-footer">
+            <input type="email" required name="email" placeholder="you@email.com" class="form-control col-7"
+              style="border-radius: 0; border-top-left-radius: 3px; border-bottom-left-radius: 3px;" />
+            <input class="btn btn-block btn-primary form-control col-5"
+              style="border-radius: 0; border-top-right-radius: 3px; border-bottom-right-radius: 3px;" type="submit"
+              value="✉️ Get Updates" id="submit-form" />
+          </form>
+        </div>
+
+        <div id="WIP-footer" style="display: none">
+          <p class="text-light text-right">Submitting...</p>
+        </div>
+
+        <div id="thanks-footer" style="display: none">
+          <h3 class="text-light text-right">Thank you!</h3>
+        </div>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col-lg-6  text-center text-lg-left my-auto">
+        <ul class="list-inline mb-2">
+          <li class="list-inline-item">
+            <a href="/">Home</a>
+          </li>
+          <li class="list-inline-item">&sdot;</li>
+          <li class="list-inline-item">
+            <a href="/about">About</a>
+          </li>
+          <li class="list-inline-item">&sdot;</li>
+          <li class="list-inline-item">
+            <a href="/contact">Contact</a>
+          </li>
+          <li class="list-inline-item">&sdot;</li>
+          <li class="list-inline-item">
+            <a href="/faq">FAQ</a>
+          </li>
+          <li class="list-inline-item">&sdot;</li>
+          <li class="list-inline-item">
+            <a href="/shipping">Shipping</a>
+          </li>
+          <li class="list-inline-item">&sdot;</li>
+          <li class="list-inline-item">
+            <a href="/returns-and-warranty">Refunds, Returns & Warranty</a>
+          </li>
+        </ul>
+        <p class="text-muted small mb-4 mb-lg-0">&copy; sunboxlabs 2020. All Rights Reserved.</p>
+      </div>
+      <div class="col-lg-6 text-center text-lg-right my-auto">
+        <ul class="list-inline mb-0">
+          <li class="list-inline-item mr-3">
+            <a style="text-decoration: none" href="https://www.facebook.com/sunboxlabs/">
+              
+              <i class="gg-facebook"></i>
+            </a>
+          </li>
+          <li class="list-inline-item mr-3">
+            <a style="text-decoration: none" href="https://twitter.com/sunboxlabs">
+              
+              <i class="gg-twitter"></i>
+            </a>
+          </li>
+          <li class="list-inline-item">
+            
+            <a style="text-decoration: none" href="https://www.instagram.com/sunboxlabs/">
+              <i class="gg-instagram"></i>
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</footer>
+
+
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"
+  integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+  integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css"
+  integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+<link media="screen" href="https://fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic,700italic"
+  rel="stylesheet" type="text/css">
+
+<script>
+  var $form = $('form#electrade-form-footer')
+  var url = 'https://script.google.com/macros/s/AKfycbwRbZS37yjD4W-qV8f8nFxlVFcuS-D3eBjEQomLZHA6TkXkoMg/exec'
+  $.fn.serializeObject = function () {
+    var o = {};
+    var a = this.serializeArray();
+    $.each(a, function () {
+      if (o[this.name]) {
+        if (!o[this.name].push) {
+          o[this.name] = [o[this.name]];
+        }
+        o[this.name].push(this.value || '');
+      } else {
+        o[this.name] = this.value || '';
+      }
+    });
+    return o;
+  };
+
+
+  
+  (function () {
+    'use strict';
+    window.addEventListener('load', function () {
+      
+      var validation = Array.prototype.filter.call($form, function (form) {
+        form.addEventListener('submit', function (event) {
+          console.log('working')
+          $("#electrade-form-footer").hide();
+          $("#WIP-footer").show();
+          if (form.checkValidity() === false) {
+            event.preventDefault();
+            event.stopPropagation();
+          }
+          else {
+            event.preventDefault();
+            var jqxhr = $.ajax({
+              url: url,
+              method: "GET",
+              dataType: "json",
+              data: $form.serializeObject(),
+              success: function (result) { $("#WIP-footer").hide(); $("#thanks-footer").show() }
+            })
+          }
+          form.classList.add('was-validated');
+        }, false);
+      });
+    }, false);
+  })();
+</script>
+
+
+
+
+</body>
+
+</html><style>
+    img {
+        max-width: 100% !important;
+    }
+</style>
