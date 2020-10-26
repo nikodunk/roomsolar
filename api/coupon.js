@@ -11,7 +11,7 @@ module.exports = async (req, res) => {
     if(code === 'latch'){
       response = true
     }
-    if(code === 'frederick'){
+    if(code === 'maxedoutsolar'){
       response = true
     }
     res.status(200).send(response)
