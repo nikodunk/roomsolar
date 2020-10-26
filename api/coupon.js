@@ -5,15 +5,8 @@ module.exports = async (req, res) => {
     let { code } = req.query
     let response = false
     code = code.toLowerCase()
-    if(code === 'resource'){
-      response = true
-    }
-    if(code === 'latch'){
-      response = true
-    }
-    if(code === 'maxedoutsolar'){
-      response = true
-    }
+    const validCodes = [ 'resource', 'latch', 'maxedoutsolar', 'katiepatrick']
+    const response = validCodes.includes(code); // returns true or false
     res.status(200).send(response)
   } catch(error){
     console.log(error);
