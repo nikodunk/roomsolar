@@ -1,8 +1,6 @@
-{{ define "header"}}
-{{- partial "_shared/navbar.html" . -}}
-{{ end }}
+{{ partial "_shared/head.html" .}}
+{{ partial "_shared/navbar.html" .}}
 
-{{ define "main" }}
 
 <!-- start Facebook Pixel code -->
 <script>
@@ -39,10 +37,4 @@
 </div>
 
 
-{{end}}
-
-
-
-{{ define "footer" }}
-{{- partial "_shared/footer.html" . -}}
-{{end}}
+{{ partial "_shared/footer.html" . -}}
