@@ -6,9 +6,9 @@ module.exports = async (req, res) => {
     code = code.toLowerCase()
     const validCodes = [
       'resource',
+      'katiepatrick',
       'latch', 
-      'maxedoutsolar', 
-      'katiepatrick'
+      'maxedoutsolar'
     ]
     let response = validCodes.includes(code); // returns true or false
     res.status(200).send(response)
