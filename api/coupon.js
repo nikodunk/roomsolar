@@ -8,7 +8,8 @@ module.exports = async (req, res) => {
       'resource',
       'katiepatrick',
       'latch', 
-      'maxedoutsolar'
+      'maxedoutsolar',
+      'quench'
     ]
     let response = validCodes.includes(code); // returns true or false
     res.status(200).send(response)
