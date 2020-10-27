@@ -91,6 +91,10 @@
         {
             "source": "/solar-xantrex-kit-apartment/",
             "destination": "/blog/solar-xantrex-kit-apartment/"
+        },
+        {
+            "source": "/2017/09/17/what-will-it-run.html",
+            "destination": "/solar-kit-500/"
         }
     ]
 }
