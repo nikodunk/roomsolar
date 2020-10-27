@@ -1,6 +1,6 @@
 ---
 layout: solarkit1000
-title:  "The Landlord-Friendly, Self-Install Solar Battery Generator Guide"
+title:  "1000W Self-Install Solar Generator Kit – incl 400W solar, 1500Wh battery, 1000W inverter"
 date:   2010-01-20 08:00:00 -0700
 image: "/solar-kit/img/banner.jpg"
 cost: "$ "

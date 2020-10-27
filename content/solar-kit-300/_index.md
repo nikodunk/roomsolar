@@ -1,6 +1,6 @@
 ---
 layout: solarkit300
-title:  "The Landlord-Friendly, Self-Install Solar Battery Generator Guide"
+title:  "300W Self-Install Solar Generator Kit – incl 100W solar, 300Wh battery, 300W inverter"
 date:   2020-01-20 08:00:00 -0700
 image: "/solar-kit/img/banner.jpg"
 cost: "$ "
