@@ -1,10 +1,7 @@
 baseURL = "https://sunboxlabs.com/"
 languageCode = "en-us"
-Title = "sunboxlabs"
-Subtitle = "DIY Solar Generator How-to guides and kits"
 summaryLength = 25
 enableEmoji = true
-publishDir = "docs"
 
 [markup.goldmark.renderer]
   unsafe= true

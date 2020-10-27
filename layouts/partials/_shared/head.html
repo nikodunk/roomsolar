@@ -5,11 +5,8 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 	<link rel="icon" href="https://sunboxlabs.com/sarah_spinning_sun.png">
-	{{ if .Page.Title -}}
-	<title>{{ .Page.Title }} | sunboxlabs</title>
-	{{ else }}
-	<title>Portable Solar Backup Generator Kits | sunboxlabs</title>
-	{{- end }}
+
+	<title>{{ .Params.title }} | sunboxlabs</title>
 
 	<meta name="description"
 		content="Sunboxlabs - The Portable Solar Generator Kits for Backup or Fun. Now $499 w/ Free Shipping.">
@@ -19,10 +16,10 @@
 	<!--  Essential META Tags -->
 	{{ if .Params.title -}}
 	<meta property="og:title"
-		content="Sunboxlabs - Portable Solar Generator Kits for Backup, Off-Grid or Fun. From $399 w/ Free Shipping.">
+		content="{{ .Params.title }} | Sunboxlabs - Portable Solar Generator Kits for Backup, Off-Grid or Fun. From $399 w/ Free Shipping.">
 	{{ else }}
 	<meta property="og:title"
-		content="{{ .Params.title }} | Sunboxlabs - Portable Solar Generator Kits for Backup, Off-Grid or Fun. From $399 w/ Free Shipping.">
+		content="Sunboxlabs - Portable Solar Generator Kits for Backup, Off-Grid or Fun. From $399 w/ Free Shipping.">
 	{{- end }}
 
 	<meta property="og:description"

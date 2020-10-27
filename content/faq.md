@@ -1,8 +1,10 @@
 ---
-layout: post
 title:  "Frequently Asked Questions"
+layout: "post"
 comments: true
+path: "foo"
 ---
+
 <br/><br/>
 
 #### 1) Can I charge the battery off my car?
