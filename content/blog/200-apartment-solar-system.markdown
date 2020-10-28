@@ -57,7 +57,7 @@ The Kit
 <div style="width: 100%; text-align: center">
   <a href="https://www.amazon.com/dp/B07DNP14JY/ref=as_li_ss_il?ie=UTF8&linkCode=li3&tag=gridlesskits-20&linkId=87223b0c9afae6afc319f3e5570a7e0b&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07DNP14JY&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=gridlesskits-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=gridlesskits-20&language=en_US&l=li3&o=1&a=B07DNP14JY" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
   <br/><br/><br/>
-  <a onclick="gtag('Amazon Affiliate clicked')" class="btn btn-primary btn-lg" target="_blank" style="background-color: orange; border: none" href="https://www.amazon.com/dp/B07DNP14JY/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=gridlesskits-20&linkId=5471c575905d3ddc3e5db437ffeb1fb6&language=en_US" >Check latest price on Amazon</a>
+  <a onclick="gtag('event','Amazon Affiliate clicked')" class="btn btn-primary btn-lg" target="_blank" style="background-color: orange; border: none" href="https://www.amazon.com/dp/B07DNP14JY/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=gridlesskits-20&linkId=5471c575905d3ddc3e5db437ffeb1fb6&language=en_US" >Check latest price on Amazon</a>
 </div>
 <hr/>
 
@@ -67,7 +67,7 @@ The Kit
 <div style="width: 100%; text-align: center">
   <a href="https://www.amazon.com/dp/B017PI2OUS/ref=as_li_ss_il?ie=UTF8&linkCode=li3&tag=gridlesskits-20&linkId=dba78e3132d8873bd364f83876c1116e&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B017PI2OUS&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=gridlesskits-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=gridlesskits-20&language=en_US&l=li3&o=1&a=B017PI2OUS" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
   <br/><br/><br/>
-  <a onclick="gtag('Amazon Affiliate clicked')" class="btn btn-primary btn-lg" target="_blank" style="background-color: orange; border: none" href="https://www.amazon.com/dp/B017PI2OUS/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=gridlesskits-20&linkId=e7e63ccedf31a9d74dd9a6b8bde254ec&language=en_US" >Check latest price on Amazon</a>
+  <a onclick="gtag('event','Amazon Affiliate clicked')" class="btn btn-primary btn-lg" target="_blank" style="background-color: orange; border: none" href="https://www.amazon.com/dp/B017PI2OUS/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=gridlesskits-20&linkId=e7e63ccedf31a9d74dd9a6b8bde254ec&language=en_US" >Check latest price on Amazon</a>
 </div>
 <hr/>
 
@@ -77,7 +77,7 @@ The Kit
 <div style="width: 100%; text-align: center">
   <a href="https://www.amazon.com/dp/B073WQC558/ref=as_li_ss_il?ie=UTF8&linkCode=li3&tag=gridlesskits-20&linkId=f087b583de3343bc9d3c91f4f182d80f&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B073WQC558&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=gridlesskits-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=gridlesskits-20&language=en_US&l=li3&o=1&a=B073WQC558" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
   <br/><br/><br/>
-  <a onclick="gtag('Amazon Affiliate clicked')" class="btn btn-primary btn-lg" target="_blank" style="background-color: orange; border: none" href="https://www.amazon.com/dp/B073WQC558/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=gridlesskits-20&linkId=5a02f34e92654fc0426c3549033a5632&language=en_US" >Check latest price on Amazon</a>
+  <a onclick="gtag('event','Amazon Affiliate clicked')" class="btn btn-primary btn-lg" target="_blank" style="background-color: orange; border: none" href="https://www.amazon.com/dp/B073WQC558/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=gridlesskits-20&linkId=5a02f34e92654fc0426c3549033a5632&language=en_US" >Check latest price on Amazon</a>
 </div>
 <hr/>
 
@@ -87,7 +87,7 @@ The Kit
 <div style="width: 100%; text-align: center">
   <a href="https://www.amazon.com/dp/B000ND0WB6/ref=as_li_ss_il?ie=UTF8&linkCode=li3&tag=gridlesskits-20&linkId=e9456173d61a3a8b947706af6135848e&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B000ND0WB6&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=gridlesskits-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=gridlesskits-20&language=en_US&l=li3&o=1&a=B000ND0WB6" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
   <br/><br/><br/>
-  <a onclick="gtag('Amazon Affiliate clicked')" class="btn btn-primary btn-lg" target="_blank" style="background-color: orange; border: none" href="https://www.amazon.com/dp/B000ND0WB6/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=gridlesskits-20&linkId=28854196c90c1665934aa0a767f6405e&language=en_US" >Check latest price on Amazon</a>
+  <a onclick="gtag('event','Amazon Affiliate clicked')" class="btn btn-primary btn-lg" target="_blank" style="background-color: orange; border: none" href="https://www.amazon.com/dp/B000ND0WB6/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=gridlesskits-20&linkId=28854196c90c1665934aa0a767f6405e&language=en_US" >Check latest price on Amazon</a>
 </div>
 <hr/>
 
@@ -96,7 +96,7 @@ The Kit
 <div style="width: 100%; text-align: center">
   <a href="https://www.amazon.com/dp/B00K8E0WAG/ref=as_li_ss_il?ie=UTF8&linkCode=li3&tag=gridlesskits-20&linkId=9e007e816d3d9669eeb4de45b4433aad&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00K8E0WAG&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=gridlesskits-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=gridlesskits-20&language=en_US&l=li3&o=1&a=B00K8E0WAG" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
   <br/><br/><br/>
-  <a onclick="gtag('Amazon Affiliate clicked')" class="btn btn-primary btn-lg" target="_blank" style="background-color: orange; border: none" href="https://www.amazon.com/dp/B00K8E0WAG/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=gridlesskits-20&linkId=5ec01d8ee25212984710b2d9fc05f5e0&language=en_US" >Check latest price on Amazon</a>
+  <a onclick="gtag('event','Amazon Affiliate clicked')" class="btn btn-primary btn-lg" target="_blank" style="background-color: orange; border: none" href="https://www.amazon.com/dp/B00K8E0WAG/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=gridlesskits-20&linkId=5ec01d8ee25212984710b2d9fc05f5e0&language=en_US" >Check latest price on Amazon</a>
 </div>
 <hr/>
 
@@ -106,7 +106,7 @@ The Kit
 <div style="width: 100%; text-align: center">
   <a href="https://www.amazon.com/dp/B01NAUV18K/ref=as_li_ss_il?ie=UTF8&linkCode=li3&tag=gridlesskits-20&linkId=c4ad25f042cf8143a3fc2163c104c100&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01NAUV18K&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=gridlesskits-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=gridlesskits-20&language=en_US&l=li3&o=1&a=B01NAUV18K" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
   <br/><br/><br/>
-  <a onclick="gtag('Amazon Affiliate clicked')" class="btn btn-primary btn-lg" target="_blank" style="background-color: orange; border: none" href="https://www.amazon.com/dp/B01NAUV18K/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=gridlesskits-20&linkId=15e787accb5370fd81a69e14c5c987ad&language=en_US" >Check latest price on Amazon</a>
+  <a onclick="gtag('event','Amazon Affiliate clicked')" class="btn btn-primary btn-lg" target="_blank" style="background-color: orange; border: none" href="https://www.amazon.com/dp/B01NAUV18K/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=gridlesskits-20&linkId=15e787accb5370fd81a69e14c5c987ad&language=en_US" >Check latest price on Amazon</a>
 </div>
 <hr/>
 

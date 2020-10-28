@@ -30,7 +30,7 @@ The kit
 <div style="width: 100%; text-align: center">
   <a href="https://www.amazon.com/dp/B07DNP14JY/ref=as_li_ss_il?ie=UTF8&linkCode=li3&tag=gridlesskits-20&linkId=99360de20e44431c2be99ad30a83c6e4&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07DNP14JY&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=gridlesskits-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=gridlesskits-20&language=en_US&l=li3&o=1&a=B07DNP14JY" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
   <br/><br/><br/>
-  <a onclick="gtag('Amazon Affiliate clicked')" class="btn btn-primary btn-lg" target="_blank" style="background-color: orange; border: none" href="https://www.amazon.com/dp/B07DNP14JY/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=gridlesskits-20&linkId=89421f91048afbe7b267a57e2e1ee105&language=en_US" >Check latest price on Amazon</a>
+  <a onclick="gtag('event','Amazon Affiliate clicked')" class="btn btn-primary btn-lg" target="_blank" style="background-color: orange; border: none" href="https://www.amazon.com/dp/B07DNP14JY/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=gridlesskits-20&linkId=89421f91048afbe7b267a57e2e1ee105&language=en_US" >Check latest price on Amazon</a>
 </div>
 <hr/>
 
@@ -40,7 +40,7 @@ The kit
 <div style="width: 100%; text-align: center">
   <a href="https://www.amazon.com/dp/B08FX3S5LF/ref=as_li_ss_il?ie=UTF8&linkCode=li3&tag=gridlesskits-20&linkId=ec66505ec3cd7456b83ae1e511574b54&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B08FX3S5LF&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=gridlesskits-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=gridlesskits-20&language=en_US&l=li3&o=1&a=B08FX3S5LF" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
   <br/><br/><br/>
-  <a onclick="gtag('Amazon Affiliate clicked')" class="btn btn-primary btn-lg" target="_blank" style="background-color: orange; border: none" href="https://www.amazon.com/dp/B08FX3S5LF/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=gridlesskits-20&linkId=eeb3715377fa02ddbcf972d1ff174f34&language=en_US" >Check latest price on Amazon</a>
+  <a onclick="gtag('event','Amazon Affiliate clicked')" class="btn btn-primary btn-lg" target="_blank" style="background-color: orange; border: none" href="https://www.amazon.com/dp/B08FX3S5LF/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=gridlesskits-20&linkId=eeb3715377fa02ddbcf972d1ff174f34&language=en_US" >Check latest price on Amazon</a>
 </div>
 <hr/>
 
