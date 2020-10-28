@@ -1,4 +1,3 @@
 ---
-title:  "Home"
-aliases: [/solar-kit-300/]
+title:  "Solar Power Kits Home"
 ---
