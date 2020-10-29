@@ -4,40 +4,73 @@ title: "About Us"
 comments: false
 ---
 
-#### Our Story
+<h2 style="text-align: center">Our Story</h2>
 
-Sunboxlabs was started in 2017 when Niko was renting a San Francisco apartment and ran into a problem installing solar: He could not put panels on his roof because he needed approval from his landlord. Additionally, he would need to remove the rooftop solar and undo the electrical work next time he moved. 
-
-Niko needed a self-contained, removable and self-installable solar system. That's how sunboxlabs was born: What if solar power was a consumer electronic you could order online and install yourself? 
-
-He built a system with parts from Amazon, wrote about it, and received 200,000 reads in a few days and great feedback on this article. Three years and many articles and kits later, we started offering easy kits for purchase. They have been used for camping, RVs, van-life, festivals, backup power after extreme weather and of course in urban apartments.
-
----
-
-#### Our Mission
- Our mission is to **make purchasing solar/storage as easy as purchasing any other consumer electronic**. 
-
----
-#### Our Vision
-Our vision is that <b>solar energy will spread as rapidly as satellite dishes, window AC units & smartphones if we can make it a consumer electronic</b> that doesn't require getting quotes and red tape. We are starting small, but with battery and solar prices plummeting will scale up fast to be able to cover any use case.
-
-<div class="row">
-  <div class="col-12">
-    <img src="https://sunboxlabs.com/blog/solar-kit/img/SOLUTION.jpg">
-  </div>
-  <span style="text-align: center; width: 100%">Solar as a modular consumer electronic - like satellite dishes and air conditioning?</span>
-  <small style="text-align: center; width: 100%">(Satellite Photo by Paweł Czerwiński | Air Conditioner Photo by Chromatograph)</small>
+<div class="row mb-4">
+    <div class="col-5">
+        <h3 style="color: darkblue">Struggle</h3>
+        Niko was renting a San Francisco apartment and ran into a problem installing solar: He could not put panels on his roof because he needed approval from his landlord. Additionally, he would need to remove the rooftop solar and undo the electrical work next time he moved. 
+    </div>
+    <div class="col-2 mb-4" style="text-align: center; color: darkblue">
+        <h6>YEAR</h6>
+        <h2><b>[2016]</b></h2>
+        <div style="width: 50%; height: 80%; border-right: 3px dotted red"></div>
+    </div>
+    <div class="col-5">
+        <img src="/img/PROBLEM.png"/>
+    </div>
 </div>
 
---------
+<div class="row mb-4">
+    <div class="col-5">
+        <img src="/img/FINAL.jpg"><img src="/img/FINAL2.jpg">
+    </div>
+    <div class="col-2 mb-4" style="text-align: center; color: darkblue">
+        <h6>YEAR</h6>
+        <h2><b>[2017]</b></h2>
+        <div style="width: 50%; height: 80%; border-right: 3px dotted red"></div>
+    </div>
+    <div class="col-5">
+        <h3 style="color: darkblue">Solution</h3>
+        Niko needed a self-contained, removable and self-installable solar system. He built a system with parts from Amazon, wrote about it, and received 200,000 reads in a few days and great feedback on this article.
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-5">
+        <h3 style="color: darkblue">Sunboxlabs Kits Launched</h3>
+        Three years and many articles and kits later, we started offering easy kits for purchase. They have been used for camping, RVs, van-life, festivals, backup power after extreme weather and of course in urban apartments.
+    </div>
+    <div class="col-2 mb-4" style="text-align: center; color: darkblue">
+        <h6>YEAR</h6>
+        <h2><b>[2020]</b></h2>
+    </div>
+    <div class="col-5">
+        <img src="/img_3/500 copy 2.jpg">
+    </div>
+</div>
+
+
+---
+<h2 style="text-align: center">Our Vision</h2>
+
+<div class="row">
+  <div class="col-5">
+    <img src="https://sunboxlabs.com/blog/solar-kit/img/SOLUTION.jpg">
+    <small style="text-align: center; width: 100%">(Photo: Paweł Czerwiński, Chromatograph)</small>
+  </div>
+  <div class="col-7">
+  Our vision is that <b>solar energy will spread as rapidly as satellite dishes, window AC units & smartphones if we can make it a consumer electronic</b> that doesn't require getting quotes and red tape. We are starting small, but with battery and solar prices plummeting will scale up fast to be able to cover any use case.
+  </div>
+</div>
+
+---
+
+<h2 style="text-align: center">Our Mission</h2>
+
+Our mission is to **make purchasing solar/storage as easy as purchasing any other consumer electronic**. 
 
 If we look to the car, the smartphone, the window A/C unit — these devices spread like wildfire across the globe because they were off-the-shelf products that required no configuration but great benefits. Identical appliances were churned out at an industrial scale for a global audience. They were “plug n play”. Plug n play solar has been around for a while, but has never taken off (probably because behind-the-meter power is still sketchy and poorly understood). The potential for plug n play solar is huge — it could mean cheap, zero-configuration solar energy spreading to consumers at the pace of the smartphone, the car or air-conditioning.
-
-What if autonomous electric generation could be added room by room to a household (like window A/C units)? We could outfit all rooms of my household for around $1400 with this system today. Because the kitchen and bathrooms have way higher energy usages (fridge, stove, water heater) than the other rooms, a more sophisticated system could mesh the batteries together (wirelessly?) to create a stronger system that sends power to the rooms that need it most. This system could also discharge the batteries systematically as the price of grid power changes and the sun moves around the house.
-
-This site provides information on how to install your own DIY solar energy + storage kits, and we started selling them in early 2020 too.
-
-The site originally started on a Hackernoon post (see below), and was extended here with the goal of to making installing solar as easy and commonplace as installing a satellite dish or a window AC unit.
 
 ----
         
