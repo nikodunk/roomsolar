@@ -44,10 +44,8 @@ title:  "Sunboxlabs Kits Home"
             <img class="" src="/img_3/use_cases_1.jpg" alt="">
             <div class="container">
                 <div class="carousel-caption ">
-                    <h2 class="overlay">Premium Solar Kits for Backup, Outdoors or Offgrid.</h2>
-                    <!-- <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida
-                        at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
-                    <p><a class="btn btn-lg btn-primary" href="#" role="button">Browse gallery</a></p> -->
+                    <h2 class="overlay">Premium Solar Kits<br/><span style="font-size: 1.5rem">for Backup, Outdoors or Offgrid.</span><h2>
+                    <!-- <p><a class="btn btn-lg btn-primary" href="#" role="button">Browse gallery</a></p> -->
                 </div>
             </div>
         </div>
