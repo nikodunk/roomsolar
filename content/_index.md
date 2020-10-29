@@ -44,7 +44,8 @@ title:  "Sunboxlabs Kits Home"
             <img class="" src="/img_3/use_cases_1.jpg" alt="">
             <div class="container">
                 <div class="carousel-caption ">
-                    <h2 class="overlay">Premium Solar Kits<br/><span style="font-size: 1.5rem">for Backup, Outdoors or Offgrid.</span><h2>
+                    <h2 class="d-none d-sm-block overlay">Premium Solar Kits for Backup, Outdoors or Offgrid.<h2>
+                    <h2 class="d-sm-none overlay">Premium Solar Kits<h2>
                     <!-- <p><a class="btn btn-lg btn-primary" href="#" role="button">Browse gallery</a></p> -->
                 </div>
             </div>
@@ -61,10 +62,21 @@ title:  "Sunboxlabs Kits Home"
             </div>
         </div>
         <div class="carousel-item">
+            <img class="" src="/img_3/use_cases_2.jpg" alt="">
+            <div class="container">
+                <div class="carousel-caption ">
+                    <h2 class="overlay">For Backup Power.</h2>
+                    <!-- <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida
+                        at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+                    <p><a class="btn btn-lg btn-primary" href="#" role="button">Browse gallery</a></p>  -->
+                </div>
+            </div>
+        </div>
+        <div class="carousel-item">
             <img class="" src="/img_3/500_camping.jpg" alt="">
             <div class="container">
                 <div class="carousel-caption">
-                    <h2 class="overlay">Outdoors energy.</h2>
+                    <h2 class="overlay">For Outdoors.</h2>
                     <!-- <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida
                         at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
                     <p><a class="btn btn-lg btn-primary" href="#" role="button">Learn more</a></p> -->
@@ -75,29 +87,18 @@ title:  "Sunboxlabs Kits Home"
             <img class="" src="/img_3/sunboxlabs_golden_gate_park_welcome_center.jpg" alt="">
             <div class="container">
                 <div class="carousel-caption ">
-                    <h2 class="overlay">Off-grid energy.</h2>
+                    <h2 class="overlay">For Off-grid energy.</h2>
                     <!-- <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida
                         at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
                     <p><a class="btn btn-lg btn-primary" href="#" role="button">Browse gallery</a></p> -->
                 </div>
             </div>
-        </div>
-        <div class="carousel-item">
-            <img class="" src="/img_3/use_cases_2.jpg" alt="">
-            <div class="container">
-                <div class="carousel-caption ">
-                    <h2 class="overlay">Backup power.</h2>
-                    <!-- <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida
-                        at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
-                    <p><a class="btn btn-lg btn-primary" href="#" role="button">Browse gallery</a></p>  -->
-                </div>
-            </div>
-        </div>
+        </div> 
         <div class="carousel-item">
             <img class="" src="/img_3/use_cases_3.jpg" alt="">
             <div class="container">
                 <div class="carousel-caption ">
-                    <h2 class="overlay">Van-life and Marine.</h2>
+                    <h2 class="overlay">For Van-living and Marine.</h2>
                     <!-- <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida
                         at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
                     <p><a class="btn btn-lg btn-primary" href="#" role="button">Browse gallery</a></p> -->
