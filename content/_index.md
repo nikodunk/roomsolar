@@ -90,8 +90,8 @@ title:  "Sunboxlabs Kits Home"
                 <div class="carousel-caption ">
                     <h2 class="overlay">Backup power.</h2>
                     <!-- <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida
-                        at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>-->
-                    <p><a class="btn btn-lg btn-primary" href="#" role="button">Browse gallery</a></p> 
+                        at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+                    <p><a class="btn btn-lg btn-primary" href="#" role="button">Browse gallery</a></p>  -->
                 </div>
             </div>
         </div>
