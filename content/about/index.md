@@ -1,10 +1,9 @@
 ---
 cost: "$"
-title: "About Us"
+title: "Our Story"
 comments: false
 ---
 
-<h2 style="text-align: center">Our Story</h2>
 
 <div class="row mb-5">
     <div class="col-4 order-sm-2 col-sm-2 mb-4" style="text-align: center; color: darkblue">
@@ -52,11 +51,15 @@ comments: false
 
 
 ---
-<h2 style="text-align: center">Our Vision</h2>
+<h1 style="text-align: center">Our Vision</h1>
 
 <div class="row">
   <div class="col-12 order-sm-2 col-sm-7">
-  <b>If we can make solar energy a consumer electronic, it will spread as rapidly as satellite dishes, window AC units & smartphones have</b>. We are starting small, but with battery and solar prices plummeting will scale up fast to be able to cover any use case.
+  <p style="text-align: center; margin: 0;">If we can</p>
+  <h3 style="text-align: center; margin: 0;">make solar energy a consumer electronic</h3>
+  <p style="text-align: center; margin: 0;">it will</p>
+  <h3 style="text-align: center;">spread as rapidly as the satellite dish.</h3>
+  <p>Or the window air conditioner or smartphone</b>. We are starting small with small kits, but as battery and solar prices come down, we will soon be able to cover more use cases.</p>
   </div>
   <div class="col-12 order-sm-1 col-sm-5">
     <img src="https://sunboxlabs.com/blog/solar-kit/img/SOLUTION.jpg">
@@ -66,7 +69,7 @@ comments: false
 
 ---
 
-<h2 style="text-align: center">Our Mission</h2>
+<h1 style="text-align: center">Our Mission</h1>
 
 Our mission is to **make purchasing solar/storage as easy as purchasing any other consumer electronic**. 
 

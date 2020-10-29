@@ -2,26 +2,23 @@
 {{ partial "_shared/navbar.html" .}}
 {{ partial "_shared/product-schema.html" .}}
 
-{{ partial "foo5.html"}}
+{{ .Content }}
+{{ partial "learnmore.html"}}
 
-<!-- <hr />
+<hr />
 <div class="container">
     <h2 id="fromourblog">From Our Blog</h2>
     <section class="recent-posts">
         <div class="row listrecent">
-            {{ if in .Permalink "/posts/" }}
-            {{ range (where .Site.RegularPages "Section" "posts") 3}}
-            {{- partial "list-partials/postbox.html" . -}}
-            {{ end }}
-            {{ else }}
+
             {{ range .Paginator.Pages }}
             {{- partial "list-partials/postbox.html" . -}}
             {{ end }}
-            {{ end }}
+
 
         </div>
     </section>
-</div> -->
+</div>
 
 
 {{ partial "_shared/footer.html" }}
