@@ -3,7 +3,7 @@ backend:
   branch: master # Branch to update (optional; defaults to master)
   identity_url: 'https://xenodochial-clarke-648ebb.netlify.app/.netlify/identity'
   gateway_url: 'https://xenodochial-clarke-648ebb.netlify.app/.netlify/git'
-media_folder: static/img
+media_folder: static/img_cms
 public_folder: /img
 collections:
   - name: 'blog'
