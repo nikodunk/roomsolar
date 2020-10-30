@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://sunboxlabs.com"
 languageCode = "en-us"
 summaryLength = 25
 enableEmoji = true
