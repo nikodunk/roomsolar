@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Public Safety Power Shutoffs Solar Backup Kit - for PG&E and SDGE and California Edison"
-date:   2020-10-30 08:00:00 -0700
-image: "/img/money2.jpg"
-type: "post"
+title: Public Safety Power Shutoffs Solar Backup Kit - for PG&E and SDGE and
+  California Edison
+date: 2020-10-31T18:00:00.000Z
+image: /img/money2.jpg
+type: post
 comments: true
 draft: true
 ---
