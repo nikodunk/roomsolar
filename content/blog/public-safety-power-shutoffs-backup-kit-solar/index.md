@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  "Public Safety Power Shutoffs Solar Backup Kit - for PG&E and SDGE and California Edison"
-date:   2020-10-30 08:00:00 -0700
-image: "/img/money2.jpg"
+date:   2020-10-31 08:00:00 -0700
+image: "blog/public-safety-power-shutoffs-backup-kit-solar/neonbrand-LaIwQ8b1Bjg-unsplash.jpg"
 type: "post"
 comments: true
-draft: true
 ---
 
 How to live off the grid and avoid the food in your fridge spoiling.
