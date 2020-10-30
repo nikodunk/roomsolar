@@ -96,7 +96,7 @@ The kit
 <hr/>
 
 
-
+<a href="/"><img src="/banner.jpg"/></a>
 
 ### Financial Payback & Embodied Energy
 

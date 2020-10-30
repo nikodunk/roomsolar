@@ -44,6 +44,8 @@ The kit
 </div>
 <hr/>
 
+<a href="/"><img src="/banner.jpg"/></a>
+
 ------
 
 # The calculations
