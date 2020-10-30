@@ -20,7 +20,6 @@ PG and E, SDGE and California Edison have all been forced to shut off power when
 2. Get a traditional (gas-powered) generator. 
 
    * Costs around $300-$1000. This however comes with many downsides:
-
    * only be used outside (important! Every year people die from using them inside – the carbon monoxide they release will poison humans indoors).
    * Are noisy
    * Are often way over-powered for what you're trying to run
@@ -35,19 +34,19 @@ PG and E, SDGE and California Edison have all been forced to shut off power when
 
 Our solar backup generator kits are powered are as follows:
 
-### Small
+### Small Solar Kit with Lithium Batteries
 
 Runs WiFi, laptops, and phones.
 
 See the kit [here](/solar-kit-300)
 
-### Medium
+### Medium Solar Kit with Lithium Batteries
 
 Runs Wifi, laptops and phones, plus an LED TV and a mini-fridge.
 
 See the kit [here](/solar-kit-500)
 
-### Large
+### Large Solar Kit with Lithium Batteries
 
 Run everything above, plus a family fridge to prevent the groceries from going bad.
 
