@@ -246,7 +246,7 @@ title:  "Sunboxlabs Kits Home"
             </div>
             <div class="col-lg-4">
                 <img class="fit-image img-fluid lazy" data-src="/img_3/we_help_you_install_2.jpg" alt="">
-                <h4>Support - Video support if you get stuck. But it's so easy you won't.</h4>
+                <h4>Premium Support - Video support if you get stuck. But it's so easy you won't.</h4>
             </div>
         </div>
         <hr />
@@ -262,13 +262,13 @@ title:  "Sunboxlabs Kits Home"
         <div class="container">
             <h2 class="mb-5">Reviews</h2>
             <div class="row" style="border-bottom: 1px solid lightgrey; padding-bottom: 10px; margin-bottom: 10px">
-                <div class="col-4" >
+                <div class="col-4 col-sm-3" >
                     <div >
                         <h5>⭐️⭐️⭐️⭐️⭐️</h5>
                         <p style="color: lightgrey">3 weeks ago</p>
                     </div>
                 </div>
-                <div class="col-8">
+                <div class="col-8 col-sm-9">
                     <div >
                         <h5>Madison D. – Alexandria, VA - 300W Kit</h5>
                         <p class="font-weight-light mb-0">I charged the battery kit from my home AC
@@ -277,13 +277,13 @@ title:  "Sunboxlabs Kits Home"
                 </div>
             </div>
             <div class="row" style="border-bottom: 1px solid lightgrey; padding-bottom: 10px; margin-bottom: 10px">
-                <div class="col-4" >
+                <div class="col-4 col-sm-3" >
                     <div >
                         <h5>⭐️⭐️⭐️⭐️</h5>
                         <p style="color: lightgrey">5 weeks ago</p>
                     </div>
                 </div>
-                <div class="col-8">
+                <div class="col-8 col-sm-9">
                     <div >
                         <h5>Nicholas E. – Cupertino, CA - 300W Kit</h5>
                         <p class="font-weight-light mb-0">I've mounted the solar panels onto a big sheet of plywood and
@@ -295,13 +295,13 @@ title:  "Sunboxlabs Kits Home"
                 </div>
             </div>
             <div class="row" style="border-bottom: 1px solid lightgrey; padding-bottom: 10px; margin-bottom: 10px">
-                <div class="col-4" >
+                <div class="col-4 col-sm-3" >
                     <div >
                         <h5>⭐️⭐️⭐️⭐️⭐️</h5>
                         <p style="color: lightgrey">2 months ago</p>
                     </div>
                 </div>
-                <div class="col-8">
+                <div class="col-8 col-sm-9">
                     <div >
                         <h5>Armin S. – Philadelphia, PA - 500W Kit</h5>
                         <p class="font-weight-light mb-0">I'm a healthy mix of prepper and sustainability person.
@@ -310,13 +310,13 @@ title:  "Sunboxlabs Kits Home"
                 </div>
             </div>
             <div class="row" style="border-bottom: 1px solid lightgrey; padding-bottom: 10px; margin-bottom: 10px">
-                <div class="col-4" >
+                <div class="col-4 col-sm-3" >
                     <div >
                         <h5>⭐️⭐️⭐️⭐️⭐️</h5>
                         <p style="color: lightgrey">4 months ago</p>
                     </div>
                 </div>
-                <div class="col-8">
+                <div class="col-8 col-sm-9">
                     <div >
                         <h5>Sarah W. – Tenafly, NJ - 500W Kit</h5>
                         <p class="font-weight-light mb-0">We've mainly been using this in our RV when we're off-grid
@@ -325,13 +325,13 @@ title:  "Sunboxlabs Kits Home"
                 </div>
             </div>
             <div class="row" style="border-bottom: 1px solid lightgrey; padding-bottom: 10px; margin-bottom: 10px">
-                <div class="col-4" >
+                <div class="col-4 col-sm-3" >
                     <div >
                         <h5>⭐️⭐️⭐️⭐️⭐️</h5>
                         <p style="color: lightgrey">5 months ago</p>
                     </div>
                 </div>
-                <div class="col-8">
+                <div class="col-8 col-sm-9">
                     <div >
                         <h5>Lou F. – Houston, TX - 1000W Kit</h5>
                         <p class="font-weight-light mb-0">My application is car camping / festivals and disaster prep.
