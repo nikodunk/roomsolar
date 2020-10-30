@@ -125,7 +125,7 @@ I’m using bargain-basement parts intended for RV, marine & car usage which kee
 I ordered the system on July 2nd, and with ground shipping the PV panel arrived July 11th from Canada, and the battery, wiring, controller and inverter arrived July 15th from Amazon USA.
 
 
-
+<a href="/"><img src="/banner.jpg"/></a>
 
 ### Assembly
 

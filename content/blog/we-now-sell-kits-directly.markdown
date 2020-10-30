@@ -3,8 +3,6 @@ layout: post
 title:  "New: We now sell kits directly!"
 date:   2020-06-20 08:00:00 -0700
 image: "banner.jpg"
-cost: "$ "
-tags: ["solar", "apartment"]
 type: "post"
 comments: true
 ---
