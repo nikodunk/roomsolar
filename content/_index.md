@@ -44,8 +44,8 @@ title:  "Sunboxlabs Kits Home"
             <img class="" src="/img_3/use_cases_1.jpg" alt="">
             <div class="container">
                 <div class="carousel-caption ">
-                    <h2 class="d-none d-sm-block overlay">Premium Solar Kits for Backup, Outdoors or Offgrid.<h2>
-                    <h2 class="d-sm-none overlay">Premium Solar Kits<h2>
+                    <h2 class="d-none d-sm-block overlay">Premium Solar LithiumKits for Backup, Outdoors or Offgrid.<h2>
+                    <h2 class="d-sm-none overlay">Premium Solar Lithium Kits<h2>
                     <!-- <p><a class="btn btn-lg btn-primary" href="#" role="button">Browse gallery</a></p> -->
                 </div>
             </div>
