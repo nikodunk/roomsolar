@@ -2,6 +2,21 @@
 {{ partial "_shared/navbar.html" .}}
 {{ partial "_shared/product-schema.html" .}}
 
+<script src="https://identity.netlify.com/v1/netlify-identity.js"></script>
+<script>
+    if (document.readyState === "loading") {
+        document.addEventListener("DOMContentLoaded", function () {
+            netlifyIdentity.init({
+                APIUrl: "https://my-site.netlify.com/.netlify/identity"
+            });
+        });
+    } else {
+        netlifyIdentity.init({
+            APIUrl: "https://my-site.netlify.com/.netlify/identity"
+        });
+    }
+</script>
+
 {{ .Content }}
 {{ partial "learnmore.html"}}
 
