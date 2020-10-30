@@ -261,18 +261,30 @@ title:  "Sunboxlabs Kits Home"
     <section class="testimonials bg-white">
         <div class="container">
             <h2 class="mb-5">Reviews</h2>
-            <div class="row">
-                <div class="col-lg-12">
-                    <div style="border-bottom: 1px solid lightgrey; padding-bottom: 10px; margin-bottom: 10px">
+            <div class="row" style="border-bottom: 1px solid lightgrey; padding-bottom: 10px; margin-bottom: 10px">
+                <div class="col-4" >
+                    <div >
                         <h5>⭐️⭐️⭐️⭐️⭐️</h5>
+                        <p style="color: lightgrey">3 weeks ago</p>
+                    </div>
+                </div>
+                <div class="col-8">
+                    <div >
                         <h5>Madison D. – Alexandria, VA - 300W Kit</h5>
                         <p class="font-weight-light mb-0">I charged the battery kit from my home AC
                             prior to a storm/trip etc. Then deploy the solar panels to re-charge.</p>
                     </div>
                 </div>
-                <div class="col-lg-12">
-                    <div style="border-bottom: 1px solid lightgrey; padding-bottom: 10px; margin-bottom: 10px">
+            </div>
+            <div class="row" style="border-bottom: 1px solid lightgrey; padding-bottom: 10px; margin-bottom: 10px">
+                <div class="col-4" >
+                    <div >
                         <h5>⭐️⭐️⭐️⭐️</h5>
+                        <p style="color: lightgrey">5 weeks ago</p>
+                    </div>
+                </div>
+                <div class="col-8">
+                    <div >
                         <h5>Nicholas E. – Cupertino, CA - 300W Kit</h5>
                         <p class="font-weight-light mb-0">I've mounted the solar panels onto a big sheet of plywood and
                             bring it out in case of power outage or earthquake (or when I want to show it off). We've
@@ -281,25 +293,46 @@ title:  "Sunboxlabs Kits Home"
                             (temporarily) a fridge.</p>
                     </div>
                 </div>
-                <div class="col-lg-12">
-                    <div style="border-bottom: 1px solid lightgrey; padding-bottom: 10px; margin-bottom: 10px">
+            </div>
+            <div class="row" style="border-bottom: 1px solid lightgrey; padding-bottom: 10px; margin-bottom: 10px">
+                <div class="col-4" >
+                    <div >
                         <h5>⭐️⭐️⭐️⭐️⭐️</h5>
+                        <p style="color: lightgrey">2 months ago</p>
+                    </div>
+                </div>
+                <div class="col-8">
+                    <div >
                         <h5>Armin S. – Philadelphia, PA - 500W Kit</h5>
                         <p class="font-weight-light mb-0">I'm a healthy mix of prepper and sustainability person.
                             This scratches both itches.</p>
                     </div>
                 </div>
-                <div class="col-lg-12">
-                    <div style="border-bottom: 1px solid lightgrey; padding-bottom: 10px; margin-bottom: 10px">
+            </div>
+            <div class="row" style="border-bottom: 1px solid lightgrey; padding-bottom: 10px; margin-bottom: 10px">
+                <div class="col-4" >
+                    <div >
                         <h5>⭐️⭐️⭐️⭐️⭐️</h5>
+                        <p style="color: lightgrey">4 months ago</p>
+                    </div>
+                </div>
+                <div class="col-8">
+                    <div >
                         <h5>Sarah W. – Tenafly, NJ - 500W Kit</h5>
                         <p class="font-weight-light mb-0">We've mainly been using this in our RV when we're off-grid
                             for a few days... amazingly powerful.</p>
                     </div>
                 </div>
-                <div class="col-lg-12">
-                    <div style="border-bottom: 1px solid lightgrey; padding-bottom: 10px; margin-bottom: 10px">
+            </div>
+            <div class="row" style="border-bottom: 1px solid lightgrey; padding-bottom: 10px; margin-bottom: 10px">
+                <div class="col-4" >
+                    <div >
                         <h5>⭐️⭐️⭐️⭐️⭐️</h5>
+                        <p style="color: lightgrey">5 months ago</p>
+                    </div>
+                </div>
+                <div class="col-8">
+                    <div >
                         <h5>Lou F. – Houston, TX - 1000W Kit</h5>
                         <p class="font-weight-light mb-0">My application is car camping / festivals and disaster prep.
                             Living in Houston its a real possibility every hurricane season that I will be without
