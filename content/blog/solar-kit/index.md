@@ -3,8 +3,6 @@ layout: solarkit
 title:  "The Landlord-Friendly, Self-Install Solar Battery Generator Guide"
 date:   2020-05-28 08:00:00 -0700
 image: "/blog/solar-kit/img/header copy.jpg"
-cost: "$ "
-tags: ["solar", "apartment"]
 type: "post"
 comments: true
 ---
