@@ -2,15 +2,13 @@
 layout: post
 title: How to convert a Jayco ram to run off solar
 date: 2020-10-30T18:15:49.125Z
-image: /img/jayco
+image: /img_cms/img_3646.jpg
 type: post
-draft: true
+draft: false
 ---
 Austin is taking a gap year from the Industrial Design school at University of Cincinnati DAAP to work remotely during Covid.
 
 He had 2 weeks to build out his van before he needed to head out, in order to make it to a (distanced) festival across the country. 
-
-
 
 He found a 1995 b2500 v8 Jayco Ram in mint condition in his home state of Ohio. It had only 30,000 miles on the odometer.
 
@@ -18,15 +16,11 @@ He built it out himself in a 2-week marathon, and finished the insides with beau
 
 The solar system in this van takes advantage of the existing electrical system, as it is simply a drop-in replacement for the 1995-era battery. While back then it could only be charged from shore power (ie. plugging the van in) or the alternator (ie. driving the car), Austin added the capability to be charged by solar. 
 
-
-
 Austin’s power requirements are pretty light when on the road – he just needs to run lights, his laptop, and charge devices. So he could get by with a smaller system and no inverter for the system. Cooking is powered with gas, and he doesn’t run any high-powered devices.
-
-
 
 He placed two 100W Renogy panels on the rooftop, affixed them with a mounting system, and wired through the van’s roof (of course sealing it well).
 
-![solarpanelsonvan](/img/img_3646.jpg "Solar Panels on the van")
+![solarpanelsonvan](/img_cms/img_3646.jpg "Solar Panels on the van")
 
 He replaced the deep-cycle lead-acid battery that was in the car with a lightweight Lithium Iron Phosphate battery with massive 1.2kWh storage. This means that he can run the lights and devices in the van as much as he likes, without ever worrying about emptying the battery.
 
