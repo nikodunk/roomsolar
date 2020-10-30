@@ -4,7 +4,7 @@ backend:
   identity_url: 'https://xenodochial-clarke-648ebb.netlify.app/.netlify/identity'
   gateway_url: 'https://xenodochial-clarke-648ebb.netlify.app/.netlify/git'
 media_folder: static/img_cms
-public_folder: /img
+public_folder: /img_cms
 collections:
   - name: 'blog'
     label: 'Blog'
