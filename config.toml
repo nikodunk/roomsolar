@@ -1,7 +1,8 @@
-baseURL = "https://sunboxlabs.com/"
+baseURL = "/"
 languageCode = "en-us"
 summaryLength = 25
 enableEmoji = true
 title = "sunboxlabs"
 [markup.goldmark.renderer]
   unsafe= true
+buildDrafts=false
