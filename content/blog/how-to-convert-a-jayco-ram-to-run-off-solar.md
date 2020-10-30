@@ -4,7 +4,7 @@ title: How to convert a Jayco ram to run off solar
 date: 2020-10-30T18:15:49.125Z
 image: /img_cms/img_3646.jpg
 type: post
-draft: true
+draft: false
 ---
 Austin is taking a gap year from the Industrial Design school at University of Cincinnati DAAP to work remotely during Covid.
 
