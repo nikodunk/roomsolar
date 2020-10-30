@@ -16,7 +16,7 @@ He built it out himself in a 2-week marathon, and finished the insides with beau
 
 The solar system in this van takes advantage of the existing electrical system, as it is simply a drop-in replacement for the 1995-era battery. While back then it could only be charged from shore power (ie. plugging the van in) or the alternator (ie. driving the car), Austin added the capability to be charged by solar. 
 
-Austin’s power requirements are pretty light when on the road – he just needs to run lights, his laptop, and charge devices. So he could get by with a smaller system and no inverter for the system. Cooking is powered with gas, and he doesn’t run any high-powered devices.
+Austin’s power requirements are pretty light when on the road – he just needs to run lights, his laptop, and charge devices. So he could get by with a small 300W DC powered car-inverter for the system, plugged into the car’s cigarette lighter. Cooking is powered with gas, and he doesn’t run any high-powered devices.
 
 He placed two 100W Renogy panels on the rooftop, affixed them with a mounting system, and wired through the van’s roof (of course sealing it well).
 
@@ -32,7 +32,7 @@ Check with Austin – the exact models (amazon links?) of the parts he bought:
 
 * [Solar controller, Panels](https://www.amazon.com/gp/product/B07YXL2TC7/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1)
 * [Battery](https://www.amazon.com/gp/product/B07YXL2TC7/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1)
-* (No inverter)
+* [Inverter](https://www.amazon.com/gp/product/B07KQ4Q2L5/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1)
 
 He says:
 
