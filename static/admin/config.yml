@@ -1,6 +1,8 @@
 backend:
   name: git-gateway
   branch: master # Branch to update (optional; defaults to master)
+  identity_url: 'https://xenodochial-clarke-648ebb.netlify.app/.netlify/identity'
+  gateway_url: 'https://xenodochial-clarke-648ebb.netlify.app/.netlify/git'
 media_folder: static/img
 public_folder: /img
 collections:
@@ -12,9 +14,10 @@ collections:
     editor:
       preview: false
     fields:
-      - { label: 'Layout', name: 'layout', widget: 'string' }
+      - { label: 'Layout', name: 'layout', widget: 'string', default: 'post' }
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Image', name: 'image', widget: 'string' }
-      - { label: 'Type', name: 'type', widget: 'post' }
+      - { label: 'Type', name: 'type', widget: 'string', default: 'post' }
+      - { label: 'Comments', name: 'comments', widget: 'boolean', default: false }
       - { label: 'Body', name: 'body', widget: 'markdown' }
