@@ -7,7 +7,7 @@ media_folder: static/img_cms
 public_folder: /img_cms
 collections:
   - name: 'blog'
-    label: 'Blog'
+    label: 'Sunboxlabs Blog'
     folder: 'content/blog'
     create: true
     slug: '{{slug}}'
