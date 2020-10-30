@@ -91,6 +91,8 @@ The Kit
 <hr/>
 
 
+<a href="/"><img src="/banner.jpg"/></a>
+
 --------
 
 
