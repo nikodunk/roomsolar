@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to Convert a Mercedes Sprinter off run off Solar
+title: How to Convert a Mercedes Sprinter to Run Off Solar
 date: 2020-10-31T00:19:00.160Z
 image: Gene 1.JPG
 type: post
