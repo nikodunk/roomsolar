@@ -6,13 +6,19 @@ image: /img_cms/img_3646.jpg
 type: post
 draft: true
 ---
-Austin is taking a gap year from the Industrial Design school at University of Cincinnati DAAP to work remotely during Covid.
+Austin is taking a gap year from the Industrial Design school at the University of Cincinnati DAAP to work remotely during Covid.
 
 He had 2 weeks to build out his van before he needed to head out, in order to make it to a (distanced) festival across the country. 
 
 He found a 1995 b2500 v8 Jayco Ram in mint condition in his home state of Ohio. It had only 30,000 miles on the odometer.
 
+![1995b2500v8jaycoram](/img_cms/jayco-1.jpg "1995 B2500 V8 Jayco Ram")
+
 He built it out himself in a 2-week marathon, and finished the insides with beautiful old barn-wood, which he felt was fitting in order to represent his home town (where there are many barns).
+
+![woodeninteriorvan](/img_cms/jayco-3.jpg "Wooden Interior Van")
+
+![woodeninteriorvan](/img_cms/jayco-2.jpg "Wooden Interior Van")
 
 The solar system in this van takes advantage of the existing electrical system, as it is simply a drop-in replacement for the 1995-era battery. While back then it could only be charged from shore power (ie. plugging the van in) or the alternator (ie. driving the car), Austin added the capability to be charged by solar. 
 
@@ -24,7 +30,11 @@ He placed two 100W Renogy panels on the rooftop, affixed them with a mounting sy
 
 He replaced the deep-cycle lead-acid battery that was in the car with a lightweight Lithium Iron Phosphate battery with massive 1.2kWh storage. This means that he can run the lights and devices in the van as much as he likes, without ever worrying about emptying the battery.
 
+![deepcyclebattery](/img_cms/jayco-4.jpg "Deep Cycle Battery")
+
 Finally, the solar controller is a Renogy controller that allows him to monitor the battery state with Bluetooth from inside the van (without crawling down into the battery space).
+
+![solarconvertedvan](/img_cms/jayco-5.jpg "Solar Converted Van")
 
 All-in, the build cost around $8,000 for the materials (including solar) and $6,000 for the van.
 
@@ -33,6 +43,8 @@ These are the exact models of the parts he bought:
 * [Solar controller, Panels](https://www.amazon.com/gp/product/B07YXL2TC7/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1)
 * [Battery](https://www.amazon.com/gp/product/B07YXL2TC7/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1)
 * [Inverter](https://www.amazon.com/gp/product/B07KQ4Q2L5/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1)
+
+![solarconvertedvan](/img_cms/jayco-6.jpg "Solar Converted Van")
 
 He says:
 
