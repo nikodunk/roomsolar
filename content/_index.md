@@ -62,7 +62,7 @@ title:  "Sunboxlabs Kits Home"
             </div>
         </div>
         <div class="carousel-item">
-            <img class="" src="/img_3/use_cases_2.jpg" alt="">
+            <img class="lazy" src="/img_3/use_cases_2.jpg" alt="">
             <div class="container">
                 <div class="carousel-caption ">
                     <h2 class="overlay">For Backup Power.</h2>
@@ -73,7 +73,7 @@ title:  "Sunboxlabs Kits Home"
             </div>
         </div>
         <div class="carousel-item">
-            <img class="" src="/img_3/500_camping.jpg" alt="">
+            <img class="lazy" src="/img_3/500_camping.jpg" alt="">
             <div class="container">
                 <div class="carousel-caption">
                     <h2 class="overlay">For Outdoors.</h2>
@@ -84,7 +84,7 @@ title:  "Sunboxlabs Kits Home"
             </div>
         </div>
         <div class="carousel-item">
-            <img class="" src="/img_3/sunboxlabs_golden_gate_park_welcome_center.jpg" alt="">
+            <img class="lazy" src="/img_3/sunboxlabs_golden_gate_park_welcome_center.jpg" alt="">
             <div class="container">
                 <div class="carousel-caption ">
                     <h2 class="overlay">For Off-grid energy.</h2>
@@ -95,7 +95,7 @@ title:  "Sunboxlabs Kits Home"
             </div>
         </div> 
         <div class="carousel-item">
-            <img class="" src="/img_3/use_cases_3.jpg" alt="">
+            <img class="lazy" src="/img_3/use_cases_3.jpg" alt="">
             <div class="container">
                 <div class="carousel-caption ">
                     <h2 class="overlay">For Van-living and Marine.</h2>
