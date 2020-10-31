@@ -4,7 +4,7 @@ title: Public Safety Power Shutoffs Solar Backup Generator Kit
 date: 2020-10-31T20:18:31.620Z
 image: img_cms/neonbrand-LaIwQ8b1Bjg-unsplash.jpg
 type: post
-draft: false
+draft: true
 ---
 ## The problem
 
