@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Public Safety Power Shutoffs Solar Backup Generator Kit
-date: 2020-10-31T20:18:31.620Z
+date: 2020-10-31T21:02:26.640Z
 image: img_cms/neonbrand-LaIwQ8b1Bjg-unsplash.jpg
 type: post
-draft: true
+draft: false
 ---
 ## The problem
 
