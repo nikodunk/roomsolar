@@ -1,10 +1,10 @@
 ---
 layout: post
 title: How to Convert a Mercedes Sprinter to Run Off Solar
-date: 2020-10-31T00:19:00.160Z
+date: 2020-10-31T20:22:23.111Z
 image: Gene 1.JPG
 type: post
-draft: true
+draft: false
 ---
 Gene is the founder of [Pyonvans.com](https://www.pyonvans.com/), and this is their flagship model. He has been traveling during Covid, away from his home in Chicago, and is currently driving around the West Coast of the US. 
 
