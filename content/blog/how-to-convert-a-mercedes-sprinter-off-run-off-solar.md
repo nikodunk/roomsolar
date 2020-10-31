@@ -10,6 +10,8 @@ Gene is the founder of [Pyonvans.com](https://www.pyonvans.com/), and this is th
 
 His beautiful Sprinter van is what you could call on the more luxurious end of the spectrum (it is a flagship after all), and includes everything from a fold-down TV including a Switch with internet connection for off-grid Smash Bros sessions, to a full roll-out e-bike docking system.
 
+![solarpoweredluxuriousvan](/img_cms/gene-4.jpg "Solar Powered Luxurious Van")
+
 ![2019MercedesSprinter](/img_cms/gene-2.jpg "2019 Mercedes Sprinter")
 
 The model is a 2019 Mercedes Sprinter, and Gene’s team started off by fully insulating the van. Then, they mounted two high-powered 100W solar panels to the roof and ran the cabling to the base of the bus. 
@@ -20,12 +22,11 @@ The power requirements of the bus are more significant, with a TV, internet conn
 
 For the solar controller, a Bluetooth-connected charge controller was hooked up to the system (capable of up to 400W solar input, but currently not maxed out).
 
-The lithium 2000Wh (?) battery banks charge in around x hours when full.
-
 The rough system cost (including sprinter van) was around $100,000.
 
-Here are the components:
+These are the four main components that Gene used:
 
 * [180W Solar Panels ](https://www.amazon.com/Grape-Solar-180W-Monocrystalline-Panel/dp/B01N3107KM)
 * [2000W Pure Sine Wave Power Inverter](https://www.amazon.com/KISAE-Technology-SW1220-2000W-Inverter/dp/B008NOEWG8)
 * [AGM Deep Cycle Batteries ](https://www.vmaxtanks.com/XTR8D-350-12Volts-350AH-Deep-Cycle-XTREME-AGM-Battery-_p_166.html)
+* [Automatic Dual 12V 20A Battery Charger](https://www.amazon.com/CTEK-56-677-Automatic-Battery-Charger/dp/B005LBCVL4/ref=sr_1_1?srs=3114874011&ie=UTF8&qid=1506450603&sr=8-1&keywords=dual)
