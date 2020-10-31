@@ -41,7 +41,7 @@ title:  "Sunboxlabs Kits Home"
     </ol>
     <div class="carousel-inner">
         <div class="carousel-item active">
-            <img class="" src="/img_3/use_cases_1.jpg" alt="">
+            <img class="first-slide" src="/img_3/use_cases_1.jpg" alt="">
             <div class="container">
                 <div class="carousel-caption ">
                     <h2 class="d-none d-sm-block overlay">Premium Solar Lithium Kits for Backup, Outdoors or Offgrid.<h2>
@@ -51,7 +51,7 @@ title:  "Sunboxlabs Kits Home"
             </div>
         </div>
         <div class="carousel-item ">
-            <img class=" first-slide" src="/img_3/header3.jpg">
+            <img class=" " src="/img_3/header3.jpg">
             <div class="container">
                 <div class="carousel-caption ">
                     <h2 class="overlay">Easy installation. Portable form factor.</h2>
@@ -62,7 +62,7 @@ title:  "Sunboxlabs Kits Home"
             </div>
         </div>
         <div class="carousel-item">
-            <img class="lazy" src="/img_3/use_cases_2.jpg" alt="">
+            <img class=" " src="/img_3/use_cases_2.jpg" alt="">
             <div class="container">
                 <div class="carousel-caption ">
                     <h2 class="overlay">For Backup Power.</h2>
@@ -73,7 +73,7 @@ title:  "Sunboxlabs Kits Home"
             </div>
         </div>
         <div class="carousel-item">
-            <img class="lazy" src="/img_3/500_camping.jpg" alt="">
+            <img class=" " src="/img_3/500_camping.jpg" alt="">
             <div class="container">
                 <div class="carousel-caption">
                     <h2 class="overlay">For Outdoors.</h2>
@@ -84,7 +84,7 @@ title:  "Sunboxlabs Kits Home"
             </div>
         </div>
         <div class="carousel-item">
-            <img class="lazy" src="/img_3/sunboxlabs_golden_gate_park_welcome_center.jpg" alt="">
+            <img class=" " src="/img_3/sunboxlabs_golden_gate_park_welcome_center.jpg" alt="">
             <div class="container">
                 <div class="carousel-caption ">
                     <h2 class="overlay">For Off-grid energy.</h2>
@@ -95,7 +95,7 @@ title:  "Sunboxlabs Kits Home"
             </div>
         </div> 
         <div class="carousel-item">
-            <img class="lazy" src="/img_3/use_cases_3.jpg" alt="">
+            <img class=" " src="/img_3/use_cases_3.jpg" alt="">
             <div class="container">
                 <div class="carousel-caption ">
                     <h2 class="overlay">For Van-living and Marine.</h2>
