@@ -28,7 +28,7 @@ Finally, the solar controller is a Renogy controller that allows him to monitor 
 
 All-in, the build cost around $8,000 for the materials (including solar) and $6,000 for the van.
 
-Check with Austin – the exact models (amazon links?) of the parts he bought:
+These are the exact models of the parts he bought:
 
 * [Solar controller, Panels](https://www.amazon.com/gp/product/B07YXL2TC7/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1)
 * [Battery](https://www.amazon.com/gp/product/B07YXL2TC7/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1)
