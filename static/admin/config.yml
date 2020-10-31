@@ -11,8 +11,6 @@ collections:
     folder: 'content/blog'
     create: true
     slug: '{{slug}}'
-    editor:
-      preview: false
     fields:
       - { label: 'Layout', name: 'layout', widget: 'string', default: 'post' }
       - { label: 'Title', name: 'title', widget: 'string' }
