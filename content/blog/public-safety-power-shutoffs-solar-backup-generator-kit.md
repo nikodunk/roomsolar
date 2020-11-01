@@ -14,6 +14,8 @@ Also referred to as PSPS, a public safety power shutoff is implemented to keep c
 
 However, with a solar backup kit from Sunboxlabs, your business, your household, and your leisure activities do not have to suffer next time there is a PSPS. 
 
+![California Public Safety Shutoffs - Image by neonbrand on unsplash](/img_cms/neonbrand-unsplash.jpg "California Public Safety Shutoffs - Image by neonbrand on unsplash")
+
 ## What is a Public Safety Power Shutoff?
 
 Before we can combat its effects, we need to understand in exactly what a public safety power shutoff is. As mentioned, it’s a drastic safety measure that can have detrimental side effects. These effects include the malfunction of household appliances, spoilage of food, and rendering companies and factories inoperational.
@@ -41,12 +43,12 @@ Last but definitely not least is owning a backup generator, which we’ll get in
 
 ## How to avoid the food in your fridge spoiling
 
-1. ### You can put your groceries in a camping cooler with ice for a few hours. 
+1. ### You can put your groceries in a camping cooler with ice for a few hours.
 
    * Works great for a few hours to 1 day. If the shutoff is a few days though, this can become a hassle and you risk spoiling your food.
    * Need to move everything from the fridge to the cooler.
    * Requires Ice: 
-2. ### Get a traditional (gas-powered) generator. 
+2. ### Get a traditional (gas-powered) generator.
 
    * Costs around $300-$1000. This however comes with many downsides:
    * only be used outside (important! Every year people die from using them inside – the carbon monoxide they release will poison humans indoors).
