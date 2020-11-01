@@ -10,6 +10,8 @@ collections:
     label: 'Sunboxlabs Blog'
     folder: 'content/blog'
     create: true
+    editor:
+      preview: false
     slug: '{{slug}}'
     fields:
       - { label: 'Layout', name: 'layout', widget: 'string', default: 'post' }

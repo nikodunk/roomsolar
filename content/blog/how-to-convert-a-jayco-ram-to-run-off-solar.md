@@ -2,7 +2,7 @@
 layout: post
 title: How to Convert a Jayco Ram to Run Off Solar
 date: 2020-10-31T20:22:59.595Z
-image: /img_cms/img_3646.jpg
+image: /img_cms/jayco-6.jpg
 type: post
 draft: false
 ---
