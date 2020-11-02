@@ -95,6 +95,10 @@
         {
             "source": "/2017/09/17/what-will-it-run.html",
             "destination": "/solar-kit-500/"
+        },
+        {
+            "source": "/blog/how-to-convert-a-mercedes-sprinter-off-run-off-solar/",
+            "destination": "/blog/how-to-convert-a-ford-transit-to-off-run-off-solar/"
         }
     ]
 }
