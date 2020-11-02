@@ -6,7 +6,9 @@ image: /img_cms/gene-2.jpg
 type: post
 draft: false
 ---
-![2019MercedesSprinter](/img_cms/gene-2.jpg "2019 Ford Transit")
+![2019 For Transit Solar](/img_cms/gene-2.jpg "2019 Ford Transit that runs off solar")
+
+### The Story
 
 Gene is the founder of [Pyonvans.com](https://www.pyonvans.com/), and this is their flagship model. He has been traveling during Covid, away from his home in Chicago, and is currently driving around the West Coast of the US. 
 
@@ -32,7 +34,11 @@ On the storage side, Gene's setup includes two massive 350 Ah AGM batteries, tot
 
 ![Pyon vans solar diagram](/img_cms/pyon_vans_diagram.jpg "The full system setup")
 
-These are the four main components that Gene used:
+The van cost is around $35,000, plus an additional $45,000 - $60,000 for the build out. The solar system itself ran to around $2,000.
+
+### The Kit
+
+These are the four main components that Gene used.
 
 * [180W Solar Panels ](https://www.amazon.com/Grape-Solar-180W-Monocrystalline-Panel/dp/B01N3107KM)
 * [2000W Pure Sine Wave Power Inverter](https://www.amazon.com/KISAE-Technology-SW1220-2000W-Inverter/dp/B008NOEWG8)
