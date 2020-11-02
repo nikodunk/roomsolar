@@ -38,18 +38,51 @@ Finally, the solar controller is a Renogy controller that allows him to monitor 
 
 All-in, the build cost around $8,000 for the materials (including solar) and $6,000 for the van.
 
-These are the exact models of the parts he bought:
+The Kit
+======= 
 
-* [Solar controller, Panels](https://www.amazon.com/gp/product/B07YXL2TC7/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1)
-* [Battery](https://www.amazon.com/gp/product/B07YXL2TC7/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1)
-* [Inverter](https://www.amazon.com/gp/product/B07KQ4Q2L5/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1)
+<h4 style="color: #00ab6b">Solar Parts Cost on Amazon: $1,309</h4>
+
+### 200W Solar Panel & Renogy Solar Controller, Cables ($458)
+
+<div style="width: 100%; text-align: center">
+  <a href="https://www.amazon.com/dp/B015DEY2TM/ref=as_li_ss_il?ie=UTF8&linkCode=li3&tag=gridlesskits-20&linkId=d08db6fd45992d2f20a1c45c1feb30c2&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B015DEY2TM&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=gridlesskits-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=gridlesskits-20&language=en_US&l=li3&o=1&a=B015DEY2TM" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <br/><br/><br/>
+  <a onclick="gtag('event','Amazon Affiliate clicked')" class="btn btn-primary btn-lg" target="_blank" style="background-color: orange; border: none" href="https://www.amazon.com/dp/B015DEY2TM/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=gridlesskits-20&linkId=93f6a8fd40603e6c6663c07d6a6ddbde&language=en_US" >Check latest price on Amazon</a>
+</div>
+<hr/>
+
+
+
+
+### Lithium Deep Cycle Battery ($799)
+
+<div style="width: 100%; text-align: center">
+  <a href="https://www.amazon.com/dp/B07YXL2TC7/ref=as_li_ss_il?ie=UTF8&linkCode=li3&tag=gridlesskits-20&linkId=589172a9062588437bfbe4c3b5539e26&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07YXL2TC7&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=gridlesskits-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=gridlesskits-20&language=en_US&l=li3&o=1&a=B07YXL2TC7" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <br/><br/><br/>
+  <a onclick="gtag('event','Amazon Affiliate clicked')" class="btn btn-primary btn-lg" target="_blank" style="background-color: orange; border: none" href="https://www.amazon.com/dp/B07YXL2TC7/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=gridlesskits-20&linkId=2d621a63127ff0c678b139d8093dbc3d&language=en_US" >Check latest price on Amazon</a>
+</div>
+<hr/>
+
+
+### 300W Inverter ($45)
+
+<div style="width: 100%; text-align: center">
+  <a href="https://www.amazon.com/dp/B07KQ4Q2L5/ref=as_li_ss_il?ie=UTF8&linkCode=li3&tag=gridlesskits-20&linkId=be0958f63190cb78be64d8aeb6d0b34a&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07KQ4Q2L5&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=gridlesskits-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=gridlesskits-20&language=en_US&l=li3&o=1&a=B07KQ4Q2L5" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <br/><br/><br/>
+  <a onclick="gtag('event','Amazon Affiliate clicked')" class="btn btn-primary btn-lg" target="_blank" style="background-color: orange; border: none" href="https://www.amazon.com/dp/B07KQ4Q2L5/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=gridlesskits-20&linkId=0cbfd25923cb8533e578bb08bbfada66&language=en_US" >Check latest price on Amazon</a>
+</div>
+<hr/>
+
+
+--------
 
 ![solarconvertedvan](/img_cms/jayco-6.jpg "Solar Converted Van")
 
 He says:
 
-> For my Solar set up it could not have been easier. My van already had a fuse box and inverter that I just had to rewire to. It also was connected to my alternator to charge the battery while I am driving. All I had to do was wire the solar panels to the solar charger and then connect that to the battery. My fuse box then distributed the energy throughout my van. Super simple, kind of lol
->
-> BUT, I would say navigating my way through the combination of already existing technology in the van (fuse box/invertor and wiring) and trying to figure out how I could connect new modern tech (solar panels + battery) took a long time. It took a long time because I had to learn how electricity and wiring worked in general. The difference between DC and AC what can run on each and etc. But totally worth it.
->
-> My build is a combination of plug and play solar + battery with existing ancient technology. Super fun and kind of redneck, but it works!
+    For my Solar set up it could not have been easier. My van already had a fuse box and inverter that I just had to rewire to. It also was connected to my alternator to charge the battery while I am driving. All I had to do was wire the solar panels to the solar charger and then connect that to the battery. My fuse box then distributed the energy throughout my van. Super simple, kind of lol
+
+    BUT, I would say navigating my way through the combination of already existing technology in the van (fuse box/invertor and wiring) and trying to figure out how I could connect new modern tech (solar panels + battery) took a long time. It took a long time because I had to learn how electricity and wiring worked in general. The difference between DC and AC what can run on each and etc. But totally worth it.
+
+    My build is a combination of plug and play solar + battery with existing ancient technology. Super fun and kind of redneck, but it works!
