@@ -18,8 +18,6 @@ His beautiful Sprinter van is what you could call on the more luxurious end of t
 
 The model is a 2019 Mercedes Sprinter, and Gene’s team started off by fully insulating the van. Then, they mounted two high-powered 100W solar panels to the roof and ran the cabling to the base of the bus. 
 
-
-
 ![solarpanelsonvan](/img_cms/gene-1.jpg "Solar Panels on Van")
 
 The power requirements of the bus are more significant, with a TV, internet connectivity, numerous devices, lights, and an air conditioner. So a 2000W inverter was the way to go.
@@ -28,7 +26,7 @@ The power requirements of the bus are more significant, with a TV, internet conn
 
 For the solar controller, a Bluetooth-connected charge controller was hooked up to the system (capable of up to 400W solar input, but currently not maxed out).
 
-The rough system cost (including sprinter van) was around $100,000.
+![Pyon vans solar diagram](/img_cms/pyon_vans_diagram.jpg "The full system setup")
 
 These are the four main components that Gene used:
 
