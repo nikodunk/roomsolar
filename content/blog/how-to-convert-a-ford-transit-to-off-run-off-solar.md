@@ -1,14 +1,16 @@
 ---
 layout: post
-title: How to Convert a Mercedes Sprinter to Run Off Solar
+title: How to Convert a Ford Transit to Run Off Solar
 date: 2020-10-30T20:26:00.000Z
 image: /img_cms/gene-2.jpg
 type: post
 draft: false
 ---
-![2019MercedesSprinter](/img_cms/gene-2.jpg "2019 Mercedes Sprinter")
+![2019MercedesSprinter](/img_cms/gene-2.jpg "2019 Ford Transit")
 
 Gene is the founder of [Pyonvans.com](https://www.pyonvans.com/), and this is their flagship model. He has been traveling during Covid, away from his home in Chicago, and is currently driving around the West Coast of the US. 
+
+His company converted a 2019 Ford Transit (similar to the wildly popular Mercedes Sprinter van) to be a livable, luxury home on wheels. The insides have quite some power requirements, and they decided to power them by solar when not connected to shore power. 
 
 ![](/img_cms/gene-5.jpg)
 
