@@ -14,19 +14,21 @@ His company converted a 2019 Ford Transit (similar to the wildly popular Mercede
 
 ![](/img_cms/gene-5.jpg)
 
-His beautiful Sprinter van is what you could call on the more luxurious end of the spectrum (it is a flagship after all), and includes everything from a fold-down TV including a Switch with internet connection for off-grid Smash Bros sessions, to a full roll-out e-bike docking system.
+His beautiful Ford Transit van is what you could call on the more luxurious end of the spectrum (it is a flagship after all), and includes everything from a fold-down TV including a Switch with internet connection for off-grid Smash Bros sessions, to a full roll-out e-bike docking system.
 
 ![solarpoweredluxuriousvan](/img_cms/gene-4.jpg "Solar Powered Luxurious Van")
 
-The model is a 2019 Mercedes Sprinter, and Gene’s team started off by fully insulating the van. Then, they mounted two high-powered 100W solar panels to the roof and ran the cabling to the base of the bus. 
+The model is a 2019 Ford Transit, and Gene’s team started off by fully insulating the van. Then, they mounted two high-powered 180W solar panels to the roof and ran the cabling to the base of the bus. 
 
 ![solarpanelsonvan](/img_cms/gene-1.jpg "Solar Panels on Van")
 
-The power requirements of the bus are more significant, with a TV, internet connectivity, numerous devices, lights, and an air conditioner. So a 2000W inverter was the way to go.
+The power requirements of the bus are more significant, with a TV, internet connectivity, numerous devices, lights, and an air conditioner. So a 2000W pure sine inverter was the way to go.
 
 ![insides of gene's pyon vans including 2000w inverter](/img_cms/gene-3.jpg "insides of gene's pyon vans including 2000w inverter")
 
-For the solar controller, a Bluetooth-connected charge controller was hooked up to the system (capable of up to 400W solar input, but currently not maxed out).
+For the solar controller, a Bluetooth-connected CTEK solar charge controller was hooked up to the system (capable of up to 400W solar input, but currently not maxed out).
+
+On the storage side, Gene's setup includes two massive 350 Ah AGM batteries, totalling 8.4kWh (350Ah * 12v) of storage (probably around 4kWh of usable as they're AGM batteries).
 
 ![Pyon vans solar diagram](/img_cms/pyon_vans_diagram.jpg "The full system setup")
 
@@ -35,4 +37,4 @@ These are the four main components that Gene used:
 * [180W Solar Panels ](https://www.amazon.com/Grape-Solar-180W-Monocrystalline-Panel/dp/B01N3107KM)
 * [2000W Pure Sine Wave Power Inverter](https://www.amazon.com/KISAE-Technology-SW1220-2000W-Inverter/dp/B008NOEWG8)
 * [AGM Deep Cycle Batteries ](https://www.vmaxtanks.com/XTR8D-350-12Volts-350AH-Deep-Cycle-XTREME-AGM-Battery-_p_166.html)
-* [Automatic Dual 12V 20A Battery Charger](https://www.amazon.com/CTEK-56-677-Automatic-Battery-Charger/dp/B005LBCVL4/ref=sr_1_1?srs=3114874011&ie=UTF8&qid=1506450603&sr=8-1&keywords=dual)
+* [CTEK Dual 12V 20A Battery Charger](https://www.amazon.com/CTEK-56-677-Automatic-Battery-Charger/dp/B005LBCVL4/ref=sr_1_1?srs=3114874011&ie=UTF8&qid=1506450603&sr=8-1&keywords=dual)
