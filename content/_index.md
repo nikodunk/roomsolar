@@ -26,8 +26,6 @@ title:  "Sunboxlabs Kits Home"
 </noscript> -->
 <!-- End Facebook Pixel Code -->
 
-<link media="screen" href="/css/styles.css" rel="stylesheet" type="text/css">
-<link media="screen" href="/css/additional.css" rel="stylesheet" type="text/css">
 
 
 <div id="jumboCarousel" class="carousel" data-ride="carousel">
@@ -522,7 +520,7 @@ twq('init','o3znq');
 <!-- End Twitter universal website tag code -->
 
 
-<script type="text/javascript">
+<!-- <script type="text/javascript">
     var button = document.getElementById('buy1');
     button.addEventListener(
         'click',
@@ -556,5 +554,5 @@ twq('init','o3znq');
         },
         false
     );
-</script>
+</script> -->
 
