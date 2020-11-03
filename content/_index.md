@@ -5,7 +5,7 @@ title:  "Sunboxlabs Kits Home"
 
 
 <!-- Facebook Pixel Code -->
-<script>
+<!-- <script>
     !function (f, b, e, v, n, t, s) {
         if (f.fbq) return; n = f.fbq = function () {
             n.callMethod ?
@@ -23,7 +23,7 @@ title:  "Sunboxlabs Kits Home"
 <noscript>
     <img height="1" width="1" style="display:none"
         src="https://www.facebook.com/tr?id=682935348800905&ev=PageView&noscript=1" />
-</noscript>
+</noscript> -->
 <!-- End Facebook Pixel Code -->
 
 <link media="screen" href="/css/styles.css" rel="stylesheet" type="text/css">
@@ -558,28 +558,3 @@ twq('init','o3znq');
     );
 </script>
 
-<!-- to load images async -->
-<script>
-    document.addEventListener("DOMContentLoaded", function () {
-        var lazyImages = [].slice.call(document.querySelectorAll("img.lazy"));
-
-        if ("IntersectionObserver" in window) {
-            let lazyImageObserver = new IntersectionObserver(function (entries, observer) {
-                entries.forEach(function (entry) {
-                    if (entry.isIntersecting) {
-                        let lazyImage = entry.target;
-                        lazyImage.src = lazyImage.dataset.src;
-                        lazyImage.classList.remove("lazy");
-                        lazyImageObserver.unobserve(lazyImage);
-                    }
-                });
-            });
-
-            lazyImages.forEach(function (lazyImage) {
-                lazyImageObserver.observe(lazyImage);
-            });
-        } else {
-            // Possibly fall back to a more compatible method here
-        }
-    });
-</script>

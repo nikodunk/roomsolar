@@ -79,10 +79,10 @@ The Kit
 
 ![solarconvertedvan](/img_cms/jayco-6.jpg "Solar Converted Van")
 
-He says:
+### Author Quote
 
-    For my Solar set up it could not have been easier. My van already had a fuse box and inverter that I just had to rewire to. It also was connected to my alternator to charge the battery while I am driving. All I had to do was wire the solar panels to the solar charger and then connect that to the battery. My fuse box then distributed the energy throughout my van. Super simple, kind of lol
+For my Solar set up it could not have been easier. My van already had a fuse box and inverter that I just had to rewire to. It also was connected to my alternator to charge the battery while I am driving. All I had to do was wire the solar panels to the solar charger and then connect that to the battery. My fuse box then distributed the energy throughout my van. Super simple, kind of lol
 
-    BUT, I would say navigating my way through the combination of already existing technology in the van (fuse box/invertor and wiring) and trying to figure out how I could connect new modern tech (solar panels + battery) took a long time. It took a long time because I had to learn how electricity and wiring worked in general. The difference between DC and AC what can run on each and etc. But totally worth it.
+BUT, I would say navigating my way through the combination of already existing technology in the van (fuse box/invertor and wiring) and trying to figure out how I could connect new modern tech (solar panels + battery) took a long time. It took a long time because I had to learn how electricity and wiring worked in general. The difference between DC and AC what can run on each and etc. But totally worth it.
 
-    My build is a combination of plug and play solar + battery with existing ancient technology. Super fun and kind of redneck, but it works!
+My build is a combination of plug and play solar + battery with existing ancient technology. Super fun and kind of redneck, but it works!

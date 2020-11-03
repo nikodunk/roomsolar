@@ -9,7 +9,7 @@ draft: false
 
 #### Building luxury off-grid solar in a 2019 Ford Transit
 
-<img class="lazy" src="/img_cms/gene-2.jpg"/>
+<img class="lazy" data-src="/img_cms/gene-2.jpg"/>
 
 
 
@@ -19,15 +19,15 @@ Gene is the founder of [Pyonvans.com](https://www.pyonvans.com/), and this is th
 
 His company converted a 2019 Ford Transit (similar to the wildly popular Mercedes Sprinter van) to be a livable, luxury home on wheels. The insides have quite some power requirements, and they decided to power them by solar when not connected to shore power. 
 
-<img class="lazy" src="/img_cms/gene-5.jpg"/>
+<img class="lazy" data-src="/img_cms/gene-5.jpg"/>
 
-<img class="lazy" src="/img_cms/pyon_vans_inside.jpg"/>
+<img class="lazy" data-src="/img_cms/pyon_vans_inside.jpg"/>
 
 Inside the Pyon van at night with the doors closed - including a TV!
 
 His beautiful Ford Transit van is what you could call on the more luxurious end of the spectrum (it is a flagship after all), and includes everything from a fold-down TV including a Switch with internet connection for off-grid Smash Bros sessions, to a full roll-out e-bike docking system.
 
-<img class="lazy" src="/img_cms/gene-4.jpg"/>
+<img class="lazy" data-src="/img_cms/gene-4.jpg"/>
 
 The Luxury Van, with insides powered by solar power.
 
@@ -78,27 +78,27 @@ These are the four main components of the solar set up that Gene used.
 </div>
 <hr/>
 
-<a href="/"><img class="lazy" src="/banner.jpg"/></a>
+<a href="/"><img class="lazy" data-src="/banner.jpg"/></a>
 ---------
 
 ### The build
 
 The model is a 2019 Ford Transit.
 
-<img class="lazy" src="/img_cms/pyon_vans_before_1.jpg"/>
+<img class="lazy" data-src="/img_cms/pyon_vans_before_1.jpg"/>
 
 Gene’s team started off by fully insulating the van.
 
-<img class="lazy" src="/img_cms/pyon_vans_before_2.jpg"/>
+<img class="lazy" data-src="/img_cms/pyon_vans_before_2.jpg"/>
 
 Finally, the large AGM batteries and the electrical system went in before the final build-out.
 
-<img class="lazy" src="/img_cms/pyon_vans_before_3.jpg"/>
+<img class="lazy" data-src="/img_cms/pyon_vans_before_3.jpg"/>
 
 
 ### The Result
 
-<img class="lazy" src="/img_cms/gene-1.jpg"/>
+<img class="lazy" data-src="/img_cms/gene-1.jpg"/>
 
 Solar Panels on the Ford Transit van
 
@@ -107,7 +107,7 @@ Then, they mounted two high-powered 180W solar panels to the roof and ran the ca
 
 The power requirements of the bus are more significant: a TV, internet connectivity, numerous devices, lights, and an air conditioner. So a 2000W pure sine inverter was the way to go.
 
-<img class="lazy" src="/img_cms/gene-3.jpg"/>
+<img class="lazy" data-src="/img_cms/gene-3.jpg"/>
 
 Insides of gene's Pyon Van - a 2000w inverter.
 
@@ -115,7 +115,7 @@ For the solar controller, a Bluetooth-connected CTEK solar charge controller was
 
 On the storage side, Gene's setup includes two massive 350 Ah AGM batteries, totalling 8.4kWh (2 batteries  *350Ah*  12v) of storage (probably around 4kWh of usable as they're AGM batteries).
 
-<img class="lazy" src="/img_cms/pyon_vans_diagram.jpg"/>
+<img class="lazy" data-src="/img_cms/pyon_vans_diagram.jpg"/>
 
 The full system setup - the Pyon Vans solar diagram.
 
