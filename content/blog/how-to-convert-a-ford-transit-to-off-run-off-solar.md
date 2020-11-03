@@ -7,7 +7,11 @@ type: post
 draft: false
 ---
 
-![2019 For Transit Solar](/img_cms/gene-2.jpg "2019 Ford Transit that runs off solar")
+#### Building luxury off-grid solar in a 2019 Ford Transit
+
+<img class="lazy" src="/img_cms/gene-2.jpg"/>
+
+
 
 ### The Story
 
