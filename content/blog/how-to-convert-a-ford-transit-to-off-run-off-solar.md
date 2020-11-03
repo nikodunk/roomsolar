@@ -16,6 +16,8 @@ His company converted a 2019 Ford Transit (similar to the wildly popular Mercede
 
 ![](/img_cms/gene-5.jpg)
 
+![Inside Pyon Vans](/img_cms/pyon_vans_inside.jpg "Inside the Pyon van at night with the doors closed - including a TV!")
+
 His beautiful Ford Transit van is what you could call on the more luxurious end of the spectrum (it is a flagship after all), and includes everything from a fold-down TV including a Switch with internet connection for off-grid Smash Bros sessions, to a full roll-out e-bike docking system.
 
 ![solarpoweredluxuriousvan](/img_cms/gene-4.jpg "Solar Powered Luxurious Van")
@@ -30,7 +32,7 @@ The power requirements of the bus are more significant, with a TV, internet conn
 
 For the solar controller, a Bluetooth-connected CTEK solar charge controller was hooked up to the system (capable of up to 2400W solar input, but currently not maxed out with 360W of solar).
 
-On the storage side, Gene's setup includes two massive 350 Ah AGM batteries, totalling 8.4kWh (2 batteries * 350Ah * 12v) of storage (probably around 4kWh of usable as they're AGM batteries).
+On the storage side, Gene's setup includes two massive 350 Ah AGM batteries, totalling 8.4kWh (2 batteries  *350Ah*  12v) of storage (probably around 4kWh of usable as they're AGM batteries).
 
 ![Pyon vans solar diagram](/img_cms/pyon_vans_diagram.jpg "The full system setup")
 
@@ -40,8 +42,7 @@ The van cost is around $35,000, plus an additional $45,000 - $60,000 for the bui
 
 These are the four main components that Gene used.
 
----------
-
+- - -
 
 The Kit
 ======= 
@@ -57,8 +58,6 @@ The Kit
 </div>
 <hr/>
 
-
-
 ### 2 x Solar Controller / Battery Charger: CTEK Dual 12V 20A Chargers (up to 2400W) ($416)
 
 <div style="width: 100%; text-align: center">
@@ -67,8 +66,6 @@ The Kit
   <a onclick="gtag('event','Amazon Affiliate clicked')" class="btn btn-primary btn-lg" target="_blank" style="background-color: orange; border: none" href="https://www.amazon.com/dp/B06Y2FMF83/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=gridlesskits-20&linkId=aa218e26d1943afc94f0ddc375cf4cb7&language=en_US" >Check latest price on Amazon</a>
 </div>
 <hr/>
-
-
 
 ### 2 x 12V 350Ah Deep Cycle AGM Batteries ($1,288)
 
@@ -81,7 +78,6 @@ The Kit
 </div>
 <hr/>
 
-
 ### Inverter: KISAE SW1220 2000W ($337)
 
 <div style="width: 100%; text-align: center">
@@ -90,3 +86,13 @@ The Kit
   <a onclick="gtag('event','Amazon Affiliate clicked')" class="btn btn-primary btn-lg" target="_blank" style="background-color: orange; border: none" href="https://www.amazon.com/dp/B008NOEWG8/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=gridlesskits-20&linkId=2cd3add79e5cc02472f71cbe4c577938&language=en_US" >Check latest price on Amazon</a>
 </div>
 <hr/>
+
+
+
+### The process
+
+![](/img_cms/pyon_vans_before_1.jpg)
+
+![](/img_cms/pyon_vans_before_2.jpg)
+
+![](/img_cms/pyon_vans_before_3.jpg)
