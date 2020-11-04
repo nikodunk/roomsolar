@@ -179,7 +179,6 @@ table {
 }
 /* Since positioning the image, we need to help out the caption */
 #jumboCarousel  .carousel-caption {
-  bottom: 3rem;
   z-index: 10;
 }
 
@@ -190,11 +189,10 @@ table {
 
 #jumboCarousel  .carousel-item > img {
   position: absolute;
-  top: 0;
-  left: 0;
-  min-width: 100%;
-  margin-top: -10%;
+  width: 100%;
+  bottom: -40px;
 }
+
 
 
 #jumboCarousel .carousel-control-prev, #jumboCarousel .carousel-control-next {
@@ -203,7 +201,6 @@ table {
   max-width: 50px; 
   margin-top: 20%;
 }
-
 
 /* RESPONSIVE CSS
 -------------------------------------------------- */
@@ -221,7 +218,7 @@ table {
   }
 
   #jumboCarousel .carousel-item {
-    height: 40vh;
+    height: 50vh;
   }
 
   
@@ -233,7 +230,7 @@ table {
   }
 
   #jumboCarousel .carousel-item {
-    height: 60vh;
+    height: 70vh;
   }
 }
 

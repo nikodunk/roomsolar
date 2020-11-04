@@ -28,7 +28,7 @@ title:  "Sunboxlabs Kits Home"
 
 
 
-<div id="jumboCarousel" class="carousel" data-ride="carousel">
+<div id="jumboCarousel" class="carousel" data-ride="carousel" >
     <ol class="carousel-indicators">
         <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
         <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
@@ -39,7 +39,7 @@ title:  "Sunboxlabs Kits Home"
     </ol>
     <div class="carousel-inner">
         <div class="carousel-item active">
-            <img class="first-slide" src="/img_3/use_cases_1.jpg" alt="">
+            <img class="first-slide" src="/img_3/header4.jpg" alt="">
             <div class="container">
                 <div class="carousel-caption ">
                     <h2 class="d-none d-sm-block overlay">Premium Solar Lithium Kits for Backup, Outdoors or Offgrid.<h2>
