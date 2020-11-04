@@ -50,7 +50,7 @@ The Kit (updated Nov 2020)
 
 We've updated this kit below. Three main changes have happened in the 3 years since this was written: 
 * We've upgraded the inverter from a 100W to a 150W. 
-* We've upgraded the battery from a 420Wh Deep Cycle Lead-Acid battery (about 100Wh usable capacity) we've upgraded to a 192Wh LiFePO (Lithium Ion Phosphate) battery (192Wh usable capacity, or double the lead-acid) as the lithium batteries are coming down in price faster than lead acid batteries are. We were unsure on whether to update these three changes into this original article or write a whole new one, but decided to update the original as this is the one that most people will find on search.
+* We've upgraded the battery from a 420Wh Deep Cycle Lead-Acid battery (about 100Wh usable capacity) to a 192Wh LiFePO (Lithium Iron Phosphate) battery (192Wh usable capacity, or double the lead-acid) as the lithium batteries are coming down in price faster than lead acid batteries are. We were unsure on whether to update these three changes into this original article or write a whole new one, but decided to update the original as this is the one that most people will find on search.
 * Prices are down (despite the above two upgrades!) from the original $211 to $192.
 
 <h4 style="color: #00ab6b">Parts Cost on Amazon: $192</h4>
@@ -66,7 +66,7 @@ We've updated this kit below. Three main changes have happened in the 3 years si
 <hr/>
 
 
-### Cable (Solar Panel => Solar Controller)
+### Cable
 
 <div style="width: 100%; text-align: center">
   <a href="https://www.amazon.com/gp/product/B07XLHRC44/ref=as_li_ss_il?ie=UTF8&linkCode=li3&tag=gridlesskits-20&linkId=0d57ae36c607e95cbbd07ecc93e7abe7&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07XLHRC44&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=gridlesskits-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=gridlesskits-20&language=en_US&l=li3&o=1&a=B07XLHRC44" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
@@ -86,7 +86,7 @@ We've updated this kit below. Three main changes have happened in the 3 years si
 <hr/>
 
 
-### Cable 2 (Solar Controller => Battery)
+### Cable 2
 
 <div style="width: 100%; text-align: center">
   <a href="https://www.amazon.com/gp/product/B073QHW2RD/ref=as_li_ss_il?ie=UTF8&linkCode=li3&tag=gridlesskits-20&linkId=737625facd32d3c145d388ca4fc360c7&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B073QHW2RD&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=gridlesskits-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=gridlesskits-20&language=en_US&l=li3&o=1&a=B073QHW2RD" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
@@ -95,7 +95,7 @@ We've updated this kit below. Three main changes have happened in the 3 years si
 </div>
 <hr/>
 
-### ~~Lead-Acid~~ Lithium Ion Phosphate Deep Cycle Battery
+### ~~Lead-Acid~~ Lithium Iron Phosphate Deep Cycle Battery
 
 <div style="width: 100%; text-align: center">
   <a href="https://www.amazon.com/gp/product/B07X7MD2JK/ref=as_li_ss_il?ie=UTF8&linkCode=li3&tag=gridlesskits-20&linkId=15b57c5a927985b444b3057e2a366463&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07X7MD2JK&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=gridlesskits-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=gridlesskits-20&language=en_US&l=li3&o=1&a=B07X7MD2JK" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
@@ -233,18 +233,18 @@ Solar as a modular consumer electronic — like air conditioning and satelli
 How long until it saves me money? The reason this system is so simple is because it doesn’t tie in to your apartment’s behind-the-meter electrical grid. This means the system is clean, but it also doesn’t feed into electrical heavyweights like your water heater, refrigerator and washer/dryer. It does charge anything you plug into it though. So can the system save me money? Back of the envelope:
 
     Financial payback period for 100W system
-    System cost : $211 on Amazon at time of writing
+    System cost : $192 on Amazon in 2020
     Yearly energy creation: 365d * 4.26hsun/d * 100W = 155’490Wh/y
     Yearly value creation: 155kWh/y * 15.34c/kWh = $24/y energy created
-    100W system payback period: $211 / $24 = 8.5 years until payback
+    100W system payback period: $192 / $24 = 8 years until payback
 
-The financial payback of the system is 9 years including battery, which is in line with many rooftop systems but doesn’t include servicing. This could be reduced to 6.5 years by adding a second 100W solar panel:
+The financial payback of the system is 8 years including battery, which is in line with many rooftop systems but doesn’t include servicing. This could be reduced to 6.5 years by adding a second 100W solar panel:
 
     Payback period for 200W system
-    200W System cost: roughly $300 on Amazon at time of writing
+    200W System cost: roughly $272 on Amazon at time of writing
     Yearly energy creation: 365d * 4.26hsun/d * 100W = 310’980Wh/y
-    Yearly value creation: 311kWh/y * 15c/kWh = $48/y energy created
-    200W system payback period: $300 / $48 = 6.5 years until payback
+    Yearly value creation: 311kWh/y * 15.34c/kWh = $48/y energy created
+    200W system payback period: $272 / $48 = 5.6 years until payback
 
 Note however that after 8 years of daily use the lead-acid deep discharge battery will be spent, which I’m not taking into account here. Either way you cut it, this is not a money saving machine. Energy prices are just too low.
 
@@ -258,15 +258,15 @@ Does it have an impact on my CO2 footprint? Back of the envelope:
     4200kWhee/kW [1] * 0.1kW = 420kWh embodied energy
 
     Production footprint lead-acid battery:
-    321kWhee/kWh [1] * 0.5kWh = 161kWh embodied energy
+    1153kWhee/kWh [1] * 0.2kWh = 230kWh embodied energy
 
-    Total Footprint: 581kWh
+    Total Footprint: 650kWh
 
     Annual energy production system: 155kWh/y
-    Payback period: 581kWh / 155kWh/y = 4+ year footprint payback
+    Payback period: 650kWh / 155kWh/y = 4+ year footprint payback
 
-[Source]( http://renew.org.au/articles/energy-flows-how-green-is-my-solar/)
-
+[Source Solar]( http://renew.org.au/articles/energy-flows-how-green-is-my-solar/)
+[Source Lithium Batteries ](https://ris.utwente.nl/ws/portalfiles/portal/189571307/10.1016_j.procir.2019.01.099.pdf)
 
 
 An eventual product would use Lithium-Ion batteries once they come down in price, which have a way better energy footprint. Lead-acid batteries are used for now because they’re cheap. So no, we’re not saving any CO2 emissions here until after 4 years — not a green machine.
