@@ -123,7 +123,7 @@ title:  "Sunboxlabs Kits Home"
     -webkit-overflow-scrolling: touch;">
             <div style="flex: 0 0 auto; max-width: 330px; margin-right: 10px; " class="card mb-4 ">
                 <div class="card-header">
-                    <h4 class="my-0 font-weight-normal">300W Solar Battery Kit</h4>
+                    <h4 class="my-0 font-weight-normal">Small Solar Battery Kit</h4>
                 </div>
                 <div class="card-body">
                     <a href="/solar-kit-300">
@@ -132,27 +132,31 @@ title:  "Sunboxlabs Kits Home"
                     <h3 class="card-title pricing-card-title">$399 <small class="text-muted">w/ Free shipping</small>
                     </h3>
                     <a href="/solar-kit-300" class="btn btn-block btn-lg btn-primary">
-                        ☀️ Small Battery + Panel 〉
+                        ☀️ Learn More 〉
                     </a>
+                    <br/>
+                    <h5>What devices can <u>Small</u> run?</h5>
+                    <img data-src="/img_3/what_will_it_run_1.jpg" class="lazy">
                     <br />
-                    <h5>Tech Specs <a data-toggle="collapse" href="#collapsekit2" role="button" aria-expanded="false"
+                    <br />
+                    <h5>Specifications <a data-toggle="collapse" href="#collapsekit2" role="button" aria-expanded="false"
                             aria-controls="collapsekit2">Show ▽</a></h5>
                     <div class="collapse " id="collapsekit2">
-                        <ul class="mb-0 list-unstyled">
-                            <li>⏱3 hours of sun (or wall-power) to recharge batteries.</li>
-                            <li>300W Generator (1 standard outlet) & 300Wh battery to store power after sunset.</li>
+                        <ul class="mb-0 ">
+                            <li>300W Generator (1 standard outlet)</li>
+                            <li>300Wh battery to store power after sunset.</li>
                             <li>1 x 100W flexible solar panel.</li>
+                            <li>3 hours of sun (or wall-power) to recharge batteries.</li>
                             <li>All zipties & snap cables (MC4) included. </li>
                             <li>1-on-1 support included.</li>
                         </ul>
                     </div>
-                    <br />
                 </div>
             </div>
             <!-- 500W generator -->
             <div style="flex: 0 0 auto; max-width: 330px; margin-right: 10px" class="card mb-4">
                 <div class="card-header">
-                    <h4 class="my-0 font-weight-normal">500W Solar Battery Kit</h4>
+                    <h4 class="my-0 font-weight-normal">Medium Solar Battery Kit</h4>
                 </div>
                 <div class="card-body">
                     <a href="/solar-kit-500">
@@ -161,27 +165,31 @@ title:  "Sunboxlabs Kits Home"
                     <h3 class="card-title pricing-card-title">$599 <small class="text-muted">w/ Free shipping</small>
                     </h3>
                     <a href="/solar-kit-300" class="btn btn-block btn-lg btn-primary">
-                        ☀️Medium Battery+Panel 〉
+                        ☀️ Learn More 〉
                     </a>
+                    <br/>
+                    <h5>What devices can <u>Medium</u> run?</h5>
+                    <img data-src="/img_3/what_will_it_run_2.jpg" class="lazy">
                     <br />
-                    <h5>Tech Specs <a data-toggle="collapse" href="#collapsekit2" role="button" aria-expanded="false"
+                    <br />
+                    <h5>Specifications <a data-toggle="collapse" href="#collapsekit2" role="button" aria-expanded="false"
                             aria-controls="collapsekit2">Show ▽</a></h5>
                     <div class="collapse " id="collapsekit2">
-                        <ul class="mb-0 list-unstyled">
-                            <li>⏱5 hours of sun (or wall-power) to recharge batteries.</li>
-                            <li>500W Generator (2 standard outlets) & 540Wh battery to store power after sunset.</li>
+                        <ul class="mb-0 ">
+                            <li>500W Generator (2 standard outlets)</li>
+                            <li>540Wh battery to store power after sunset.</li>
                             <li>1 x 100W flexible solar panel.</li>
+                            <li>5 hours of sun (or wall-power) to recharge batteries.</li>
                             <li>All zipties & snap cables (MC4) included. </li>
                             <li>1-on-1 support included.</li>
                         </ul>
                     </div>
-                    <br />
                 </div>
             </div>
             <!--    1000W Solar Generator -->
             <div style="flex: 0 0 auto; max-width: 330px; margin-right: 10px" class="card mb-4">
                 <div class="card-header">
-                    <h4 class="my-0 font-weight-normal">1000W Solar Battery Kit</h4>
+                    <h4 class="my-0 font-weight-normal">Large Solar Battery Kit</h4>
                 </div>
                 <div class="card-body">
                     <a href="/solar-kit-1000">
@@ -190,21 +198,25 @@ title:  "Sunboxlabs Kits Home"
                     <h3 class="card-title pricing-card-title">$1,599 <small class="text-muted">w/ Free shipping</small>
                     </h3>
                     <a href="/solar-kit-1000" class="btn btn-block btn-lg btn-primary">
-                        ☀️ Large Battery + Panel 〉
+                        ☀️ Learn More 〉
                     </a>
                     <br />
-                    <h5>Tech Specs <a data-toggle="collapse" href="#collapsekit2" role="button" aria-expanded="false"
+                    <h5>What devices can Large run?</h5>
+                    <img data-src="/img_3/what_will_it_run_3.jpg" class="lazy">
+                    <br/>
+                    <br/>
+                    <h5>Specifications <a data-toggle="collapse" href="#collapsekit2" role="button" aria-expanded="false"
                             aria-controls="collapsekit2">Show ▽</a></h5>
                     <div class="collapse" id="collapsekit2">
-                        <ul class="mb-0 list-unstyled">
-                            <li>⏱7.5 hours of sun (or wall-power) to recharge batteries.</li>
-                            <li>1000W Generator (2 standard outlets) & 1500Wh battery to store power after sunset.</li>
+                        <ul class="mb-0 ">
+                            <li>1000W Generator (2 standard outlet)</li>
+                            <li>1500Wh battery to store power after sunset.</li>
                             <li>2 x 100W flexible solar panel.</li>
-                            <li>All zipties & snap cables (MC4) included.</li>
+                            <li>7.5 hours of sun (or wall-power) to recharge batteries.</li>
+                            <li>All zipties & snap cables (MC4) included. </li>
                             <li>1-on-1 support included.</li>
                         </ul>
                     </div>
-                    <br />
                 </div>
             </div>
         </div>
