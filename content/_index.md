@@ -139,7 +139,7 @@ title:  "Sunboxlabs Kits Home"
                     <img data-src="/img_3/what_will_it_run_1.jpg" class="lazy">
                     <br />
                     <br />
-                    <h5>Specifications <a data-toggle="collapse" href="#collapsekit2" role="button" aria-expanded="false"
+                    <h5>Specs, power, wattage <a data-toggle="collapse" href="#collapsekit2" role="button" aria-expanded="false"
                             aria-controls="collapsekit2">Show ▽</a></h5>
                     <div class="collapse " id="collapsekit2">
                         <ul class="mb-0 ">
@@ -172,7 +172,7 @@ title:  "Sunboxlabs Kits Home"
                     <img data-src="/img_3/what_will_it_run_2.jpg" class="lazy">
                     <br />
                     <br />
-                    <h5>Specifications <a data-toggle="collapse" href="#collapsekit2" role="button" aria-expanded="false"
+                    <h5>Specs, power, wattage <a data-toggle="collapse" href="#collapsekit2" role="button" aria-expanded="false"
                             aria-controls="collapsekit2">Show ▽</a></h5>
                     <div class="collapse " id="collapsekit2">
                         <ul class="mb-0 ">
@@ -205,7 +205,7 @@ title:  "Sunboxlabs Kits Home"
                     <img data-src="/img_3/what_will_it_run_3.jpg" class="lazy">
                     <br/>
                     <br/>
-                    <h5>Specifications <a data-toggle="collapse" href="#collapsekit2" role="button" aria-expanded="false"
+                    <h5>Specs, power, wattage <a data-toggle="collapse" href="#collapsekit2" role="button" aria-expanded="false"
                             aria-controls="collapsekit2">Show ▽</a></h5>
                     <div class="collapse" id="collapsekit2">
                         <ul class="mb-0 ">
