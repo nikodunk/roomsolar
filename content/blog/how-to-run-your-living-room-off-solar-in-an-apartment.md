@@ -2,7 +2,7 @@
 layout: post
 title: How to run your living room off solar in an apartment
 date: 2020-11-06T18:40:23.980Z
-image: /img_3/thumb.jpg
+image: http://i3.ytimg.com/vi/XOsCX6yUe44/hqdefault.jpg
 type: post
 draft: true
 ---
