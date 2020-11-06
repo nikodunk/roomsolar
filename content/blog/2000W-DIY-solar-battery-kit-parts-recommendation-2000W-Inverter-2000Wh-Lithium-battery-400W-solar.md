@@ -1,16 +1,14 @@
 ---
 layout: post
-title: 2000W DIY solar battery kit Amazon parts recommendation for $1317
+title: 2000W DIY solar battery kit for $1317 that will run an Air Conditioner
 date: 2020-11-07T21:45:08.609Z
 image: /img_cms/2000w-diy-solar-parts-kit.jpg
 type: post
 draft: false
 ---
-This is the 2000W kit – in our opinion 2000W is the gold standard of system sizing and where a solar system really starts to compete with a traditional generator. It is still a little pricey (mainly due to the large batteries) BUT can already be worth it if you're paying for gasoline to replace a generator (or don't like the noise). We don't offer anything this large pre-built yet, but intend to soon. In the meantime – a parts list for your own DIY 2000W system!
+This is the our Amazon Parts recommendation for a 2000W kit – in our opinion 2000W is the gold standard of system sizing and where a solar system really starts to compete with a traditional generator. It is still a little pricey (mainly due to the large batteries) BUT can already be worth it if you're paying for gasoline to replace a generator (or don't like the noise). We don't offer anything this large pre-built yet, but intend to soon. In the meantime – a parts list for your own DIY 2000W system!
 
-This 1000W inverter size is great for running pretty much anything, and in our eyes is the current performance sweet spot in 2020. You can run small hot-plates with this, hair-dryers, etc which you could not run with the 500W. Beyond that, you can of course run the usual CPAP machines, TVs, laptops and phone chargers (same as the 500W kits).
-
-The big difference is that this one will run a household fridge and even an A/C unit, which is the second killer backup use-case for preppers.
+This 1000W inverter size is great for running pretty much anything, and in our eyes is the current performance sweet spot in 2020. You can run small hot-plates with this, hair-dryers, as well as fridges which you could not run with the 1000W system. The big difference is that this one will run an A/C unit, which is the second killer backup use-case for many preppers with families. Beyond that, you can of course run the usual CPAP machines, TVs, laptops and phone chargers (same as the 500W kits).
 
 Total parts cost: $1,317 - we don't sell anything this large pre-built yet, but will soon :).
 
@@ -20,7 +18,6 @@ Total parts cost: $1,317 - we don't sell anything this large pre-built yet, but 
     $20 - 20 ft extension MC4
     $20 - solar controller
     $10 - Cable 2
-
 
 
 The Kit

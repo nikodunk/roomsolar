@@ -1,17 +1,16 @@
 ---
 layout: post
-title: 1000W DIY solar battery kit Amazon parts recommendation for $676
+title: 1000W DIY solar battery kit for $676 that will run a family fridge
 date: 2020-11-06T20:45:08.609Z
 image: /img_cms/1000w-diy-solar-parts-kit.jpg
 type: post
 draft: false
 ---
 
-Our 1000W kit refers to the watts of the 1000W inverter, and includes 200W of solar panels and a 500Wh Lithium Iron Phosphate battery  – so the Watts in the title do not refer to solar wattage. We figure though that most people don't really care about the wattage of the solar initially, they care what kind of performance they can get out of it. Of course you can simply add more solar panels to any one of these kits. Questions or comments on this? Contact us above!
+This is the our Amazon Parts recommendation for a 1000W DIY solar kit. Our 1000W kit refers to the watts of the 1000W inverter, and includes 200W of solar panels and a 500Wh Lithium Iron Phosphate battery  – so the Watts in the title do not refer to solar wattage. We figure though that most people don't really care about the wattage of the solar initially, they care what kind of performance they can get out of it. Of course you can simply add more solar panels to any one of these kits. Questions or comments on this? Contact us above!
 
-This 1000W inverter size is great for running pretty much anything, and in our eyes is the current performance sweet spot in 2020. You can run small hot-plates with this, hair-dryers, etc which you could not run with the 500W. Beyond that, you can of course run the usual CPAP machines, TVs, laptops and phone chargers (same as the 500W kits).
+This 1000W inverter size is great for running pretty much anything, and in our eyes is the current performance sweet spot in 2020. You can run small hot-plates with this, hair-dryers, and most importantly a family fridge. This you cannot do reliably with a 500W system. The big difference is that this one will run a household fridge, which is the killer backup use-case for preppers. Beyond that, you can of course run the usual CPAP machines, TVs, laptops and phone chargers (same as the 500W kits).
 
-The big difference is that this one will run a household fridge, which is the killer backup use-case for preppers.
 
 Total parts cost: $676 ([We sell the same kit pre-built for $1,399](/solar-kit-1000)).
 
