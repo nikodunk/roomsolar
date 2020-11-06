@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 500W DIY solar battery kit for $1317 that will run most things off-grid
+title: 500W DIY solar battery kit for $420 that will run most household devices off-grid
 date: 2020-10-30T22:20:19.622Z
 image: /img_cms/500w-diy-solar-parts-kit.jpg
 type: post
