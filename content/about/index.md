@@ -106,3 +106,10 @@ If we look to the car, the smartphone, the window A/C unit — these devices
     </div>
 </div>
 
+
+
+Niko showing off his current system:
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/XOsCX6yUe44" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
