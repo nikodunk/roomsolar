@@ -1,9 +1,8 @@
 ---
 layout: post
-title: 1000W DIY solar battery kit Amazon parts recommendation - 1000W
-  Inverter | 1000Wh Lithium battery | 200W solar for $676
-date: 2020-11-06T18:45:08.609Z
-image: /img_cms/my-apartment-solar-kit.jpg
+title: 1000W (out) DIY solar battery kit Amazon parts recommendation for $676
+date: 2020-11-06T20:45:08.609Z
+image: /img_cms/1000w-diy-solar-parts-kit.jpg
 type: post
 draft: false
 ---

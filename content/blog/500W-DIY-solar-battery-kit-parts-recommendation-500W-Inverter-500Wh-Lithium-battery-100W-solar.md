@@ -2,7 +2,7 @@
 layout: post
 title: 500W (out) DIY solar battery kit Amazon parts recommendation for $420
 date: 2020-11-06T19:20:19.622Z
-image: test.jpg
+image: /img_cms/500w-diy-solar-parts-kit.jpg
 type: post
 draft: false
 ---

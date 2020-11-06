@@ -1,19 +1,18 @@
 ---
 layout: post
-title: 2000W DIY solar battery kit Amazon parts recommendation - 2000W
-  Inverter | 2000Wh Lithium battery | 400W solar for $676
-date: 2020-11-06T18:45:08.609Z
-image: /img_cms/my-apartment-solar-kit.jpg
+title: 2000W (out) DIY solar battery kit Amazon parts recommendation for $1317
+date: 2020-11-06T21:45:08.609Z
+image: /img_cms/2000w-diy-solar-parts-kit.jpg
 type: post
-draft: true
+draft: false
 ---
 This is the 2000W kit – in our opinion 2000W is the gold standard of system sizing and where a solar system really starts to compete with a traditional generator. It is still a little pricey (mainly due to the large batteries) BUT can already be worth it if you're paying for gasoline to replace a generator (or don't like the noise). We don't offer anything this large pre-built yet, but intend to soon. In the meantime – a parts list for your own DIY 2000W system!
 
-Total parts cost: $1,352 - we don't sell anything this large pre-built yet, but will soon :).
+Total parts cost: $1,317 - we don't sell anything this large pre-built yet, but will soon :).
 
-    $30 - 2000W inverter
+    $138 - 2000W inverter (4600 peak)
     $813 - 2048Wh LiFePo battery (12V 160Ah)
-    $158 * 4 - 400W solar HQST
+    $316 - 4 x 400W solar HQST
     $20 - 20 ft extension MC4
     $20 - solar controller
     $10 - Cable 2
@@ -75,7 +74,7 @@ The Kit
 <hr/>
 
 
-### 2000W Inverter
+### 2000W Inverter (4600W peak)
 
 <div style="width: 100%; text-align: center">
   <a href="https://www.amazon.com/dp/B00T93K9KU/ref=as_li_ss_il?ie=UTF8&linkCode=li3&tag=gridlesskits-20&linkId=7c63b23f333845efac2a4bba5d618d45&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00T93K9KU&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=gridlesskits-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=gridlesskits-20&language=en_US&l=li3&o=1&a=B00T93K9KU" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
