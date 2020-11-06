@@ -11,6 +11,8 @@ Our 1000W kit refers to the watts of the 1000W inverter, and includes 200W of so
 
 This 1000W inverter size is great for running pretty much anything, and in our eyes is the current performance sweet spot in 2020. You can run small hot-plates with this, hair-dryers, etc which you could not run with the 500W. Beyond that, you can of course run the usual CPAP machines, TVs, laptops and phone chargers (same as the 500W kits).
 
+The big difference is that this one will run a household fridge, which is the killer backup use-case for preppers.
+
 Total parts cost: $676 ([We sell the same kit pre-built for $1,399](/solar-kit-1000)).
 
     $69 - 1000W (car) inverter

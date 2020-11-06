@@ -8,6 +8,10 @@ draft: false
 ---
 This is the 2000W kit – in our opinion 2000W is the gold standard of system sizing and where a solar system really starts to compete with a traditional generator. It is still a little pricey (mainly due to the large batteries) BUT can already be worth it if you're paying for gasoline to replace a generator (or don't like the noise). We don't offer anything this large pre-built yet, but intend to soon. In the meantime – a parts list for your own DIY 2000W system!
 
+This 1000W inverter size is great for running pretty much anything, and in our eyes is the current performance sweet spot in 2020. You can run small hot-plates with this, hair-dryers, etc which you could not run with the 500W. Beyond that, you can of course run the usual CPAP machines, TVs, laptops and phone chargers (same as the 500W kits).
+
+The big difference is that this one will run a household fridge and even an A/C unit, which is the second killer backup use-case for preppers.
+
 Total parts cost: $1,317 - we don't sell anything this large pre-built yet, but will soon :).
 
     $138 - 2000W inverter (4600 peak)
