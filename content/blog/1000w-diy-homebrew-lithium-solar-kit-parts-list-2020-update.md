@@ -1,7 +1,7 @@
 ---
 layout: post
-title: $700 DIY Homebrew kit - 200W solar with 1000W Inverter and 1000Wh lithium
-  battery
+title: $700 DIY solar battery kit - 200W solar with 1000W Inverter and 1000Wh
+  lithium battery
 date: 2020-11-06T18:45:08.609Z
 image: /img_cms/my-apartment-solar-kit.jpg
 type: post
