@@ -30,7 +30,7 @@ Your greenhouse gas emissions will be reduced by roughly 4.4lbs every hour you r
 
 #### 2) How **green** are these generators compared to to the **grid**? TLDR: After 5.6 years it's you are saving roughly 0.5 pounds emissions per day, before that it is worse than grid power.
 
-It'll take 3.8 years of usage every day until this whole system is CO2 net-positive vs. not using it.
+It'll take 5.6 years of usage every day until this whole system is CO2 net-positive vs. not using it.
 
 <a data-toggle="collapse" href="#calc2" role="button" aria-expanded="false"
                     aria-controls="calc2">

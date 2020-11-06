@@ -1,36 +1,33 @@
 ---
 layout: post
-title: 500W DIY solar battery kit Amazon parts recommendation - 500W
-  Inverter | 500Wh Lithium battery | 100W solar for $420
+title: 500W (out) DIY solar battery kit Amazon parts recommendation for $420
 date: 2020-11-06T19:20:19.622Z
 image: test.jpg
 type: post
-draft: true
+draft: false
 ---
 
-Total parts cost: $420 (We sell the same kit pre-built for $599).
+Our 500W kit refers to the watts of the 500W inverter, and includes 200W of solar panels and a 500Wh Lithium Iron Phosphate battery  – so the Watts in the title do not refer to solar wattage. We figure though that most people don't really care about the wattage of the solar initially, they care what kind of performance they can get out of it. Of course you can simply add more solar panels to any one of these kits. Questions or comments on this? Contact us above!
 
-$249 - 480Wh LiFePo battery
+This 500W inverter size is great for running devices around the house ie TVs, CPAP machines, laptops and phone chargers (same as the 300W kits, but more of them at once).
 
-$42 - 500W Inverter
+Total parts cost: $420 ([We sell the same kit pre-built for $599](/solar-kit-500)).
 
-$79 - 100W solar
-
-$20 - Solar controller
-
-$20 - cables
-
-$10 - cables
-
+    $42 - 500W (car) inverter
+    $249 - 480Wh LiFePo battery (12V 40Ah)
+    $79 - 100W solar panel
+    $20 - Solar controller
+    $22 - MC4 cables
+    $8 - Crocodile connectors from Battery => charge controller.
 
 
-The Kit (updated Nov 2020)
+
+The Kit
 ===============
 
-<h4 style="color: #00ab6b">Parts Cost on Amazon: $192</h4>
+<h4 style="color: #00ab6b">Parts Cost on Amazon: $420</h4>
 
-### Solar Panel
-
+### 1 x 100W Solar Panel
 
 <div style="width: 100%; text-align: center">
   <a href="https://www.amazon.com/gp/product/B018BMGTTO/ref=as_li_ss_il?ie=UTF8&linkCode=li3&tag=gridlesskits-20&linkId=2e00bb9fda5d21e4ce5e561e0f0ba1de&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B018BMGTTO&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=gridlesskits-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=gridlesskits-20&language=en_US&l=li3&o=1&a=B018BMGTTO" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
@@ -40,7 +37,7 @@ The Kit (updated Nov 2020)
 <hr/>
 
  
-### Cable
+### MC4 cables
 
 <div style="width: 100%; text-align: center">
   <a href="https://www.amazon.com/gp/product/B07XLHRC44/ref=as_li_ss_il?ie=UTF8&linkCode=li3&tag=gridlesskits-20&linkId=0d57ae36c607e95cbbd07ecc93e7abe7&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07XLHRC44&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=gridlesskits-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=gridlesskits-20&language=en_US&l=li3&o=1&a=B07XLHRC44" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
@@ -60,7 +57,7 @@ The Kit (updated Nov 2020)
 <hr/>
 
 
-### Cable 2
+### Cable #2
 
 <div style="width: 100%; text-align: center">
   <a href="https://www.amazon.com/gp/product/B073QHW2RD/ref=as_li_ss_il?ie=UTF8&linkCode=li3&tag=gridlesskits-20&linkId=737625facd32d3c145d388ca4fc360c7&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B073QHW2RD&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=gridlesskits-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=gridlesskits-20&language=en_US&l=li3&o=1&a=B073QHW2RD" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
@@ -69,12 +66,12 @@ The Kit (updated Nov 2020)
 </div>
 <hr/>
 
-### ~~Lead-Acid~~ Lithium Iron Phosphate Deep Cycle Battery
+### Lithium Iron Phosphate Deep Cycle Battery (480Wh LiFePo battery at 12V 40Ah)
 
 <div style="width: 100%; text-align: center">
-  <a href="https://www.amazon.com/gp/product/B07X7MD2JK/ref=as_li_ss_il?ie=UTF8&linkCode=li3&tag=gridlesskits-20&linkId=15b57c5a927985b444b3057e2a366463&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07X7MD2JK&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=gridlesskits-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=gridlesskits-20&language=en_US&l=li3&o=1&a=B07X7MD2JK" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <a href="https://www.amazon.com/dp/B08L361CYL/ref=as_li_ss_il?ie=UTF8&linkCode=li3&tag=gridlesskits-20&linkId=236c9fbb2cb607d38798b311aaaaf630&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B08L361CYL&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=gridlesskits-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=gridlesskits-20&language=en_US&l=li3&o=1&a=B08L361CYL" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
   <br/><br/><br/>
-  <a onclick="gtag('event','Amazon Affiliate clicked')" class="btn btn-primary btn-lg" target="_blank" style="background-color: orange; border: none" href="https://www.amazon.com/gp/product/B07X7MD2JK/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=gridlesskits-20&linkId=56e4c9e1700d469d8c1dd6707edf21ab&language=en_US" >Check latest price on Amazon</a>
+  <a onclick="gtag('event','Amazon Affiliate clicked')" class="btn btn-primary btn-lg" target="_blank" style="background-color: orange; border: none" href="https://www.amazon.com/dp/B08L361CYL/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=gridlesskits-20&linkId=da9c625465fafe534d61ff8c199684d5&language=en_US" >Check latest price on Amazon</a>
 </div>
 <hr/>
 
@@ -87,3 +84,6 @@ The Kit (updated Nov 2020)
   <a onclick="gtag('event','Amazon Affiliate clicked')" class="btn btn-primary btn-lg" target="_blank" style="background-color: orange; border: none" href="https://www.amazon.com/dp/B07JJSW48V/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=gridlesskits-20&linkId=1b95fe6fe12ea2be53d16c1e6d70210f&language=en_US" >Check latest price on Amazon</a>
 </div>
 <hr/>
+
+
+<a href="/"><img class="lazy" data-src="/banner.jpg"/></a>
