@@ -40,7 +40,6 @@ All components should last that long, too: the battery is oversized (it can hold
 The kit
 =======
 
-<h4 style="color: lightgreen">Parts Cost on Amazon: $2,064.02</h4>
 
 ### 3x 100W Solar Panel
 <div style="width: 100%; text-align: center">
