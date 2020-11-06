@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to run your living room off solar in an apartment
+title: "Video: How to run your living room off solar in an apartment"
 date: 2020-11-06T18:40:23.980Z
 image: /img_cms/my-apartment-solar-kit.jpg
 type: post
