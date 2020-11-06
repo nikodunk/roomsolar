@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 1000W DIY solar battery kit for $676 that will run a family fridge
-date: 2020-11-06T20:45:08.609Z
+date: 2020-11-04T20:45:08.609Z
 image: /img_cms/1000w-diy-solar-parts-kit.jpg
 type: post
 draft: false

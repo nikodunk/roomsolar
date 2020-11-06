@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2000W DIY solar battery kit for $1317 that will run an Air Conditioner
-date: 2020-11-07T21:45:08.609Z
+date: 2020-11-06T21:45:08.609Z
 image: /img_cms/2000w-diy-solar-parts-kit.jpg
 type: post
 draft: false
