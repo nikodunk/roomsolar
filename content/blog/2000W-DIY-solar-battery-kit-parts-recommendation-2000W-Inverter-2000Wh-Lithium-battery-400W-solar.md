@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 2000W (out) DIY solar battery kit Amazon parts recommendation for $1317
-date: 2020-11-06T21:45:08.609Z
+title: 2000W DIY solar battery kit Amazon parts recommendation for $1317
+date: 2020-11-07T21:45:08.609Z
 image: /img_cms/2000w-diy-solar-parts-kit.jpg
 type: post
 draft: false
@@ -24,7 +24,7 @@ The Kit
 
 <h4 style="color: #00ab6b">Parts Cost on Amazon: $1,352</h4>
 
-### Solar Panel
+### 4 x 100W Solar Panel
 
 
 <div style="width: 100%; text-align: center">

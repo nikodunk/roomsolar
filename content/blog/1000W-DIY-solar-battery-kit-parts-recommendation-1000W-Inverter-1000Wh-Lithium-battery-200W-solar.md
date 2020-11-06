@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 1000W (out) DIY solar battery kit Amazon parts recommendation for $676
+title: 1000W DIY solar battery kit Amazon parts recommendation for $676
 date: 2020-11-06T20:45:08.609Z
 image: /img_cms/1000w-diy-solar-parts-kit.jpg
 type: post
@@ -11,7 +11,7 @@ Our 1000W kit refers to the watts of the 1000W inverter, and includes 200W of so
 
 This 1000W inverter size is great for running pretty much anything, and in our eyes is the current performance sweet spot in 2020. You can run small hot-plates with this, hair-dryers, etc which you could not run with the 500W. Beyond that, you can of course run the usual CPAP machines, TVs, laptops and phone chargers (same as the 500W kits).
 
-Total parts cost: $676 (We sell the same kit pre-built for $1,399).
+Total parts cost: $676 ([We sell the same kit pre-built for $1,399](/solar-kit-1000)).
 
     $69 - 1000W (car) inverter
     $399 - 960Wh LiFePo battery (12V 80Ah)
