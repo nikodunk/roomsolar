@@ -8,7 +8,7 @@ draft: false
 ---
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/XOsCX6yUe44" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-As you know, sunboxlabs started when Niko built his first DIY apartment solar system from components.
+As you know, sunboxlabs [started](https://sunboxlabs.com/about) when Niko built his first DIY apartment solar system from components.
 
 In 2020, we started selling more integrated, pre-built kits ourselves. Find the kits [here](https://sunboxlabs.com).
 
