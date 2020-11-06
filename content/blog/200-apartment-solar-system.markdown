@@ -306,9 +306,9 @@ In case of brownouts or blackouts, this would be a helpful way of wirelessly cha
     Size: 5.9 x 3 x 1.4in
     Will upgrade to a USB-C version when available
 
-    Marine lead-acid battery (Deep Cycle)
+    Lithium Iron Phosphate Battery (Deep Cycle) (replaces original Marine lead-acid battery with more capacity but less usable capacity)
     Voltage: 12V DC
-    Storage Capacity: 0.42Kwh, 35Ah
+    Storage Capacity: 0.2Kwh, 16Ah
     Size: 6.5 x 7.7 x 5.1 in
     Weight: 25 pounds
 

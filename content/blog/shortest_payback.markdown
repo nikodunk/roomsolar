@@ -1,36 +1,36 @@
 ---
 layout: post
-title:  "Draft 1200W solar with 3600Wh battery system: Shortest Possible Payback Period"
+title:  "300W solar with 3600Wh battery system: Shortest Possible Payback Period (updated 2020)"
 date:   2019-02-05 08:00:00 -0700
 image: "/img_3/how_it_works_1.jpg"
 cost: "$905.92"
-aliases: [/shortest-payback/]
 ---
 
 Based off the learnings from [this midsize 1800W system](/solar-xantrex-kit-apartment/), I would like to propose an (as yet unbuilt) midsize system that is customized for short payback period to the best of my knowledge.
 
 This system is big enough to run lower voltage space heaters (750W), fridges (200W), washers (energy star around 500W), A/C units (medium window unit 900W), though not all at once. With this, you will actually start saving some money – $134.37 per year to be precise. With that, the payback period for this system is around 6.75 years – after that you'll start "earning" money with free elctricity.
 
- All components should last that long, too: the battery is oversized (it can hold 3.6kWh, but the panels only generate 2.4kWh per day and we calculate using those full 2.4kWh per day ie. plugging in a 100W fridge for 24hours), as completely discharging a Deep Cycle battery will reduce it's life and prohibit getting to the full payback period 6.74 years, as learned from the [original 100W DIY apartment microgrid](/blog/200-apartment-solar-system/)
+All components should last that long, too: the battery is oversized (it can hold 3.6kWh, but the panels only generate 2.4kWh per day and we calculate using those full 2.4kWh per day ie. plugging in a 100W fridge for 24hours), as completely discharging a Deep Cycle battery will reduce it's life and prohibit getting to the full payback period 6.74 years, as learned from the [original 100W DIY apartment microgrid](/blog/200-apartment-solar-system/)
 
 ------
 # The calculations
 
-	Total system cost: $905.92
+	Total system cost: $875.92
 
 	Generation per year:
 		300W * 8h on average sunshine = 2.4kWh/day
-		2.4kWh/day * 15.34c/kWh * 365 = $134.37
+		2.4kWh/day * 16.7c/kWh California average * 365 = $146.29
 
-	Payback: 6.74 years until break-even
+	Payback: 5.98 years until break-even
 
 
 # The kit
 
 ### Solar Panel
+
 	300W charge (3 * 100W)
 	2400Wh/day
-	$89.99 * 3 = $269.97
+	$79.99 * 3 = $239.97
 
 <script type="text/javascript">
 amzn_assoc_tracking_id = "gridlesskits-20";

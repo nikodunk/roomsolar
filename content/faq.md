@@ -7,17 +7,7 @@ path: "foo"
 
 <br/><br/>
 
-#### 1) Can I charge the battery off my car?
-
-Yes you can! 12V DC in is supported, and an adapter is included in the box.
-
-#### 2) Can I charge the battery off my wall outlet instead of solar?
-
-Yes you can! It's supported, and an adapter is included in the box.
-
-
-
-#### 3) How **green** 🌳 is it compared to a **gas generator** ⛽️? 4.4 pounds of emission saved every hour.
+#### 1) How **green** are these generators compared to a **gas generator**? TLDR: 4.4 pounds of emission saved every hour.
 
 Let us look at the example of how green the 1000W solar kit is. Compared to 1000W Honda Gas Backup Generators is the 1000W sunboxlabs kit green? The answer is a resounding "yes!". While gas generators fire up all over the US during power outages and at RV parks, you will be emitting zero (and your fuel cost will be zero!). 
 
@@ -38,7 +28,7 @@ Your greenhouse gas emissions will be reduced by roughly 4.4lbs every hour you r
 </div>
 
 
-#### 4) How **green** 🌳 is it compared to to the **grid** 🔌: After 3.8 years it's net positive, saving roughly 0.5 pounds emissions per day.
+#### 2) How **green** are these generators compared to to the **grid**? TLDR: After 3.8 years it's you are saving roughly 0.5 pounds emissions per day, before that it is worse than grid power.
 
 It'll take 3.8 years of usage every day until this whole system is CO2 net-positive vs. not using it.
 
@@ -67,8 +57,7 @@ Payback period: 2364kWh / 620kWh/y = 3.8 year CO2 footprint payback
 
 
 
-
-#### 5) Will this system save me a **money** 💰 compared to a **gas generator** ⛽️: Yes – after 3.7 months of usage.
+#### 3) Will this system save me a **money** compared to a **gas generator**? TLDR: Yes – after 3.7 months of usage.
 
 What's the payback period for our solar battery system? Will it save me money?
 
@@ -94,7 +83,7 @@ Cost of running a 1000W (1.3bhp) generator system:
 
 
 
-#### 6) Will this system save me a **money** 💰 compared to the **grid** 🔌: Not really – after 20 years of usage.
+#### 4) Will this system save me a **money** compared to the **grid**? TLDR: Not really – after 20 years of usage.
 
 20 years until payback vs. grid, but it depends where you're located. In San Francisco, the payback is 20 years. The further south you are, or the more expensive energy is in your area, the shorter it'll be. This system will not save you money until after that, and even then is definitely not a "money-saver". It will however be more valuable in the event of backup generator needs, at camping/outdoors, and of course it's just generally cool to be independent from the grid and make your own renewable energy.
 
@@ -116,6 +105,15 @@ Yearly value creation: 620kWh/y * 15c/kWh (CA) = $93/y energy created
 100W system payback period: $1,899 / $93 = 20 years until payback
 
 </div>
+
+
+#### 5) Can I charge the battery off my car?
+
+Yes you can! 12V DC in is supported, and an adapter is included in the box.
+
+#### 6) Can I charge the battery off my wall outlet instead of solar?
+
+Yes you can! It's supported, and an adapter is included in the box.
 
 
 #### 7) How does it work?

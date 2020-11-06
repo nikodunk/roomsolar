@@ -102,6 +102,10 @@
         {
             "source": "/blog/how-to-convert-a-mercedes-sprinter-off-run-off-solar/",
             "destination": "/blog/how-to-convert-a-ford-transit-to-off-run-off-solar/"
+        },
+        {
+            "source": "/shortest-payback/",
+            "destination": "/blog/shortest_payback/"
         }
     ]
 }
