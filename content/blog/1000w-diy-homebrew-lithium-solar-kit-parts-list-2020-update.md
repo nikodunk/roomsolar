@@ -1,12 +1,13 @@
 ---
 layout: post
-title: $700 DIY Homebrew kit - 200W solar with 1000W Inverter 1000Wh battery
+title: $700 DIY Homebrew kit - 200W solar with 1000W Inverter and 1000Wh lithium
+  battery
 date: 2020-11-06T18:45:08.609Z
 image: /img_cms/my-apartment-solar-kit.jpg
 type: post
 draft: true
 ---
-Total: $676
+Total parts cost: $676 - we sell the same pre-assembled for $1,399
 
 $69 - 1000W inverter - https://www.amazon.com/Maxpart-Inverter-Converter-Cigarette-Modified/dp/B082V5TC11/ref=sr_1_2?dchild=1&keywords=maxpart+1000w&sr=8-2
 
