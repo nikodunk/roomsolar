@@ -274,7 +274,7 @@ title:  "Sunboxlabs Kits Home"
             <div class="row" style="border-bottom: 1px solid lightgrey; padding-bottom: 10px; margin-bottom: 10px">
                 <div class="col-4 col-sm-3" >
                     <div >
-                        <h5>⭐️⭐️⭐️⭐️⭐️</h5>
+                        <p>⭐️⭐️⭐️⭐️⭐️</p>
                         <p style="color: lightgrey">3 weeks ago</p>
                     </div>
                 </div>
@@ -289,7 +289,7 @@ title:  "Sunboxlabs Kits Home"
             <div class="row" style="border-bottom: 1px solid lightgrey; padding-bottom: 10px; margin-bottom: 10px">
                 <div class="col-4 col-sm-3" >
                     <div >
-                        <h5>⭐️⭐️⭐️⭐️</h5>
+                        <p>⭐️⭐️⭐️⭐️</p>
                         <p style="color: lightgrey">5 weeks ago</p>
                     </div>
                 </div>
@@ -307,7 +307,7 @@ title:  "Sunboxlabs Kits Home"
             <div class="row" style="border-bottom: 1px solid lightgrey; padding-bottom: 10px; margin-bottom: 10px">
                 <div class="col-4 col-sm-3" >
                     <div >
-                        <h5>⭐️⭐️⭐️⭐️⭐️</h5>
+                        <p>⭐️⭐️⭐️⭐️⭐️</p>
                         <p style="color: lightgrey">2 months ago</p>
                     </div>
                 </div>
@@ -322,7 +322,7 @@ title:  "Sunboxlabs Kits Home"
             <div class="row" style="border-bottom: 1px solid lightgrey; padding-bottom: 10px; margin-bottom: 10px">
                 <div class="col-4 col-sm-3" >
                     <div >
-                        <h5>⭐️⭐️⭐️⭐️⭐️</h5>
+                        <p>⭐️⭐️⭐️⭐️⭐️</p>
                         <p style="color: lightgrey">4 months ago</p>
                     </div>
                 </div>
@@ -337,7 +337,7 @@ title:  "Sunboxlabs Kits Home"
             <div class="row" style="border-bottom: 1px solid lightgrey; padding-bottom: 10px; margin-bottom: 10px">
                 <div class="col-4 col-sm-3" >
                     <div >
-                        <h5>⭐️⭐️⭐️⭐️⭐️</h5>
+                        <p>⭐️⭐️⭐️⭐️⭐️</p>
                         <p style="color: lightgrey">5 months ago</p>
                     </div>
                 </div>
