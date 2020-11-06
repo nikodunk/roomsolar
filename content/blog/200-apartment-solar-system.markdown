@@ -258,7 +258,7 @@ Does it have an impact on my CO2 footprint? Back of the envelope:
     4200kWhee/kW [1] * 0.1kW = 420kWh embodied energy
 
     Production footprint lead-acid battery:
-    1153kWhee/kWh [1] * 0.2kWh = 230kWh embodied energy
+    1153kWhee/kWh [2] * 0.2kWh = 230kWh embodied energy
 
     Total Footprint: 650kWh
 

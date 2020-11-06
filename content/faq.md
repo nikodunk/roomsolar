@@ -28,7 +28,7 @@ Your greenhouse gas emissions will be reduced by roughly 4.4lbs every hour you r
 </div>
 
 
-#### 2) How **green** are these generators compared to to the **grid**? TLDR: After 3.8 years it's you are saving roughly 0.5 pounds emissions per day, before that it is worse than grid power.
+#### 2) How **green** are these generators compared to to the **grid**? TLDR: After 5.6 years it's you are saving roughly 0.5 pounds emissions per day, before that it is worse than grid power.
 
 It'll take 3.8 years of usage every day until this whole system is CO2 net-positive vs. not using it.
 
@@ -44,15 +44,17 @@ Production footprint mono-cristalline PV:
 4200kWhee/kW [1] * 0.4kW = 1,680kWh embodied energy
 
 Production footprint li-ion 18650 battery:
-457kWhee/kWh [1] * 1.5kWh = 684kWh embodied energy
+1153kWhee/kWh [1] * 1.5kWh = 1792kWh embodied energy
 
-Total Footprint: 2364kWh
+Total Footprint: 3472 kWh embodied energy
 
 Annual energy production system: 620kWh/y
 
-Payback period: 2364kWh / 620kWh/y = 3.8 year CO2 footprint payback
+Payback period: 2364kWh / 620kWh/y = 5.6 year CO2 footprint payback
 
 [Source](https://renew.org.au/renew-magazine/solar-batteries/energy-flows-how-green-is-my-solar/)
+[Source Lithium Batteries ](https://ris.utwente.nl/ws/portalfiles/portal/189571307/10.1016_j.procir.2019.01.099.pdf)
+
 </div>
 
 
