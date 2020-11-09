@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 1000W DIY solar battery kit for $676 that will run a family fridge
+title: 1000W DIY solar battery kit for $685 that will run a family fridge
 date: 2020-11-04T20:45:08.609Z
 image: /img_cms/1000w-diy-solar-parts-kit.jpg
 type: post
@@ -12,12 +12,12 @@ This is the our Amazon Parts recommendation for a 1000W DIY solar kit. Our 1000W
 This 1000W inverter size is great for running pretty much anything, and in our eyes is the current performance sweet spot in 2020. You can run small hot-plates with this, hair-dryers, and most importantly a family fridge. This you cannot do reliably with a 500W system. The big difference is that this one will run a household fridge, which is the killer backup use-case for preppers. Beyond that, you can of course run the usual CPAP machines, TVs, laptops and phone chargers (same as the 500W kits).
 
 
-Total parts cost: $676 ([We sell the same kit pre-built for $1,399](/solar-kit-1000)).
+Total parts cost: $685 ([We sell the same kit pre-built for $1,399](/solar-kit-1000)).
 
     $69 - 1000W (car) inverter
     $399 - 960Wh LiFePo battery (12V 80Ah)
     $158 - 2 * 100W solar panels
-    $20 - Solar controller
+    $29 - Solar controller
     $22 - 20 ft extension MC4
     $8 - Crocodile connectors from Battery => charge controller.
 
@@ -48,12 +48,12 @@ The Kit
 <hr/>
 
 
-### Solar Controller
+### Solar Controller (Renogy Wanderer)
 
 <div style="width: 100%; text-align: center">
-  <a href="https://www.amazon.com/gp/product/B072MMDY4F/ref=as_li_ss_il?ie=UTF8&linkCode=li3&tag=gridlesskits-20&linkId=4d7b021d7b380adbd2312fe84937e4db&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B072MMDY4F&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=gridlesskits-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=gridlesskits-20&language=en_US&l=li3&o=1&a=B072MMDY4F" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <a href="https://www.amazon.com/dp/B07G1PL1B9/ref=as_li_ss_il?ie=UTF8&linkCode=li3&tag=gridlesskits-20&linkId=8f074996437c23566a6e18c9865dc19a&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07G1PL1B9&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=gridlesskits-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=gridlesskits-20&language=en_US&l=li3&o=1&a=B07G1PL1B9" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
   <br/><br/><br/>
-  <a onclick="gtag('event','Amazon Affiliate clicked')" class="btn btn-primary btn-lg" target="_blank" style="background-color: orange; border: none" href="https://www.amazon.com/gp/product/B072MMDY4F/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=gridlesskits-20&linkId=962548e706724f4f32f7208599f116de&language=en_US" >Check latest price on Amazon</a>
+  <a onclick="gtag('event','Amazon Affiliate clicked')" class="btn btn-primary btn-lg" target="_blank" style="background-color: orange; border: none" href="https://www.amazon.com/dp/B07G1PL1B9/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=gridlesskits-20&linkId=b7b9dae1657555f7e71ee6a99b48cf76&language=en_US" >Check latest price on Amazon</a>
 </div>
 <hr/>
 
@@ -88,3 +88,11 @@ The Kit
 
 
 <a href="/"><img class="lazy" data-src="/banner.jpg"/></a>
+
+
+
+### Setup Diagram
+
+<img class="lazy" data-src="/img_cms/renogy_setup_diagram.jpg"/> 
+
+If you have any questions, please do not hesitate to reach out to hello at sunboxlabs.com and we will gladly help.

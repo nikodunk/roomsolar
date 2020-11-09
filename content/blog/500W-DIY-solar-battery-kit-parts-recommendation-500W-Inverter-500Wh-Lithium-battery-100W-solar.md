@@ -87,3 +87,11 @@ The Kit
 
 
 <a href="/"><img class="lazy" data-src="/banner.jpg"/></a>
+
+
+
+### Setup Diagram
+
+<img class="lazy" data-src="/img_cms/renogy_setup_diagram.jpg"/> 
+
+If you have any questions, please do not hesitate to reach out to hello at sunboxlabs.com and we will gladly help.
