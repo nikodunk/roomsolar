@@ -11,12 +11,12 @@ Our 500W kit refers to the watts of the 500W inverter, and includes a 100W solar
 
 This 500W inverter size is great for running devices around the house ie TVs, CPAP machines, laptops and phone chargers (same as the 300W kits, but more of them at once).
 
-Total parts cost: $420 ([We sell the same kit pre-built for $599](/solar-kit-500)).
+Total parts cost: $429 ([We sell the same kit pre-built for $599](/solar-kit-500)).
 
     $42 - 500W (car) inverter
     $249 - 480Wh LiFePo battery (12V 40Ah)
     $79 - 100W solar panel HQST
-    $20 - Solar controller (Max 200W in)
+    $29 - Solar controller (Max 300W in)
     $22 - MC4 cables
     $8 - Crocodile connectors from Battery => charge controller.
 
@@ -47,12 +47,12 @@ The Kit
 <hr/>
 
 
-### Solar Controller
+### Solar Controller (Renogy Wanderer)
 
 <div style="width: 100%; text-align: center">
-  <a href="https://www.amazon.com/gp/product/B072MMDY4F/ref=as_li_ss_il?ie=UTF8&linkCode=li3&tag=gridlesskits-20&linkId=4d7b021d7b380adbd2312fe84937e4db&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B072MMDY4F&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=gridlesskits-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=gridlesskits-20&language=en_US&l=li3&o=1&a=B072MMDY4F" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <a href="https://www.amazon.com/dp/B07G1PL1B9/ref=as_li_ss_il?ie=UTF8&linkCode=li3&tag=gridlesskits-20&linkId=8f074996437c23566a6e18c9865dc19a&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07G1PL1B9&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=gridlesskits-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=gridlesskits-20&language=en_US&l=li3&o=1&a=B07G1PL1B9" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
   <br/><br/><br/>
-  <a onclick="gtag('event','Amazon Affiliate clicked')" class="btn btn-primary btn-lg" target="_blank" style="background-color: orange; border: none" href="https://www.amazon.com/gp/product/B072MMDY4F/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=gridlesskits-20&linkId=962548e706724f4f32f7208599f116de&language=en_US" >Check latest price on Amazon</a>
+  <a onclick="gtag('event','Amazon Affiliate clicked')" class="btn btn-primary btn-lg" target="_blank" style="background-color: orange; border: none" href="https://www.amazon.com/dp/B07G1PL1B9/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=gridlesskits-20&linkId=b7b9dae1657555f7e71ee6a99b48cf76&language=en_US" >Check latest price on Amazon</a>
 </div>
 <hr/>
 

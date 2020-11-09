@@ -22,6 +22,9 @@ Total parts cost: $685 ([We sell the same kit pre-built for $1,399](/solar-kit-1
     $8 - Crocodile connectors from Battery => charge controller.
 
 
+This system will create around 920Wh per day (200W * 4.6h annual average solar hours at max capacity in example of San Francisco), which will be the usable amount per day. So the battery will more or less fully recharge from the sun every day (completely in summer, slightly less so in winter).
+
+
 
 The Kit
 ===============

@@ -15,10 +15,11 @@ Total parts cost: $1,317 - we don't sell anything this large pre-built yet, but 
     $138 - 2000W inverter (4600W peak)
     $813 - 2048Wh LiFePo battery (12V 160Ah)
     $316 - 3 x 100W Solar Panels HQST
-    $20 - 20 ft extension MC4 (Max 300W in)
-    $29 - Solar controller
+    $20 - 20 ft extension MC4
+    $29 - Solar controller (Max 300W in)
     $10 - Cable 2
 
+This system will create around 1,380Wh per day (300W * 4.6h annual average solar hours at max capacity in example of San Francisco), which will be the usable amount per day. Anything beyond that will go into the roughly 700Wh of "savings" the battery will store.
 
 The Kit
 ===============
