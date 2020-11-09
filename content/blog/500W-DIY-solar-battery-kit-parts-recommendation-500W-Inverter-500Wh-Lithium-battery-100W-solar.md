@@ -7,7 +7,7 @@ type: post
 draft: false
 ---
 
-Our 500W kit refers to the watts of the 500W inverter, and includes 200W of solar panels and a 500Wh Lithium Iron Phosphate battery  – so the Watts in the title do not refer to solar wattage. We figure though that most people don't really care about the wattage of the solar initially, they care what kind of performance they can get out of it. Of course you can simply add more solar panels to any one of these kits. Questions or comments on this? Contact us above!
+Our 500W kit refers to the watts of the 500W inverter, and includes a 100W solar panel and a 500Wh Lithium Iron Phosphate battery  – so the Watts in the title do not refer to solar wattage. We figure though that most people don't really care about the wattage of the solar initially, they care what kind of performance they can get out of it. Of course you can simply add more solar panels to any one of these kits. Questions or comments on this? Contact us above!
 
 This 500W inverter size is great for running devices around the house ie TVs, CPAP machines, laptops and phone chargers (same as the 300W kits, but more of them at once).
 
