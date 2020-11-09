@@ -16,7 +16,7 @@ Total parts cost: $685 ([We sell the same kit pre-built for $1,399](/solar-kit-1
 
     $69 - 1000W (car) inverter
     $399 - 960Wh LiFePo battery (12V 80Ah)
-    $158 - 2 * 100W solar panels
+    $158 - 2 * 100W solar panels HQST
     $29 - Solar controller
     $22 - 20 ft extension MC4
     $8 - Crocodile connectors from Battery => charge controller.

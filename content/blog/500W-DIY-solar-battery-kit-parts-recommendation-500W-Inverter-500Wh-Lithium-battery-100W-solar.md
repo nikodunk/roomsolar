@@ -15,7 +15,7 @@ Total parts cost: $420 ([We sell the same kit pre-built for $599](/solar-kit-500
 
     $42 - 500W (car) inverter
     $249 - 480Wh LiFePo battery (12V 40Ah)
-    $79 - 100W solar panel
+    $79 - 100W solar panel HQST
     $20 - Solar controller
     $22 - MC4 cables
     $8 - Crocodile connectors from Battery => charge controller.

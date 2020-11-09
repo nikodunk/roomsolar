@@ -12,9 +12,9 @@ This 1000W inverter size is great for running pretty much anything, and in our e
 
 Total parts cost: $1,317 - we don't sell anything this large pre-built yet, but will soon :).
 
-    $138 - 2000W inverter (4600 peak)
+    $138 - 2000W inverter (4600W peak)
     $813 - 2048Wh LiFePo battery (12V 160Ah)
-    $316 - 4 x 400W solar HQST
+    $316 - 4 x 100W Solar Panels HQST
     $20 - 20 ft extension MC4
     $29 - Solar controller
     $10 - Cable 2
@@ -65,7 +65,7 @@ The Kit
 </div>
 <hr/>
 
-### Lithium Iron Phosphate Deep Cycle Battery
+### 2048Wh Lithium Iron Phosphate Deep Cycle Battery
 
 <div style="width: 100%; text-align: center">
   <a href="https://www.amazon.com/dp/B08LMSZ2K3/ref=as_li_ss_il?ie=UTF8&linkCode=li3&tag=gridlesskits-20&linkId=e09a769d5d1a604c7e3b793ee681375c&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B08LMSZ2K3&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=gridlesskits-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=gridlesskits-20&language=en_US&l=li3&o=1&a=B08LMSZ2K3" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
