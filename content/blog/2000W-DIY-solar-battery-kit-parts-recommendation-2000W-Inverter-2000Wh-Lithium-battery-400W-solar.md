@@ -14,7 +14,7 @@ Total parts cost: $1,317 - we don't sell anything this large pre-built yet, but 
 
     $138 - 2000W inverter (4600W peak)
     $813 - 2048Wh LiFePo battery (12V 160Ah)
-    $316 - 4 x 100W Solar Panels HQST
+    $316 - 3 x 100W Solar Panels HQST
     $20 - 20 ft extension MC4
     $29 - Solar controller
     $10 - Cable 2
@@ -23,10 +23,9 @@ Total parts cost: $1,317 - we don't sell anything this large pre-built yet, but 
 The Kit
 ===============
 
-<h4 style="color: #00ab6b">Parts Cost on Amazon: $1,361</h4>
+<h4 style="color: #00ab6b">Parts Cost on Amazon: $1,282</h4>
 
-### 4 x 100W Solar Panel
-
+### 3 x 100W Solar Panel
 
 <div style="width: 100%; text-align: center">
   <a href="https://www.amazon.com/gp/product/B018BMGTTO/ref=as_li_ss_il?ie=UTF8&linkCode=li3&tag=gridlesskits-20&linkId=2e00bb9fda5d21e4ce5e561e0f0ba1de&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B018BMGTTO&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=gridlesskits-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=gridlesskits-20&language=en_US&l=li3&o=1&a=B018BMGTTO" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
