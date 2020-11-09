@@ -29,7 +29,7 @@ This system will create around 920Wh per day (200W * 4.6h annual average solar h
 The Kit
 ===============
 
-<h4 style="color: #00ab6b">Parts Cost on Amazon: $676</h4>
+<h4 style="color: #00ab6b">Parts Cost on Amazon: $685</h4>
 
 ### 2 x 100W Solar Panel
 

@@ -25,7 +25,7 @@ Total parts cost: $429 ([We sell the same kit pre-built for $599](/solar-kit-500
 The Kit
 ===============
 
-<h4 style="color: #00ab6b">Parts Cost on Amazon: $420</h4>
+<h4 style="color: #00ab6b">Parts Cost on Amazon: $429</h4>
 
 ### 1 x 100W Solar Panel
 

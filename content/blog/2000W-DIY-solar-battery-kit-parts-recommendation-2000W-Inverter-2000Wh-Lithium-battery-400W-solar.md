@@ -10,7 +10,7 @@ This is the our Amazon Parts recommendation for a 2000W kit – in our opinion 
 
 This 1000W inverter size is great for running pretty much anything, and in our eyes is the current performance sweet spot in 2020. You can run small hot-plates with this, hair-dryers, as well as fridges which you could not run with the 1000W system. The big difference is that this one will run an A/C unit, which is the second killer backup use-case for many preppers with families. Beyond that, you can of course run the usual CPAP machines, TVs, laptops and phone chargers (same as the 500W kits).
 
-Total parts cost: $1,317 - we don't sell anything this large pre-built yet, but will soon :).
+Total parts cost: $1,282 - we don't sell anything this large pre-built yet, but will soon :).
 
     $138 - 2000W inverter (4600W peak)
     $813 - 2048Wh LiFePo battery (12V 160Ah)
