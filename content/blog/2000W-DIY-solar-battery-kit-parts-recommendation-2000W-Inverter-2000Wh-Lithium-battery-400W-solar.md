@@ -15,7 +15,7 @@ Total parts cost: $1,317 - we don't sell anything this large pre-built yet, but 
     $138 - 2000W inverter (4600W peak)
     $813 - 2048Wh LiFePo battery (12V 160Ah)
     $316 - 3 x 100W Solar Panels HQST
-    $20 - 20 ft extension MC4
+    $20 - 20 ft extension MC4 (Max 300W in)
     $29 - Solar controller
     $10 - Cable 2
 
