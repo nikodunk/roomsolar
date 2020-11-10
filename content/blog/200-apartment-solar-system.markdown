@@ -51,9 +51,9 @@ The Kit (updated Nov 2020)
 We've updated this kit below. Three main changes have happened in the 3 years since this was written: 
 * We've upgraded the inverter from a 100W to a 150W. 
 * We've upgraded the battery from a 420Wh Deep Cycle Lead-Acid battery (about 100Wh usable capacity) to a 192Wh LiFePO (Lithium Iron Phosphate) battery (192Wh usable capacity, or double the lead-acid) as the lithium batteries are coming down in price faster than lead acid batteries are. We were unsure on whether to update these three changes into this original article or write a whole new one, but decided to update the original as this is the one that most people will find on search.
-* Prices are down (despite the above two upgrades!) from the original $211 to $192.
+* Prices are down (despite the above two upgrades!) from the original $211 to $201.
 
-<h4 style="color: #00ab6b">Parts Cost on Amazon: $192</h4>
+<h4 style="color: #00ab6b">Parts Cost on Amazon: $201</h4>
 
 ### Solar Panel
 
@@ -76,12 +76,12 @@ We've updated this kit below. Three main changes have happened in the 3 years si
 <hr/>
 
 
-### Solar Controller
+### Solar Controller (Renogy Wanderer)
 
 <div style="width: 100%; text-align: center">
-  <a href="https://www.amazon.com/gp/product/B072MMDY4F/ref=as_li_ss_il?ie=UTF8&linkCode=li3&tag=gridlesskits-20&linkId=4d7b021d7b380adbd2312fe84937e4db&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B072MMDY4F&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=gridlesskits-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=gridlesskits-20&language=en_US&l=li3&o=1&a=B072MMDY4F" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <a href="https://www.amazon.com/dp/B07G1PL1B9/ref=as_li_ss_il?ie=UTF8&linkCode=li3&tag=gridlesskits-20&linkId=8f074996437c23566a6e18c9865dc19a&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07G1PL1B9&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=gridlesskits-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=gridlesskits-20&language=en_US&l=li3&o=1&a=B07G1PL1B9" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
   <br/><br/><br/>
-  <a onclick="gtag('event','Amazon Affiliate clicked')" class="btn btn-primary btn-lg" target="_blank" style="background-color: orange; border: none" href="https://www.amazon.com/gp/product/B072MMDY4F/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=gridlesskits-20&linkId=962548e706724f4f32f7208599f116de&language=en_US" >Check latest price on Amazon</a>
+  <a onclick="gtag('event','Amazon Affiliate clicked')" class="btn btn-primary btn-lg" target="_blank" style="background-color: orange; border: none" href="https://www.amazon.com/dp/B07G1PL1B9/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=gridlesskits-20&linkId=b7b9dae1657555f7e71ee6a99b48cf76&language=en_US" >Check latest price on Amazon</a>
 </div>
 <hr/>
 
@@ -233,10 +233,10 @@ Solar as a modular consumer electronic — like air conditioning and satelli
 How long until it saves me money? The reason this system is so simple is because it doesn’t tie in to your apartment’s behind-the-meter electrical grid. This means the system is clean, but it also doesn’t feed into electrical heavyweights like your water heater, refrigerator and washer/dryer. It does charge anything you plug into it though. So can the system save me money? Back of the envelope:
 
     Financial payback period for 100W system
-    System cost : $192 on Amazon in 2020
+    System cost : $201 on Amazon in 2020
     Yearly energy creation: 365d * 4.26hsun/d * 100W = 155’490Wh/y
     Yearly value creation: 155kWh/y * 15.34c/kWh = $24/y energy created
-    100W system payback period: $192 / $24 = 8 years until payback
+    100W system payback period: $201 / $24 = 8 years until payback
 
 The financial payback of the system is 8 years including battery, which is in line with many rooftop systems but doesn’t include servicing. This could be reduced to 6.5 years by adding a second 100W solar panel:
 
