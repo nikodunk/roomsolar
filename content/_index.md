@@ -116,11 +116,7 @@ title:  "Sunboxlabs Kits Home"
 
 <div style="margin: 0 auto; max-width: 1030px">
     <div style="margin: 0 auto; max-width: 1030px">
-        <div style="display: flex;
-        margin-top: 20px;
-    flex-wrap: nowrap;
-    overflow-x: auto;
-    -webkit-overflow-scrolling: touch;">
+        <div style="display: flex; margin-top: 20px; flex-wrap: nowrap; overflow-x: auto; -webkit-overflow-scrolling: touch;">
             <div style="flex: 0 0 auto; max-width: 330px; margin-right: 10px; " class="card mb-4 ">
                 <div class="card-header">
                     <h4 class="my-0 font-weight-normal">Small Solar Battery Kit</h4>
@@ -217,6 +213,20 @@ title:  "Sunboxlabs Kits Home"
                             <li>1-on-1 support included.</li>
                         </ul>
                     </div>
+                </div>
+            </div>
+            <!--    CUSTOM -->
+            <div style="flex: 0 0 auto; max-width: 330px; margin-right: 10px" class="card mb-4">
+                <div class="card-header">
+                    <h4 class="my-0 font-weight-normal">Custom Needs</h4>
+                </div>
+                <div class="card-body">
+                    <a href="mailto:hello@sunboxlabs.com" class="btn btn-block btn-lg btn-primary">
+                        ☀️ Reach Out Today 〉
+                    </a>
+                    <br />
+                    <h5>Need to run something bigger than our Large Kit? Reach out today and we can help you build a custom system.</h5>
+                    <br/>
                 </div>
             </div>
         </div>
