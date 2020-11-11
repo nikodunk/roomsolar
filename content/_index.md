@@ -225,7 +225,7 @@ title:  "Sunboxlabs Kits Home"
                         ☀️ Reach Out Today 〉
                     </a>
                     <br />
-                    <h5>Need to run something bigger than our Large Kit (1000W+)? Reach out today and we can build you a custom system.</h5>
+                    <h5>Need to run something bigger than our Large Kit can (over 1000W continuous)? Reach out today and we can build you a custom system.</h5>
                     <br/>
                 </div>
             </div>
