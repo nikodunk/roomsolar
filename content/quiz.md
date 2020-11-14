@@ -1,5 +1,5 @@
 ---
-title: "Off-Grid Solar Sizing Tool"
+title: "Take the quiz: What size solar to run your devices?"
 layout: post
 ---
 
@@ -9,6 +9,10 @@ layout: post
 <div class="main-content">
     <section class="recent-posts">            
         <div class="section-title">                
+            <button>Family Fridge</button>
+            <button>Mini Fridge</button>
+            <button>Coffee Machine</button>
+            <button>Curling Iron</button>
             <button>Hair Dryer</button>
             <button>Clothes Dryer</button>
             <button>Laptop</button>

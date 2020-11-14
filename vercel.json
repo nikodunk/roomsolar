@@ -106,6 +106,10 @@
         {
             "source": "/shortest-payback/",
             "destination": "/blog/shortest_payback/"
+        },
+        {
+            "source": "/tool/",
+            "destination": "/quiz/"
         }
     ]
 }
