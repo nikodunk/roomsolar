@@ -599,6 +599,15 @@ twq('init','o3znq');
     }
   }
 
+  document.addEventListener("DOMContentLoaded", function () {
+
+  });
+
+  function addCouponFromUrl() {
+    let couponCode = window.location.search
+    localStorage.setItem({ 'affcode': couponCode })
+  }
+
   function addCoupon() {
     let couponCode = document.getElementById('couponCode').value
     fetch('https://sunboxlabs.com/api/coupon?code=' + couponCode).then(res => res.json()).then(json => {

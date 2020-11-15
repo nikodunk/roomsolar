@@ -114,7 +114,7 @@ title:  "Sunboxlabs Kits Home"
     </a>
 </div>
 
-<div style="margin: 0 auto; max-width: 1030px">
+<div style="margin: 0 auto;">
     <div style="margin: 0 auto; max-width: 1030px">
         <div style="display: flex; margin-top: 20px; flex-wrap: nowrap; overflow-x: auto; -webkit-overflow-scrolling: touch;">
             <div style="flex: 0 0 auto; max-width: 330px; margin-right: 10px; " class="card mb-4 ">
