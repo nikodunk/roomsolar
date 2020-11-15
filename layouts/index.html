@@ -15,6 +15,18 @@
             APIUrl: "https://xenodochial-clarke-648ebb.netlify.app/.netlify/identity"
         });
     }
+
+    document.addEventListener("DOMContentLoaded", function () {
+        addCouponFromUrl()
+    });
+
+    function addCouponFromUrl() {
+        // if there's a code in the url, set it in localstorage.
+        if (window.location.search !== "") {
+            let affCode = window.location.search.replace('?', '')
+            localStorage.setItem('affcode', affCode)
+        }
+    }
 </script>
 
 {{ .Content }}

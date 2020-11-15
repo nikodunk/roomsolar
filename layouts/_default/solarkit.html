@@ -126,6 +126,7 @@
           <option value="No Solar Panel (outlet only)">No Solar Panel (outlet only) $259 USD</option>
           </option>
         </select>
+        <input type=”hidden” style="display: none" name="os1" value="" id="finalCode">
         <input type="hidden" name="currency_code" value="USD">
         <button id="buy1" class="btn btn-block btn-lg btn-primary shadows" type="submit" name="submit">
           ☀️ Buy Now for $399 〉&nbsp;<img src="https://sunboxlabs.com/kit/img/paypal.png" style="height: 12px;" />
@@ -238,27 +239,42 @@ twq('init','o3znq');
 
 <script type="text/javascript">
   var button1 = document.getElementById('buy1');
-  button1.addEventListener(
-    'click',
-    function () {
-      // fbq('track', 'InitiateCheckout');
-      // twq('track','Purchase', {value: '499.00',currency: 'USD',num_items: '1'});
-      // ga('send', 'event', 'Checkout', 'clicked', 'Solar Kit');
-      gtag('event', 'Checkout Clicked Solar Kit')
-    },
+  button1.addEventListener('click', function () {
+    // fbq('track', 'InitiateCheckout');
+    // twq('track','Purchase', {value: '499.00',currency: 'USD',num_items: '1'});
+    // ga('send', 'event', 'Checkout', 'clicked', 'Solar Kit');
+    gtag('event', 'Checkout Clicked Solar Kit')
+  },
     false
   );
   var button2 = document.getElementById('buy2');
-  button2.addEventListener(
-    'click',
-    function () {
-      // fbq('track', 'InitiateCheckout');
-      // twq('track','Purchase', {value: '499.00',currency: 'USD',num_items: '1'});
-      // ga('send', 'event', 'Checkout', 'clicked', 'Solar Kit');
-      gtag('event', 'Checkout Clicked Solar Kit')
-    },
+  button2.addEventListener('click', function () {
+    // fbq('track', 'InitiateCheckout');
+    // twq('track','Purchase', {value: '499.00',currency: 'USD',num_items: '1'});
+    // ga('send', 'event', 'Checkout', 'clicked', 'Solar Kit');
+    gtag('event', 'Checkout Clicked Solar Kit')
+  },
     false
   );
+
+  document.addEventListener("DOMContentLoaded", function () {
+    addCouponFromUrl()
+  });
+
+  function addCouponFromUrl() {
+    // if there's already an affiliated code from the website, use that and don't overwrite.
+    if (localStorage.getItem('affcode') !== null) {
+      let affCode = localStorage.getItem('affcode')
+      document.getElementById('finalCode').value = affCode
+      return
+    }
+    // if there's a code in the url, set it in localstorage.
+    if (window.location.search !== "") {
+      let affCode = window.location.search.replace('?', '')
+      localStorage.setItem('affcode', affCode)
+      document.getElementById('finalCode').value = affCode
+    }
+  }
 </script>
 
 
