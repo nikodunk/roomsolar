@@ -114,8 +114,8 @@ title:  "Sunboxlabs Kits Home"
     </a>
 </div>
 
-<div style="margin: 0 auto;">
-    <div style="margin: 0 auto; max-width: 1030px">
+<div style="margin: 0 auto; ">
+    <div style="margin: 0 auto; max-width: 1200px">
         <div style="display: flex; margin-top: 20px; flex-wrap: nowrap; overflow-x: auto; -webkit-overflow-scrolling: touch;">
             <div style="flex: 0 0 auto; max-width: 330px; margin-right: 10px; " class="card mb-4 ">
                 <div class="card-header">
@@ -222,7 +222,7 @@ title:  "Sunboxlabs Kits Home"
                 </div>
                 <div class="card-body">
                     <a href="mailto:hello@sunboxlabs.com" class="btn btn-block btn-lg btn-primary">
-                        ☀️ Reach Out Today 〉
+                        ☀️ Let us build your custom kit 〉
                     </a>
                     <br />
                     <h5>Need to run something bigger than our Large Kit can (over 1000W continuous)? Reach out today and we can build you a custom system.</h5>
