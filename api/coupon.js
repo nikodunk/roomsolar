@@ -9,7 +9,9 @@ module.exports = async (req, res) => {
       'katiepatrick',
       'latch', 
       'maxedoutsolar',
-      'quench'
+      'quench',
+      'sunboxlabs10',
+      'sunboxlabs20'
     ]
     let response = validCodes.includes(code); // returns true or false
     res.status(200).send(response)
