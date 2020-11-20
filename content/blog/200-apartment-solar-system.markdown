@@ -119,9 +119,7 @@ We've updated this kit below. Three main changes have happened in the 3 years si
 
    
 
-
-
-I’m using bargain-basement parts intended for RV, marine & car usage which keeps my system cheap and mobile. The main components as found on Amazon are above.
+I'm using bargain-basement parts intended for RV, marine & car usage which keeps my system cheap and mobile. The main components as found on Amazon are above.
 
 
 <img class="lazy" data-src="/img/BOXES.jpg"/>   |  <img class="lazy" data-src="/img/COMPONENTS.jpg"/>
