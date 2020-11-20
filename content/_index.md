@@ -123,7 +123,7 @@ title:  "Sunboxlabs Kits Home"
                 </div>
                 <div class="card-body">
                     <a href="/solar-kit-300">
-                        <img class=" lazy" data-src="/img_3/300 copy 2.jpg" />
+                        <img class=" " src="/img_3/300 copy 2.jpg" />
                     </a>
                     <h3 class="card-title pricing-card-title">$399 <small class="text-muted">w/ Free shipping</small>
                     </h3>
@@ -132,7 +132,7 @@ title:  "Sunboxlabs Kits Home"
                     </a>
                     <br/>
                     <h5>What devices can <u>Small</u> run?</h5>
-                    <img data-src="/img_3/what_will_it_run_1.jpg" class="lazy">
+                    <img src="/img_3/what_will_it_run_1.jpg" class="">
                     <br />
                     <br />
                     <h5>Specs, power, wattage <a data-toggle="collapse" href="#collapsekit2" role="button" aria-expanded="false"
@@ -156,7 +156,7 @@ title:  "Sunboxlabs Kits Home"
                 </div>
                 <div class="card-body">
                     <a href="/solar-kit-500">
-                        <img class=" lazy" data-src="/img_3/500 copy 2.jpg" />
+                        <img class=" " src="/img_3/500 copy 2.jpg" />
                     </a>
                     <h3 class="card-title pricing-card-title">$599 <small class="text-muted">w/ Free shipping</small>
                     </h3>
@@ -165,7 +165,7 @@ title:  "Sunboxlabs Kits Home"
                     </a>
                     <br/>
                     <h5>What devices can <u>Medium</u> run?</h5>
-                    <img data-src="/img_3/what_will_it_run_2.jpg" class="lazy">
+                    <img src="/img_3/what_will_it_run_2.jpg" class="">
                     <br />
                     <br />
                     <h5>Specs, power, wattage <a data-toggle="collapse" href="#collapsekit2" role="button" aria-expanded="false"
@@ -189,7 +189,7 @@ title:  "Sunboxlabs Kits Home"
                 </div>
                 <div class="card-body">
                     <a href="/solar-kit-1000">
-                        <img class="lazy" data-src="/img_3/1000 copy 2.jpg" />
+                        <img src="/img_3/1000 copy 2.jpg" />
                     </a>
                     <h3 class="card-title pricing-card-title">$1,599 <small class="text-muted">w/ Free shipping</small>
                     </h3>
@@ -198,7 +198,7 @@ title:  "Sunboxlabs Kits Home"
                     </a>
                     <br />
                     <h5>What devices can Large run?</h5>
-                    <img data-src="/img_3/what_will_it_run_3.jpg" class="lazy">
+                    <img src="/img_3/what_will_it_run_3.jpg" class="">
                     <br/>
                     <br/>
                     <h5>Specs, power, wattage <a data-toggle="collapse" href="#collapsekit2" role="button" aria-expanded="false"
@@ -235,14 +235,14 @@ title:  "Sunboxlabs Kits Home"
     <div class="row no-gutters">
         <div class="col-lg-12">
             <p style="text-align: center">A fully charged generator will run:</p>
-            <img class="fit-image img-fluid lazy" data-src="/img_3/what_will_it_run.jpg" alt="" />
+            <img class="fit-image img-fluid " src="/img_3/what_will_it_run.jpg" alt="" />
         </div>
     </div>
     <hr />
     <h2 id="what_will_it_run" style="text-align: center">Where to use?</h2>
     <div class="row no-gutters">
         <div class="col-lg-12">
-            <img class="fit-image img-fluid lazy" data-src="/img_3/use_cases_0.jpg" alt="" />
+            <img class="fit-image img-fluid " src="/img_3/use_cases_0.jpg" alt="" />
         </div>
     </div>
     <hr />
@@ -257,19 +257,18 @@ title:  "Sunboxlabs Kits Home"
         </div>
         <div class="row">
             <div class="col-lg-4">
-                <img class="fit-image img-fluid lazy" data-src="/kit/img/ASSEMBLY1.jpg" alt="">
+                <img class="fit-image img-fluid " src="/kit/img/ASSEMBLY1.jpg" alt="">
                 <h4>Fast delivery. Fully assembled. Everything's included. No tools required.</h4>
             </div>
             <div class="col-lg-4">
-                <img class="fit-image img-fluid lazy" data-src="/kit/img/ASSEMBLY2.jpg" alt="">
+                <img class="fit-image img-fluid " src="/kit/img/ASSEMBLY2.jpg" alt="">
                 <h4>Silent - Use generator indoors or outdoors – even while it's charging.</h4>
             </div>
             <div class="col-lg-4">
-                <img class="fit-image img-fluid lazy" data-src="/img_3/we_help_you_install_2.jpg" alt="">
+                <img class="fit-image img-fluid " src="/img_3/we_help_you_install_2.jpg" alt="">
                 <h4>Premium Support - Video support if you get stuck. But it's so easy you won't.</h4>
             </div>
         </div>
-        <hr />
     </div>
 </section>
 
@@ -370,13 +369,13 @@ title:  "Sunboxlabs Kits Home"
             <div id="myCarousel2" class="carousel" data-touch="true">
                 <div class="carousel-inner">
                     <div class="active carousel-item" data-slide-number="0">
-                        <img class="lazy" data-src="/img_3/how_it_works_1.jpg" alt="">
+                        <img src="/img_3/how_it_works_1.jpg" alt="">
                     </div>
                     <div class="carousel-item" data-slide-number="1">
-                        <img class=" lazy" data-src="/img_3/how_it_works_2.jpg" alt="">
+                        <img class=" " src="/img_3/how_it_works_2.jpg" alt="">
                     </div>
                     <div class="carousel-item" data-slide-number="2">
-                        <img class=" lazy" data-src="/img_3/how_it_works_3.jpg" alt="">
+                        <img class=" " src="/img_3/how_it_works_3.jpg" alt="">
                     </div>
                     <a class="carousel-control-prev" href="#myCarousel2" role="button" data-slide="prev">
                         <span class="carousel-control-prev-icon" aria-hidden="true"></span>
@@ -403,40 +402,40 @@ title:  "Sunboxlabs Kits Home"
             <div id="myCarousel" class="carousel" data-touch="true" data-ride="carousel">
                 <div class="carousel-inner">
                     <div class="active carousel-item" data-slide-number="0">
-                        <img class="fit-image img-fluid lazy" data-src="/kit/img/ASSEMBLY1.jpg" alt="">
+                        <img class="fit-image img-fluid " src="/kit/img/ASSEMBLY1.jpg" alt="">
                     </div>
                     <div class="carousel-item" data-slide-number="1">
-                        <img class="fit-image img-fluid lazy" data-src="/kit/img/ASSEMBLY2.jpg" alt="">
+                        <img class="fit-image img-fluid " src="/kit/img/ASSEMBLY2.jpg" alt="">
                     </div>
                     <div class="carousel-item" data-slide-number="2">
-                        <img class="fit-image img-fluid lazy" data-src="/kit/img/ASSEMBLY3.jpg" alt="">
+                        <img class="fit-image img-fluid " src="/kit/img/ASSEMBLY3.jpg" alt="">
                     </div>
                     <div class="carousel-item" data-slide-number="3">
-                        <img class="fit-image img-fluid lazy" data-src="/kit/img/ASSEMBLY3-1.jpg" alt="">
+                        <img class="fit-image img-fluid " src="/kit/img/ASSEMBLY3-1.jpg" alt="">
                     </div>
                     <div class="carousel-item" data-slide-number="4">
-                        <img class="fit-image img-fluid lazy" data-src="/kit/img/ASSEMBLY4.jpg" alt="">
+                        <img class="fit-image img-fluid " src="/kit/img/ASSEMBLY4.jpg" alt="">
                     </div>
                     <div class="carousel-item" data-slide-number="5">
-                        <img class="fit-image img-fluid lazy" data-src="/kit/img/ASSEMBLY4-1.jpg" alt="">
+                        <img class="fit-image img-fluid " src="/kit/img/ASSEMBLY4-1.jpg" alt="">
                     </div>
                     <div class="carousel-item" data-slide-number="6">
-                        <img class="fit-image img-fluid lazy" data-src="/kit/img/ASSEMBLY4-2.jpg" alt="">
+                        <img class="fit-image img-fluid " src="/kit/img/ASSEMBLY4-2.jpg" alt="">
                     </div>
                     <div class="carousel-item" data-slide-number="6">
-                        <img class="fit-image img-fluid lazy" data-src="/kit/img/ASSEMBLY5.jpg" alt="">
+                        <img class="fit-image img-fluid " src="/kit/img/ASSEMBLY5.jpg" alt="">
                     </div>
                     <div class="carousel-item" data-slide-number="7">
-                        <img class="fit-image img-fluid lazy" data-src="/kit/img/ASSEMBLY6.jpg" alt="">
+                        <img class="fit-image img-fluid " src="/kit/img/ASSEMBLY6.jpg" alt="">
                     </div>
                     <div class="carousel-item" data-slide-number="8">
-                        <img class="fit-image img-fluid lazy" data-src="/kit/img/ASSEMBLY7.jpg" alt="">
+                        <img class="fit-image img-fluid " src="/kit/img/ASSEMBLY7.jpg" alt="">
                     </div>
                     <div class="carousel-item" data-slide-number="9">
-                        <img class="fit-image img-fluid lazy" data-src="/kit/img/ASSEMBLY8.jpg" alt="">
+                        <img class="fit-image img-fluid " src="/kit/img/ASSEMBLY8.jpg" alt="">
                     </div>
                     <div class="carousel-item" data-slide-number="10">
-                        <img class="fit-image img-fluid lazy" data-src="/kit/img/ASSEMBLY9.jpg" alt="">
+                        <img class="fit-image img-fluid " src="/kit/img/ASSEMBLY9.jpg" alt="">
                     </div>
                     <a class="carousel-control-prev" href="#myCarousel" role="button" data-slide="prev">
                         <span class="carousel-control-prev-icon" aria-hidden="true"></span>
@@ -451,62 +450,62 @@ title:  "Sunboxlabs Kits Home"
                 <ul class="carousel-indicators list-inline mx-auto border px-2">
                     <li class="list-inline-item active">
                         <a id="carousel-selector-0" class="selected" data-slide-to="0" data-target="#myCarousel">
-                            <img class="fit-image img-fluid lazy" data-src="/kit/img/ASSEMBLY1.jpg" alt="">
+                            <img class="fit-image img-fluid " src="/kit/img/ASSEMBLY1.jpg" alt="">
                         </a>
                     </li>
                     <li class="list-inline-item">
                         <a id="carousel-selector-1" data-slide-to="1" data-target="#myCarousel">
-                            <img class="fit-image img-fluid lazy" data-src="/kit/img/ASSEMBLY2.jpg" alt="">
+                            <img class="fit-image img-fluid " src="/kit/img/ASSEMBLY2.jpg" alt="">
                         </a>
                     </li>
                     <li class="list-inline-item">
                         <a id="carousel-selector-2" data-slide-to="2" data-target="#myCarousel">
-                            <img class="fit-image img-fluid lazy" data-src="/kit/img/ASSEMBLY3.jpg" alt="">
+                            <img class="fit-image img-fluid " src="/kit/img/ASSEMBLY3.jpg" alt="">
                         </a>
                     </li>
                     <li class="list-inline-item">
                         <a id="carousel-selector-3" data-slide-to="3" data-target="#myCarousel">
-                            <img class="fit-image img-fluid lazy" data-src="/kit/img/ASSEMBLY3-1.jpg" alt="">
+                            <img class="fit-image img-fluid " src="/kit/img/ASSEMBLY3-1.jpg" alt="">
                         </a>
                     </li>
                     <li class="list-inline-item">
                         <a id="carousel-selector-4" data-slide-to="4" data-target="#myCarousel">
-                            <img class="fit-image img-fluid lazy" data-src="/kit/img/ASSEMBLY4.jpg" alt="">
+                            <img class="fit-image img-fluid " src="/kit/img/ASSEMBLY4.jpg" alt="">
                         </a>
                     </li>
                     <li class="list-inline-item">
                         <a id="carousel-selector-5" data-slide-to="5" data-target="#myCarousel">
-                            <img class="fit-image img-fluid lazy" data-src="/kit/img/ASSEMBLY4-1.jpg" alt="">
+                            <img class="fit-image img-fluid " src="/kit/img/ASSEMBLY4-1.jpg" alt="">
                         </a>
                     </li>
                     <li class="list-inline-item">
                         <a id="carousel-selector-6" data-slide-to="6" data-target="#myCarousel">
-                            <img class="fit-image img-fluid lazy" data-src="/kit/img/ASSEMBLY4-2.jpg" alt="">
+                            <img class="fit-image img-fluid " src="/kit/img/ASSEMBLY4-2.jpg" alt="">
                         </a>
                     </li>
                     <li class="list-inline-item">
                         <a id="carousel-selector-7" data-slide-to="7" data-target="#myCarousel">
-                            <img class="fit-image img-fluid lazy" data-src="/kit/img/ASSEMBLY5.jpg" alt="">
+                            <img class="fit-image img-fluid " src="/kit/img/ASSEMBLY5.jpg" alt="">
                         </a>
                     </li>
                     <li class="list-inline-item">
                         <a id="carousel-selector-8" data-slide-to="8" data-target="#myCarousel">
-                            <img class="fit-image img-fluid lazy" data-src="/kit/img/ASSEMBLY6.jpg" alt="">
+                            <img class="fit-image img-fluid " src="/kit/img/ASSEMBLY6.jpg" alt="">
                         </a>
                     </li>
                     <li class="list-inline-item">
                         <a id="carousel-selector-9" data-slide-to="9" data-target="#myCarousel">
-                            <img class="fit-image img-fluid lazy" data-src="/kit/img/ASSEMBLY7.jpg" alt="">
+                            <img class="fit-image img-fluid " src="/kit/img/ASSEMBLY7.jpg" alt="">
                         </a>
                     </li>
                     <li class="list-inline-item">
                         <a id="carousel-selector-10" data-slide-to="10" data-target="#myCarousel">
-                            <img class="fit-image img-fluid lazy" data-src="/kit/img/ASSEMBLY8.jpg" alt="">
+                            <img class="fit-image img-fluid " src="/kit/img/ASSEMBLY8.jpg" alt="">
                         </a>
                     </li>
                     <li class="list-inline-item">
                         <a id="carousel-selector-11" data-slide-to="11" data-target="#myCarousel">
-                            <img class="fit-image img-fluid lazy" data-src="/kit/img/ASSEMBLY9.jpg" alt="">
+                            <img class="fit-image img-fluid " src="/kit/img/ASSEMBLY9.jpg" alt="">
                         </a>
                     </li>
                 </ul>
