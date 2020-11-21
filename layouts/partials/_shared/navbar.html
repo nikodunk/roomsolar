@@ -23,10 +23,10 @@
             <a class="nav-item nav-link" href="/faq">FAQ</a>
             <a class="nav-item nav-link" href="/contact">Contact</a>
             <span class="nav-item nav-link d-none d-md-inline" href="">&nbsp;</span>
-            <form class="form-group form-inline col-12 col-md-6" id="electrade-nav" style="margin-bottom: 0px">
-              <input type="email" required name="email" placeholder="you@email.com" class="form-control col-7"
+            <form class="form-group form-inline row" id="electrade-nav" style="margin-bottom: 0px">
+              <input type="email" required name="email" placeholder="you@email.com" class="form-control col"
                 style="border-radius: 0; border-top-left-radius: 3px; border-bottom-left-radius: 3px;" />
-              <input class="btn btn-block btn-primary form-control col-5"
+              <input class="btn btn-block btn-primary form-control col"
                 style="border-radius: 0; border-top-right-radius: 3px; border-bottom-right-radius: 3px;" type="submit"
                 value="Subscribe" id="submit-form" />
             </form>
@@ -43,58 +43,34 @@
     </div>
   </nav>
 
-
+  <br /><br /><br />
 
 
   <script>
-    var navForm = $('form#electrade-nav')
+
+    // SUBMIT EMAIL TO GSHEET
+    var $formElementNav = document.getElementById('electrade-nav')
+    var $WIPNav = document.getElementById('WIP-nav')
+    var $thanksNav = document.getElementById('thanks-nav')
     var url = 'https://script.google.com/macros/s/AKfycbwRbZS37yjD4W-qV8f8nFxlVFcuS-D3eBjEQomLZHA6TkXkoMg/exec'
-    $.fn.serializeObject = function () {
-      var o = {};
-      var a = this.serializeArray();
-      $.each(a, function () {
-        if (o[this.name]) {
-          if (!o[this.name].push) {
-            o[this.name] = [o[this.name]];
-          }
-          o[this.name].push(this.value || '');
-        } else {
-          o[this.name] = this.value || '';
+    $formElementNav.addEventListener('submit', function (event) {
+      event.preventDefault();
+      $formElementNav.style.display = 'none'
+      $WIPNav.style.display = 'block'
+      fetch(url + '?email=' + $formElementNav.elements[0].value.replace('@', '%40')).then((response) => {
+        if (response.ok) {
+          $WIPNav.style.display = 'none'
+          $thanksNav.style.display = 'block'
+          return response.json();
         }
+        return Promise.reject(response);
+      }).then((data) => {
+        console.log(data);
+      }).catch((error) => {
+        console.warn(error);
       });
-      return o;
-    };
+    });
 
-
-    // Example starter JavaScript for disabling form submissions if there are invalid fields
-    (function () {
-      'use strict';
-      window.addEventListener('load', function () {
-        // Loop over them and prevent submission
-        var validation = Array.prototype.filter.call(navForm, function (form) {
-          form.addEventListener('submit', function (event) {
-            console.log('working')
-            $("#electrade-nav").hide();
-            $("#WIP-nav").show();
-            if (form.checkValidity() === false) {
-              event.preventDefault();
-              event.stopPropagation();
-            }
-            else {
-              event.preventDefault();
-              var jqxhr = $.ajax({
-                url: url,
-                method: "GET",
-                dataType: "json",
-                data: navForm.serializeObject(),
-                success: function (result) { $("#WIP-nav").hide(); $("#thanks-nav").show() }
-              })
-            }
-            form.classList.add('was-validated');
-          }, false);
-        });
-      }, false);
-    })();
   </script>
 
 
