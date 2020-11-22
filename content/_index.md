@@ -123,7 +123,7 @@ title:  "Sunboxlabs Kits Home"
                 </div>
                 <div class="card-body">
                     <a href="/solar-kit-300">
-                        <img class=" " src="/img_3/300 copy 2.jpg" />
+                        <img class="lazy" data-src="/img_3/300 copy 2.jpg" />
                     </a>
                     <h3 class="card-title pricing-card-title">$399 <small class="text-muted">w/ Free shipping</small>
                     </h3>
@@ -132,7 +132,7 @@ title:  "Sunboxlabs Kits Home"
                     </a>
                     <br/>
                     <h5>What devices can <u>Small</u> run?</h5>
-                    <img src="/img_3/what_will_it_run_1.jpg" class="">
+                    <img data-src="/img_3/what_will_it_run_1.jpg" class="lazy">
                     <br />
                     <br />
                     <h5>Specs, power, wattage <a data-toggle="collapse" href="#collapsekit2" role="button" aria-expanded="false"
@@ -156,7 +156,7 @@ title:  "Sunboxlabs Kits Home"
                 </div>
                 <div class="card-body">
                     <a href="/solar-kit-500">
-                        <img class=" " src="/img_3/500 copy 2.jpg" />
+                        <img class="lazy" data-src="/img_3/500 copy 2.jpg" />
                     </a>
                     <h3 class="card-title pricing-card-title">$599 <small class="text-muted">w/ Free shipping</small>
                     </h3>
@@ -165,7 +165,7 @@ title:  "Sunboxlabs Kits Home"
                     </a>
                     <br/>
                     <h5>What devices can <u>Medium</u> run?</h5>
-                    <img src="/img_3/what_will_it_run_2.jpg" class="">
+                    <img data-src="/img_3/what_will_it_run_2.jpg" class="lazy">
                     <br />
                     <br />
                     <h5>Specs, power, wattage <a data-toggle="collapse" href="#collapsekit2" role="button" aria-expanded="false"
@@ -189,7 +189,7 @@ title:  "Sunboxlabs Kits Home"
                 </div>
                 <div class="card-body">
                     <a href="/solar-kit-1000">
-                        <img src="/img_3/1000 copy 2.jpg" />
+                        <img data-src="/img_3/1000 copy 2.jpg" class="lazy" />
                     </a>
                     <h3 class="card-title pricing-card-title">$1,599 <small class="text-muted">w/ Free shipping</small>
                     </h3>
@@ -198,7 +198,7 @@ title:  "Sunboxlabs Kits Home"
                     </a>
                     <br />
                     <h5>What devices can Large run?</h5>
-                    <img src="/img_3/what_will_it_run_3.jpg" class="">
+                    <img data-src="/img_3/what_will_it_run_3.jpg" class="lazy">
                     <br/>
                     <br/>
                     <h5>Specs, power, wattage <a data-toggle="collapse" href="#collapsekit2" role="button" aria-expanded="false"
@@ -235,14 +235,14 @@ title:  "Sunboxlabs Kits Home"
     <div class="row no-gutters">
         <div class="col-lg-12">
             <p style="text-align: center">A fully charged generator will run:</p>
-            <img class="fit-image img-fluid " src="/img_3/what_will_it_run.jpg" alt="" />
+            <img class="fit-image img-fluid lazy" data-src="/img_3/what_will_it_run.jpg" alt="" />
         </div>
     </div>
     <hr />
     <h2 id="what_will_it_run" style="text-align: center">Where to use?</h2>
     <div class="row no-gutters">
         <div class="col-lg-12">
-            <img class="fit-image img-fluid " src="/img_3/use_cases_0.jpg" alt="" />
+            <img class="fit-image img-fluid lazy" data-src="/img_3/use_cases_0.jpg" alt="" />
         </div>
     </div>
     <hr />
@@ -257,15 +257,15 @@ title:  "Sunboxlabs Kits Home"
         </div>
         <div class="row">
             <div class="col-lg-4">
-                <img class="fit-image img-fluid " src="/kit/img/ASSEMBLY1.jpg" alt="">
+                <img class="fit-image img-fluid lazy" data-src="/kit/img/ASSEMBLY1.jpg" alt="">
                 <h4>Fast delivery. Fully assembled. Everything's included. No tools required.</h4>
             </div>
             <div class="col-lg-4">
-                <img class="fit-image img-fluid " src="/kit/img/ASSEMBLY2.jpg" alt="">
+                <img class="fit-image img-fluid lazy" data-src="/kit/img/ASSEMBLY2.jpg" alt="">
                 <h4>Silent - Use generator indoors or outdoors – even while it's charging.</h4>
             </div>
             <div class="col-lg-4">
-                <img class="fit-image img-fluid " src="/img_3/we_help_you_install_2.jpg" alt="">
+                <img class="fit-image img-fluid lazy" data-src="/img_3/we_help_you_install_2.jpg" alt="">
                 <h4>Premium Support - Video support if you get stuck. But it's so easy you won't.</h4>
             </div>
         </div>
@@ -369,13 +369,13 @@ title:  "Sunboxlabs Kits Home"
             <div id="myCarousel2" class="carousel" data-touch="true">
                 <div class="carousel-inner">
                     <div class="active carousel-item" data-slide-number="0">
-                        <img src="/img_3/how_it_works_1.jpg" alt="">
+                        <img class="lazy" data-src="/img_3/how_it_works_1.jpg" alt="">
                     </div>
                     <div class="carousel-item" data-slide-number="1">
-                        <img class=" " src="/img_3/how_it_works_2.jpg" alt="">
+                        <img class="lazy" data-src="/img_3/how_it_works_2.jpg" alt="">
                     </div>
                     <div class="carousel-item" data-slide-number="2">
-                        <img class=" " src="/img_3/how_it_works_3.jpg" alt="">
+                        <img class="lazy" data-src="/img_3/how_it_works_3.jpg" alt="">
                     </div>
                     <a class="carousel-control-prev" href="#myCarousel2" role="button" data-slide="prev">
                         <span class="carousel-control-prev-icon" aria-hidden="true"></span>
