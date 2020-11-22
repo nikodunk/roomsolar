@@ -7,7 +7,7 @@ type: "post"
 comments: true
 ---
 
-<img class="lazy" data-src="/img/TEASER.jpg"/>
+<img class="" src="/img/TEASER.jpg"/>
 
 #### Building a solar micro-grid in my bedroom with parts from Amazon
 
@@ -17,7 +17,7 @@ comments: true
 
 Apartment renters need the landlord’s permission to install anything on their rooftops. This makes installing solar difficult for people who rent. Because most of the world lives in urbanized areas where renting is common, I think this is a problem standing in the way of solar adoption.
 
-<img class="lazy" data-src="/img/PROBLEM.png"/>
+<img class="" src="/img/PROBLEM.png"/>
 
 An additional speed bump is the complexity of installing solar: regulation around net-metering. Grid-tied systems. Installation permits (even if you do own your property). Getting quotes from different installers. Solar financing. All complex processes inherited from the construction industry which slow down mass private adoption of renewables.
 
