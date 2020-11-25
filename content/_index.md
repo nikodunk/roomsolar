@@ -44,7 +44,6 @@ title:  "Sunboxlabs Kits Home"
                 <div class="carousel-caption ">
                     <h2 class="d-none d-sm-block overlay">Premium Lithium Solar Kits for Backup, Outdoors or Offgrid.<h2>
                     <h3 class="d-sm-none overlay" style="margin-bottom: 90px">Premium Solar Kits<h3>
-                    <!-- <p><a class="btn btn-lg btn-primary" href="#" role="button">Browse gallery</a></p> -->
                 </div>
             </div>
         </div>
@@ -53,9 +52,6 @@ title:  "Sunboxlabs Kits Home"
             <div class="container">
                 <div class="carousel-caption ">
                     <h2 class="overlay">Easy installation. Portable form factor.</h2>
-                    <!-- <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida
-                        at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
-                    <p><a class="btn btn-lg btn-primary" href="#" role="button">Sign up today</a></p> -->
                 </div>
             </div>
         </div>
@@ -64,9 +60,6 @@ title:  "Sunboxlabs Kits Home"
             <div class="container">
                 <div class="carousel-caption ">
                     <h2 class="overlay">For Backup Power.</h2>
-                    <!-- <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida
-                        at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
-                    <p><a class="btn btn-lg btn-primary" href="#" role="button">Browse gallery</a></p>  -->
                 </div>
             </div>
         </div>
@@ -86,9 +79,6 @@ title:  "Sunboxlabs Kits Home"
             <div class="container">
                 <div class="carousel-caption ">
                     <h2 class="overlay">For Off-grid energy.</h2>
-                    <!-- <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida
-                        at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
-                    <p><a class="btn btn-lg btn-primary" href="#" role="button">Browse gallery</a></p> -->
                 </div>
             </div>
         </div> 
@@ -97,9 +87,6 @@ title:  "Sunboxlabs Kits Home"
             <div class="container">
                 <div class="carousel-caption ">
                     <h2 class="overlay">For Van-living and Marine.</h2>
-                    <!-- <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida
-                        at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
-                    <p><a class="btn btn-lg btn-primary" href="#" role="button">Browse gallery</a></p> -->
                 </div>
             </div>
         </div>
@@ -127,16 +114,18 @@ title:  "Sunboxlabs Kits Home"
                     </a>
                     <h3 class="card-title pricing-card-title">$399 <small class="text-muted">w/ Free shipping</small>
                     </h3>
-                    <a href="/solar-kit-300" class="btn btn-block btn-lg btn-primary">
-                        ☀️ Learn More 〉
-                    </a>
+                    <div class="d-grid gap-2">
+                        <a href="/solar-kit-300" class="btn btn-lg btn-primary">
+                            ☀️ Learn More 〉
+                        </a>
+                    </div>
                     <br/>
                     <h5>What devices can <u>Small</u> run?</h5>
                     <img data-src="/img_3/what_will_it_run_1.jpg" class="lazy">
                     <br />
                     <br />
                     <h5>Specs, power, wattage <a data-toggle="collapse" href="#collapsekit2" role="button" aria-expanded="false"
-                            aria-controls="collapsekit2">Show ▽</a></h5>
+                            aria-controls="collapsekit2">▽Show</a></h5>
                     <div class="collapse " id="collapsekit2">
                         <ul class="mb-0 ">
                             <li>300W Generator (1 standard outlet)</li>
@@ -160,16 +149,18 @@ title:  "Sunboxlabs Kits Home"
                     </a>
                     <h3 class="card-title pricing-card-title">$599 <small class="text-muted">w/ Free shipping</small>
                     </h3>
-                    <a href="/solar-kit-300" class="btn btn-block btn-lg btn-primary">
-                        ☀️ Learn More 〉
-                    </a>
+                    <div class="d-grid gap-2">
+                        <a href="/solar-kit-500" class="btn btn-block btn-lg btn-primary">
+                            ☀️ Learn More 〉
+                        </a>
+                    </div>
                     <br/>
                     <h5>What devices can <u>Medium</u> run?</h5>
                     <img data-src="/img_3/what_will_it_run_2.jpg" class="lazy">
                     <br />
                     <br />
                     <h5>Specs, power, wattage <a data-toggle="collapse" href="#collapsekit2" role="button" aria-expanded="false"
-                            aria-controls="collapsekit2">Show ▽</a></h5>
+                            aria-controls="collapsekit2">▽Show</a></h5>
                     <div class="collapse " id="collapsekit2">
                         <ul class="mb-0 ">
                             <li>500W Generator (2 standard outlets)</li>
@@ -193,16 +184,18 @@ title:  "Sunboxlabs Kits Home"
                     </a>
                     <h3 class="card-title pricing-card-title">$1,599 <small class="text-muted">w/ Free shipping</small>
                     </h3>
-                    <a href="/solar-kit-1000" class="btn btn-block btn-lg btn-primary">
-                        ☀️ Learn More 〉
-                    </a>
+                    <div class="d-grid gap-2">
+                        <a href="/solar-kit-1000" class="btn btn-block btn-lg btn-primary">
+                            ☀️ Learn More 〉
+                        </a>
+                    </div>
                     <br />
                     <h5>What devices can Large run?</h5>
                     <img data-src="/img_3/what_will_it_run_3.jpg" class="lazy">
                     <br/>
                     <br/>
                     <h5>Specs, power, wattage <a data-toggle="collapse" href="#collapsekit2" role="button" aria-expanded="false"
-                            aria-controls="collapsekit2">Show ▽</a></h5>
+                            aria-controls="collapsekit2">▽Show</a></h5>
                     <div class="collapse" id="collapsekit2">
                         <ul class="mb-0 ">
                             <li>1000W Generator (2 standard outlet)</li>
@@ -221,12 +214,14 @@ title:  "Sunboxlabs Kits Home"
                     <h4 class="my-0 font-weight-normal">Custom Needs</h4>
                 </div>
                 <div class="card-body">
-                    <a href="mailto:hello@sunboxlabs.com" class="btn btn-block btn-lg btn-primary">
-                        ☀️ Let us build your custom kit 〉
-                    </a>
+                    <h5>Let us build your custom kit</h5>
+                    <p>Need something more powerful than our Large Kit (over 1000W continuous)? Reach out today and we can help you build a custom system.</p>
                     <br />
-                    <h5>Need something even more powerful than our Large Kit (over 1000W continuous)? Reach out today and we can help you build a custom system.</h5>
-                    <br/>
+                    <div class="d-grid">
+                        <a href="mailto:hello@sunboxlabs.com" class="btn btn-block btn-lg btn-primary">
+                            ☀️ Contact Us 〉
+                        </a>
+                    </div>
                 </div>
             </div>
         </div>
