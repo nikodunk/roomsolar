@@ -1,5 +1,5 @@
 ---
-title: "Take the quiz: What solar system size to run your devices?"
+title: "Take the quiz to find out how much solar power you need"
 layout: post
 ---
 

@@ -106,7 +106,7 @@ title:  "Sunboxlabs Kits Home"
         <div style="display: flex; margin-top: 20px; flex-wrap: nowrap; overflow-x: auto; -webkit-overflow-scrolling: touch;">
             <div style="flex: 0 0 auto; max-width: 330px; margin-right: 10px; " class="card mb-4 ">
                 <div class="card-header">
-                    <h4 class="my-0 font-weight-normal">Small Solar Battery Kit</h4>
+                    <h4 class="my-0 font-weight-normal">Small Offgrid Solar Kit</h4>
                 </div>
                 <div class="card-body">
                     <a href="/solar-kit-300">
@@ -141,7 +141,7 @@ title:  "Sunboxlabs Kits Home"
             <!-- 500W generator -->
             <div style="flex: 0 0 auto; max-width: 330px; margin-right: 10px" class="card mb-4">
                 <div class="card-header">
-                    <h4 class="my-0 font-weight-normal">Medium Solar Battery Kit</h4>
+                    <h4 class="my-0 font-weight-normal">Medium Offgrid Solar Kit</h4>
                 </div>
                 <div class="card-body">
                     <a href="/solar-kit-500">
@@ -176,7 +176,7 @@ title:  "Sunboxlabs Kits Home"
             <!--    1000W Solar Generator -->
             <div style="flex: 0 0 auto; max-width: 330px; margin-right: 10px" class="card mb-4">
                 <div class="card-header">
-                    <h4 class="my-0 font-weight-normal">Large Solar Battery Kit</h4>
+                    <h4 class="my-0 font-weight-normal">Large Offgrid Solar Kit</h4>
                 </div>
                 <div class="card-body">
                     <a href="/solar-kit-1000">
@@ -214,7 +214,7 @@ title:  "Sunboxlabs Kits Home"
                     <h4 class="my-0 font-weight-normal">Custom Needs</h4>
                 </div>
                 <div class="card-body">
-                    <h5>Let us build your custom kit</h5>
+                    <h5>Let us design your custom kit</h5>
                     <p>Need something more powerful than our Large Kit (over 1000W continuous)? Reach out today and we can help you build a custom system.</p>
                     <br />
                     <div class="d-grid">

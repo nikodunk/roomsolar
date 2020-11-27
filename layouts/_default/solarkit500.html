@@ -591,32 +591,12 @@ twq('init','o3znq');
 
 
 <script type="text/javascript">
-
   function showCouponInput() {
     var x = document.getElementById("coupon");
     if (x.style.display === "none") {
       x.style.display = "block";
     } else {
       x.style.display = "none";
-    }
-  }
-
-  document.addEventListener("DOMContentLoaded", function () {
-    addCouponFromUrl()
-  });
-
-  function addCouponFromUrl() {
-    // if there's already an affiliated code from the website, use that and don't overwrite.
-    if (localStorage.getItem('affcode') !== null) {
-      let affCode = localStorage.getItem('affcode')
-      document.getElementById('finalCode').value = affCode
-      return
-    }
-    // if there's a code in the url, set it in localstorage.
-    if (window.location.search !== "") {
-      let affCode = window.location.search.replace('?', '')
-      localStorage.setItem('affcode', affCode)
-      document.getElementById('finalCode').value = affCode
     }
   }
 
