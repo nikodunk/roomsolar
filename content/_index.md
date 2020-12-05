@@ -214,7 +214,7 @@ title:  "Sunboxlabs Kits Home"
                     <h4 class="my-0 font-weight-normal">Custom Needs</h4>
                 </div>
                 <div class="card-body">
-                    <h5>Let us design your custom kit</h5>
+                    <h5>Let us design your customized personal solar kit</h5>
                     <p>Need something more powerful than our Large Kit (over 1000W continuous)? Reach out today and we can help you build a custom system.</p>
                     <br />
                     <div class="d-grid">
