@@ -104,7 +104,8 @@ title:  "Sunboxlabs Kits Home"
 <div style="margin: 0 auto; ">
     <div style="margin: 0 auto; max-width: 1200px">
         <div style="display: flex; margin-top: 20px; flex-wrap: nowrap; overflow-x: auto; -webkit-overflow-scrolling: touch;">
-            <div style="flex: 0 0 auto; max-width: 330px; margin-right: 10px; " class="card mb-4 ">
+            <!-- 300W generator -->
+            <!-- <div style="flex: 0 0 auto; max-width: 330px; margin-right: 10px; " class="card mb-4 ">
                 <div class="card-header">
                     <h4 class="my-0 font-weight-normal">Small Offgrid Solar Kit</h4>
                 </div>
@@ -137,7 +138,7 @@ title:  "Sunboxlabs Kits Home"
                         </ul>
                     </div>
                 </div>
-            </div>
+            </div> -->
             <!-- 500W generator -->
             <div style="flex: 0 0 auto; max-width: 330px; margin-right: 10px" class="card mb-4">
                 <div class="card-header">
