@@ -100,7 +100,13 @@ title:  "Sunboxlabs Kits Home"
         <span class="visually-hidden">Next</span>
     </a>
 </div>
-
+<div style="background-color: #efefef">
+    <div style="max-width: 800px; margin: 0 auto; display: flex; justify-content: space-between; padding: 20px">
+    <h4 style="text-align: center">⚡️<br/>Power Anywhere</h4>
+    <h4 style="text-align: center">😶<br/>Silent</h4>
+    <h4 style="text-align: center">⛽️<br/>No Gas</h4>
+    </div>
+</div>
 <div style="margin: 0 auto; ">
     <div style="margin: 0 auto; max-width: 1200px">
         <div style="display: flex; margin-top: 20px; flex-wrap: nowrap; overflow-x: auto; -webkit-overflow-scrolling: touch;">
@@ -117,7 +123,7 @@ title:  "Sunboxlabs Kits Home"
                     </h3>
                     <div class="d-grid gap-2">
                         <a href="/solar-kit-300" class="btn btn-lg btn-primary">
-                            ☀️ Learn More 〉
+                            ☀️ Buy Now 〉
                         </a>
                     </div>
                     <br/>
@@ -152,7 +158,7 @@ title:  "Sunboxlabs Kits Home"
                     </h3>
                     <div class="d-grid gap-2">
                         <a href="/solar-kit-500" class="btn btn-block btn-lg btn-primary">
-                            ☀️ Learn More 〉
+                            ☀️ Buy Now 〉
                         </a>
                     </div>
                     <br/>
@@ -187,7 +193,7 @@ title:  "Sunboxlabs Kits Home"
                     </h3>
                     <div class="d-grid gap-2">
                         <a href="/solar-kit-1000" class="btn btn-block btn-lg btn-primary">
-                            ☀️ Learn More 〉
+                            ☀️ Buy Now 〉
                         </a>
                     </div>
                     <br />
