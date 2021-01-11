@@ -42,8 +42,8 @@ title:  "Sunboxlabs Kits Home"
             <img class="first-slide" src="/img_3/moneyshot.jpg" alt="">
             <div class="container">
                 <div class="carousel-caption ">
-                    <h2 class="d-none d-sm-block overlay">Premium Lithium Solar Kits for Backup, Outdoors or Offgrid.<h2>
-                    <h3 class="d-sm-none overlay" style="margin-bottom: 90px">Premium Solar Kits<h3>
+                    <h2 class="d-none d-sm-block overlay">Easy Solar Battery Kits for Backup, Outdoors or Offgrid.<h2>
+                    <h3 class="d-sm-none overlay" style="margin-bottom: 90px">Easy Solar Kits<h3>
                 </div>
             </div>
         </div>
