@@ -12,36 +12,32 @@
             "destination": "/blog/solar-kit/"
         },
         {
-            "source": "/solar-kit/",
-            "destination": "/blog/solar-kit/"
+            "source": "/blog/solar-kit/",
+            "destination": "/solar-kit/"
         },
         {
             "source": "/about",
             "destination": "/about/"
         },
         {
-            "source": "/solar-kit",
-            "destination": "/blog/solar-kit/"
+            "source": "/blog/solar-kit",
+            "destination": "/solar-kit/"
         },
         {
             "source": "/2017/06/20/200-apartment-solar-system.html",
-            "destination": "/blog/200-apartment-solar-system/"
+            "destination": "/200-apartment-solar-system/"
         },
         {
-            "source": "/200-apartment-solar-system",
-            "destination": "/blog/200-apartment-solar-system/"
-        },
-        {
-            "source": "/200-apartment-solar-system/",
-            "destination": "/blog/200-apartment-solar-system/"
+            "source": "/blog/200-apartment-solar-system",
+            "destination": "/200-apartment-solar-system/"
         },
         {
             "source": "/blog/200-solar-apartment-system/",
-            "destination": "/blog/200-apartment-solar-system/"
+            "destination": "/200-apartment-solar-system/"
         },
         {
-            "source": "/burning-man-solar/",
-            "destination": "/blog/burning-man-solar/"
+            "source": "/blog/burning-man-solar/",
+            "destination": "/burning-man-solar/"
         },
         {
             "source": "/2017/10/01/burning-man-solar-2.html",
@@ -92,8 +88,8 @@
             "destination": "/blog/200-solar-lithium-update/"
         },
         {
-            "source": "/solar-xantrex-kit-apartment/",
-            "destination": "/blog/solar-xantrex-kit-apartment/"
+            "source": "/blog/solar-xantrex-kit-apartment/",
+            "destination": "/solar-xantrex-kit-apartment/"
         },
         {
             "source": "/2017/09/17/what-will-it-run.html",
