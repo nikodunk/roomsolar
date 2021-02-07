@@ -1,0 +1,51 @@
+{{ partial "_shared/head.html" .}}
+{{ partial "_shared/navbar.html" .}}
+{{ partial "_shared/product-schema.html" .}}
+
+<script src="https://identity.netlify.com/v1/netlify-identity.js"></script>
+<script>
+    if (document.readyState === "loading") {
+        document.addEventListener("DOMContentLoaded", function () {
+            netlifyIdentity.init({
+                APIUrl: "https://xenodochial-clarke-648ebb.netlify.app/.netlify/identity"
+            });
+        });
+    } else {
+        netlifyIdentity.init({
+            APIUrl: "https://xenodochial-clarke-648ebb.netlify.app/.netlify/identity"
+        });
+    }
+
+    document.addEventListener("DOMContentLoaded", function () {
+        addCouponFromUrl()
+    });
+
+    function addCouponFromUrl() {
+        // if there's a code in the url, set it in localstorage.
+        if (window.location.search !== "" && localStorage.getItem('affcode') === null) {
+            let affCode = window.location.search.replace('?', '')
+            localStorage.setItem('affcode', affCode)
+        }
+    }
+</script>
+
+{{ .Content }}
+{{ partial "learnmore.html"}}
+
+<hr />
+<div class="container">
+    <h2 id="fromourblog">From Our Blog</h2>
+    <section class="recent-posts">
+        <div class="row listrecent">
+
+            {{ range .Paginator.Pages }}
+            {{- partial "list-partials/postbox.html" . -}}
+            {{ end }}
+
+
+        </div>
+    </section>
+</div>
+
+
+{{ partial "_shared/footer.html" }}
