@@ -114,28 +114,32 @@
         <div class="row">
             <div class="col-sm p-5">
                 <h1 class="">Hours of performance. See how much.</h1>
-                <p class="lead ">With 500W of power, you can power most devices out there. But to make sure, check out our tool on the right.</p>
+                <p class="lead ">With 500W of power output, you can power most devices out there. But to make sure, check out our tool on the right. The battery holds 540Wh, which is used for the calculations on the right.</p>
             </div>
             <div class="col-sm center pt-5">
                 <!-- CUSTOM CALCULATOR -->
                 <div class="calcContainer">
 
-                    <span class="calcSpan">Choose device:</span><br>
-                    <input oninput="updateCalc()" type="range" min="1" value="1" max="22" step="3" id="calcSlider" steps="" class="calcSlider" style="width: 100%; min-height: 1px !important">  
+                    <h4 class="">Choose device:</h4><br>
+                    <input oninput="updateCalc()" 
+                            type="range" 
+                            min="8" value="8" max="99" step="13" 
+                            id="calcSlider" class="calcSlider" 
+                            style="width: 100%; min-height: 1px !important">  
                     <div style="display: flex; justify-content: space-between; margin-top: 15px">
                         <span class="calcSpan">Phone</span>
-                        <span class="calcSpan">Lights</span>
-                        <span class="calcSpan">Router</span>
-                        <span class="calcSpan">Speakers</span>
+                        <span class="calcSpan">Light</span>
+                        <span class="calcSpan">WiFi<br/>Router</span>
+                        <span class="calcSpan">Speaker</span>
                         <span class="calcSpan">Laptop</span>
-                        <span id="current" class="calcSpan">TV</span>
+                        <span id="current" class="calcSpan">LCD TV</span>
                         <span class="calcSpan">Fan</span>
-                        <span class="calcSpan">Mini-Fridge</span>
+                        <span class="calcSpan">Mini<br/>Fridge</span>
                     </div>
                     <br/><br/>
 
-                    <span class="calcSpan">Hours of runtime:</span>
-                    <h2 id="co2">100 hours</h2>
+                    <h4>Hours of runtime:</h4>
+                    <h2 id="calcText" class="calcText">🔋 100 hours</h2>
                     <br/><br/>
                 </div>
             </div>
@@ -226,37 +230,59 @@
 <script>
     function updateCalc() {
         var x = document.getElementById("calcSlider").value;
-        document.getElementById("co2").innerHTML = makeTime(x);
+        document.getElementById("calcText").innerHTML = makeTime(x);
     }
 
     function makeTime(amount) {
-        return parseFloat(100/ amount, 2).toFixed(0) + ' hours'
+        return '🔋 ' + parseFloat(540/ amount).toFixed(0) + ' hours'
     }
 </script>
 
 <style>
     .calcContainer {
-        text-align: left;
-        max-width: 500px;
-        margin-bottom: 80px;
-        overflow: hidden;
-    }
+            text-align: left;
+            margin-bottom: 80px;
+            overflow: hidden;
+        }
 
-    .calcSlider {
-        -webkit-appearance: none;
-        width: 90%;
-        height: 1px;
-        background-color: #4C4C4B;
-        z-index: 0;
-    }
-    
-    .calcText {
-        font-weight: 300;
-        color: #1EA5A3;
-        margin-top: 0px;
-    }
-    
-    .calcSpan {
-        color: #4C4C4B
-    }
+        .calcSlider {
+            -webkit-appearance: none;
+            width: 90%;
+            height: 1px;
+            background-color: #4C4C4B;
+            z-index: 0;
+        }
+
+        .calcSlider::-webkit-slider-thumb {
+            -webkit-appearance: none;
+            appearance: none;
+            width: 50px;
+            height: 25px;
+            background: forestgreen;
+            cursor: pointer;
+            z-index: 10;
+            border-width: 0px;
+            border-radius: 5px;            
+            box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.1);
+        }
+
+        .calcSlider::-moz-range-thumb {
+            width: 50px;
+            height: 25px;
+            background: forestgreen;
+            cursor: pointer;
+            z-index: 10;
+            border-width: 0px;
+            border-radius: 5px;
+            box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.1);
+        }
+        
+        .calcText {
+            color: forestgreen;
+        }
+        
+        .calcSpan {
+            color: #4C4C4B;
+            text-align: center
+        }
 </style>
