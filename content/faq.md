@@ -7,15 +7,14 @@ path: "foo"
 
 <br/><br/>
 
-#### 1) How **green** are these generators compared to a **gas generator**? TLDR: 4.4 pounds of emission saved every hour.
+#### 1) How **green** are these generators compared to a **gas generator**? TLDR: 5.7 pounds of emission saved every hour.
 
 Let us look at the example of how green the 1000W solar kit is. Compared to 1000W Honda Gas Backup Generators is the 1000W sunboxlabs kit green? The answer is a resounding "yes!". While gas generators fire up all over the US during power outages and at RV parks, you will be emitting zero (and your fuel cost will be zero!). 
 
 
 Your greenhouse gas emissions will be reduced by roughly 4.4lbs every hour you run this compared to a gas generator, but more importantly you're not emitting Carbon Monoxide (CO), Hydrocarbons or Nitrogen Oxide near your house.
 
-<a data-toggle="collapse" href="#calc1" role="button" aria-expanded="false"
-                    aria-controls="calc1">
+<a data-bs-toggle="collapse" href="#calc1">
                     Expand calculations ▽
 </a>
 <div class="collapse card p-3 mb-4" id="calc1">
@@ -27,13 +26,14 @@ Your greenhouse gas emissions will be reduced by roughly 4.4lbs every hour you r
 [Source](https://www.fueleconomy.gov/feg/contentincludes/co2_inc.htm)
 </div>
 
+-------
+
 
 #### 2) How **green** are these generators compared to to the **grid**? TLDR: After 5.6 years it's you are saving roughly 0.5 pounds emissions per day, before that it is worse than grid power.
 
 It'll take 5.6 years of usage every day until this whole system is CO2 net-positive vs. not using it.
 
-<a data-toggle="collapse" href="#calc2" role="button" aria-expanded="false"
-                    aria-controls="calc2">
+<a data-bs-toggle="collapse" href="#calc2">
                     Expand calculations ▽
 </a>
 <div class="collapse card p-3 mb-4" id="calc2">
@@ -59,14 +59,17 @@ Payback period: 2364kWh / 620kWh/y = 5.6 year CO2 footprint payback
 
 
 
+-------
+
+
+
 #### 3) Will this system save me a **money** compared to a **gas generator**? TLDR: Yes – after 3.7 months of usage.
 
 What's the payback period for our solar battery system? Will it save me money?
 
 3.7 months of run-time until break-even vs. a gas generator. Maintenance cost of the gas generator is not included in this.
 
-<a data-toggle="collapse" href="#calc3" role="button" aria-expanded="false"
-                    aria-controls="calc3">
+<a data-bs-toggle="collapse" href="#calc3">
                     Expand calculations ▽
 </a>
 <div class="collapse card p-3 mb-4" id="calc3">
@@ -85,12 +88,15 @@ Cost of running a 1000W (1.3bhp) generator system:
 
 
 
+-------
+
+
+
 #### 4) Will this system save me a **money** compared to the **grid**? TLDR: Not really – after 20 years of usage.
 
 20 years until payback vs. grid, but it depends where you're located. In San Francisco, the payback is 20 years. The further south you are, or the more expensive energy is in your area, the shorter it'll be. This system will not save you money until after that, and even then is definitely not a "money-saver". It will however be more valuable in the event of backup generator needs, at camping/outdoors, and of course it's just generally cool to be independent from the grid and make your own renewable energy.
 
-<a data-toggle="collapse" href="#calc4" role="button" aria-expanded="false"
-                    aria-controls="calc4">
+<a data-bs-toggle="collapse" href="#calc4">
                     Expand calculations ▽
 </a>
 <div class="collapse card p-3 mb-4" id="calc4">
@@ -108,14 +114,23 @@ Yearly value creation: 620kWh/y * 15c/kWh (CA) = $93/y energy created
 
 </div>
 
+-------
+
 
 #### 5) Can I charge the battery off my car?
 
 Yes you can! 12V DC in is supported, and an adapter is included in the box.
 
+
+-------
+
+
 #### 6) Can I charge the battery off my wall outlet instead of solar?
 
 Yes you can! It's supported, and an adapter is included in the box.
+
+
+-------
 
 
 #### 7) How does it work?
@@ -123,6 +138,9 @@ Yes you can! It's supported, and an adapter is included in the box.
 ![](/img_3/how_it_works_1.jpg)
 ![](/img_3/how_it_works_2.jpg)
 ![](/img_3/how_it_works_3.jpg)
+
+-------
+
 
 #### 8) How much electricity will it make?
 
@@ -132,6 +150,8 @@ Longer answer is in SF it'll make on average 4.26 * 400W = 1,704Wh (1.7kWh) per 
 
 Any questions? Get in contact above.
 
+
+-------
 
 #### 9) Where can use the solar panel and solar generator?
 

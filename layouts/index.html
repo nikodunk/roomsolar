@@ -114,7 +114,7 @@
 
 <!-- QUIZ -->
 <div class="bg-light">
-    <div class="container p-5 ">
+    <div class="container pt-5">
         <div class="row">
             <div class="col-sm p-5">
                 <h1 class="">⏱ Hours of performance. See how much.</h1>
@@ -144,6 +144,12 @@
 
                     <h4>Hours of runtime:</h4>
                     <h2 id="calcText" class="calcText">🔋 100 hours</h2>
+                    <br/><br/>
+                    <span>Money saved every hours vs gas generator:</span>
+                    <h2 id="money">$0.01 saved every hour</h2>
+                    <br/><br/>
+                    <span>CO2 saved every hours vs gas generator:</span>
+                    <h2 id="co2">0.046 pounds CO2 saved every hour</h2>
                     <br/><br/>
                 </div>
             </div>
@@ -238,10 +244,20 @@
     function updateCalc() {
         var x = document.getElementById("calcSlider").value;
         document.getElementById("calcText").innerHTML = makeTime(x);
+        document.getElementById("money").innerHTML = makeMoney(x);
+        document.getElementById("co2").innerHTML = makeCO2(x);
     }
 
     function makeTime(amount) {
         return '🔋 ' + parseFloat(540/ amount).toFixed(0) + ' hours'
+    }
+
+    function makeMoney(amount) {
+        return '$' + parseFloat(0.001 * amount).toFixed(2) + ' saved every hour'
+    }
+
+    function makeCO2(amount) {
+        return parseFloat(amount * 0.00572).toFixed(3) + ' pounds CO2 saved every hour'
     }
 </script>
 
