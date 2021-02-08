@@ -1,19 +1,19 @@
 {{ partial "_shared/head.html" .}}
 
 
-<script src="https://identity.netlify.com/v1/netlify-identity.js"></script>
+<!-- <script src="https://identity.netlify.com/v1/netlify-identity.js"></script> -->
 <script>
-    if (document.readyState === "loading") {
-        document.addEventListener("DOMContentLoaded", function () {
-            netlifyIdentity.init({
-                APIUrl: "https://xenodochial-clarke-648ebb.netlify.app/.netlify/identity"
-            });
-        });
-    } else {
-        netlifyIdentity.init({
-            APIUrl: "https://xenodochial-clarke-648ebb.netlify.app/.netlify/identity"
-        });
-    }
+    // if (document.readyState === "loading") {
+    //     document.addEventListener("DOMContentLoaded", function () {
+    //         netlifyIdentity.init({
+    //             APIUrl: "https://xenodochial-clarke-648ebb.netlify.app/.netlify/identity"
+    //         });
+    //     });
+    // } else {
+    //     netlifyIdentity.init({
+    //         APIUrl: "https://xenodochial-clarke-648ebb.netlify.app/.netlify/identity"
+    //     });
+    // }
 
     document.addEventListener("DOMContentLoaded", function () {
         addCouponFromUrl()
