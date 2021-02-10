@@ -125,7 +125,7 @@
                     <h4 class="">Choose device:</h4><br>
                     <input oninput="updateCalc()" 
                             type="range" 
-                            min="8" value="8" max="96" step="11" 
+                            min="8" value="8" max="85" step="11" 
                             id="calcSlider" class="calcSlider" 
                             style="width: 100%; min-height: 1px !important">  
                     <div style="display: flex; justify-content: space-between; margin-top: 15px">
@@ -133,10 +133,9 @@
                         <span class="calcSpan">3x <br/>Lights</span>
                         <span class="calcSpan">Laptop</span>
                         <span class="calcSpan">WiFi<br/>Router</span>
-                        <span class="calcSpan">Outdoor<br/>Speakers</span>
-                        <span class="calcSpan">Desktop<br/>PC</span>
-                        <span id="current" class="calcSpan">LCD<br/>TV</span>
-                        <span class="calcSpan">Box<br/>Fan</span>
+                        <span class="calcSpan">Speakers</span>
+                        <span id="current" class="calcSpan">TV</span>
+                        <span class="calcSpan">Fan</span>
                         <span class="calcSpan">Mini<br/>Fridge</span>
                     </div>
                     <br/><br/>
@@ -351,6 +350,7 @@
         
         .calcSpan {
             color: #4C4C4B;
-            text-align: center
+            text-align: center;
+            font-size: 0.8rem
         }
 </style>
