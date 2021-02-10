@@ -37,13 +37,13 @@
 <div class="container bg-dark" style="margin: 0px; width: 100% !important; max-width: none" >
     <div class="row">
         <div class="col-12 col-md-7 d-block d-md-none" style="background-image: url('img_5/header_0.jpg'); background-size: cover; background-position: center; min-height: 50vh"></div>
-        <div class="col-12 col-md-5 align-self-center p-5" >
-            <h1 style="font-size: 4rem" class="text-light">Reliable Power Anywhere.</h1>
-            <p class="lead text-light">Meet the Sunbox Battery. Charge in hours for days of power, indoors and out.</p>
+        <div class="col-12 col-md-5 align-self-center p-2 p-sm-5" >
+            <h1 class="text-light mb-4" >Reliable Power Anywhere.</h1>
+            <p class="lead text-light mb-4">Meet the Sunbox Battery. Charge in hours for days of power, indoors and out.</p>
             <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
                 <input type="hidden" name="cmd" value="_s-xclick">
                 <input type="hidden" name="hosted_button_id" value="HWX3LUTQNMSKJ">
-                <button  class="btn btn-primary btn-lg" type="submit" name="submit">⚡️ Buy Now for $449</button>
+                <button  class="btn btn-primary btn-lg w-100" type="submit" name="submit">⚡️ Buy Now for $449</button>
                 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
             </form>
                 
@@ -53,13 +53,13 @@
     </div>
 </div>
 
-<div class="bg-light p-4">
+<div class="p-4" style="background-color: rgba(0, 97, 207, 0.05)">
     <div class="container">
         <div class="row">
             <div class="col-sm center">
-                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" class="bi text-primary bi-clock" viewBox="0 0 16 16">
-                    <path d="M8 3.5a.5.5 0 0 0-1 0V9a.5.5 0 0 0 .252.434l3.5 2a.5.5 0 0 0 .496-.868L8 8.71V3.5z"/>
-                    <path d="M8 16A8 8 0 1 0 8 0a8 8 0 0 0 0 16zm7-8A7 7 0 1 1 1 8a7 7 0 0 1 14 0z"/>
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" class="bi bi-battery-full text-primary" viewBox="0 0 16 16">
+                    <path d="M2 6h10v4H2V6z"/>
+                    <path d="M2 4a2 2 0 0 0-2 2v4a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V6a2 2 0 0 0-2-2H2zm10 1a1 1 0 0 1 1 1v4a1 1 0 0 1-1 1H2a1 1 0 0 1-1-1V6a1 1 0 0 1 1-1h10zm4 3a1.5 1.5 0 0 1-1.5 1.5v-3A1.5 1.5 0 0 1 16 8z"/>
                   </svg>
                 <p class="lead text-secondary mt-2">Up to 3 days of performance</p>
             </div>
@@ -94,16 +94,16 @@
 
 <!-- 2 TILES -->
 <div class="container" style="margin: 0px; width: 100% !important; max-width: none" >
-    <div class="row p-5">
+    <div class="row p-sm-5">
         <div class="col-sm-6" style="background-image: url('img_5/live_1.jpg'); background-size: cover; background-position: center; height: 50vh"></div>
-        <div class="col-sm-6 p-5">
+        <div class="col-sm-6 p-2 p-sm-5">
             <h2 class="center">🌩<br/>Power Out?<br/> It's a silent backup generator.</h2>
             <ul class="lead" style="margin: 30px"><li>Plug in essential devices</li><li>Indoors or out</li><li>Lights during hurricane season</li><li>Internet during snowstorms</li><li>Laptops during wildfire shut-offs</li><li>Find peace of mind</li></ul>
         </div>
     </div>
-    <div class="row p-5">
+    <div class="row p-sm-5">
         <div class="col-sm-6 order-sm-2" style="background-image: url('img_5/live_2.jpg'); background-size: cover; background-position: center; height: 50vh"></div>
-        <div class="col-sm-6 p-5">
+        <div class="col-sm-6 p-2 p-sm-5">
             <h2 class="center">🏕<br/>Road Tripping? Van life?<br/>It's days of on-the-road power.</h2>
             <ul class="lead" style="margin: 30px"><li>Your portable power outlet anywhere</li><li>Power your laptop in the car on a long roadtrip</li><li>Run your devices off-grid in your van</li><li>Take it anywhere on your next camping adventure</li></ul>
         </div>
@@ -111,10 +111,10 @@
 </div>
 
 <!-- QUIZ -->
-<div class="bg-light" id="quiz">
+<div style="background-color: rgba(0, 97, 207, 0.05)" id="quiz">
     <div class="container pt-5">
         <div class="row">
-            <div class="col-sm p-5">
+            <div class="col-sm p-2 p-sm-5">
                 <h1 class="center">⏱<br/>Hours of performance. See how much.</h1>
                 <ul class="lead" style="margin: 30px"><li>500W of power output means you can power all the devices to the right, and many at the same time.</li><li>540Wh battery means you can run many devices for days</li><li>Confused about run time? So is everyone. That's why we built the estimation slider on the right :)</li></ul>
             </div>
@@ -141,7 +141,13 @@
                     <br/><br/>
 
                     <h4>Hours of runtime:</h4>
-                    <h2 id="calcText" class="calcText">🔋 100 hours</h2>
+                    <div style="display: flex">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" class="bi bi-battery-full text-primary m-1" viewBox="0 0 16 16">
+                            <path d="M2 6h10v4H2V6z"/>
+                            <path d="M2 4a2 2 0 0 0-2 2v4a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V6a2 2 0 0 0-2-2H2zm10 1a1 1 0 0 1 1 1v4a1 1 0 0 1-1 1H2a1 1 0 0 1-1-1V6a1 1 0 0 1 1-1h10zm4 3a1.5 1.5 0 0 1-1.5 1.5v-3A1.5 1.5 0 0 1 16 8z"/>
+                        </svg>
+                        <h2 id="calcText" class="text-primary"> 100 hours</h2>
+                        </div>
                     <br/>
                     <span>💵</span>
                     <span id="money">$0.01</span><br/>
@@ -159,9 +165,9 @@
 
 <!-- 2 TILES -->
 <div class="container" style="margin: 0px; width: 100% !important; max-width: none" >
-    <div class="row p-5">
+    <div class="row p-sm-5">
         <div class="col-sm" style="background-image: url('img_5/live_3.jpg'); background-size: cover; background-position: center; height: 50vh"></div>
-        <div class="col-sm align-center p-5">
+        <div class="col-sm align-center p-2 p-sm-5">
             <h2 class="center">🔌<br/>Charge in 3 hours from any outlet.</h2>
             <ul class="lead" style="margin: 30px"><li>Never spend a dime on gas again</li><li>No maintenance – the personal power plan requires virtually none.</li><li>Simply recharge from the wall in 3 hours.</li></ul>
         </div>
@@ -171,7 +177,7 @@
 
 
 <!-- JUMBOTRON 2 - SOLAR -->
-<div class="bg-light p-5" style="background-image: url('img_5/solar.jpg'); background-size: cover; background-position: bottom; min-height: 70vh">
+<div class="bg-light pt-4 p-sm-5" style="background-image: url('img_5/solar.jpg'); background-size: cover; background-position: bottom; min-height: 70vh">
     <div class="container">
         <div class="row">
           <div class="col-sm">
@@ -190,12 +196,12 @@
 </div>
 
 <!-- SPECS -->
-<div class="container p-5">
-    <div class="row p-5">
+<div class="container p-2 p-sm-5 card bg-light mt-1">
+    <div class="row p-2 p-sm-5">
         <div class="col-sm center align-self-center">
-            <img style="max-height: 300px" src="img_5/specs_0.jpg">
+            <img style="max-height: 300px" class="rounded-circle" src="img_5/specs_0.jpg">
         </div>
-        <div class="col-sm p-5">
+        <div class="col-sm p-2 p-sm-5">
             <h2 class="center">Premium Construction</h2>
             <ul class="lead" style="margin: 30px">
                 <li>Full short circuit protection, voltage control, temperature control.</li>
@@ -207,19 +213,21 @@
         </div>
     </div>
 
-    <div class="row p-5">
-        <div class="col-sm p-5">
-            <h2 >Real-time screen</h2>
-            <p>Displays Percentage, watts out and hours of battery left. No more guessing.</p>
+    <div class="row p-2 p-sm-5">
+        <div class="col-sm order-sm-2">
+            <img  style="max-height: 300px;" src="img_5/specs_1.jpg">
         </div>
-        <div class="col-sm">
-            <img  style="height: 300px" src="img_5/specs_1.jpg">
+        <div class="col-sm p-2 p-sm-5">
+            <h2 class="center">Real-time screen</h2>
+            <p class="lead" style="margin: 30px">Displays Percentage, watts out and hours of battery left. No more guessing.</p>
         </div>
     </div>
 
-    <div class="row p-5">
-        
-        <div class="col-sm p-5">
+    <div class="row p-2 p-sm-5">
+        <div class="col-sm order-sm-2">
+            <img  style="max-height: 300px" src="img_5/specs_2.jpg">
+        </div>
+        <div class="col-sm p-2 p-sm-5">
             <h2 >Tech Specs</h2>
             <p>
                 <strong>Weight</strong>: 12.13 lb<br />
@@ -248,14 +256,11 @@
                 </p>
             </div>
         </div>
-        <div class="col-sm">
-            <img  style="height: 300px" src="img_5/specs_2.jpg">
-        </div>
     </div>
 </div>
 
 <!-- CTA -->
-<div class="container p-5 mt-5 mb-5" >
+<div class="container p-2 p-sm-5 mt-5 mb-5" >
     <div class="row">
         <div class="col-sm center align-self-center">
         <h1 class="mb-3">Get your Sunbox Battery now for $449.</h1>
@@ -285,7 +290,7 @@
     }
 
     function makeTime(amount) {
-        return '🔋 ' + parseFloat(540/ amount).toFixed(0) + ' hours'
+        return ' ' + parseFloat(540/ amount).toFixed(0) + ' hours'
     }
 
     function makeMoney(amount) {
@@ -308,7 +313,7 @@
             -webkit-appearance: none;
             width: 90%;
             height: 1px;
-            background-color: #4C4C4B;
+            background-color: #0d6efd;
             z-index: 0;
         }
 
@@ -317,7 +322,7 @@
             appearance: none;
             width: 50px;
             height: 25px;
-            background: forestgreen;
+            background-color: #0d6efd;
             cursor: pointer;
             z-index: 10;
             border-width: 0px;
@@ -328,16 +333,12 @@
         .calcSlider::-moz-range-thumb {
             width: 50px;
             height: 25px;
-            background: forestgreen;
+            background-color: #0d6efd;
             cursor: pointer;
             z-index: 10;
             border-width: 0px;
             border-radius: 5px;
             box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.1);
-        }
-        
-        .calcText {
-            color: forestgreen;
         }
         
         .calcSpan {
