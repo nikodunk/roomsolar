@@ -6,28 +6,28 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 	<link rel="icon" href="https://sunboxlabs.com/sarah_spinning_sun.png">
 
-	<title>{{ .Params.title }} | Sunboxlabs - Premium Solar Generator Kits for Backup, Outdoors or Offgrid. </title>
+	<title>{{ .Params.title }} | Sunboxlabs - Premium Solar Battery Kits for Backup, Outdoors or Offgrid. </title>
 
-	<meta name="description" content="Sunboxlabs - Premium Solar Lithium Kits for Backup, Outdoors or Offgrid. ">
+	<meta name="description" content="Sunboxlabs - Premium Solar Battery Kits for Backup, Outdoors or Offgrid. ">
 	{{ with .Site.Params.meta.keywords }}
 	<meta name="keywords" content="{{ . }}">{{ end }}
 
 	<!--  Essential META Tags -->
 	{{ if .Params.title -}}
 	<meta property="og:title"
-		content="{{ .Params.title }} | Sunboxlabs - Portable Solar Generator Kits for Backup, Off-Grid or Fun. From $399 w/ Free Shipping.">
+		content="{{ .Params.title }} | Sunboxlabs - Portable Solar Generator Kits for Backup, Off-Grid or Fun. From $449 w/ Free Shipping.">
 	{{ else }}
 	<meta property="og:title"
-		content="Sunboxlabs - Portable Solar Generator Kits for Backup, Off-Grid or Fun. From $399 w/ Free Shipping.">
+		content="Sunboxlabs - Portable Solar Generator Kits for Backup, Off-Grid or Fun. From $449 w/ Free Shipping.">
 	{{- end }}
 
 	<meta property="og:description"
-		content="Sunboxlabs - Portable Solar Generator Kits for Backup, Off-Grid or Fun. From $399 w/ Free Shipping. | {{ .Summary | plainify | safeHTML }}">
+		content="Sunboxlabs - Portable Solar Generator Kits for Backup, Off-Grid or Fun. From $449 w/ Free Shipping. | {{ .Summary | plainify | safeHTML }}">
 
 	{{ if .Params.image -}}
 	<meta property="og:image" content="{{ .Params.image | absURL }}">
 	{{ else }}
-	<meta property="og:image" content="https://sunboxlabs.com/kit/img/header.jpg">
+	<meta property="og:image" content="https://sunboxlabs.com/kit/img_5/header0.jpg">
 	{{- end }}
 
 	<meta property="og:url" content="{{ .Permalink }}">
@@ -36,7 +36,7 @@
 	<!--  Non-Essential, But Recommended -->
 	<meta property="og:site_name" content="{{ .Params.title }} | sunboxlabs">
 	<meta name="twitter:image:alt"
-		content="Sunboxlabs - Portable Solar Generator Kits for Backup, Off-Grid or Fun. From $399 w/ Free Shipping.">
+		content="Sunboxlabs - Portable Solar Generator Kits for Backup, Off-Grid or Fun. From $449 w/ Free Shipping.">
 
 
 	{{ partial "_shared/site-schema" . }}
