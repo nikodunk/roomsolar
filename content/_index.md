@@ -2,9 +2,9 @@
 title:  "Sunboxlabs Kits Home"
 ---
 
+500W 540Wh Battery with Pure Sine inverter for $449. Find the best deals with free shipping and great customer service at sunboxlabs.com.
 
 
-<!-- Facebook Pixel Code -->
 <!-- <script>
     !function (f, b, e, v, n, t, s) {
         if (f.fbq) return; n = f.fbq = function () {
