@@ -125,17 +125,18 @@
                     <h4 class="">Choose device:</h4><br>
                     <input oninput="updateCalc()" 
                             type="range" 
-                            min="8" value="8" max="99" step="13" 
+                            min="8" value="8" max="96" step="11" 
                             id="calcSlider" class="calcSlider" 
                             style="width: 100%; min-height: 1px !important">  
                     <div style="display: flex; justify-content: space-between; margin-top: 15px">
                         <span class="calcSpan">Phone</span>
-                        <span class="calcSpan">Light</span>
-                        <span class="calcSpan">WiFi<br/>Router</span>
-                        <span class="calcSpan">Speaker</span>
+                        <span class="calcSpan">3x <br/>Lights</span>
                         <span class="calcSpan">Laptop</span>
-                        <span id="current" class="calcSpan">LCD TV</span>
-                        <span class="calcSpan">Fan</span>
+                        <span class="calcSpan">WiFi<br/>Router</span>
+                        <span class="calcSpan">Outdoor<br/>Speakers</span>
+                        <span class="calcSpan">Desktop<br/>PC</span>
+                        <span id="current" class="calcSpan">LCD<br/>TV</span>
+                        <span class="calcSpan">Box<br/>Fan</span>
                         <span class="calcSpan">Mini<br/>Fridge</span>
                     </div>
                     <br/><br/>
@@ -146,7 +147,7 @@
                             <path d="M2 6h10v4H2V6z"/>
                             <path d="M2 4a2 2 0 0 0-2 2v4a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V6a2 2 0 0 0-2-2H2zm10 1a1 1 0 0 1 1 1v4a1 1 0 0 1-1 1H2a1 1 0 0 1-1-1V6a1 1 0 0 1 1-1h10zm4 3a1.5 1.5 0 0 1-1.5 1.5v-3A1.5 1.5 0 0 1 16 8z"/>
                         </svg>
-                        <h2 id="calcText" class="text-primary"> 100 hours</h2>
+                        <h2 id="calcText" class="text-primary"> 68 hours +</h2>
                         </div>
                     <br/>
                     <span>💵</span>
@@ -296,7 +297,8 @@
     }
 
     function makeTime(amount) {
-        return ' ' + parseFloat(540/ amount).toFixed(0) + ' hours'
+        // return amount
+        return ' ' + parseFloat(540/ amount).toFixed(0) + ' hours +'
     }
 
     function makeMoney(amount) {
