@@ -61,7 +61,7 @@
                     <path d="M8 3.5a.5.5 0 0 0-1 0V9a.5.5 0 0 0 .252.434l3.5 2a.5.5 0 0 0 .496-.868L8 8.71V3.5z"/>
                     <path d="M8 16A8 8 0 1 0 8 0a8 8 0 0 0 0 16zm7-8A7 7 0 1 1 1 8a7 7 0 0 1 14 0z"/>
                   </svg>
-                <p class="lead text-secondary mt-2">Hours of Performance</p>
+                <p class="lead text-secondary mt-2">Up to 3 days of performance</p>
             </div>
             <div class="col-sm center">
                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" class="bi text-primary bi-check2" viewBox="0 0 16 16">
@@ -74,13 +74,13 @@
                     <path fill-rule="evenodd" d="M2 13.5V7h1v6.5a.5.5 0 0 0 .5.5h9a.5.5 0 0 0 .5-.5V7h1v6.5a1.5 1.5 0 0 1-1.5 1.5h-9A1.5 1.5 0 0 1 2 13.5zm11-11V6l-2-2V2.5a.5.5 0 0 1 .5-.5h1a.5.5 0 0 1 .5.5z"/>
                     <path fill-rule="evenodd" d="M7.293 1.5a1 1 0 0 1 1.414 0l6.647 6.646a.5.5 0 0 1-.708.708L8 2.207 1.354 8.854a.5.5 0 1 1-.708-.708L7.293 1.5z"/>
                   </svg>
-                <p class="lead text-secondary mt-2">Indoors or outdoors</p>
+                <p class="lead text-secondary mt-2">Indoors & outdoors</p>
             </div>
             <div class="col-sm center">
                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" class="bi text-primary bi-arrow-right" viewBox="0 0 16 16">
                     <path fill-rule="evenodd" d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8z"/>
                   </svg>
-                <p class="lead text-secondary mt-2">Portable</p>
+                <p class="lead text-secondary mt-2">Compact & Portable</p>
             </div>
             <div class="col-sm center">
                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" class="bi text-primary bi-heart" viewBox="0 0 16 16">
@@ -94,31 +94,29 @@
 
 <!-- 2 TILES -->
 <div class="container" style="margin: 0px; width: 100% !important; max-width: none" >
-    <div class="row p-5 center">
+    <div class="row p-5">
         <div class="col-sm-6" style="background-image: url('img_5/live_1.jpg'); background-size: cover; background-position: center; height: 50vh"></div>
         <div class="col-sm-6 p-5">
-            <h2>🌩 Power Out?<br/> It's a silent backup generator.</h2>
-            <p class="lead">Find peace of mind knowing you can plug in essential devices to your compact backup source – indoors or out.</p>
-            <ul class="lead"><li>Lights during hurricane season</li><li>Internet during snowstorms</li><li>Laptops during wildfire shut-offs</li></ul>
+            <h2 class="center">🌩<br/>Power Out?<br/> It's a silent backup generator.</h2>
+            <ul class="lead" style="margin: 30px"><li>Plug in essential devices</li><li>Indoors or out</li><li>Lights during hurricane season</li><li>Internet during snowstorms</li><li>Laptops during wildfire shut-offs</li><li>Find peace of mind</li></ul>
         </div>
     </div>
-    <div class="row p-5 center">
+    <div class="row p-5">
         <div class="col-sm-6 order-sm-2" style="background-image: url('img_5/live_2.jpg'); background-size: cover; background-position: center; height: 50vh"></div>
         <div class="col-sm-6 p-5">
-            <h2>🏕 Road Tripping? Van life?<br/>It's on-the-road power for days.</h2>
-            <p class="lead">Your portable power outlet anywhere.</p>
-            <ul class="lead"><li>Power your laptop in the car on a long roadtrip</li><li>Run your devices off-grid in your van</li><li>Take it anywhere on your next camping adventure</li></ul>
+            <h2 class="center">🏕<br/>Road Tripping? Van life?<br/>It's days of on-the-road power.</h2>
+            <ul class="lead" style="margin: 30px"><li>Your portable power outlet anywhere</li><li>Power your laptop in the car on a long roadtrip</li><li>Run your devices off-grid in your van</li><li>Take it anywhere on your next camping adventure</li></ul>
         </div>
     </div>
 </div>
 
 <!-- QUIZ -->
-<div class="bg-light">
+<div class="bg-light" id="quiz">
     <div class="container pt-5">
         <div class="row">
-            <div class="col-sm p-5 center">
-                <h1 class="">⏱ Hours of performance. See how much.</h1>
-                <p class="lead ">With 500W of power output, you can power most devices out there. But to make sure, check out our tool on the right. The battery holds 540Wh, which is used for the calculations on the right.</p>
+            <div class="col-sm p-5">
+                <h1 class="center">⏱<br/>Hours of performance. See how much.</h1>
+                <ul class="lead" style="margin: 30px"><li>500W of power output means you can power all the devices to the right, and many at the same time.</li><li>540Wh battery means you can run many devices for days</li><li>Confused about run time? So is everyone. That's why we built the estimation slider on the right :)</li></ul>
             </div>
             <div class="col-sm center pt-5">
                 <!-- CUSTOM CALCULATOR -->
@@ -144,12 +142,14 @@
 
                     <h4>Hours of runtime:</h4>
                     <h2 id="calcText" class="calcText">🔋 100 hours</h2>
+                    <br/>
+                    <span>💵</span>
+                    <span id="money">$0.01</span><br/>
+                    <span>saved every hour vs gas generator</span>
                     <br/><br/>
-                    <span>Money saved every hours vs gas generator:</span>
-                    <span id="money">$0.01 saved every hour</span>
-                    <br/><br/>
-                    <span>CO2 saved every hours vs gas generator:</span>
-                    <span id="co2">0.046 pounds CO2 saved every hour</span>
+                    <span>☁️</span>
+                    <span id="co2">0.046</span><span> pounds CO2</span><br/>
+                    <span>saved every hour vs gas generator</span>
                     <br/><br/>
                 </div>
             </div>
@@ -159,11 +159,11 @@
 
 <!-- 2 TILES -->
 <div class="container" style="margin: 0px; width: 100% !important; max-width: none" >
-    <div class="row p-5 center">
+    <div class="row p-5">
         <div class="col-sm" style="background-image: url('img_5/live_3.jpg'); background-size: cover; background-position: center; height: 50vh"></div>
         <div class="col-sm align-center p-5">
-            <h2 >🔌 Charge in 3 hours from any outlet.</h2>
-            <p class="lead">Never spend a dime on gas again, and forget about maintenance – the personal power plan requires virtually none. Simply recharge from the wall in 3 hours.</p>
+            <h2 class="center">🔌<br/>Charge in 3 hours from any outlet.</h2>
+            <ul class="lead" style="margin: 30px"><li>Never spend a dime on gas again</li><li>No maintenance – the personal power plan requires virtually none.</li><li>Simply recharge from the wall in 3 hours.</li></ul>
         </div>
     </div>
 </div>
@@ -175,9 +175,9 @@
     <div class="container">
         <div class="row">
           <div class="col-sm">
-            <h1 class="text-light"> ☀️ Or leave the grid behind: Add solar   for $99</h1>
-            <ul class="lead text-light"><li>The solar-ready Solar Generator improves mobile living and outdoor life.</li><li>Add 100W solar to recharge in 5 hours of direct sunshine.</li><li>Provides efficient solar energy to pair with your power station.</li><li>Now you have an endless power supply to keep going, even off-the-grid.</li></ul></p>
-            <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+            <h1 class="text-light center"> ☀️<br/>Add solar to leave the grid behind for $99</h1>
+            <ul class="lead text-light" style="margin: 30px"><li>The solar-ready Solar Generator improves mobile living and outdoor life.</li><li>Add 100W solar to recharge in 5 hours of direct sunshine.</li><li>Provides efficient solar energy to pair with your power station.</li><li>Now you have an endless power supply to keep going, even off-the-grid.</li></ul></p>
+            <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top" class="center">
                 <input type="hidden" name="cmd" value="_s-xclick">
                 <input type="hidden" name="hosted_button_id" value="YFM8CG7F3JLAL">
                 <button  class="btn btn-primary btn-lg" type="submit" name="submit">⚡️ Buy Battery + Solar Panel Bundle for $549</button>
@@ -196,13 +196,13 @@
             <img style="max-height: 300px" src="img_5/specs_0.jpg">
         </div>
         <div class="col-sm p-5">
-            <h2 >Premium Construction.</h2>
-            <p class="lead">Battery management system (BMS) enables short circuit protection, voltage control, temperature control and more advanced safety operations. Other enhanced safety features includes:</p>
-            <ul class="lead">
-                <li>Powerful built-in LED flashlight with SOS mode</li>
-                <li>Safe to use indoors and outdoors. </li>
-                <li>Switch with indicator light for on/off output port charging</li>
-                <li>Equipped with lithium battery, the same type of battery that Tesla uses in their Powerwall units.</li>
+            <h2 class="center">Premium Construction</h2>
+            <ul class="lead" style="margin: 30px">
+                <li>Full short circuit protection, voltage control, temperature control.</li>
+                <li>Powerful built-in LED light</li>
+                <li>Safe to use indoors and outdoors.</li>
+                <li>Switch with port charging on and off.</li>
+                <li>Equipped with lithium 18650 battery, the same type of battery that Tesla uses.</li>
             </ul>
         </div>
     </div>
@@ -289,11 +289,11 @@
     }
 
     function makeMoney(amount) {
-        return '$' + parseFloat(0.001 * amount).toFixed(2) + ' saved every hour'
+        return '$' + parseFloat(0.001 * amount).toFixed(2)
     }
 
     function makeCO2(amount) {
-        return parseFloat(amount * 0.00572).toFixed(3) + ' pounds CO2 saved every hour'
+        return parseFloat(amount * 0.00572).toFixed(3)
     }
 </script>
 
