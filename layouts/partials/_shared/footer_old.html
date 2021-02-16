@@ -6,7 +6,21 @@
     <div class="row mb-2">
       <div class="col-sm-7"></div>
       <div class="col-sm-5">
-        <!-- <iframe src="https://cdn.forms-content.sg-form.com/649039f8-708c-11eb-bba0-8e9973b7aa50"/> -->
+        <h3 class="mt-4 text-light text-right">Get Updates</h3>
+        <p class="text-light text-right">Sign up for our list and hear about updates to the kits!</p>
+        <form class="form-group" id="electrade-form-footer">
+          <input type="email" required name="email" placeholder="you@email.com" class="form-control col" />
+          <input class="btn btn-block btn-primary form-control col" type="submit" value="✉️ Get Updates" id="submit-form" />
+        </form>
+
+
+        <div id="WIP-footer" style="display: none">
+          <p class="text-light text-right">Submitting...</p>
+        </div>
+
+        <div id="thanks-footer" style="display: none">
+          <h3 class="text-light text-right">Thank you!</h3>
+        </div>
       </div>
     </div>
 
@@ -119,6 +133,30 @@
   <!-- End Facebook Pixel Code -->
 
 <script>
+  // SUBMIT EMAIL TO GSHEET
+  var $formElementFoot = document.getElementById('electrade-form-footer')
+  var $WIPFoot = document.getElementById('WIP-footer')
+  var $thanksFoot = document.getElementById('thanks-footer')
+  var url = 'https://script.google.com/macros/s/AKfycbwRbZS37yjD4W-qV8f8nFxlVFcuS-D3eBjEQomLZHA6TkXkoMg/exec'
+  $formElementFoot.addEventListener('submit', function (event) {
+    event.preventDefault();
+    $formElementFoot.style.display = 'none'
+    $WIPFoot.style.display = 'block'
+    fetch(url + '?email=' + $formElementFoot.elements[0].value.replace('@', '%40')).then((response) => {
+      if (response.ok) {
+        $WIPFoot.style.display = 'none'
+        $thanksFoot.style.display = 'block'
+        return response.json();
+      }
+      return Promise.reject(response);
+    }).then((data) => {
+      console.log(data);
+    }).catch((error) => {
+      console.warn(error);
+    });
+  });
+
+
 
   // to load images async
   document.addEventListener("DOMContentLoaded", function () {
