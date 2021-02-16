@@ -59,7 +59,7 @@ comments: false
   <p>Or the window air conditioner. Or the smartphone</b>. We are starting small with small kits, but as battery and solar prices come down, we will soon be able to cover more use cases.</p>
   </div>
   <div class="col-12 order-sm-1 col-sm-5">
-    <img src="https://sunboxlabs.com/blog/solar-kit/img/SOLUTION.jpg">
+    <img src="https://sunboxlabs.com/solar-kit/img/SOLUTION.jpg">
     <small style="text-align: center; width: 100%">(Photo: Paweł Czerwiński, Chromatograph)</small>
   </div>
 </div>
