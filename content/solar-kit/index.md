@@ -8,7 +8,7 @@ comments: true
 ---
 
 
-## The Landlord-Friendly, Self-Install Solar and Battery Kit for your off-grid Apartment, Condo, Balcony, Backup and Camping needs
+## The Landlord-Friendly, Self-Install Solar Kit for your off-grid Apartment, Condo, Balcony or Back Yard
 
 
 #### The problem
