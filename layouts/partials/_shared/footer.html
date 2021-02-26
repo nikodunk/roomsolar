@@ -96,26 +96,7 @@
   function gtag() { dataLayer.push(arguments); }
   gtag('js', new Date());
   gtag('config', 'G-9NC1ZDYBQM');
-  gtag('config', 'AW-871933600');
 </script>
-
-<!-- Event snippet for Checkout Clicked Solar Kit conversion page
-In your html page, add the snippet and call gtag_report_conversion when someone clicks on the chosen link or button. -->
-<script>
-  function gtag_report_conversion(url) {
-    var callback = function () {
-      if (typeof(url) != 'undefined') {
-        window.location = url;
-      }
-    };
-    gtag('event', 'conversion', {
-        'send_to': 'AW-871933600/MOD9CP6QvvgBEKDN4p8D',
-        'event_callback': callback
-    });
-    return false;
-  }
-  </script>
-    
 
 <!-- Facebook Pixel Code -->
 <script>
