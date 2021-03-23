@@ -76,7 +76,7 @@ If we look to the car, the smartphone, the window A/C unit — these devices spr
 
 Free shipping anywhere in the US. You will receive a follow-up email with exact instructions.
 
-Questions or want to say hello? Send to hello@sunboxlabs.com or on WhatsApp +1 (917) 704 3031.
+Questions or want to say hello? Send to hello@sunboxlabs.com.
 
 
 
