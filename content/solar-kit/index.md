@@ -8,7 +8,7 @@ comments: true
 ---
 
 
-## The Landlord-Friendly, Self-Install Solar Kit for your off-grid Apartment, Condo, Balcony or Back Yard
+## The Landlord-Friendly, Self-Install Solar Kit for your Apartment, Condo, Balcony or Back Yard
 
 
 #### The problem
@@ -19,13 +19,13 @@ Apartment renters need the landlord’s permission to install anything on their 
 
 An additional speed bump is the complexity of installing solar: regulation around net-metering. Grid-tied systems. Installation permits (even if you do own your property). Getting quotes from different installers. Solar financing. All complex processes inherited from the construction industry which slow down mass private adoption of renewables.
 
-We attempt to bypass both these problems by building a standalone solar power plant on for windowsill, rooftop or garden with off-the-shelf parts, and discuss the pros and cons of this approach to solar.
+We attempt to bypass both these problems by building a standalone solar power plant on your windowsill, rooftop or back yard with off-the-shelf parts, and discuss the pros and cons of this approach to solar.
 
 
 -----
 ####  A possible solution
 
-A windowsill solar system we install ourselves solves both problems at once: Renters don’t need permission from their landlords to place things on their windowsill and rooftops if it’s not altering the building, and it’s a one-click, direct purchase with no regulation as long as it’s not tied to the grid (which this one is designed not to be). Two birds with one stone. This makes the solar buying process more like buying a consumer electronic.
+A windowsill solar system we install ourselves solves both problems at once: Renters don’t need permission from their landlords to place things on their windowsill and rooftops if it’s not altering the building, and it’s a one-click, direct purchase with no regulation as long as the energy's used up by your own apartment with constant loads like fridge, wifi, etc (which this one is designed not to be). Two birds with one stone. This makes the solar buying process more like buying a consumer electronic.
 
 <img src="img/press_icons.png" />
 
@@ -41,12 +41,7 @@ If we look to the car, the smartphone, the window A/C unit — these devices spr
 
   <div class="row">
       <div class="col-12">
-        <h4>Features:</h4>
-      </div>
-      <div class="col-6 center">
-        <img src="img/benefits1.png" class="icon" />
-        <h4>Easy<br/>Install.</h4>
-        <p>Electrician-free. Permit-free. Screwdriver-free.</p>
+        <h4>Why DIY Plug-In Solar:</h4>
       </div>
       <div class="col-6 center">
         <img src="img/benefits2.png" class="icon" />
@@ -54,19 +49,19 @@ If we look to the car, the smartphone, the window A/C unit — these devices spr
         <p>Moving? Take it with you. Roof damage? Never.</p>
       </div>
       <div class="col-6 center">
-        <img src="img/benefits3.png" class="icon" />
-        <h4>Do your part.</h4>
-        <p>Offsets a 3rd of a standard apartment's CO2 footprint.</p>
-      </div>
-      <div class="col-6 center">
-        <img src="img/benefits4.png" class="icon" />
-        <h4>Outdoors.</h4>
-        <p>Great portable system for camping & outdoors. Clean. No Noise. No trace.</p>
+        <img src="img/benefits1.png" class="icon" />
+        <h4>Easy<br/>Install.</h4>
+        <p>Electrician-free. Permit-free. Screwdriver-free.</p>
       </div>
       <div class="col-6 center">
         <img src="img/benefits5.png" class="icon" />
         <h4>Live in the Future.</h4>
         <p>Make your own energy. Be independent.</p>
+      </div>
+      <div class="col-6 center">
+        <img src="img/benefits3.png" class="icon" />
+        <h4>Do your part.</h4>
+        <p>Offsets a 3rd of a standard apartment's CO2 footprint.</p>
       </div>
       <div class="col-6 center">
         <img src="img/benefits6.png" class="icon" />
