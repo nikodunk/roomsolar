@@ -108,20 +108,11 @@ It's a start. It will offset about a 3rd (or 1kW) of your apartments energy cons
 
 #### 2) Will this system save me a money?
 
-Short answer, yes. What's the payback period for our solar battery system?
-
-    Payback period for 100W, 300Wh system
-    System cost: $399
-
-    It will generate roughly $70 per year worth of energy
-
-    The payback (for Norcal) is around 5 years. For sunnier areas it will be shorter. We will offer a solar calculator soon.
-
+Yes. Around $70 per year, depending on your state, sun-reception and electricity cost. 
 
 #### 3) How much electricity will it make?
 
 In our tests in Northern California it will generate about 1kW per day on average. Your mileage may vary due to location and sun access. We will offer a calculator soon to get more info.
-
 
 #### 4) Where can I put the panel?
 
@@ -130,7 +121,7 @@ Here are our main suggestions but you can get creative! Let the sunlight inspire
 * Rooftop
 * Condos
 * Balconies
-* Backyard experiments
+* Backyards
 * Tiny houses
 
 
@@ -142,3 +133,18 @@ No. This is more like a Tesla Solar install for apartment owners. The upside is 
 #### 6) Will these work off-grid?
 
 No. These panels will only work when the grid is live. They will automatically disconnect if the grid goes out, as is mandated by all utilities in the USA.
+
+
+#### 7) Is there a battery? 
+
+No. The electricity created goes straight into your home's electricity grid, and is used by devices 'behind your meter' that are drawing energy consistently, like your fridge, wifi, etc.
+
+#### 8) Can I sell the energy back to my utility?
+
+In theory, yes. But the permitting process is more complicated, so we'll leave this up to you. This 200W system designed to be small enough to be consistently used up by devices that are running on your home's grid during the day, so that it all gets used up and you don't have to worry about selling back to your utility and the regulation that comes with it.
+
+#### 9) Can I claim the tax rebate?
+
+Yes, this system qualifies for the 30% tax credit. So you can deduct 30% of the system's cost on your taxes if you qualify.
+
+
