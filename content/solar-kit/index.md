@@ -11,7 +11,7 @@ comments: true
 
 #### 1) How green is it?
 
-It's a start. It will offset about a 3rd (or 1kWh) of your apartment's energy consumption per day. That's about as much as your fridge, TV and WiFi consume throughout the day. 4.6% - 10% (depending on what's included) of total US emissions are [just these types of loads](https://www.nrdc.org/sites/default/files/home-idle-load-IP.pdf).
+It's a start. It will offset about a 3rd (or 1kWh) of an average apartment's energy consumption per day. That's about as much as your fridge, TV and WiFi consume throughout the day. 4.6% - 10% (depending on what's included) of total US emissions are [just these types of loads](https://www.nrdc.org/sites/default/files/home-idle-load-IP.pdf).
 
 #### 2) Will this system save me a money?
 
