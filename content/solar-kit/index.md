@@ -13,7 +13,7 @@ comments: true
 
 It's a start. It will offset about a 3rd (or 1kWh) of an average apartment's energy consumption per day. That's about as much as your fridge, TV and WiFi consume throughout the day. 4.6% - 10% (depending on what's included) of total US emissions are [just these types of loads](https://www.nrdc.org/sites/default/files/home-idle-load-IP.pdf).
 
-#### 2) Will this system save me a money?
+#### 2) Will this system save me money?
 
 Yes. Around $70 per year - depending on your state, hours of direct sun your panel gets and electricity cost in the grid (if electricity is expensive in your state, you will save more).
 
