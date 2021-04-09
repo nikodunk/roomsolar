@@ -15,7 +15,7 @@ It's a start. It will offset about a 3rd (or 1kW) of your apartments energy cons
 
 #### 2) Will this system save me a money?
 
-Yes. Around $70 per year, depending on your state, sun-reception and electricity cost. 
+Yes. Around $70 per year - depending on your state, hours of direct sun your panel gets and electricity cost in the grid (if electricity is expensive in your state, you will save more).
 
 #### 3) How much electricity will it make?
 
