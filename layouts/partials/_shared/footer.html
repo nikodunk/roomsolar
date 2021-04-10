@@ -6,7 +6,20 @@
     <div class="row mb-2">
 
       <div class="col-sm-5 order-md-2">
-        <iframe style="width: 100%; height: 360px" src="https://cdn.forms-content.sg-form.com/649039f8-708c-11eb-bba0-8e9973b7aa50"></iframe>
+        <form class="form-group form-inline row" id="electrade-foot">
+          <input type="email" required name="email" placeholder="you@email.com" class="form-control col"
+            style="border-radius: 0; border-top-left-radius: 3px; border-bottom-left-radius: 3px;" />
+          <input class="btn btn-block btn-primary form-control col"
+            style="border-radius: 0; border-top-right-radius: 3px; border-bottom-right-radius: 3px;" type="submit"
+            value="Subscribe" id="submit-form" />
+        </form>
+        <div id="WIP-foot" style="display: none">
+          <p class="text-light text-right">Submitting...</p>
+        </div>
+
+        <div id="thanks-foot" style="display: none">
+          <h3 class="text-light text-right">Thank you!</h3>
+        </div>
       </div>
 
       <div class="col-sm-7 mt-5">
@@ -96,6 +109,31 @@
   function gtag() { dataLayer.push(arguments); }
   gtag('js', new Date());
   gtag('config', 'G-9NC1ZDYBQM');
+</script>
+
+<script>
+  // SUBMIT EMAIL TO GSHEET
+  var $formElementFoot = document.getElementById('electrade-foot')
+  var $WIPFoot = document.getElementById('WIP-foot')
+  var $thanksFoot = document.getElementById('thanks-foot')
+  var url = 'https://script.google.com/macros/s/AKfycbwRbZS37yjD4W-qV8f8nFxlVFcuS-D3eBjEQomLZHA6TkXkoMg/exec'
+  $formElementFoot.addEventListener('submit', function (event) {
+    event.preventDefault();
+    $formElementFoot.style.display = 'none'
+    $WIPFoot.style.display = 'block'
+    fetch(url + '?email=' + $formElementFoot.elements[0].value.replace('@', '%40')).then((response) => {
+      if (response.ok) {
+        $WIPFoot.style.display = 'none'
+        $thanksFoot.style.display = 'block'
+        return response.json();
+      }
+      return Promise.reject(response);
+    }).then((data) => {
+      console.log(data);
+    }).catch((error) => {
+      console.warn(error);
+    });
+  });
 </script>
 
 <!-- Facebook Pixel Code -->
