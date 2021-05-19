@@ -1,0 +1,391 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<link rel="icon" href="https://sunboxlabs.com/sarah_spinning_sun.png">
+
+	<title>How to Convert a Jayco Ram to Run Off Solar | Sunboxlabs - Premium Solar Kits for self-install clean energy, and batteries for backup, off-grid & outdoors.</title>
+
+	<meta name="description" content="Sunboxlabs - Premium Solar Kits for self-install clean energy, and batteries for backup, off-grid & outdoors.">
+	
+
+	
+	<meta property="og:title"
+		content="How to Convert a Jayco Ram to Run Off Solar | Sunboxlabs - Premium Solar Kits for self-install clean energy, and batteries for backup, off-grid & outdoors.">
+	
+
+	<meta property="og:description"
+		content="Sunboxlabs - Premium Solar Kits for self-install clean energy, and batteries for backup, off-grid & outdoors. | Austin is taking a gap year from the Industrial Design school at the University of Cincinnati DAAP to work remotely during Covid.
+He had 2 weeks to build out his van before he needed to head out, in order to make it to a (distanced) festival across the country.">
+
+	<meta property="og:image" content="https://sunboxlabs.com/img_cms/jayco-6.jpg">
+	
+
+	<meta property="og:url" content="https://sunboxlabs.com/blog/how-to-convert-a-jayco-ram-to-run-off-solar/">
+	<meta name="twitter:card" content="summary_large_image">
+
+	
+	<meta property="og:site_name" content="How to Convert a Jayco Ram to Run Off Solar | sunboxlabs">
+	<meta name="twitter:image:alt"
+		content="Sunboxlabs - Premium Solar Kits for self-install clean energy, and batteries for backup, off-grid & outdoors.">
+
+	<meta name="facebook-domain-verification" content="d9nb2r05ht1utbp7q2blq9qwx8f8be" />
+
+	<script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "NewsArticle",
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https:\/\/sunboxlabs.com\/blog\/how-to-convert-a-jayco-ram-to-run-off-solar\/"
+    },
+    "headline": "How to Convert a Jayco Ram to Run Off Solar",
+    "image": [
+        "https:\/\/sunboxlabs.com\/img_cms\/jayco-6.jpg"
+      ],
+    "datePublished": "2020-10-31T20:22:59+00:00",
+    "dateModified": "2020-10-31T20:22:59+00:00",
+    
+    
+    "description": "Austin is taking a gap year from the Industrial Design school at the University of Cincinnati DAAP to work remotely during Covid.\nHe had 2 weeks to build out his van before he needed to head out, in order to make it to a (distanced) festival across the country."
+  }
+  </script>
+
+	<link href="/css/fonts.css" rel="stylesheet">
+	<link media="screen" href="/css/bootstrap5.min.css" rel="stylesheet" type="text/css">
+	<link media="screen" href="/css/styles.css" rel="stylesheet" type="text/css">
+
+</head>
+
+
+<body>
+
+  <nav class="navbar navbar-expand-lg navbar-light bg-light p-1 p-md-0" style="background-color: white !important;">
+    <div class="container-fluid">
+      <a class="navbar-brand" href="/">
+        <img src="/sarah_spinning_sun.gif" width="30" height="30" class="d-inline-block align-top" alt="">
+        &nbsp;sunboxlabs
+      </a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <div class="navbar-nav navbar-right pt-1" style="margin-left: auto; padding-right: 20px">
+          <a class="nav-item nav-link" href="/">Battery</a>
+          <a class="nav-item nav-link" href="/solar-kit">Grid-tied</a>
+          <a class="nav-item nav-link" href="/about">About</a>
+          <a class="nav-item nav-link" href="/blog">Blog</a>
+          
+          <a class="nav-item nav-link" href="/contact">Contact</a>
+          <span class="nav-item nav-link d-none d-md-inline" href="">&nbsp;</span>
+          <form class="form-group form-inline row" id="electrade-nav">
+            <input type="email" required name="email" placeholder="you@email.com" class="form-control col"
+              style="border-radius: 0; border-top-left-radius: 3px; border-bottom-left-radius: 3px;" />
+            <input class="btn btn-block btn-primary form-control col"
+              style="border-radius: 0; border-top-right-radius: 3px; border-bottom-right-radius: 3px;" type="submit"
+              value="Subscribe" id="submit-form" />
+          </form>
+          <div id="WIP-nav" style="display: none">
+            <p class="text-dark text-right">Submitting...</p>
+          </div>
+
+          <div id="thanks-nav" style="display: none">
+            <h3 class="text-dark text-right">Thank you!</h3>
+          </div> 
+        </div>
+      </div>
+    </div>
+  </nav>
+
+  <br /><br />
+
+
+  <script>
+    
+    var $formElementNav = document.getElementById('electrade-nav')
+    var $WIPNav = document.getElementById('WIP-nav')
+    var $thanksNav = document.getElementById('thanks-nav')
+    var url = 'https://script.google.com/macros/s/AKfycbwRbZS37yjD4W-qV8f8nFxlVFcuS-D3eBjEQomLZHA6TkXkoMg/exec'
+    $formElementNav.addEventListener('submit', function (event) {
+      event.preventDefault();
+      $formElementNav.style.display = 'none'
+      $WIPNav.style.display = 'block'
+      fetch(url + '?email=' + $formElementNav.elements[0].value.replace('@', '%40')).then((response) => {
+        if (response.ok) {
+          $WIPNav.style.display = 'none'
+          $thanksNav.style.display = 'block'
+          return response.json();
+        }
+        return Promise.reject(response);
+      }).then((data) => {
+        console.log(data);
+      }).catch((error) => {
+        console.warn(error);
+      });
+    });
+  </script>
+
+
+  
+
+<div class="main-content">
+    
+    <div class="container" style="min-height: 50vh !important">
+        <div class="row">
+            
+            <div class="col-md-2 pl-0">
+
+            </div>
+            
+            <div class="col-md-9 flex-first flex-md-unordered">
+                <div class="mainheading">
+                    
+                    
+                    
+                    <h1 class="posttitle">How to Convert a Jayco Ram to Run Off Solar</h1>
+                </div>
+
+
+
+                
+                <div class="article-post" style>
+                    <p>Austin is taking a gap year from the Industrial Design school at the University of Cincinnati DAAP to work remotely during Covid.</p>
+<p>He had 2 weeks to build out his van before he needed to head out, in order to make it to a (distanced) festival across the country. </p>
+<p>He found a 1995 b2500 v8 Jayco Ram in mint condition in his home state of Ohio. It had only 30,000 miles on the odometer.</p>
+<p><img src="/img_cms/jayco-1.jpg" alt="1995b2500v8jaycoram" title="1995 B2500 V8 Jayco Ram"></p>
+<p>He built it out himself in a 2-week marathon, and finished the insides with beautiful old barn-wood, which he felt was fitting in order to represent his home town (where there are many barns).</p>
+<p><img src="/img_cms/jayco-3.jpg" alt="woodeninteriorvan" title="Wooden Interior Van"></p>
+<p><img src="/img_cms/jayco-2.jpg" alt="woodeninteriorvan" title="Wooden Interior Van"></p>
+<p>The solar system in this van takes advantage of the existing electrical system, as it is simply a drop-in replacement for the 1995-era battery. While back then it could only be charged from shore power (ie. plugging the van in) or the alternator (ie. driving the car), Austin added the capability to be charged by solar. </p>
+<p>Austin’s power requirements are pretty light when on the road – he just needs to run lights, his laptop, and charge devices. So he could get by with a small 300W DC powered car-inverter for the system, plugged into the car’s cigarette lighter. Cooking is powered with gas, and he doesn’t run any high-powered devices.</p>
+<p>He placed two 100W Renogy panels on the rooftop, affixed them with a mounting system, and wired through the van’s roof (of course sealing it well).</p>
+<p><img src="/img_cms/img_3646.jpg" alt="solarpanelsonvan" title="Solar Panels on the van"></p>
+<p>He replaced the deep-cycle lead-acid battery that was in the car with a lightweight Lithium Iron Phosphate battery with massive 1.2kWh storage. This means that he can run the lights and devices in the van as much as he likes, without ever worrying about emptying the battery.</p>
+<p><img src="/img_cms/jayco-4.jpg" alt="deepcyclebattery" title="Deep Cycle Battery"></p>
+<p>Finally, the solar controller is a Renogy controller that allows him to monitor the battery state with Bluetooth from inside the van (without crawling down into the battery space).</p>
+<p><img src="/img_cms/jayco-5.jpg" alt="solarconvertedvan" title="Solar Converted Van"></p>
+<p>All-in, the build cost around $8,000 for the materials (including solar) and $6,000 for the van.</p>
+<h1 id="the-kit">The Kit</h1>
+<h4 style="color: #00ab6b">Solar Parts Cost on Amazon: $1,309</h4>
+<h3 id="200w-solar-panel--renogy-solar-controller-cables-458">200W Solar Panel &amp; Renogy Solar Controller, Cables ($458)</h3>
+<div style="width: 100%; text-align: center">
+  <a href="https://www.amazon.com/dp/B015DEY2TM/ref=as_li_ss_il?ie=UTF8&linkCode=li3&tag=gridlesskits-20&linkId=d08db6fd45992d2f20a1c45c1feb30c2&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B015DEY2TM&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=gridlesskits-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=gridlesskits-20&language=en_US&l=li3&o=1&a=B015DEY2TM" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <br/><br/><br/>
+  <a onclick="gtag('event','Amazon Affiliate clicked')" class="btn btn-primary btn-lg" target="_blank" style="background-color: orange; border: none" href="https://www.amazon.com/dp/B015DEY2TM/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=gridlesskits-20&linkId=93f6a8fd40603e6c6663c07d6a6ddbde&language=en_US" >Check latest price on Amazon</a>
+</div>
+<hr/>
+<h3 id="lithium-deep-cycle-battery-799">Lithium Deep Cycle Battery ($799)</h3>
+<div style="width: 100%; text-align: center">
+  <a href="https://www.amazon.com/dp/B07YXL2TC7/ref=as_li_ss_il?ie=UTF8&linkCode=li3&tag=gridlesskits-20&linkId=589172a9062588437bfbe4c3b5539e26&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07YXL2TC7&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=gridlesskits-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=gridlesskits-20&language=en_US&l=li3&o=1&a=B07YXL2TC7" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <br/><br/><br/>
+  <a onclick="gtag('event','Amazon Affiliate clicked')" class="btn btn-primary btn-lg" target="_blank" style="background-color: orange; border: none" href="https://www.amazon.com/dp/B07YXL2TC7/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=gridlesskits-20&linkId=2d621a63127ff0c678b139d8093dbc3d&language=en_US" >Check latest price on Amazon</a>
+</div>
+<hr/>
+<h3 id="300w-inverter-45">300W Inverter ($45)</h3>
+<div style="width: 100%; text-align: center">
+  <a href="https://www.amazon.com/dp/B07KQ4Q2L5/ref=as_li_ss_il?ie=UTF8&linkCode=li3&tag=gridlesskits-20&linkId=be0958f63190cb78be64d8aeb6d0b34a&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07KQ4Q2L5&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=gridlesskits-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=gridlesskits-20&language=en_US&l=li3&o=1&a=B07KQ4Q2L5" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <br/><br/><br/>
+  <a onclick="gtag('event','Amazon Affiliate clicked')" class="btn btn-primary btn-lg" target="_blank" style="background-color: orange; border: none" href="https://www.amazon.com/dp/B07KQ4Q2L5/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=gridlesskits-20&linkId=0cbfd25923cb8533e578bb08bbfada66&language=en_US" >Check latest price on Amazon</a>
+</div>
+<hr/>
+<hr>
+<p><img src="/img_cms/jayco-6.jpg" alt="solarconvertedvan" title="Solar Converted Van"></p>
+<h3 id="author-quote">Author Quote</h3>
+<p>For my Solar set up it could not have been easier. My van already had a fuse box and inverter that I just had to rewire to. It also was connected to my alternator to charge the battery while I am driving. All I had to do was wire the solar panels to the solar charger and then connect that to the battery. My fuse box then distributed the energy throughout my van. Super simple, kind of lol</p>
+<p>BUT, I would say navigating my way through the combination of already existing technology in the van (fuse box/invertor and wiring) and trying to figure out how I could connect new modern tech (solar panels + battery) took a long time. It took a long time because I had to learn how electricity and wiring worked in general. The difference between DC and AC what can run on each and etc. But totally worth it.</p>
+<p>My build is a combination of plug and play solar + battery with existing ancient technology. Super fun and kind of redneck, but it works!</p>
+
+                </div>
+
+
+
+
+            </div>
+            
+        </div>
+    </div>
+    
+
+</div>
+<br /><br /><br /><br /><br /><br /><br /><br />
+
+
+
+
+
+<footer class="footer bg-dark mt-5">
+  <div class="container">
+    <div class="row mb-2">
+
+      <div class="col-sm-5 order-md-2">
+        <form class="form-group form-inline row" id="electrade-foot">
+          <input type="email" required name="email" placeholder="you@email.com" class="form-control col"
+            style="border-radius: 0; border-top-left-radius: 3px; border-bottom-left-radius: 3px;" />
+          <input class="btn btn-block btn-primary form-control col"
+            style="border-radius: 0; border-top-right-radius: 3px; border-bottom-right-radius: 3px;" type="submit"
+            value="Subscribe" id="submit-form" />
+        </form>
+        <div id="WIP-foot" style="display: none">
+          <p class="text-light text-right">Submitting...</p>
+        </div>
+
+        <div id="thanks-foot" style="display: none">
+          <h3 class="text-light text-right">Thank you!</h3>
+        </div>
+      </div>
+
+      <div class="col-sm-7 mt-5">
+        <ul class="text-light">
+          <li class="list-item">
+            <a href="/">Off-Grid Solar</a>
+          </li>
+          <li class="list-item">
+            <a href="/solar-kit">Grid-Tied Solar</a>
+          </li>
+          <li class="list-item">
+            <a href="/about">About</a>
+          </li>
+          <li class="list-item">
+            <a href="/blog">Blog</a>
+          </li>
+          <li class="list-item">
+            <a href="/contact">Contact</a>
+          </li>
+        </ul>
+        <ul class="list text-light">
+          
+          
+          <li class="list-item">
+            <a href="/shipping">Shipping</a>
+          </li>
+          <li class="list-item">
+            <a href="/returns-and-warranty">Refunds, Returns & Warranty</a>
+          </li>
+        </ul>
+        
+        <ul class="list-inline mb-0 mt-2">
+          <li class="list-inline-item">
+            <a href="https://www.producthunt.com/posts/sunboxlabs-2?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-sunboxlabs-2" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=276691&theme=dark" alt="sunboxlabs - Plug n play solar kits for backup, outdoors or offgrid. | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+          </li>
+          <br/><br/>
+          <li class="list-inline-item mr-3">
+            <a style="text-decoration: none" href="https://www.youtube.com/channel/UCL5yFK1-qRkxl-lCcAn5-ow">
+              
+              <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" class="bi text-primary bi-youtube" viewBox="0 0 16 16">
+                <path d="M8.051 1.999h.089c.822.003 4.987.033 6.11.335a2.01 2.01 0 0 1 1.415 1.42c.101.38.172.883.22 1.402l.01.104.022.26.008.104c.065.914.073 1.77.074 1.957v.075c-.001.194-.01 1.108-.082 2.06l-.008.105-.009.104c-.05.572-.124 1.14-.235 1.558a2.007 2.007 0 0 1-1.415 1.42c-1.16.312-5.569.334-6.18.335h-.142c-.309 0-1.587-.006-2.927-.052l-.17-.006-.087-.004-.171-.007-.171-.007c-1.11-.049-2.167-.128-2.654-.26a2.007 2.007 0 0 1-1.415-1.419c-.111-.417-.185-.986-.235-1.558L.09 9.82l-.008-.104A31.4 31.4 0 0 1 0 7.68v-.122C.002 7.343.01 6.6.064 5.78l.007-.103.003-.052.008-.104.022-.26.01-.104c.048-.519.119-1.023.22-1.402a2.007 2.007 0 0 1 1.415-1.42c.487-.13 1.544-.21 2.654-.26l.17-.007.172-.006.086-.003.171-.007A99.788 99.788 0 0 1 7.858 2h.193zM6.4 5.209v4.818l4.157-2.408L6.4 5.209z"/>
+              </svg>
+            </a>
+          </li>
+          <li class="list-inline-item mr-3">
+            <a style="text-decoration: none" href="https://www.facebook.com/sunboxlabs/">
+              
+              <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" class="bi text-primary bi-facebook" viewBox="0 0 16 16">
+                <path d="M16 8.049c0-4.446-3.582-8.05-8-8.05C3.58 0-.002 3.603-.002 8.05c0 4.017 2.926 7.347 6.75 7.951v-5.625h-2.03V8.05H6.75V6.275c0-2.017 1.195-3.131 3.022-3.131.876 0 1.791.157 1.791.157v1.98h-1.009c-.993 0-1.303.621-1.303 1.258v1.51h2.218l-.354 2.326H9.25V16c3.824-.604 6.75-3.934 6.75-7.951z"/>
+              </svg>
+            </a>
+          </li>
+          <li class="list-inline-item mr-3">
+            <a style="text-decoration: none" href="https://twitter.com/sunboxlabs">
+              
+              <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" class="bi text-primary bi-twitter" viewBox="0 0 16 16">
+                <path d="M5.026 15c6.038 0 9.341-5.003 9.341-9.334 0-.14 0-.282-.006-.422A6.685 6.685 0 0 0 16 3.542a6.658 6.658 0 0 1-1.889.518 3.301 3.301 0 0 0 1.447-1.817 6.533 6.533 0 0 1-2.087.793A3.286 3.286 0 0 0 7.875 6.03a9.325 9.325 0 0 1-6.767-3.429 3.289 3.289 0 0 0 1.018 4.382A3.323 3.323 0 0 1 .64 6.575v.045a3.288 3.288 0 0 0 2.632 3.218 3.203 3.203 0 0 1-.865.115 3.23 3.23 0 0 1-.614-.057 3.283 3.283 0 0 0 3.067 2.277A6.588 6.588 0 0 1 .78 13.58a6.32 6.32 0 0 1-.78-.045A9.344 9.344 0 0 0 5.026 15z"/>
+              </svg>
+            </a>
+          </li>
+          <li class="list-inline-item">
+            
+            <a style="text-decoration: none" href="https://www.instagram.com/sunboxlabs/">
+              <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" class="bi text-primary bi-instagram" viewBox="0 0 16 16">
+                <path d="M8 0C5.829 0 5.556.01 4.703.048 3.85.088 3.269.222 2.76.42a3.917 3.917 0 0 0-1.417.923A3.927 3.927 0 0 0 .42 2.76C.222 3.268.087 3.85.048 4.7.01 5.555 0 5.827 0 8.001c0 2.172.01 2.444.048 3.297.04.852.174 1.433.372 1.942.205.526.478.972.923 1.417.444.445.89.719 1.416.923.51.198 1.09.333 1.942.372C5.555 15.99 5.827 16 8 16s2.444-.01 3.298-.048c.851-.04 1.434-.174 1.943-.372a3.916 3.916 0 0 0 1.416-.923c.445-.445.718-.891.923-1.417.197-.509.332-1.09.372-1.942C15.99 10.445 16 10.173 16 8s-.01-2.445-.048-3.299c-.04-.851-.175-1.433-.372-1.941a3.926 3.926 0 0 0-.923-1.417A3.911 3.911 0 0 0 13.24.42c-.51-.198-1.092-.333-1.943-.372C10.443.01 10.172 0 7.998 0h.003zm-.717 1.442h.718c2.136 0 2.389.007 3.232.046.78.035 1.204.166 1.486.275.373.145.64.319.92.599.28.28.453.546.598.92.11.281.24.705.275 1.485.039.843.047 1.096.047 3.231s-.008 2.389-.047 3.232c-.035.78-.166 1.203-.275 1.485a2.47 2.47 0 0 1-.599.919c-.28.28-.546.453-.92.598-.28.11-.704.24-1.485.276-.843.038-1.096.047-3.232.047s-2.39-.009-3.233-.047c-.78-.036-1.203-.166-1.485-.276a2.478 2.478 0 0 1-.92-.598 2.48 2.48 0 0 1-.6-.92c-.109-.281-.24-.705-.275-1.485-.038-.843-.046-1.096-.046-3.233 0-2.136.008-2.388.046-3.231.036-.78.166-1.204.276-1.486.145-.373.319-.64.599-.92.28-.28.546-.453.92-.598.282-.11.705-.24 1.485-.276.738-.034 1.024-.044 2.515-.045v.002zm4.988 1.328a.96.96 0 1 0 0 1.92.96.96 0 0 0 0-1.92zm-4.27 1.122a4.109 4.109 0 1 0 0 8.217 4.109 4.109 0 0 0 0-8.217zm0 1.441a2.667 2.667 0 1 1 0 5.334 2.667 2.667 0 0 1 0-5.334z"/>
+              </svg>
+            </a>
+          </li>
+          </ul>
+          <p class="text-muted small mb-4 mb-lg-0 mt-5">&copy; sunboxlabs 2021. All Rights Reserved.</p>
+      </div>
+      
+    </div>
+    </div>
+  </div>
+</footer>
+
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.bundle.min.js" integrity="sha384-b5kHyXgcpbZJO/tY9Ul7kGkf1S0CWuKcCD38l8YkeH8z8QjE0GmW1gYU5S9FOnJ0" crossorigin="anonymous"></script>
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-9NC1ZDYBQM"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() { dataLayer.push(arguments); }
+  gtag('js', new Date());
+  gtag('config', 'G-9NC1ZDYBQM');
+</script>
+
+<script>
+  
+  var $formElementFoot = document.getElementById('electrade-foot')
+  var $WIPFoot = document.getElementById('WIP-foot')
+  var $thanksFoot = document.getElementById('thanks-foot')
+  var url = 'https://script.google.com/macros/s/AKfycbwRbZS37yjD4W-qV8f8nFxlVFcuS-D3eBjEQomLZHA6TkXkoMg/exec'
+  $formElementFoot.addEventListener('submit', function (event) {
+    event.preventDefault();
+    $formElementFoot.style.display = 'none'
+    $WIPFoot.style.display = 'block'
+    fetch(url + '?email=' + $formElementFoot.elements[0].value.replace('@', '%40')).then((response) => {
+      if (response.ok) {
+        $WIPFoot.style.display = 'none'
+        $thanksFoot.style.display = 'block'
+        return response.json();
+      }
+      return Promise.reject(response);
+    }).then((data) => {
+      console.log(data);
+    }).catch((error) => {
+      console.warn(error);
+    });
+  });
+</script>
+
+
+
+  
+
+<script>
+
+  
+  document.addEventListener("DOMContentLoaded", function () {
+    var lazyImages = [].slice.call(document.querySelectorAll("img.lazy"));
+
+    if ("IntersectionObserver" in window) {
+      let lazyImageObserver = new IntersectionObserver(function (entries, observer) {
+        entries.forEach(function (entry) {
+          if (entry.isIntersecting) {
+            let lazyImage = entry.target;
+            lazyImage.src = lazyImage.dataset.src;
+            lazyImage.classList.remove("lazy");
+            lazyImageObserver.unobserve(lazyImage);
+          }
+        });
+      });
+
+      lazyImages.forEach(function (lazyImage) {
+        lazyImageObserver.observe(lazyImage);
+      });
+    } else {
+      
+    }
+  });
+</script>
+
+
+
+
+</body>
+
+</html><style>
+    img {
+        max-width: 100% !important;
+    }
+</style>
