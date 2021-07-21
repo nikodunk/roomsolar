@@ -62,6 +62,10 @@ A Pure-Sine MPPT 600W inverter.
 
 MC4 connectors - so yes. You can expand with most panels out there up to the maximum voltage and amperage.
 
+#### 12) What size are the solar panels (solar panel size)
+
+The dimensions of the panels are 41.1 x 27.2 x 0.11 in, per panel. You can arrange them in your space as you like, as long as you hook them up to each other in series (won't get up to the necessary voltage for the inverter otherwise).
+
 --------------
 
 Original article:
