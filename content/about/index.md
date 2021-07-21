@@ -101,6 +101,11 @@ If we look to the car, the smartphone, the window A/C unit — these devices
             </a>
         </div>
         <div style="padding: 10px">
+            <a style="color: inherit" href="https://electrade.app/" target="_blank">
+                <img src="press8.jpg" style="max-height: 39px">
+            </a>
+        </div>
+        <div style="padding: 10px">
             <a href="https://www.producthunt.com/posts/sunboxlabs-2?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-sunboxlabs-2" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=276691&theme=dark" alt="sunboxlabs - Plug n play solar kits for backup, outdoors or offgrid. | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
         </div>
         <!-- <div style="padding: 10px">
