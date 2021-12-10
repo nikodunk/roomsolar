@@ -1,13 +1,11 @@
 ---
 layout: solarkit
-title:  "The Landlord-Friendly, Self-Install Solar Kit"
-date:   2020-05-28 08:00:00 -0700
+title: "The Landlord-Friendly, Self-Install Solar Kit"
+date: 2020-05-28 08:00:00 -0700
 image: "/img_7/header.jpg"
 type: "post"
 comments: true
 ---
-
-
 
 #### 1) How green is it?
 
@@ -25,24 +23,21 @@ In our tests in Northern California it will generate about 1kW per day on averag
 
 Here are our main suggestions but you can get creative! Let the sunlight inspire you!
 
-* Rooftop
-* Condos
-* Balconies
-* Backyards
-* Tiny houses
-
+- Rooftop
+- Condos
+- Balconies
+- Backyards
+- Tiny houses
 
 #### 5) Is this a power Tesla Powerwall?
 
 No. This is more like a Tesla Solar install for apartment owners. The upside is that whenever you move, you can simply unplug the panels and take them with you!.
 
-
 #### 6) Will these work off-grid?
 
 No. These panels will only work when the grid is live. They will automatically disconnect if the grid goes out, as is mandated by all utilities in the USA.
 
-
-#### 7) Is there a battery? 
+#### 7) Is there a battery?
 
 No. The electricity created goes straight into your home's electricity grid, and is used by devices 'behind your meter' that are drawing energy consistently, like your fridge, wifi, etc.
 
@@ -66,13 +61,11 @@ MC4 connectors - so yes. You can expand with most panels out there up to the max
 
 The dimensions of the panels are 41.1 x 27.2 x 0.11 in, per panel. You can arrange them in your space as you like, as long as you hook them up to each other in series (won't get up to the necessary voltage for the inverter otherwise).
 
---------------
+---
 
 Original article:
 
-
 ## The Landlord-Friendly, Self-Install Solar Kit for your Apartment, Condo, Balcony or Back Yard
-
 
 #### The problem
 
@@ -84,9 +77,9 @@ An additional speed bump is the complexity of installing solar: regulation aroun
 
 We attempt to bypass both these problems by building a standalone solar power plant on your windowsill, rooftop or back yard with off-the-shelf parts, and discuss the pros and cons of this approach to solar.
 
+---
 
------
-####  A possible solution
+#### A possible solution
 
 A windowsill solar system we install ourselves solves both problems at once: Renters don’t need permission from their landlords to place things on their windowsill and rooftops if it’s not altering the building, and it’s a one-click, direct purchase with no regulation as long as the energy's used up by your own apartment with constant loads like fridge, wifi, etc (which this one is designed not to be). Two birds with one stone. This makes the solar buying process more like buying a consumer electronic.
 
@@ -100,7 +93,6 @@ Our mission is to make purchasing solar/storage as easy as purchasing any other 
 What if decentralized electric generation could be added room by room to a household (like window A/C units)?
 
 If we look to the car, the smartphone, the window A/C unit — these devices spread like wildfire across the globe because they were off-the-shelf products that required no configuration but great benefits. Identical appliances were churned out at an industrial scale for a global audience. They were “plug n play”. Plug n play solar has been around for a while, but has never taken off (probably because behind-the-meter power is still sketchy and poorly understood). The potential for plug n play solar is huge — it could mean cheap, zero-configuration solar energy spreading to consumers at the pace of the smartphone, the car or air-conditioning.
-
 
   <div class="row">
       <div class="col-12">
@@ -133,13 +125,10 @@ If we look to the car, the smartphone, the window A/C unit — these devices spr
       </div>
     </div>
 
-
-
 <h4 id="shipping">Shipping & Order Details</h4>
 
 Free shipping anywhere in the US. You will receive a follow-up email with exact instructions.
 
 Questions or want to say hello? Send to hello@sunboxlabs.com.
-
 
 Due to popular demand, we have decided to offer **grid-tied solar kits** with **hand-picked** and **tested** components guaranteed to work reliably together, distributed, sold and supported by sunboxlabs. If you'd prefer, you can still order components separately and assemble them yourself. This system is around 5x more powerful than the other ones on the site. We tried to build the best system we possibly could at the lowest possible price.

@@ -1,557 +1,134 @@
 ---
-title:  "Sunboxlabs Kits Home"
+layout: solarkit
+title: "The Landlord-Friendly, Self-Install Solar Kit"
+date: 2020-05-28 08:00:00 -0700
+image: "/img_7/header.jpg"
+type: "post"
+comments: true
 ---
 
-500W Pure sine inverter and 540Wh Battery for $449. Find the best deals with free shipping and great customer service at sunboxlabs.com. Optionally add a 100W solar panel for $99 to charge anywhere. 
+#### 1) How green is it?
 
-<div id="jumboCarousel" class="carousel" data-ride="carousel" >
-    <ol class="carousel-indicators">
-        <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
-        <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
-        <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
-        <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
-        <li data-target="#carouselExampleIndicators" data-slide-to="4"></li>
-        <li data-target="#carouselExampleIndicators" data-slide-to="5"></li>
-    </ol>
-    <div class="carousel-inner">
-        <div class="carousel-item active">
-            <img class="first-slide" src="/img_3/moneyshot.jpg" alt="">
-            <div class="container">
-                <div class="carousel-caption ">
-                    <h2 class="d-none d-sm-block overlay">Easy Solar Battery Kits for Backup, Outdoors or Offgrid.<h2>
-                    <h3 class="d-sm-none overlay" style="margin-bottom: 90px">Easy Solar Kits<h3>
-                </div>
-            </div>
-        </div>
-        <div class="carousel-item ">
-            <img class=" " src="/img_3/header3.jpg">
-            <div class="container">
-                <div class="carousel-caption ">
-                    <h2 class="overlay">Easy installation. Portable form factor.</h2>
-                </div>
-            </div>
-        </div>
-        <div class="carousel-item">
-            <img class=" " src="/img_3/use_cases_2.jpg" alt="">
-            <div class="container">
-                <div class="carousel-caption ">
-                    <h2 class="overlay">For Backup Power.</h2>
-                </div>
-            </div>
-        </div>
-        <div class="carousel-item">
-            <img class=" " src="/img_3/500_camping.jpg" alt="">
-            <div class="container">
-                <div class="carousel-caption">
-                    <h2 class="overlay">For Outdoors.</h2>
-                    <!-- <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida
-                        at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
-                    <p><a class="btn btn-lg btn-primary" href="#" role="button">Learn more</a></p> -->
-                </div>
-            </div>
-        </div>
-        <div class="carousel-item">
-            <img class=" " src="/img_3/sunboxlabs_golden_gate_park_welcome_center.jpg" alt="">
-            <div class="container">
-                <div class="carousel-caption ">
-                    <h2 class="overlay">For Off-grid energy.</h2>
-                </div>
-            </div>
-        </div> 
-        <div class="carousel-item">
-            <img class=" " src="/img_3/use_cases_3.jpg" alt="">
-            <div class="container">
-                <div class="carousel-caption ">
-                    <h2 class="overlay">For Van-living and Marine.</h2>
-                </div>
-            </div>
-        </div>
-    </div>
-    <a class="carousel-control-prev" href="#jumboCarousel" role="button" data-slide="prev">
-        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-        <span class="visually-hidden">Previous</span>
-    </a>
-    <a class="carousel-control-next" href="#jumboCarousel" role="button" data-slide="next">
-        <span class="carousel-control-next-icon" aria-hidden="true"></span>
-        <span class="visually-hidden">Next</span>
-    </a>
-</div>
-<div style="background-color: #efefef">
-    <div style="max-width: 800px; margin: 0 auto; display: flex; justify-content: space-between; padding: 20px">
-    <h4 style="text-align: center">⚡️<br/>Power Anywhere</h4>
-    <h4 style="text-align: center">😶<br/>Silent</h4>
-    <h4 style="text-align: center">⛽️<br/>No Gas</h4>
-    </div>
-</div>
-<div style="margin: 0 auto; ">
-    <div style="margin: 0 auto; max-width: 1200px">
-        <div style="display: flex; margin-top: 20px; flex-wrap: nowrap; overflow-x: auto; -webkit-overflow-scrolling: touch;">
-            <!-- 300W generator -->
-            <!-- <div style="flex: 0 0 auto; max-width: 330px; margin-right: 10px; " class="card mb-4 ">
-                <div class="card-header">
-                    <h4 class="my-0 font-weight-normal">Small Offgrid Solar Kit</h4>
-                </div>
-                <div class="card-body">
-                    <a href="/solar-kit-300">
-                        <img class="lazy" data-src="/img_3/300 copy 2.jpg" />
-                    </a>
-                    <h3 class="card-title pricing-card-title">$399 <small class="text-muted">w/ Free shipping</small>
-                    </h3>
-                    <div class="d-grid gap-2">
-                        <a href="/solar-kit-300" class="btn btn-lg btn-primary">
-                            ☀️ Buy Now 〉
-                        </a>
-                    </div>
-                    <br/>
-                    <h5>What devices can <u>Small</u> run?</h5>
-                    <img data-src="/img_3/what_will_it_run_1.jpg" class="lazy">
-                    <br />
-                    <br />
-                    <h5>Specs, power, wattage <a data-toggle="collapse" href="#collapsekit2" role="button" aria-expanded="false"
-                            aria-controls="collapsekit2">▽Show</a></h5>
-                    <div class="collapse " id="collapsekit2">
-                        <ul class="mb-0 ">
-                            <li>300W Generator (1 standard outlet)</li>
-                            <li>300Wh battery to store power after sunset.</li>
-                            <li>1 x 100W flexible solar panel.</li>
-                            <li>3 hours of sun (or wall-power) to recharge batteries.</li>
-                            <li>All zipties & snap cables (MC4) included. </li>
-                            <li>1-on-1 support included.</li>
-                        </ul>
-                    </div>
-                </div>
-            </div> -->
-            <!-- 500W generator -->
-            <div style="flex: 0 0 auto; max-width: 330px; margin-right: 10px" class="card mb-4">
-                <div class="card-header">
-                    <h4 class="my-0 font-weight-normal">Medium Offgrid Solar Kit</h4>
-                </div>
-                <div class="card-body">
-                    <a href="/solar-kit-500">
-                        <img class="lazy" data-src="/img_3/500 copy 2.jpg" />
-                    </a>
-                    <h3 class="card-title pricing-card-title">$599 <small class="text-muted">w/ Free shipping</small>
-                    </h3>
-                    <div class="d-grid gap-2">
-                        <a href="/solar-kit-500" class="btn btn-block btn-lg btn-primary">
-                            ☀️ Buy Now 〉
-                        </a>
-                    </div>
-                    <br/>
-                    <h5>What devices can <u>Medium</u> run?</h5>
-                    <img data-src="/img_3/what_will_it_run_2.jpg" class="lazy">
-                    <br />
-                    <br />
-                    <h5>Specs, power, wattage <a data-toggle="collapse" href="#collapsekit2" role="button" aria-expanded="false"
-                            aria-controls="collapsekit2">▽Show</a></h5>
-                    <div class="collapse " id="collapsekit2">
-                        <ul class="mb-0 ">
-                            <li>500W Generator (2 standard outlets)</li>
-                            <li>540Wh battery to store power after sunset.</li>
-                            <li>1 x 100W flexible solar panel.</li>
-                            <li>5 hours of sun (or wall-power) to recharge batteries.</li>
-                            <li>All zipties & snap cables (MC4) included. </li>
-                            <li>1-on-1 support included.</li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-            <!--    1000W Solar Generator -->
-            <div style="flex: 0 0 auto; max-width: 330px; margin-right: 10px" class="card mb-4">
-                <div class="card-header">
-                    <h4 class="my-0 font-weight-normal">Large Offgrid Solar Kit</h4>
-                </div>
-                <div class="card-body">
-                    <a href="/solar-kit-1000">
-                        <img data-src="/img_3/1000 copy 2.jpg" class="lazy" />
-                    </a>
-                    <h3 class="card-title pricing-card-title">$1,599 <small class="text-muted">w/ Free shipping</small>
-                    </h3>
-                    <div class="d-grid gap-2">
-                        <a href="/solar-kit-1000" class="btn btn-block btn-lg btn-primary">
-                            ☀️ Buy Now 〉
-                        </a>
-                    </div>
-                    <br />
-                    <h5>What devices can Large run?</h5>
-                    <img data-src="/img_3/what_will_it_run_3.jpg" class="lazy">
-                    <br/>
-                    <br/>
-                    <h5>Specs, power, wattage <a data-toggle="collapse" href="#collapsekit2" role="button" aria-expanded="false"
-                            aria-controls="collapsekit2">▽Show</a></h5>
-                    <div class="collapse" id="collapsekit2">
-                        <ul class="mb-0 ">
-                            <li>1000W Generator (2 standard outlet)</li>
-                            <li>1500Wh battery to store power after sunset.</li>
-                            <li>2 x 100W flexible solar panel.</li>
-                            <li>7.5 hours of sun (or wall-power) to recharge batteries.</li>
-                            <li>All zipties & snap cables (MC4) included. </li>
-                            <li>1-on-1 support included.</li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-            <!--    CUSTOM -->
-            <div style="flex: 0 0 auto; max-width: 330px; margin-right: 10px" class="card mb-4">
-                <div class="card-header">
-                    <h4 class="my-0 font-weight-normal">Custom Needs</h4>
-                </div>
-                <div class="card-body">
-                    <h5>Let us design your customized personal solar kit</h5>
-                    <p>Need something more powerful than our Large Kit (over 1000W continuous)? Reach out today and we can help you build a custom system.</p>
-                    <br />
-                    <div class="d-grid">
-                        <a href="mailto:hello@sunboxlabs.com" class="btn btn-block btn-lg btn-primary">
-                            ☀️ Contact Us 〉
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <h2 id="what_will_it_run" style="text-align: center">What will they run?</h2>
-    <div class="row no-gutters">
-        <div class="col-lg-12">
-            <p style="text-align: center">A fully charged generator will run:</p>
-            <img class="fit-image img-fluid lazy" data-src="/img_3/what_will_it_run.jpg" alt="" />
-        </div>
-    </div>
-    <hr />
-    <h2 id="what_will_it_run" style="text-align: center">Where to use?</h2>
-    <div class="row no-gutters">
-        <div class="col-lg-12">
-            <img class="fit-image img-fluid lazy" data-src="/img_3/use_cases_0.jpg" alt="" />
-        </div>
-    </div>
-    <hr />
-</div>
+It's a start. It will offset about a 3rd (or 1kWh) of an average apartment's energy consumption per day. That's about as much as your fridge, TV and WiFi consume throughout the day. 4.6% - 10% (depending on what's included) of total US emissions are [just these types of loads](https://www.nrdc.org/sites/default/files/home-idle-load-IP.pdf).
 
+#### 2) Will this system save me money?
 
-<section class="features-icons bg-white text-center" style="padding: 0px !important">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-12">
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-lg-4">
-                <img class="fit-image img-fluid lazy" data-src="/kit/img/ASSEMBLY1.jpg" alt="">
-                <h4>Fast delivery. Fully assembled. Everything's included. No tools required.</h4>
-            </div>
-            <div class="col-lg-4">
-                <img class="fit-image img-fluid lazy" data-src="/kit/img/ASSEMBLY2.jpg" alt="">
-                <h4>Silent - Use generator indoors or outdoors – even while it's charging.</h4>
-            </div>
-            <div class="col-lg-4">
-                <img class="fit-image img-fluid lazy" data-src="/img_3/we_help_you_install_2.jpg" alt="">
-                <h4>Premium Support - Video support if you get stuck. But it's so easy you won't.</h4>
-            </div>
-        </div>
-    </div>
-</section>
+Yes. Around $70 per year - depending on your state, hours of direct sun your panel gets and electricity cost in the grid (if electricity is expensive in your state, you will save more).
 
+#### 3) How much electricity will it make?
 
+In our tests in Northern California it will generate about 1kW per day on average. Your mileage may vary due to location and sun access. We will offer a calculator soon to get more info.
 
-<div class="container">
-    <hr />
-    <!-- TESTIMONIALS -->
-    <section class="testimonials bg-white">
-        <div class="container">
-            <h2 class="mb-5">Reviews</h2>
-            <div class="row" style="border-bottom: 1px solid lightgrey; padding-bottom: 10px; margin-bottom: 10px">
-                <div class="col-4 col-sm-3" >
-                    <div >
-                        <p>⭐️⭐️⭐️⭐️⭐️</p>
-                        <p style="color: lightgrey">3 weeks ago</p>
-                    </div>
-                </div>
-                <div class="col-8 col-sm-9">
-                    <div >
-                        <h5>Madison D. – Alexandria, VA - 300W Kit</h5>
-                        <p class="font-weight-light mb-0">I charged the battery kit from my home AC
-                            prior to a storm/trip etc. Then deploy the solar panels to re-charge.</p>
-                    </div>
-                </div>
-            </div>
-            <div class="row" style="border-bottom: 1px solid lightgrey; padding-bottom: 10px; margin-bottom: 10px">
-                <div class="col-4 col-sm-3" >
-                    <div >
-                        <p>⭐️⭐️⭐️⭐️</p>
-                        <p style="color: lightgrey">5 weeks ago</p>
-                    </div>
-                </div>
-                <div class="col-8 col-sm-9">
-                    <div >
-                        <h5>Nicholas E. – Cupertino, CA - 300W Kit</h5>
-                        <p class="font-weight-light mb-0">I've mounted the solar panels onto a big sheet of plywood and
-                            bring it out in case of power outage or earthquake (or when I want to show it off). We've
-                            had an on-roof solar system for 20 years, but it has no batteries and so goes out when our
-                            power does. I'd love to have an alternative for electronic items, lights, and even
-                            (temporarily) a fridge.</p>
-                    </div>
-                </div>
-            </div>
-            <div class="row" style="border-bottom: 1px solid lightgrey; padding-bottom: 10px; margin-bottom: 10px">
-                <div class="col-4 col-sm-3" >
-                    <div >
-                        <p>⭐️⭐️⭐️⭐️⭐️</p>
-                        <p style="color: lightgrey">2 months ago</p>
-                    </div>
-                </div>
-                <div class="col-8 col-sm-9">
-                    <div >
-                        <h5>Armin S. – Philadelphia, PA - 500W Kit</h5>
-                        <p class="font-weight-light mb-0">I'm a healthy mix of prepper and sustainability person.
-                            This scratches both itches.</p>
-                    </div>
-                </div>
-            </div>
-            <div class="row" style="border-bottom: 1px solid lightgrey; padding-bottom: 10px; margin-bottom: 10px">
-                <div class="col-4 col-sm-3" >
-                    <div >
-                        <p>⭐️⭐️⭐️⭐️⭐️</p>
-                        <p style="color: lightgrey">4 months ago</p>
-                    </div>
-                </div>
-                <div class="col-8 col-sm-9">
-                    <div >
-                        <h5>Sarah W. – Tenafly, NJ - 500W Kit</h5>
-                        <p class="font-weight-light mb-0">We've mainly been using this in our RV when we're off-grid
-                            for a few days... amazingly powerful.</p>
-                    </div>
-                </div>
-            </div>
-            <div class="row" style="border-bottom: 1px solid lightgrey; padding-bottom: 10px; margin-bottom: 10px">
-                <div class="col-4 col-sm-3" >
-                    <div >
-                        <p>⭐️⭐️⭐️⭐️⭐️</p>
-                        <p style="color: lightgrey">5 months ago</p>
-                    </div>
-                </div>
-                <div class="col-8 col-sm-9">
-                    <div >
-                        <h5>Lou F. – Houston, TX - 1000W Kit</h5>
-                        <p class="font-weight-light mb-0">My application is car camping / festivals and disaster prep.
-                            Living in Houston its a real possibility every hurricane season that I will be without
-                            power.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <hr />
-    <!-- HOW IT WORKS -->
-    <div class="row no-gutters">
-        <div class="col-12 col-md-10 offset-md-1">
-            <h2 id="how_it_works">How it works</h2>
-            <div id="myCarousel2" class="carousel" data-touch="true">
-                <div class="carousel-inner">
-                    <div class="active carousel-item" data-slide-number="0">
-                        <img class="lazy" data-src="/img_3/how_it_works_1.jpg" alt="">
-                    </div>
-                    <div class="carousel-item" data-slide-number="1">
-                        <img class="lazy" data-src="/img_3/how_it_works_2.jpg" alt="">
-                    </div>
-                    <div class="carousel-item" data-slide-number="2">
-                        <img class="lazy" data-src="/img_3/how_it_works_3.jpg" alt="">
-                    </div>
-                    <a class="carousel-control-prev" href="#myCarousel2" role="button" data-slide="prev">
-                        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                        <span class="visually-hidden">Previous</span>
-                    </a>
-                    <a class="carousel-control-next" href="#myCarousel2" role="button" data-slide="next">
-                        <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                        <span class="visually-hidden">Next</span>
-                    </a>
-                </div>
-            </div>
-        </div>
-    </div>
-    <hr />
-    <!-- HOW TO INSTALL -->
-    <div class="row no-gutters">
-        <div class="col-12 my-auto showcase-text">
-            <h2>How to install</h2>
-            <p class="lead mb-0"><b>We will walk you through these steps in a 1-on-1 video session, but here's a
-                    preview.
-            </p>
-        </div>
-        <div class="col-lg-12">
-            <div id="myCarousel" class="carousel" data-touch="true" data-ride="carousel">
-                <div class="carousel-inner">
-                    <div class="active carousel-item" data-slide-number="0">
-                        <img class="fit-image img-fluid " src="/kit/img/ASSEMBLY1.jpg" alt="">
-                    </div>
-                    <div class="carousel-item" data-slide-number="1">
-                        <img class="fit-image img-fluid " src="/kit/img/ASSEMBLY2.jpg" alt="">
-                    </div>
-                    <div class="carousel-item" data-slide-number="2">
-                        <img class="fit-image img-fluid " src="/kit/img/ASSEMBLY3.jpg" alt="">
-                    </div>
-                    <div class="carousel-item" data-slide-number="3">
-                        <img class="fit-image img-fluid " src="/kit/img/ASSEMBLY3-1.jpg" alt="">
-                    </div>
-                    <div class="carousel-item" data-slide-number="4">
-                        <img class="fit-image img-fluid " src="/kit/img/ASSEMBLY4.jpg" alt="">
-                    </div>
-                    <div class="carousel-item" data-slide-number="5">
-                        <img class="fit-image img-fluid " src="/kit/img/ASSEMBLY4-1.jpg" alt="">
-                    </div>
-                    <div class="carousel-item" data-slide-number="6">
-                        <img class="fit-image img-fluid " src="/kit/img/ASSEMBLY4-2.jpg" alt="">
-                    </div>
-                    <div class="carousel-item" data-slide-number="6">
-                        <img class="fit-image img-fluid " src="/kit/img/ASSEMBLY5.jpg" alt="">
-                    </div>
-                    <div class="carousel-item" data-slide-number="7">
-                        <img class="fit-image img-fluid " src="/kit/img/ASSEMBLY6.jpg" alt="">
-                    </div>
-                    <div class="carousel-item" data-slide-number="8">
-                        <img class="fit-image img-fluid " src="/kit/img/ASSEMBLY7.jpg" alt="">
-                    </div>
-                    <div class="carousel-item" data-slide-number="9">
-                        <img class="fit-image img-fluid " src="/kit/img/ASSEMBLY8.jpg" alt="">
-                    </div>
-                    <div class="carousel-item" data-slide-number="10">
-                        <img class="fit-image img-fluid " src="/kit/img/ASSEMBLY9.jpg" alt="">
-                    </div>
-                    <a class="carousel-control-prev" href="#myCarousel" role="button" data-slide="prev">
-                        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                        <span class="visually-hidden">Previous</span>
-                    </a>
-                    <a class="carousel-control-next" href="#myCarousel" role="button" data-slide="next">
-                        <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                        <span class="visually-hidden">Next</span>
-                    </a>
-                </div>
-                <!-- main slider carousel nav controls -->
-                <ul class="carousel-indicators list-inline mx-auto border px-2">
-                    <li class="list-inline-item active">
-                        <a id="carousel-selector-0" class="selected" data-slide-to="0" data-target="#myCarousel">
-                            <img class="fit-image img-fluid " src="/kit/img/ASSEMBLY1.jpg" alt="">
-                        </a>
-                    </li>
-                    <li class="list-inline-item">
-                        <a id="carousel-selector-1" data-slide-to="1" data-target="#myCarousel">
-                            <img class="fit-image img-fluid " src="/kit/img/ASSEMBLY2.jpg" alt="">
-                        </a>
-                    </li>
-                    <li class="list-inline-item">
-                        <a id="carousel-selector-2" data-slide-to="2" data-target="#myCarousel">
-                            <img class="fit-image img-fluid " src="/kit/img/ASSEMBLY3.jpg" alt="">
-                        </a>
-                    </li>
-                    <li class="list-inline-item">
-                        <a id="carousel-selector-3" data-slide-to="3" data-target="#myCarousel">
-                            <img class="fit-image img-fluid " src="/kit/img/ASSEMBLY3-1.jpg" alt="">
-                        </a>
-                    </li>
-                    <li class="list-inline-item">
-                        <a id="carousel-selector-4" data-slide-to="4" data-target="#myCarousel">
-                            <img class="fit-image img-fluid " src="/kit/img/ASSEMBLY4.jpg" alt="">
-                        </a>
-                    </li>
-                    <li class="list-inline-item">
-                        <a id="carousel-selector-5" data-slide-to="5" data-target="#myCarousel">
-                            <img class="fit-image img-fluid " src="/kit/img/ASSEMBLY4-1.jpg" alt="">
-                        </a>
-                    </li>
-                    <li class="list-inline-item">
-                        <a id="carousel-selector-6" data-slide-to="6" data-target="#myCarousel">
-                            <img class="fit-image img-fluid " src="/kit/img/ASSEMBLY4-2.jpg" alt="">
-                        </a>
-                    </li>
-                    <li class="list-inline-item">
-                        <a id="carousel-selector-7" data-slide-to="7" data-target="#myCarousel">
-                            <img class="fit-image img-fluid " src="/kit/img/ASSEMBLY5.jpg" alt="">
-                        </a>
-                    </li>
-                    <li class="list-inline-item">
-                        <a id="carousel-selector-8" data-slide-to="8" data-target="#myCarousel">
-                            <img class="fit-image img-fluid " src="/kit/img/ASSEMBLY6.jpg" alt="">
-                        </a>
-                    </li>
-                    <li class="list-inline-item">
-                        <a id="carousel-selector-9" data-slide-to="9" data-target="#myCarousel">
-                            <img class="fit-image img-fluid " src="/kit/img/ASSEMBLY7.jpg" alt="">
-                        </a>
-                    </li>
-                    <li class="list-inline-item">
-                        <a id="carousel-selector-10" data-slide-to="10" data-target="#myCarousel">
-                            <img class="fit-image img-fluid " src="/kit/img/ASSEMBLY8.jpg" alt="">
-                        </a>
-                    </li>
-                    <li class="list-inline-item">
-                        <a id="carousel-selector-11" data-slide-to="11" data-target="#myCarousel">
-                            <img class="fit-image img-fluid " src="/kit/img/ASSEMBLY9.jpg" alt="">
-                        </a>
-                    </li>
-                </ul>
-            </div>
-        </div>
+#### 4) Where can I put the panel?
+
+Here are our main suggestions but you can get creative! Let the sunlight inspire you!
+
+- Rooftop
+- Condos
+- Balconies
+- Backyards
+- Tiny houses
+
+#### 5) Is this a power Tesla Powerwall?
+
+No. This is more like a Tesla Solar install for apartment owners. The upside is that whenever you move, you can simply unplug the panels and take them with you!.
+
+#### 6) Will these work off-grid?
+
+No. These panels will only work when the grid is live. They will automatically disconnect if the grid goes out, as is mandated by all utilities in the USA.
+
+#### 7) Is there a battery?
+
+No. The electricity created goes straight into your home's electricity grid, and is used by devices 'behind your meter' that are drawing energy consistently, like your fridge, wifi, etc.
+
+#### 8) Can I sell the energy back to my utility?
+
+In theory, yes. But the permitting process is more complicated, so we'll leave this up to you. This 200W system designed to be small enough to be consistently used up by devices that are running on your home's grid during the day, so that it all gets used up and you don't have to worry about selling back to your utility and the regulation that comes with it.
+
+#### 9) Can I claim the tax rebate?
+
+We don't give tax advice. But in many cases, yes: this system qualifies for the 30% tax credit. So you can deduct 30% of the system's cost on your taxes if you qualify.
+
+#### 10) What kind of inverter does this include?
+
+A Pure-Sine MPPT 600W inverter.
+
+#### 11) What kind of plugs do the panels come with / can I expand with my own panels?
+
+MC4 connectors - so yes. You can expand with most panels out there up to the maximum voltage and amperage.
+
+#### 12) What size are the solar panels (solar panel size)
+
+The dimensions of the panels are 41.1 x 27.2 x 0.11 in, per panel. You can arrange them in your space as you like, as long as you hook them up to each other in series (won't get up to the necessary voltage for the inverter otherwise).
+
+---
+
+Original article:
+
+## The Landlord-Friendly, Self-Install Solar Kit for your Apartment, Condo, Balcony or Back Yard
+
+#### The problem
+
+Apartment renters need the landlord’s permission to install anything on their rooftops. This makes installing solar difficult for people who rent. Because most of the world lives in urbanized areas where renting is common, I think this is a problem standing in the way of solar adoption.
+
+<img src="/solar-kit/img/PROBLEM.png" />
+
+An additional speed bump is the complexity of installing solar: regulation around net-metering. Grid-tied systems. Installation permits (even if you do own your property). Getting quotes from different installers. Solar financing. All complex processes inherited from the construction industry which slow down mass private adoption of renewables.
+
+We attempt to bypass both these problems by building a standalone solar power plant on your windowsill, rooftop or back yard with off-the-shelf parts, and discuss the pros and cons of this approach to solar.
+
+---
+
+#### A possible solution
+
+A windowsill solar system we install ourselves solves both problems at once: Renters don’t need permission from their landlords to place things on their windowsill and rooftops if it’s not altering the building, and it’s a one-click, direct purchase with no regulation as long as the energy's used up by your own apartment with constant loads like fridge, wifi, etc (which this one is designed not to be). Two birds with one stone. This makes the solar buying process more like buying a consumer electronic.
+
+<img src="/solar-kit/img/press_icons.png" />
+
+Our mission is to make purchasing solar/storage as easy as purchasing any other consumer electronic, as we believe in a **bottom-up approach**: once renewable energy does not require a professional it will spread as rapidly as other consumer electronics like satellite dishes and window AC units, etc.
+
+<img src="/solar-kit/img/SOLUTION.jpg" alt="Satellite Photo by Paweł Czerwiński | Air Conditioner Photo by Chromatograph" />
+<p style="margin-left: 10px; text-align: center"><small>Solar as a modular consumer electronic - like satellite dishes and air conditioning? (Satellite Photo by Paweł Czerwiński | Air Conditioner Photo by Chromatograph)</small></p>
+
+What if decentralized electric generation could be added room by room to a household (like window A/C units)?
+
+If we look to the car, the smartphone, the window A/C unit — these devices spread like wildfire across the globe because they were off-the-shelf products that required no configuration but great benefits. Identical appliances were churned out at an industrial scale for a global audience. They were “plug n play”. Plug n play solar has been around for a while, but has never taken off (probably because behind-the-meter power is still sketchy and poorly understood). The potential for plug n play solar is huge — it could mean cheap, zero-configuration solar energy spreading to consumers at the pace of the smartphone, the car or air-conditioning.
+
+  <div class="row">
+      <div class="col-12">
+        <h4>Why DIY Plug-In Solar:</h4>
+      </div>
+      <div class="col-6 center">
+        <img src="/solar-kit/img/benefits2.png" class="icon" />
+        <h4>Apartment<br/>Compatible.</h4>
+        <p>Moving? Take it with you. Roof damage? Never.</p>
+      </div>
+      <div class="col-6 center">
+        <img src="/solar-kit/img/benefits1.png" class="icon" />
+        <h4>Easy<br/>Install.</h4>
+        <p>Electrician-free. Permit-free. Screwdriver-free.</p>
+      </div>
+      <div class="col-6 center">
+        <img src="/solar-kit/img/benefits5.png" class="icon" />
+        <h4>Live in the Future.</h4>
+        <p>Make your own energy. Be independent.</p>
+      </div>
+      <div class="col-6 center">
+        <img src="/solar-kit/img/benefits3.png" class="icon" />
+        <h4>Do your part.</h4>
+        <p>Offsets a 3rd of a standard apartment's CO2 footprint.</p>
+      </div>
+      <div class="col-6 center">
+        <img src="/solar-kit/img/benefits6.png" class="icon" />
+        <h4>Pays for itself</h4>
+        <p>Generates energy of around $70 per year.</p>
+      </div>
     </div>
 
+<h4 id="shipping">Shipping & Order Details</h4>
 
+Free shipping anywhere in the US. You will receive a follow-up email with exact instructions.
 
+Questions or want to say hello? Send to hello@sunboxlabs.com.
 
-
-</div>
-
-
-
-<!-- <div style="position: fixed; bottom: 10px; right: 10px">
-    <a href="mailto:hello@sunboxlabs.com">
-        <div class="shadows btn btn-primary" style="height: 55px; width: 55px; border-radius: 30px; ">
-            <i style="color: white; margin-top: 13px; margin-left: 5px;" class="gg-mail"></i>
-        </div>
-    </a>
-</div> -->
-
-<!-- Twitter universal website tag code -->
-<!-- <script>
-!function(e,t,n,s,u,a){e.twq||(s=e.twq=function(){s.exe?s.exe.apply(s,arguments):s.queue.push(arguments);
-},s.version='1.1',s.queue=[],u=t.createElement(n),u.async=!0,u.src='//static.ads-twitter.com/uwt.js',
-a=t.getElementsByTagName(n)[0],a.parentNode.insertBefore(u,a))}(window,document,'script');
-// Insert Twitter Pixel ID and Standard Event data below
-twq('init','o3znq');
-// twq('track','PageView');
-</script> -->
-<!-- End Twitter universal website tag code -->
-
-
-<!-- <script type="text/javascript">
-    var button = document.getElementById('buy1');
-    button.addEventListener(
-        'click',
-        function () {
-            fbq('track', 'InitiateCheckout');
-            // twq('track','Purchase', {value: '499.00',currency: 'USD',num_items: '1'});
-            // ga('send', 'event', 'Checkout', 'clicked', 'Solar Kit');
-            gtag('event', 'Checkout Clicked Solar Kit')
-        },
-        false
-    );
-    var button3 = document.getElementById('buy3');
-    button3.addEventListener(
-        'click',
-        function () {
-            fbq('track', 'InitiateCheckout');
-            // twq('track','Purchase', {value: '499.00',currency: 'USD',num_items: '1'});
-            // ga('send', 'event', 'Checkout', 'clicked', 'Solar Kit');
-            gtag('event', 'Checkout Clicked Solar Kit')
-        },
-        false
-    );
-    var button5 = document.getElementById('buy5');
-    button5.addEventListener(
-        'click',
-        function () {
-            fbq('track', 'InitiateCheckout');
-            // twq('track','Purchase', {value: '499.00',currency: 'USD',num_items: '1'});
-            // ga('send', 'event', 'Checkout', 'clicked', 'Solar Kit');
-            gtag('event', 'Checkout Clicked Solar Kit')
-        },
-        false
-    );
-</script> -->
-
+Due to popular demand, we have decided to offer **grid-tied solar kits** with **hand-picked** and **tested** components guaranteed to work reliably together, distributed, sold and supported by sunboxlabs. If you'd prefer, you can still order components separately and assemble them yourself. This system is around 5x more powerful than the other ones on the site. We tried to build the best system we possibly could at the lowest possible price.
