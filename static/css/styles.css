@@ -1,4 +1,7 @@
 
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif
+}
 
 .gg-mail,
 .gg-mail::after {
@@ -75,7 +78,6 @@ left: 0
 /* LANDING PAGE STYLES */
 
  body {
-    font-family: 'Montserrat', sans-serif;
     font-weight: 200;
   }
 
@@ -85,7 +87,6 @@ left: 0
   h4,
   h5,
   h6 {
-    font-family: 'Montserrat', sans-serif;
     font-weight: 700;
   }
 
