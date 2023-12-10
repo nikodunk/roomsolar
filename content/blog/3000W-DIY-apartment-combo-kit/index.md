@@ -2,7 +2,7 @@
 layout: post
 title: 3000W DIY solar battery kit that will run your whole apartment
 date: 2023-12-09T21:45:08.609Z
-image: /img_cms/2000w-diy-solar-parts-kit.jpg
+image: blog/3000W-DIY-apartment-combo-kit/combo-kit.png
 type: post
 draft: false
 ---
