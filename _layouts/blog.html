@@ -1,0 +1,38 @@
+---
+layout: base
+---
+
+<div class="main-content mt-5 mb-5" style="margin: 0 auto; max-width: 1000px">
+  <h3>Sunboxlabs Blog</h3>
+
+  <p>
+    Sunboxlabs started as a blog of DIY guides & user submitted kits. We only
+    then started selling the kits ourselves. Here are some of the best ones.<br />
+    If you have a DIY kit you'd like to get featured on the blog, please send it
+    in to <a href="mailto:hello@sunboxlabs.com">hello@sunboxlabs.com</a>. <br />
+    Also, if you own or are thinking about owning a Tesla or EV, be sure to
+    check out
+    <a href="https://www.electrade.app" taget="_blank">Electrade.app</a>.
+  </p>
+
+  <div class="container" style="display: flex; flex-wrap: wrap">
+    {% for post in site.writing reversed %}
+    <article
+      style="margin-bottom: 1rem; flex-grow: 1; width: 33%; padding: 10px"
+    >
+      <a style="color: #333333" href="{{ post.url | absolute_url }}">
+        <img src="/assets/{{ post.image }}" />
+        <div style="flex: 1">
+          <h6 style="color: #555555" class="">
+            {% assign date_format = site.date_format | default: "%b %-d, %Y" %}
+            {{ post.date | date: date_format }}
+          </h6>
+        </div>
+        <div style="flex: 3">
+          <p style="font-size: 1.25rem">{{ post.title }}</p>
+        </div>
+      </a>
+    </article>
+    {% endfor %}
+  </div>
+</div>

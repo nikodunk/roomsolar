@@ -1,0 +1,10 @@
+title: sunboxlabs
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://sunboxlabs.c.com" # the base hostname & protocol for your site, e.g. http://example.com
+collections:
+  landingpages:
+    output: true
+    permalink: /:path
+  writing:
+    output: true
+    permalink: /blog/:path
