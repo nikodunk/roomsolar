@@ -1,8 +1,9 @@
 ---
-title: "Contact"
-layout: post
+layout: page
+title: 'Contact'
 ---
 
+<h3>Contact</h3>
 
 <div class="main-content">
     <section class="recent-posts">            
@@ -11,4 +12,4 @@ layout: post
             <a class="btn btn-primary" href="mailto:hello@sunboxlabs.com">Email Us</a>
         </div>
     </section>
-</div>    
+</div>

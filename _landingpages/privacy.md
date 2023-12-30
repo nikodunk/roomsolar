@@ -1,5 +1,4 @@
 ---
-layout: post
-title:  "Privacy"
-comments: true
+layout: page
+title: 'Privacy'
 ---

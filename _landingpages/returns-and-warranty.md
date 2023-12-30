@@ -1,12 +1,11 @@
 ---
-layout: post
-title:  "Refunds, Returns and Warranty"
-comments: true
+layout: page
+title: 'Refunds, Returns and Warranty'
 ---
+
 ### Refund Policy
 
 Money-back guarantee – We will refund you in full no questions asked before we ship your product. After we have shipped the product, see our Return Policy.
-
 
 ### Return Policy
 

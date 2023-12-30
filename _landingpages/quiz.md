@@ -1,16 +1,12 @@
 ---
-title: "Take the quiz to find out how much solar power you need"
-layout: post
+layout: page
+title: 'Take the quiz to find out how much solar power you need'
 ---
-
 
 <h2>Off-grid solar system sizing tool</h2>
 <h4>Take the quiz to find the right system size for you</h4>
 
-
 <div id="root"></div>
-
-
 
 We generally receive a lot of questions regarding what our kits will run. This tool here is an attempt to help you answer these questions for yourself and try out various scenarios of what you could run.
 

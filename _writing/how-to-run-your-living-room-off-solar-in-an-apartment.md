@@ -1,12 +1,13 @@
 ---
 layout: post
-title: "Video: How to run your living room off solar in an apartment"
+title: 'Video: How to run your living room off solar in an apartment'
 date: 2020-11-06T18:40:23.980Z
 image: /img_cms/my-apartment-solar-kit.jpg
 type: post
 draft: false
 ---
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/XOsCX6yUe44" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="100%" height="315" src="/assetshttps://www.youtube.com/embed/XOsCX6yUe44" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 As you know, sunboxlabs [started](https://sunboxlabs.com/about) when Niko built his first DIY apartment solar system from components.
 

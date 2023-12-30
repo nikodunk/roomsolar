@@ -3,5 +3,11 @@
   "editor.formatOnSave": true,
   "[javascript]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[markdown]": {
+    "editor.defaultFormatter": "numso.prettier-standard-vscode"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "numso.prettier-standard-vscode"
   }
 }

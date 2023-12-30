@@ -1,15 +1,15 @@
 ---
 layout: post
-title:  "New: We now sell kits directly!"
-date:   2020-06-20 08:00:00 -0700
-image: "banner.jpg"
-type: "post"
+title: 'New: We now sell kits directly!'
+date: 2020-06-20 08:00:00 -0700
+image: 'banner.jpg'
+type: 'post'
 comments: true
 ---
 
-![](/banner.jpg)
+![](/assets/banner.jpg)
 
-After watching the DIY home solar market for many years, we have now started selling kits directly. The prices for lithium powered batteries has come way down, as has the price for solar. 
+After watching the DIY home solar market for many years, we have now started selling kits directly. The prices for lithium powered batteries has come way down, as has the price for solar.
 
 We can now offer flexible solar panels (great for DIY, easy to ship) with big Lithium-based systems with powerful integrated inverters (vs. the Lead-acid systems with non-integrated inverters previously featured on this site and on the older posts).
 

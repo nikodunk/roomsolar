@@ -1,95 +1,83 @@
 ---
 layout: post
-title:  "$200 Solar Self-Sufficiency – without your landlord noticing"
-date:   2017-06-20 08:00:00 -0700
-image: "/img/money1.jpg"
-type: "post"
+title: '$200 Solar Self-Sufficiency – without your landlord noticing'
+date: 2017-06-20 08:00:00 -0700
+image: '/img/money1.jpg'
+type: 'post'
 comments: true
 ---
 
-<img class="" src="/img/TEASER.jpg"/>
+<img class="" src="/assets/img/TEASER.jpg"/>
 
 #### Building a solar micro-grid in my bedroom with parts from Amazon
 
------
+---
 
 ### The problem
 
 Apartment renters need the landlord’s permission to install anything on their rooftops. This makes installing solar difficult for people who rent. Because most of the world lives in urbanized areas where renting is common, I think this is a problem standing in the way of solar adoption.
 
-<img class="" src="/img/PROBLEM.png"/>
+<img class="" src="/assets/img/PROBLEM.png"/>
 
 An additional speed bump is the complexity of installing solar: regulation around net-metering. Grid-tied systems. Installation permits (even if you do own your property). Getting quotes from different installers. Solar financing. All complex processes inherited from the construction industry which slow down mass private adoption of renewables.
 
 In the following I attempt to bypass both these problems by building a standalone solar power plant on my windowsill with off-the-shelf Amazon parts, and discuss the pros and cons of this approach to solar.
 
-
-
 ### A possible solution
 
 A windowsill solar system bought off Amazon solves both problems at once: Renters don’t need permission from their landlords to place things on their windowsill and rooftops if it’s not altering the building, and it’s a one-click Amazon purchase with no regulation as long as it’s not tied to the grid (which mine is designed not to be). Two birds with one stone. This makes the solar buying process more like buying a consumer electronic.
 
-<img class="lazy" data-src="/img/TEASER.jpg"/>
+<img class="lazy" data-src="/assets/img/TEASER.jpg"/>
 
 Questions remain. Can this system make any meaningful energy? Does it make financial sense?
-
-
-
 
 ### How-To Guide
 
 My goal is to take care of the energy needs for just my bedroom. 4 main components are all we need to achieve this: A solar panel to collect, a battery to store, an inverter to convert the direct current to alternating current, and a “charge controller” to balance the three other components.
 
+---
 
+# The Kit (updated Nov 2020)
 
----------
+We've updated this kit below. Three main changes have happened in the 3 years since this was written:
 
-
-The Kit (updated Nov 2020)
-===============
-
-We've updated this kit below. Three main changes have happened in the 3 years since this was written: 
-* We've upgraded the inverter from a 100W to a 150W. 
-* We've upgraded the battery from a 420Wh Deep Cycle Lead-Acid battery (about 100Wh usable capacity) to a 192Wh LiFePO (Lithium Iron Phosphate) battery (192Wh usable capacity, or double the lead-acid) as the lithium batteries are coming down in price faster than lead acid batteries are. We were unsure on whether to update these three changes into this original article or write a whole new one, but decided to update the original as this is the one that most people will find on search.
-* Prices are down (despite the above two upgrades!) from the original $211 to $201.
+- We've upgraded the inverter from a 100W to a 150W.
+- We've upgraded the battery from a 420Wh Deep Cycle Lead-Acid battery (about 100Wh usable capacity) to a 192Wh LiFePO (Lithium Iron Phosphate) battery (192Wh usable capacity, or double the lead-acid) as the lithium batteries are coming down in price faster than lead acid batteries are. We were unsure on whether to update these three changes into this original article or write a whole new one, but decided to update the original as this is the one that most people will find on search.
+- Prices are down (despite the above two upgrades!) from the original $211 to $201.
 
 <h4 style="color: #00ab6b">Parts Cost on Amazon: $201</h4>
 
 ### Solar Panel
 
-
 <div style="width: 100%; text-align: center">
-  <a href="https://www.amazon.com/gp/product/B018BMGTTO/ref=as_li_ss_il?ie=UTF8&linkCode=li3&tag=gridlesskits-20&linkId=2e00bb9fda5d21e4ce5e561e0f0ba1de&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B018BMGTTO&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=gridlesskits-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=gridlesskits-20&language=en_US&l=li3&o=1&a=B018BMGTTO" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <a href="https://www.amazon.com/gp/product/B018BMGTTO/ref=as_li_ss_il?ie=UTF8&linkCode=li3&tag=gridlesskits-20&linkId=2e00bb9fda5d21e4ce5e561e0f0ba1de&language=en_US" target="_blank"><img border="0" src="/assets//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B018BMGTTO&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=gridlesskits-20&language=en_US" ></a><img src="/assetshttps://ir-na.amazon-adsystem.com/e/ir?t=gridlesskits-20&language=en_US&l=li3&o=1&a=B018BMGTTO" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
   <br/><br/><br/>
   <a onclick="gtag('event','Amazon Affiliate clicked')" class="btn btn-primary btn-lg" target="_blank" style="background-color: orange; border: none" href="https://www.amazon.com/gp/product/B018BMGTTO/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=gridlesskits-20&linkId=c6d8f2abe67b72e987485050f2171c17&language=en_US" >Check latest price on Amazon</a>
 </div>
 <hr/>
 
-
 ### Cable
 
 <div style="width: 100%; text-align: center">
-  <a href="https://www.amazon.com/gp/product/B07XLHRC44/ref=as_li_ss_il?ie=UTF8&linkCode=li3&tag=gridlesskits-20&linkId=0d57ae36c607e95cbbd07ecc93e7abe7&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07XLHRC44&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=gridlesskits-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=gridlesskits-20&language=en_US&l=li3&o=1&a=B07XLHRC44" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <a href="https://www.amazon.com/gp/product/B07XLHRC44/ref=as_li_ss_il?ie=UTF8&linkCode=li3&tag=gridlesskits-20&linkId=0d57ae36c607e95cbbd07ecc93e7abe7&language=en_US" target="_blank"><img border="0" src="/assets//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07XLHRC44&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=gridlesskits-20&language=en_US" ></a><img src="/assetshttps://ir-na.amazon-adsystem.com/e/ir?t=gridlesskits-20&language=en_US&l=li3&o=1&a=B07XLHRC44" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
   <br/><br/><br/>
   <a onclick="gtag('event','Amazon Affiliate clicked')" class="btn btn-primary btn-lg" target="_blank" style="background-color: orange; border: none" href="https://www.amazon.com/gp/product/B07XLHRC44/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=gridlesskits-20&linkId=93ad42e216ae44dedd5c3c07f95631cb&language=en_US" >Check latest price on Amazon</a>
 </div>
 <hr/>
 
-
 ### Solar Controller (Renogy Wanderer)
 
 <div style="width: 100%; text-align: center">
-  <a href="https://www.amazon.com/dp/B07G1PL1B9/ref=as_li_ss_il?ie=UTF8&linkCode=li3&tag=gridlesskits-20&linkId=8f074996437c23566a6e18c9865dc19a&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07G1PL1B9&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=gridlesskits-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=gridlesskits-20&language=en_US&l=li3&o=1&a=B07G1PL1B9" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <a href="https://www.amazon.com/dp/B07G1PL1B9/ref=as_li_ss_il?ie=UTF8&linkCode=li3&tag=gridlesskits-20&linkId=8f074996437c23566a6e18c9865dc19a&language=en_US" target="_blank"><img border="0" src="/assets//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07G1PL1B9&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=gridlesskits-20&language=en_US" ></a><img src="/assetshttps://ir-na.amazon-adsystem.com/e/ir?t=gridlesskits-20&language=en_US&l=li3&o=1&a=B07G1PL1B9" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
   <br/><br/><br/>
   <a onclick="gtag('event','Amazon Affiliate clicked')" class="btn btn-primary btn-lg" target="_blank" style="background-color: orange; border: none" href="https://www.amazon.com/dp/B07G1PL1B9/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=gridlesskits-20&linkId=b7b9dae1657555f7e71ee6a99b48cf76&language=en_US" >Check latest price on Amazon</a>
 </div>
 <hr/>
 
-
 ### Cable 2
 
 <div style="width: 100%; text-align: center">
-  <a href="https://www.amazon.com/gp/product/B073QHW2RD/ref=as_li_ss_il?ie=UTF8&linkCode=li3&tag=gridlesskits-20&linkId=737625facd32d3c145d388ca4fc360c7&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B073QHW2RD&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=gridlesskits-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=gridlesskits-20&language=en_US&l=li3&o=1&a=B073QHW2RD" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <a href="https://www.amazon.com/gp/product/B073QHW2RD/ref=as_li_ss_il?ie=UTF8&linkCode=li3&tag=gridlesskits-20&linkId=737625facd32d3c145d388ca4fc360c7&language=en_US" target="_blank"><img border="0" src="/assets//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B073QHW2RD&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=gridlesskits-20&language=en_US" ></a><img src="/assetshttps://ir-na.amazon-adsystem.com/e/ir?t=gridlesskits-20&language=en_US&l=li3&o=1&a=B073QHW2RD" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
   <br/><br/><br/>
   <a onclick="gtag('event','Amazon Affiliate clicked')" class="btn btn-primary btn-lg" target="_blank" style="background-color: orange; border: none" href="https://www.amazon.com/gp/product/B073QHW2RD/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=gridlesskits-20&linkId=0f1356e04d3af4fe900a029b4a20dcda&language=en_US" >Check latest price on Amazon</a>
 </div>
@@ -98,81 +86,68 @@ We've updated this kit below. Three main changes have happened in the 3 years si
 ### ~~Lead-Acid~~ Lithium Iron Phosphate Deep Cycle Battery
 
 <div style="width: 100%; text-align: center">
-  <a href="https://www.amazon.com/gp/product/B07X7MD2JK/ref=as_li_ss_il?ie=UTF8&linkCode=li3&tag=gridlesskits-20&linkId=15b57c5a927985b444b3057e2a366463&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07X7MD2JK&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=gridlesskits-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=gridlesskits-20&language=en_US&l=li3&o=1&a=B07X7MD2JK" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <a href="https://www.amazon.com/gp/product/B07X7MD2JK/ref=as_li_ss_il?ie=UTF8&linkCode=li3&tag=gridlesskits-20&linkId=15b57c5a927985b444b3057e2a366463&language=en_US" target="_blank"><img border="0" src="/assets//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07X7MD2JK&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=gridlesskits-20&language=en_US" ></a><img src="/assetshttps://ir-na.amazon-adsystem.com/e/ir?t=gridlesskits-20&language=en_US&l=li3&o=1&a=B07X7MD2JK" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
   <br/><br/><br/>
   <a onclick="gtag('event','Amazon Affiliate clicked')" class="btn btn-primary btn-lg" target="_blank" style="background-color: orange; border: none" href="https://www.amazon.com/gp/product/B07X7MD2JK/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=gridlesskits-20&linkId=56e4c9e1700d469d8c1dd6707edf21ab&language=en_US" >Check latest price on Amazon</a>
 </div>
 <hr/>
 
-
 ### ~~100W~~ 150W Inverter
 
 <div style="width: 100%; text-align: center">
-  <a href="https://www.amazon.com/gp/product/B0774K7XRD/ref=as_li_ss_il?ie=UTF8&linkCode=li3&tag=gridlesskits-20&linkId=1125577418f9053bd674dad1e2d654b2&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0774K7XRD&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=gridlesskits-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=gridlesskits-20&language=en_US&l=li3&o=1&a=B0774K7XRD" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <a href="https://www.amazon.com/gp/product/B0774K7XRD/ref=as_li_ss_il?ie=UTF8&linkCode=li3&tag=gridlesskits-20&linkId=1125577418f9053bd674dad1e2d654b2&language=en_US" target="_blank"><img border="0" src="/assets//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0774K7XRD&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=gridlesskits-20&language=en_US" ></a><img src="/assetshttps://ir-na.amazon-adsystem.com/e/ir?t=gridlesskits-20&language=en_US&l=li3&o=1&a=B0774K7XRD" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
   <br/><br/><br/>
   <a onclick="gtag('event','Amazon Affiliate clicked')" class="btn btn-primary btn-lg" target="_blank" style="background-color: orange; border: none" href="https://www.amazon.com/gp/product/B0774K7XRD/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=gridlesskits-20&linkId=bf189e14d5d905af8fc7b6523b501ed3&language=en_US" >Check latest price on Amazon</a>
 </div>
 <hr/>
 
-
---------
-
-   
+---
 
 I'm using bargain-basement parts intended for RV, marine & car usage which keeps my system cheap and mobile. The main components as found on Amazon are above.
 
-
-<img class="lazy" data-src="/img/BOXES.jpg"/>   |  <img class="lazy" data-src="/img/COMPONENTS.jpg"/>
-:-------------------------:|:-------------------------:
-						   |
+| <img class="lazy" data-src="/assets/img/BOXES.jpg"/> | <img class="lazy" data-src="/assets/img/COMPONENTS.jpg"/> |
+| :--------------------------------------------------: | :-------------------------------------------------------: |
+|                                                      |
 
 I ordered the system on July 2nd, and with ground shipping the PV panel arrived July 11th from Canada, and the battery, wiring, controller and inverter arrived July 15th from Amazon USA.
 
-
-<a href="/"><img class="lazy" data-src="/banner.jpg"/></a>
+<a href="/"><img class="lazy" data-src="/assets/banner.jpg"/></a>
 
 ### Assembly
 
 Hopefully you can adapt my system to your spatial situation pretty easily:
 
-<img class="lazy" data-src="/img/ASSEMBLY1.jpg"/> | <img class="lazy" data-src="/img/ASSEMBLY2.jpg"/>
-:---------------------------:|:-------------------------:
-							 |
+| <img class="lazy" data-src="/assets/img/ASSEMBLY1.jpg"/> | <img class="lazy" data-src="/assets/img/ASSEMBLY2.jpg"/> |
+| :------------------------------------------------------: | :------------------------------------------------------: |
+|                                                          |
 
-
-<img class="lazy" data-src="/img/ASSEMBLY3.jpg"/>
+<img class="lazy" data-src="/assets/img/ASSEMBLY3.jpg"/>
 
 <b>Step 1</b> Cut and lay bare the end of the battery & inverter wires (battery disconnected, please). The panel’s wires are already bare on one end. Do a dry run connecting battery, inverter and panel to the controller — it should look like above. The striped wire of the inverter cable is the positive, the unmarked is negative FYI.
 
-<img class="lazy" data-src="/img/ASSEMBLY4.jpg"/>
+<img class="lazy" data-src="/assets/img/ASSEMBLY4.jpg"/>
 
-
-<img class="lazy" data-src="/img/ASSEMBLY4-1.jpg"/> | <img class="lazy" data-src="/img/ASSEMBLY4-2.jpg"/>
-:-----------------------------:|:-------------------------:
-							   |
+| <img class="lazy" data-src="/assets/img/ASSEMBLY4-1.jpg"/> | <img class="lazy" data-src="/assets/img/ASSEMBLY4-2.jpg"/> |
+| :--------------------------------------------------------: | :--------------------------------------------------------: |
+|                                                            |
 
 <b>Step 2</b> Detach the panel wires again and place the panel on the rooftop or wherever you get the most sunlight (…garden …balcony …). Attach the panel to something: I zip-tied the back of the panel to a cable which I fastened on both ends around sturdy roof pipes...
 
-<img class="lazy" data-src="/img/ASSEMBLY5.jpg"/> | <img class="lazy" data-src="/img/ASSEMBLY6.jpg"/>
-:-----------------------------:|:-------------------------:
-							   |
-
+| <img class="lazy" data-src="/assets/img/ASSEMBLY5.jpg"/> | <img class="lazy" data-src="/assets/img/ASSEMBLY6.jpg"/> |
+| :------------------------------------------------------: | :------------------------------------------------------: |
+|                                                          |
 
 ...and run the power lines back to your apartment (drop down the facade and into the window in my case).
 
-<img class="lazy" data-src="/img/INSIDE.jpg"/>
+<img class="lazy" data-src="/assets/img/INSIDE.jpg"/>
 
 <b>Step 3</b> Assemble the solar controller, inverter and battery into a tighter package. Re-clamp the wire from the panel to the solar controller and close the window. It should look as above. The charge begins!
 
-<img class="lazy" data-src="/img/SELF-SUFFICIENCY.jpg"/>
+<img class="lazy" data-src="/assets/img/SELF-SUFFICIENCY.jpg"/>
 
 In the evening, turn on the inverter. My lamp, computer, tablet & phone are all being powered simultaneously here on the day’s solar charge! Self sufficiency achieved?
 
-
-
 ### One month of off-grid living in my room
-
-
 
 In San Francisco we get 4.26 hours of usable sunshine a day (or 1156 hours a year) according to Google Sunroof. My battery holds 420Wh (12V x 35Ah), and should be filled once a day without any shading. Actual production is an average 350Wh/day on the rooftop with real-world shading and loss.
 
@@ -188,43 +163,33 @@ In San Francisco we get 4.26 hours of usable sunshine a day (or 1156 hours a yea
 
     Total: 82Wh energy need per day in room (up to 382Wh)
 
-This should be easily met by the solar system. I turn the inverter on when I get home to use AC lights and charge the Macbook through the power brick, and turn it off before I go to bed to avoid energy drain. My phone’s USB (which is direct current) can charge all night straight through the solar controller itself (which has USB ports) and doesn’t require the inverter. My laptop is a DC device and could be charged straight off the 12V battery, but I found it easier to just charge it with the AC power brick through the inverter. More info on what you can run off the system in the follow-up article [here](/what-will-solar-run)
+This should be easily met by the solar system. I turn the inverter on when I get home to use AC lights and charge the Macbook through the power brick, and turn it off before I go to bed to avoid energy drain. My phone’s USB (which is direct current) can charge all night straight through the solar controller itself (which has USB ports) and doesn’t require the inverter. My laptop is a DC device and could be charged straight off the 12V battery, but I found it easier to just charge it with the AC power brick through the inverter. More info on what you can run off the system in the follow-up article [here](/assets/what-will-solar-run)
 
-<img class="lazy" data-src="/img/GENERATION.jpg"/> | <img class="lazy" data-src="/img/GENERATION2.jpg"/>
-:-----------------------------:|:-------------------------:
-							   |
+| <img class="lazy" data-src="/assets/img/GENERATION.jpg"/> | <img class="lazy" data-src="/assets/img/GENERATION2.jpg"/> |
+| :-------------------------------------------------------: | :--------------------------------------------------------: |
+|                                                           |
 
 My traditional AC lamp is a non-optimized part of the system— I could get DC lights that run off USB to avoid inverting that energy, but have not done so thus far and prefer to just use the cute little thing. When I go to bed I’ve usually used around 30% of the energy anyway— I wish I could run a water heater, heating or fridge off this system to use the excess 270Wh of the daily energy production.
 
-
-
-
-
-
 ### Learnings and Outlook
-
 
 This project started with a simple idea: What if energy generation was a consumer electronic you could order off Amazon? I’ve learned that basic electrical knowledge and a little assembly bring us very close to this ideal: Self-contained renewable lighting and charging is achieved with a simple setup off Amazon.
 
-<img class="lazy" data-src="/img/FINAL.jpg"/> | <img class="lazy" data-src="/img/FINAL2.jpg"/>
-:-----------------------------:|:-------------------------:
-							   |
+| <img class="lazy" data-src="/assets/img/FINAL.jpg"/> | <img class="lazy" data-src="/assets/img/FINAL2.jpg"/> |
+| :--------------------------------------------------: | :---------------------------------------------------: |
+|                                                      |
 
 Unless you live on an RV or a boat it doesn’t make financial sense yet (see epilogue #1). But if prices come down a little more (what a difference the last year made!) or manufacturing gets a bit more resource-efficient the scales could tip and this could be a green and fiscally sensible solution (see epilogue #2). And some time in the next decade this great little DIY system that can function as a back-up system today (see epilogue #3) could become a viable consumer electronic: a cheap personal power plant for urban renters.
-
-
 
 ### Outlook
 
 What if autonomous electric generation could be added room by room to a household (like window A/C units)? We could outfit all 7 rooms of my (shared) household for around $1400 with this system today. Because the kitchen and bathrooms have way higher energy usages (fridge, stove, water heater) than the other rooms, a more sophisticated system could mesh the batteries together (wirelessly?) to create a stronger system that sends power to the rooms that need it most. This system could also discharge the batteries systematically as the price of grid power changes and the sun moves around the house.
 
-<img class="lazy" data-src="/img/DISHES.jpg"/> | <img class="lazy" data-src="/img/AC.jpg"/>
-:-----------------------------:|:-------------------------:
-							   |
+| <img class="lazy" data-src="/assets/img/DISHES.jpg"/> | <img class="lazy" data-src="/assets/img/AC.jpg"/> |
+| :---------------------------------------------------: | :-----------------------------------------------: |
+|                                                       |
 
 Solar as a modular consumer electronic — like air conditioning and satellite dishes? If we look to the car, the smartphone, the window A/C unit — these devices spread like wildfire across the globe because they were off-the-shelf products that required no configuration but great benefits. Identical appliances were churned out at an industrial scale for a global audience. They were “plug n play”. Plug n play solar has been around for a while, but has never taken off (probably because behind-the-meter power is still sketchy and poorly understood). The potential for plug n play solar is huge — it could mean cheap, zero-configuration solar energy spreading to consumers at the pace of the smartphone, the car or air-conditioning. This could be a cool Kickstarter project in the future… or a just fun DIY project today.
-
-
 
 ### Financial Payback & Embodied Energy
 
@@ -246,8 +211,6 @@ The financial payback of the system is 8 years including battery, which is in li
 
 Note however that after 8 years of daily use the lead-acid deep discharge battery will be spent, which I’m not taking into account here. Either way you cut it, this is not a money saving machine. Energy prices are just too low.
 
-
-
 ### How green is it?
 
 Does it have an impact on my CO2 footprint? Back of the envelope:
@@ -263,17 +226,14 @@ Does it have an impact on my CO2 footprint? Back of the envelope:
     Annual energy production system: 155kWh/y
     Payback period: 650kWh / 155kWh/y = 4+ year footprint payback
 
-[Source Solar]( http://renew.org.au/articles/energy-flows-how-green-is-my-solar/)
+[Source Solar](http://renew.org.au/articles/energy-flows-how-green-is-my-solar/)
 [Source Lithium Batteries ](https://ris.utwente.nl/ws/portalfiles/portal/189571307/10.1016_j.procir.2019.01.099.pdf)
-
 
 An eventual product would use Lithium-Ion batteries once they come down in price, which have a way better energy footprint. Lead-acid batteries are used for now because they’re cheap. So no, we’re not saving any CO2 emissions here until after 4 years — not a green machine.
 
 ### Energy independence and resilience
 
 In case of brownouts or blackouts, this would be a helpful way of wirelessly charging communications devices without the grid. A 200W system could even keep a small 60W, 12V refrigerator cool enough to conserve food (14hours of operation/day, cooling down 32 degrees below ambient temp). If energy prices increase (double? triple?) due to unforeseen events in the future, the financial perspective may even make sense with payback periods decreasing to four or even 2.8 years for the 100W system or for the 200W system to 3 years or 2 years, respectively. At under 2 years payback period, we’d be in similar consumer territory to 2-year phone contracts. Let’s hope components continue to get cheaper! (or energy prices increase — but I’d rather not hope for that)
-
-
 
 ### Tech Specs
 
@@ -314,5 +274,3 @@ In case of brownouts or blackouts, this would be a helpful way of wirelessly cha
     Cables (aka "Tender" or "B.O.M.")
     Alligator Clips (for connecting the battery to the solar controller)
     20Ft Extension Cable
-
-

@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Maxoak Bluetti 1000w 2400wh Review - 2020"
+title: 'Maxoak Bluetti 1000w 2400wh Review - 2020'
 date: 2020-06-24 08:00:00 -0700
-image: "blog/maxoak_bluetti_youtube.jpg"
-type: "post"
+image: 'blog/maxoak_bluetti_youtube.jpg'
+type: 'post'
 comments: true
 ---
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/A9MVTWGvPho" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="/assetshttps://www.youtube.com/embed/A9MVTWGvPho" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 This is a very powerful portable generator, especially compared to competitors like the Goal Zero Yeti 3000. It is very similar to the 1000W Richsolar model [we sell in our own kits](https://sunboxlabs.com#kits), so we decided to review this model here. To be clear: these are the same generators often from the same factory in China (or another factory using the same moulds). US companies like us, Richsolar, Bluetti etc simply private-label them and deal with shipping, imports, distribution, etc.
 
@@ -15,7 +15,7 @@ As demonstrated in the video below – it's very powerful. It is bordering on be
 
 <hr/>
 <div style="width: 100%; text-align: center">
-  <a href="https://www.amazon.com/MAXOAK-Portable-Generator-Emergency-Sinewave/dp/B07QZC1FV3/ref=as_li_ss_il?ie=UTF8&linkCode=li3&tag=gridlesskits-20&linkId=9666ea027d1b9592214d590385b31913&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07QZC1FV3&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=gridlesskits-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=gridlesskits-20&language=en_US&l=li3&o=1&a=B07QZC1FV3" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <a href="https://www.amazon.com/MAXOAK-Portable-Generator-Emergency-Sinewave/dp/B07QZC1FV3/ref=as_li_ss_il?ie=UTF8&linkCode=li3&tag=gridlesskits-20&linkId=9666ea027d1b9592214d590385b31913&language=en_US" target="_blank"><img border="0" src="/assets//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07QZC1FV3&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=gridlesskits-20&language=en_US" ></a><img src="/assetshttps://ir-na.amazon-adsystem.com/e/ir?t=gridlesskits-20&language=en_US&l=li3&o=1&a=B07QZC1FV3" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
   <br/><br/><br/>
   <a onclick="gtag('event','Amazon Affiliate clicked')" class="btn btn-primary btn-lg" target="_blank" style="background-color: orange; border: none" href="https://www.amazon.com/MAXOAK-Portable-Generator-Emergency-Sinewave/dp/B07QZC1FV3/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=gridlesskits-20&linkId=c0d6a6d0a2a99e499287d1e29d6f48da&language=en_US" >Check latest price on Amazon</a>
 </div>
@@ -61,4 +61,4 @@ This could come in very handy during:
 
 ---
 
-Thanks for reading, and feel free to reach out if you have any comments. We are considering adding something this powerful to our [line-up](/), so let us know if you would be interested.
+Thanks for reading, and feel free to reach out if you have any comments. We are considering adding something this powerful to our [line-up](/assets/), so let us know if you would be interested.

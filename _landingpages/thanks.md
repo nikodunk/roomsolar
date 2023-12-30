@@ -1,5 +1,6 @@
 ---
-layout: base
+layout: page
+title: 'Thanks'
 ---
 
 <div id="top" style="min-height: 80vh">

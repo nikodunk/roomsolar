@@ -1,14 +1,13 @@
 ---
-title:  "Frequently Asked Questions"
-layout: "post"
+layout: page
+title: 'Frequently Asked Questions'
 ---
 
 <br/><br/>
 
 #### 1) How **green** are these generators compared to a **gas generator**? TLDR: 5.7 pounds of emission saved every hour.
 
-Let us look at the example of how green the 1000W solar kit is. Compared to 1000W Honda Gas Backup Generators is the 1000W sunboxlabs kit green? The answer is a resounding "yes!". While gas generators fire up all over the US during power outages and at RV parks, you will be emitting zero (and your fuel cost will be zero!). 
-
+Let us look at the example of how green the 1000W solar kit is. Compared to 1000W Honda Gas Backup Generators is the 1000W sunboxlabs kit green? The answer is a resounding "yes!". While gas generators fire up all over the US during power outages and at RV parks, you will be emitting zero (and your fuel cost will be zero!).
 
 Your greenhouse gas emissions will be reduced by roughly 4.4lbs every hour you run this compared to a gas generator, but more importantly you're not emitting Carbon Monoxide (CO), Hydrocarbons or Nitrogen Oxide near your house.
 
@@ -19,13 +18,13 @@ Your greenhouse gas emissions will be reduced by roughly 4.4lbs every hour you r
 
 **Calculations for nerds like us:**
 
-0.22 gallons/hour @ 1.3bhp/1000W assumed * 20 lbs CO2/gallon
+0.22 gallons/hour @ 1.3bhp/1000W assumed \* 20 lbs CO2/gallon
 
 [Source](https://www.fueleconomy.gov/feg/contentincludes/co2_inc.htm)
+
 </div>
 
--------
-
+---
 
 #### 2) How **green** are these generators compared to to the **grid**? TLDR: After 5.6 years it's you are saving roughly 0.5 pounds emissions per day, before that it is worse than grid power.
 
@@ -39,10 +38,10 @@ It'll take 5.6 years of usage every day until this whole system is CO2 net-posit
 **Calculations for nerds like us:**
 
 Production footprint mono-cristalline PV:
-4200kWhee/kW [1] * 0.4kW = 1,680kWh embodied energy
+4200kWhee/kW [1] \* 0.4kW = 1,680kWh embodied energy
 
 Production footprint li-ion 18650 battery:
-1153kWhee/kWh [1] * 1.5kWh = 1792kWh embodied energy
+1153kWhee/kWh [1] \* 1.5kWh = 1792kWh embodied energy
 
 Total Footprint: 3472 kWh embodied energy
 
@@ -55,11 +54,7 @@ Payback period: 2364kWh / 620kWh/y = 5.6 year CO2 footprint payback
 
 </div>
 
-
-
--------
-
-
+---
 
 #### 3) Will this system save me a **money** compared to a **gas generator**? TLDR: Yes – after 3.7 months of usage.
 
@@ -77,18 +72,14 @@ What's the payback period for our solar battery system? Will it save me money?
 Payback period for 1000W (Large) system:
 $0/hour running cost.
 
-Cost of running a 1000W (1.3bhp) generator system: 
-0.22 gallons/hour * $3.189 / gallon in CA. = $0.70/hour running cost.
+Cost of running a 1000W (1.3bhp) generator system:
+0.22 gallons/hour \* $3.189 / gallon in CA. = $0.70/hour running cost.
 
-2,713h of runtime until break-even = 113 days = 3.7 months 
+2,713h of runtime until break-even = 113 days = 3.7 months
 
 </div>
 
-
-
--------
-
-
+---
 
 #### 4) Will this system save me a **money** compared to the **grid**? TLDR: Not really – after 20 years of usage.
 
@@ -104,32 +95,27 @@ Cost of running a 1000W (1.3bhp) generator system:
 Payback period for 400W, 1500Wh system
 System cost: $1,899
 
-Yearly energy creation: 365d * 4.26hsun/d * 400W = 620kWh/y
+Yearly energy creation: 365d _ 4.26hsun/d _ 400W = 620kWh/y
 
-Yearly value creation: 620kWh/y * 15c/kWh (CA) = $93/y energy created
+Yearly value creation: 620kWh/y \* 15c/kWh (CA) = $93/y energy created
 
 100W system payback period: $1,899 / $93 = 20 years until payback
 
 </div>
 
--------
-
+---
 
 #### 5) Can I charge the battery off my car?
 
 Yes you can! 12V DC in is supported, and an adapter is included in the box.
 
-
--------
-
+---
 
 #### 6) Can I charge the battery off my wall outlet instead of solar?
 
 Yes you can! It's supported, and an adapter is included in the box.
 
-
--------
-
+---
 
 #### 7) How does it work?
 
@@ -137,35 +123,33 @@ Yes you can! It's supported, and an adapter is included in the box.
 ![](/img_3/how_it_works_2.jpg)
 ![](/img_3/how_it_works_3.jpg)
 
--------
-
+---
 
 #### 8) How much electricity will it make?
 
 Short answer: it can charge all your laptops and phones and run your speakers and power your lights. It's a powerful solar system with a powerful battery and inverter attached. It cannot run your iron or laundry, but the 1000W system is enough to back up a full-size, family fridge for a 4 hours a day in summer if the power goes out, or easily power a mini-fridge at the beach for 24 hours. Have fun! :)
 
-Longer answer is in SF it'll make on average 4.26 * 400W = 1,704Wh (1.7kWh) per day. Of course in winter it'll make less (around 1.4kWh), in summer more (around 2kWh). Of that 1,500Wh will be stored. And if you're further north, maybe you will want a second panel for winters. And if you're further south, even in winter your batteries will always be full even when you're using energy all day from the system.
+Longer answer is in SF it'll make on average 4.26 \* 400W = 1,704Wh (1.7kWh) per day. Of course in winter it'll make less (around 1.4kWh), in summer more (around 2kWh). Of that 1,500Wh will be stored. And if you're further north, maybe you will want a second panel for winters. And if you're further south, even in winter your batteries will always be full even when you're using energy all day from the system.
 
 Any questions? Get in contact above.
 
-
--------
+---
 
 #### 9) Where can use the solar panel and solar generator?
 
 Here are our main suggestions but you can get creative! Let the sunlight inspire you!
 
-* Rooftop
-* Off-Grid Apartments
-* Condos
-* Balconies
-* Backup during blackouts, hurricanes, earthquakes, etc
-* Backyard experiments
-* RVs
-* Camping
-* Van-Living
-* Tiny houses
-* Boats
+- Rooftop
+- Off-Grid Apartments
+- Condos
+- Balconies
+- Backup during blackouts, hurricanes, earthquakes, etc
+- Backyard experiments
+- RVs
+- Camping
+- Van-Living
+- Tiny houses
+- Boats
 
 **1. Car Camping**
 Most people immediately think about camping when solar generators are mentioned. It doesn’t matter if you’re looking to go off grid for a few months or just a fun weekend camping trip in the wilderness, a solar generator is a useful tool to keep with you so you never have to worry about running out of juice.

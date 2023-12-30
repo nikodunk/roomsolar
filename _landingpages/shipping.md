@@ -1,9 +1,6 @@
 ---
-layout: post
-title:  "Shipping"
-comments: true
+layout: page
 ---
-
 
 ### Shipping
 

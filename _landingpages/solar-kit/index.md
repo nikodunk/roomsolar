@@ -1,134 +1,445 @@
 ---
-layout: solarkit
-title: "The Landlord-Friendly, Self-Install Solar Kit"
+layout: base
+title: 'The Landlord-Friendly, Self-Install Solar Kit'
 date: 2020-05-28 08:00:00 -0700
-image: "/img_7/header.jpg"
-type: "post"
+image: '/img_7/header.jpg'
+type: 'post'
 comments: true
 ---
 
-#### 1) How green is it?
-
-It's a start. It will offset about a 3rd (or 1kWh) of an average apartment's energy consumption per day. That's about as much as your fridge, TV and WiFi consume throughout the day. 4.6% - 10% (depending on what's included) of total US emissions are [just these types of loads](https://www.nrdc.org/sites/default/files/home-idle-load-IP.pdf).
-
-#### 2) Will this system save me money?
-
-Yes. Around $70 per year - depending on your state, hours of direct sun your panel gets and electricity cost in the grid (if electricity is expensive in your state, you will save more).
-
-#### 3) How much electricity will it make?
-
-In our tests in Northern California it will generate about 1kW per day on average. Your mileage may vary due to location and sun access. We will offer a calculator soon to get more info.
-
-#### 4) Where can I put the panel?
-
-Here are our main suggestions but you can get creative! Let the sunlight inspire you!
-
-- Rooftop
-- Condos
-- Balconies
-- Backyards
-- Tiny houses
-
-#### 5) Is this a power Tesla Powerwall?
-
-No. This is more like a Tesla Solar install for apartment owners. The upside is that whenever you move, you can simply unplug the panels and take them with you!.
-
-#### 6) Will these work off-grid?
-
-No. These panels will only work when the grid is live. They will automatically disconnect if the grid goes out, as is mandated by all utilities in the USA.
-
-#### 7) Is there a battery?
-
-No. The electricity created goes straight into your home's electricity grid, and is used by devices 'behind your meter' that are drawing energy consistently, like your fridge, wifi, etc.
-
-#### 8) Can I sell the energy back to my utility?
-
-In theory, yes. But the permitting process is more complicated, so we'll leave this up to you. This 200W system designed to be small enough to be consistently used up by devices that are running on your home's grid during the day, so that it all gets used up and you don't have to worry about selling back to your utility and the regulation that comes with it.
-
-#### 9) Can I claim the tax rebate?
-
-We don't give tax advice. But in many cases, yes: this system qualifies for the 30% tax credit. So you can deduct 30% of the system's cost on your taxes if you qualify.
-
-#### 10) What kind of inverter does this include?
-
-A Pure-Sine MPPT 600W inverter.
-
-#### 11) What kind of plugs do the panels come with / can I expand with my own panels?
-
-MC4 connectors - so yes. You can expand with most panels out there up to the maximum voltage and amperage.
-
-#### 12) What size are the solar panels (solar panel size)
-
-The dimensions of the panels are 41.1 x 27.2 x 0.11 in, per panel. You can arrange them in your space as you like, as long as you hook them up to each other in series (won't get up to the necessary voltage for the inverter otherwise).
-
----
-
-Original article:
-
-## The Landlord-Friendly, Self-Install Solar Kit for your Apartment, Condo, Balcony or Back Yard
-
-#### The problem
-
-Apartment renters need the landlord’s permission to install anything on their rooftops. This makes installing solar difficult for people who rent. Because most of the world lives in urbanized areas where renting is common, I think this is a problem standing in the way of solar adoption.
-
-<img src="/solar-kit/img/PROBLEM.png" />
-
-An additional speed bump is the complexity of installing solar: regulation around net-metering. Grid-tied systems. Installation permits (even if you do own your property). Getting quotes from different installers. Solar financing. All complex processes inherited from the construction industry which slow down mass private adoption of renewables.
-
-We attempt to bypass both these problems by building a standalone solar power plant on your windowsill, rooftop or back yard with off-the-shelf parts, and discuss the pros and cons of this approach to solar.
-
----
-
-#### A possible solution
-
-A windowsill solar system we install ourselves solves both problems at once: Renters don’t need permission from their landlords to place things on their windowsill and rooftops if it’s not altering the building, and it’s a one-click, direct purchase with no regulation as long as the energy's used up by your own apartment with constant loads like fridge, wifi, etc (which this one is designed not to be). Two birds with one stone. This makes the solar buying process more like buying a consumer electronic.
-
-<img src="/solar-kit/img/press_icons.png" />
-
-Our mission is to make purchasing solar/storage as easy as purchasing any other consumer electronic, as we believe in a **bottom-up approach**: once renewable energy does not require a professional it will spread as rapidly as other consumer electronics like satellite dishes and window AC units, etc.
-
-<img src="/solar-kit/img/SOLUTION.jpg" alt="Satellite Photo by Paweł Czerwiński | Air Conditioner Photo by Chromatograph" />
-<p style="margin-left: 10px; text-align: center"><small>Solar as a modular consumer electronic - like satellite dishes and air conditioning? (Satellite Photo by Paweł Czerwiński | Air Conditioner Photo by Chromatograph)</small></p>
-
-What if decentralized electric generation could be added room by room to a household (like window A/C units)?
-
-If we look to the car, the smartphone, the window A/C unit — these devices spread like wildfire across the globe because they were off-the-shelf products that required no configuration but great benefits. Identical appliances were churned out at an industrial scale for a global audience. They were “plug n play”. Plug n play solar has been around for a while, but has never taken off (probably because behind-the-meter power is still sketchy and poorly understood). The potential for plug n play solar is huge — it could mean cheap, zero-configuration solar energy spreading to consumers at the pace of the smartphone, the car or air-conditioning.
-
+<!-- JUMBOTRON -->
+<div class="container bg-dark" style="margin: 0px; width: 100% !important; max-width: none; ">
   <div class="row">
-      <div class="col-12">
-        <h4>Why DIY Plug-In Solar:</h4>
+      <div class="col-12 col-md-7 d-block d-md-none"
+          style="background-image: url('/assets/img_5/header_0.jpg'); background-size: cover; background-position: center; min-height: 50vh">
       </div>
-      <div class="col-6 center">
-        <img src="/solar-kit/img/benefits2.png" class="icon" />
-        <h4>Apartment<br/>Compatible.</h4>
-        <p>Moving? Take it with you. Roof damage? Never.</p>
-      </div>
-      <div class="col-6 center">
-        <img src="/solar-kit/img/benefits1.png" class="icon" />
-        <h4>Easy<br/>Install.</h4>
-        <p>Electrician-free. Permit-free. Screwdriver-free.</p>
-      </div>
-      <div class="col-6 center">
-        <img src="/solar-kit/img/benefits5.png" class="icon" />
-        <h4>Live in the Future.</h4>
-        <p>Make your own energy. Be independent.</p>
-      </div>
-      <div class="col-6 center">
-        <img src="/solar-kit/img/benefits3.png" class="icon" />
-        <h4>Do your part.</h4>
-        <p>Offsets a 3rd of a standard apartment's CO2 footprint.</p>
-      </div>
-      <div class="col-6 center">
-        <img src="/solar-kit/img/benefits6.png" class="icon" />
-        <h4>Pays for itself</h4>
-        <p>Generates energy of around $70 per year.</p>
-      </div>
-    </div>
+      <div class="col-12 col-md-5 align-self-center p-2 p-md-5">
+          <h1 class="mb-4 text-light" style="font-size: 4rem">Reliable Power <u>Anywhere</u>.</h1>
+          <p class="lead mb-4 text-light">Meet the Sunboxlabs Battery.<br /><strong>Charge in hours for days of
+                  power</strong>, indoors and out.</p>
+          <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+              <input type="hidden" name="cmd" value="_s-xclick">
+              <input type="hidden" name="hosted_button_id" value="HWX3LUTQNMSKJ">
 
-<h4 id="shipping">Shipping & Order Details</h4>
+              <input style="display: none" name="custom" value="" id="finalCode1">
+              <button disabled class="btn btn-primary btn-lg w-100" type="submit" name="submit" id="buy1">
+                  ☀️ Sold out for $449 〉&nbsp;<img loading="lazy" src="/assets/kit/img/paypal.png"
+                      style="height: 12px;" />
+              </button>
+              <p class="center w-100 text-light">Free shipping included</p>
 
-Free shipping anywhere in the US. You will receive a follow-up email with exact instructions.
+              <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+          </form>
+      </div>
+      <div class="col-12 col-md-7 d-none d-md-block"
+          style="background-image: url('/assets/img_5/header_0.jpg'); background-size: cover; background-position: center; min-height: 80vh">
+      </div>
 
-Questions or want to say hello? Send to hello@sunboxlabs.com.
+  </div>
+</div>
 
-Due to popular demand, we have decided to offer **grid-tied solar kits** with **hand-picked** and **tested** components guaranteed to work reliably together, distributed, sold and supported by sunboxlabs. If you'd prefer, you can still order components separately and assemble them yourself. This system is around 5x more powerful than the other ones on the site. We tried to build the best system we possibly could at the lowest possible price.
+<div class="p-4" style="background-color: rgba(0, 97, 207, 0.05)">
+  <div class="container">
+      <div class="row">
+          <div class="col-md center">
+              ⚡️
+              <p class="lead text-secondary mt-2">Power up to 3 days</p>
+          </div>
+          <div class="col-md center">
+              ⛽️
+              <p class="lead text-secondary mt-2">No Fuel or Noise</p>
+          </div>
+          <div class="col-md center">
+              🏠
+              <p class="lead text-secondary mt-2">Indoors & outdoors</p>
+          </div>
+          <div class="col-md center">
+              🎒
+              <p class="lead text-secondary mt-2">Compact & Portable</p>
+          </div>
+          <div class="col-md center">
+              🔌
+              <p class="lead text-secondary mt-2">Recharge in 3-6 hours</p>
+          </div>
+      </div>
+  </div>
+</div>
+
+<!-- 2 TILES -->
+<div class="container" style="margin: 0px; width: 100% !important; max-width: none">
+  <div class="row p-md-5">
+      <div class="col-md-6"
+          style="background-image: url('/assets/img_5/live_1.jpg'); background-size: cover; background-position: center; height: 50vh">
+      </div>
+      <div class="col-md-6 p-2 p-md-5">
+          <h2 class="center">🌩 Power Out?<br /> It's a silent backup generator.</h2>
+          <ul class="lead m-4">
+              <li>Plug in essential devices</li>
+              <li>Indoors or out</li>
+              <li>Lights during hurricane season</li>
+              <li>Internet during snowstorms</li>
+              <li>Laptops during wildfire shut-offs</li>
+              <li>Find peace of mind</li>
+          </ul>
+      </div>
+  </div>
+  <div class="row p-md-5">
+      <div class="col-md-6 order-md-2"
+          style="background-image: url('/assets/img_5/live_2.jpg'); background-size: cover; background-position: center; height: 50vh">
+      </div>
+      <div class="col-md-6 p-2 p-md-5">
+          <h2 class="center">🏕 Road Tripping? Van life?<br />It's days of on-the-road power.</h2>
+          <ul class="lead m-4">
+              <li>Your portable power outlet anywhere</li>
+              <li>Power your laptop in the car on a long roadtrip</li>
+              <li>Run your devices off-grid in your van</li>
+              <li>Take it anywhere on your next camping adventure</li>
+              <li>Run your Helium miner with solar in places without an outlet :)</li>
+          </ul>
+      </div>
+  </div>
+</div>
+
+<!-- QUIZ -->
+<div style="background-color: rgba(0, 97, 207, 0.05)" id="quiz">
+  <div class="container pt-5">
+      <div class="row">
+          <div class="col-md p-2 p-md-5">
+              <h1 class="center">⏱ Hours of performance. See how much.</h1>
+              <ul class="lead m-4">
+                  <li>500W of power output means you can power all the devices to the right, and many at the same
+                      time.</li>
+                  <li>540Wh battery means you can run many devices for days</li>
+              </ul>
+          </div>
+          <div class="col-md center pt-5">
+              <!-- CUSTOM CALCULATOR -->
+              <div class="calcContainer">
+
+                  <h4 class="">Confused about run time? So is everyone. Choose a device to see runtime below:</h4><br>
+                  <input oninput="updateCalc()" type="range" min="8" value="8" max="85" step="11" id="calcSlider"
+                      class="calcSlider" style="width: 100%; min-height: 1px !important">
+                  <div style="display: flex; justify-content: space-between; margin-top: 15px">
+                      <span class="calcSpan">Phone</span>
+                      <span class="calcSpan">3x <br />Lights</span>
+                      <span class="calcSpan">Laptop</span>
+                      <span class="calcSpan">WiFi<br />Router</span>
+                      <span class="calcSpan">Speakers</span>
+                      <span id="current" class="calcSpan">TV</span>
+                      <span class="calcSpan">Fan</span>
+                      <span class="calcSpan">Mini<br />Fridge</span>
+                  </div>
+                  <br /><br />
+
+                  <h4>Hours of runtime:</h4>
+                  <div style="display: flex">
+                      <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor"
+                          class="bi bi-battery-full text-primary m-1" viewBox="0 0 16 16">
+                          <path d="M2 6h10v4H2V6z" />
+                          <path
+                              d="M2 4a2 2 0 0 0-2 2v4a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V6a2 2 0 0 0-2-2H2zm10 1a1 1 0 0 1 1 1v4a1 1 0 0 1-1 1H2a1 1 0 0 1-1-1V6a1 1 0 0 1 1-1h10zm4 3a1.5 1.5 0 0 1-1.5 1.5v-3A1.5 1.5 0 0 1 16 8z" />
+                      </svg>
+                      <h2 id="calcText" class="text-primary"> 68 hours +</h2>
+                  </div>
+                  <br />
+                  <span>💵</span>
+                  <span id="money">$0.01</span><br />
+                  <span>saved every hour vs gas generator</span>
+                  <br /><br />
+                  <span>☁️</span>
+                  <span id="co2">0.046</span><span> pounds CO2</span><br />
+                  <span>saved every hour vs gas generator</span>
+                  <br /><br />
+              </div>
+          </div>
+      </div>
+
+  </div>
+</div>
+
+<!-- 2 TILES -->
+<div class="container" style="margin: 0px; width: 100% !important; max-width: none">
+  <div class="row p-md-5">
+      <div class="col-md"
+          style="background-image: url('/assets/img_5/live_3.jpg'); background-size: cover; background-position: left; height: 50vh">
+      </div>
+      <div class="col-md align-center p-2 p-md-5">
+          <h2 class="center">🔌 Charge in 3-6 hours from any outlet.</h2>
+          <ul class="lead m-4">
+              <li>Never spend a dime on gas again</li>
+              <li>No maintenance – the personal power plan requires virtually none</li>
+              <li>Simply recharge from the wall in 3 hours</li>
+          </ul>
+          <form action="https://www.paypal.com/cgi-bin/webscr" class="center" method="post" target="_top">
+              <input type="hidden" name="cmd" value="_s-xclick">
+              <input type="hidden" name="hosted_button_id" value="HWX3LUTQNMSKJ">
+
+              <input style="display: none" name="custom" value="" id="finalCode2">
+              <button disabled class="btn btn-primary btn-lg" type="submit" name="submit" id="buy2">
+                  ☀️ Sold out for $449 〉&nbsp;<img loading="lazy" src="/assets/kit/img/paypal.png"
+                      style="height: 12px;" />
+              </button>
+              <p style="color: grey; text-align: center">Free shipping included</p>
+
+              <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+          </form>
+      </div>
+
+  </div>
+</div>
+
+<!-- JUMBOTRON 2 - SOLAR -->
+<div class="bg-light pt-4 p-md-5"
+  style="background-image: url('/assets/img_5/solar.jpg'); background-size: cover; background-position: bottom; min-height: 70vh">
+  <div class="container">
+      <div class="row">
+          <div class="col-md">
+              <h1 class="text-light center"> ☀️ Get solar bundle for $599 and leave the grid behind.</h1>
+              <ul class="lead text-light m-4">
+                  <li>The solar-ready Solar Generator improves mobile living and outdoor life.</li>
+                  <li>Add 100W solar to recharge in 5 hours of direct sunshine.</li>
+                  <li>Provides efficient solar energy to pair with your power station.</li>
+                  <li>Now you have an endless power supply to keep going, even off-the-grid.</li>
+              </ul>
+              </p>
+              <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top" class="center">
+                  <input type="hidden" name="cmd" value="_s-xclick">
+                  <input type="hidden" name="hosted_button_id" value="YFM8CG7F3JLAL">
+
+                  <input style="display: none" name="custom" value="" id="finalCode3">
+                  <button disabled class="btn btn-primary btn-lg" type="submit" name="submit" id="buy3">
+                      ☀️ Buy Solar + Battery Bundle for $599 〉&nbsp;<img loading="lazy"
+                          src="/assets/kit/img/paypal.png" style="height: 12px;" />
+                  </button>
+                  <p style="color: white; text-align: center">Free shipping included!</p>
+
+                  <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1"
+                      height="1">
+              </form>
+          </div>
+          <div class="col-md"></div>
+      </div>
+
+  </div>
+</div>
+
+<!-- SPECS -->
+<div class="container pt-2 pt-md-5 card bg-light mt-5">
+  <div class="row p-1 p-md-5">
+      <div class="col-md center align-self-center">
+          <img style="max-height: 300px" class="rounded-circle" loading="lazy" src="/assets/img_5/specs_0.jpg">
+      </div>
+      <div class="col-md p-1 p-md-2">
+          <h2 class="center">Premium Construction</h2>
+          <ul class="lead m-4">
+              <li>Equipped with lithium 18650 battery, the same type of battery that Tesla uses.</li>
+              <li>Full short circuit protection, voltage & temperature control.</li>
+              <li>Powerful built-in LED light</li>
+              <li>Safe to use indoors and outdoors.</li>
+          </ul>
+      </div>
+  </div>
+
+  <div class="row p-2 p-md-5 pt-5">
+      <div class="col-md order-md-2">
+          <img style="max-height: 300px;" loading="lazy" src="/assets/img_5/specs_1.jpg">
+      </div>
+      <div class="col-md p-2 p-md-2">
+          <h2 class="center">Complete clarity</h2>
+          <ul class="lead m-4">
+              <li>Real-time screen displays percentage and hours of battery left. No more guessing.</li>
+              <li>Also displays how many watts are currently being consumed.</li>
+              <li>Switch any port on and off.</li>
+          </ul>
+      </div>
+  </div>
+
+  <div class="row p-2 p-md-5 pt-5">
+      <div class="col-md">
+          <img style="max-height: 300px" loading="lazy" src="/assets/img_5/specs_2.jpg">
+      </div>
+      <div class="col-md p-2 p-md-5">
+          <h2>Tech Specs</h2>
+          <p>
+              <strong>Weight</strong>: 12.13 lb<br />
+              <strong>Size</strong>: 10.24 x 6.7 x 6.82 in<br />
+              <strong>Battery Capacity</strong>: Lithium battery 50 Amp Hours (AH) / 540 Watt Hours (WH)<br />
+              <strong>Inverter Output</strong>: 500W continuous / 1000W peak (Pure sine wave)<br />
+              <strong>Solar Panel (Optional)</strong>: Voltage 18V 100W (Battery supports up to 200W)<br />
+              <strong>18 month limited warranty</strong><br />
+          </p>
+          <a data-bs-toggle="collapse" href="#collapseExample">
+              Show More ⌄
+          </a>
+          <div class="collapse card p-3 mb-4" id="collapseExample">
+              <p>
+                  DC Adapter Input Charge: DC 24V/3.75A<br />
+                  AC Output Voltage: AC110V±10% 60Hz/AC220V± 10%<br />
+                  Fuse: 3 * 30A<br />
+                  Overheat Protection: ＞65°C<br />
+                  Cooling Fan: Temperature control fan<br />
+                  Short-circuit Protection: Yes<br />
+                  USB Output: TYPE-C + 2.4A + 2.4A + QC3.0<br />
+                  DC Output 1: Cigarette lighter 12V/8A<br />
+                  DC Output 2: 12V * 2 output ports (4A+4A)<br />
+                  LED Lighting: 5W LED Light<br />
+                  Solar Panel Voltage: DC12V-24V<br />
+              </p>
+          </div>
+      </div>
+  </div>
+</div>
+
+<!-- CTA -->
+<div class="container p-2 p-md-5 mt-5 mb-5">
+  <div class="row">
+      <div class="col-md center align-self-center">
+          <h1 class="mb-3">Get your Sunboxlabs Battery now for $449.</h1>
+          <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+              <input type="hidden" name="cmd" value="_s-xclick">
+              <input type="hidden" name="hosted_button_id" value="HWX3LUTQNMSKJ">
+
+              <input style="display: none" name="custom" value="" id="finalCode4">
+              <button disabled class="btn btn-primary btn-lg" type="submit" name="submit" id="buy4">
+                  ☀️ Sold out for $449 〉&nbsp;<img loading="/assets/kit/img/paypal.png"
+                      style="height: 12px;" />
+              </button>
+              <p style="color: grey; text-align: center">Free shipping included!</p>
+
+              <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+          </form>
+      </div>
+
+  </div>
+</div>
+
+<script>
+  function updateCalc() {
+      var x = document.getElementById("calcSlider").value;
+      document.getElementById("calcText").innerHTML = makeTime(x);
+      document.getElementById("money").innerHTML = makeMoney(x);
+      document.getElementById("co2").innerHTML = makeCO2(x);
+  }
+
+  function makeTime(amount) {
+      // return amount
+      return ' ' + parseFloat(540 / amount).toFixed(0) + ' hours +'
+  }
+
+  function makeMoney(amount) {
+      return '$' + parseFloat(0.001 * amount).toFixed(2)
+  }
+
+  function makeCO2(amount) {
+      return parseFloat(amount * 0.00572).toFixed(3)
+  }
+</script>
+
+<style>
+  .calcContainer {
+      text-align: left;
+      margin-bottom: 80px;
+      overflow: hidden;
+  }
+
+  .calcSlider {
+      -webkit-appearance: none;
+      width: 90%;
+      height: 1px;
+      background-color: #0d6efd;
+      z-index: 0;
+  }
+
+  .calcSlider::-webkit-slider-thumb {
+      -webkit-appearance: none;
+      appearance: none;
+      width: 50px;
+      height: 25px;
+      background-color: #0d6efd;
+      cursor: pointer;
+      z-index: 10;
+      border-width: 0px;
+      border-radius: 5px;
+      box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.1);
+  }
+
+  .calcSlider::-moz-range-thumb {
+      width: 50px;
+      height: 25px;
+      background-color: #0d6efd;
+      cursor: pointer;
+      z-index: 10;
+      border-width: 0px;
+      border-radius: 5px;
+      box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.1);
+  }
+
+  .calcSpan {
+      color: #4C4C4B;
+      text-align: center;
+      font-size: 0.8rem
+  }
+</style>
+
+<script type="text/javascript">
+  var button1 = document.getElementById('buy1');
+  button1.addEventListener(
+      'click',
+      function () {
+          fbq('track', 'InitiateCheckout');
+          gtag('event', 'Checkout Clicked Solar Kit')
+      },
+      false
+  );
+  var button2 = document.getElementById('buy2');
+  button2.addEventListener(
+      'click',
+      function () {
+          fbq('track', 'InitiateCheckout');
+          gtag('event', 'Checkout Clicked Solar Kit')
+      },
+      false
+  );
+  var button3 = document.getElementById('buy3');
+  button3.addEventListener(
+      'click',
+      function () {
+          fbq('track', 'InitiateCheckout');
+          gtag('event', 'Checkout Clicked Solar Kit')
+      },
+      false
+  );
+  var button4 = document.getElementById('buy4');
+  button4.addEventListener(
+      'click',
+      function () {
+          fbq('track', 'InitiateCheckout');
+          gtag('event', 'Checkout Clicked Solar Kit')
+      },
+      false
+  );
+</script>
+
+<script>
+  function addCouponFromUrl() {
+      // if there's already an affiliated code from the website, use that and don't overwrite.
+      if (localStorage.getItem('affcode') !== null) {
+          let affCode = localStorage.getItem('affcode')
+          document.getElementById('finalCode1').value = affCode
+          document.getElementById('finalCode2').value = affCode
+          document.getElementById('finalCode3').value = affCode
+          document.getElementById('finalCode4').value = affCode
+          return
+      }
+      // if there's a code in the url, set it in localstorage.
+      if (window.location.search !== "") {
+          let affCode = window.location.search.replace('?', '')
+          localStorage.setItem('affcode', affCode)
+          document.getElementById('finalCode1').value = affCode
+          document.getElementById('finalCode2').value = affCode
+          document.getElementById('finalCode3').value = affCode
+          document.getElementById('finalCode4').value = affCode
+      }
+  }
+  addCouponFromUrl()
+</script>

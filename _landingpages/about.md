@@ -1,6 +1,5 @@
 ---
-layout: post
-date:   2017-09-06 08:00:00 -0700
+layout: page
 ---
 
 <div class="row mb-5">
@@ -14,7 +13,7 @@ date:   2017-09-06 08:00:00 -0700
         Niko was renting a San Francisco apartment and ran into a problem installing solar: He could not put panels on his roof because he needed approval from his landlord. Additionally, he would need to remove the rooftop solar and undo the electrical work next time he moved. 
     </div>
     <div class="col-8 offset-4 offset-sm-0 order-sm-3 col-sm-5">
-        <img class="mt-sm-5" src="/img/PROBLEM.png"/>
+        <img class="mt-sm-5" src="/assets/img/PROBLEM.png"/>
     </div>
 </div>
 
@@ -29,7 +28,7 @@ date:   2017-09-06 08:00:00 -0700
         Niko needed a self-contained, removable and self-installable solar system. He built a system with parts from Amazon, wrote about it, and received 200,000 reads in a few days and great feedback on this article.
     </div>
     <div class="col-8 offset-4 offset-sm-0 order-sm-1 col-sm-5">
-        <img src="OG_System.jpg">
+        <img src="/assets/about/OG_System.jpg">
     </div>
 </div>
 
@@ -43,12 +42,12 @@ date:   2017-09-06 08:00:00 -0700
         Three years and many articles and kits later, we started offering easy kits for purchase. They have been used for camping, RVs, van-life, festivals, backup power after extreme weather and of course in urban apartments.
     </div>
     <div class="col-8 offset-4 order-sm-3  offset-sm-0 col-sm-5">
-        <img style="max-height: 250px" src="/img_3/500 copy 2.jpg">
+        <img style="max-height: 250px" src="/assets/img_3/500 copy 2.jpg">
     </div>
 </div>
 
-
 ---
+
 <h1 style="text-align: center">Our Vision</h1>
 
 <div class="row">
@@ -57,7 +56,7 @@ date:   2017-09-06 08:00:00 -0700
   <p>Or the window air conditioner. Or the smartphone</b>. We are starting small with small kits, but as battery and solar prices come down, we will soon be able to cover more use cases.</p>
   </div>
   <div class="col-12 order-sm-1 col-sm-5">
-    <img src="https://sunboxlabs.com/solar-kit/img/SOLUTION.jpg">
+    <img src="/assets/solar-kit/img/SOLUTION.jpg">
     <small style="text-align: center; width: 100%">(Photo: Paweł Czerwiński, Chromatograph)</small>
   </div>
 </div>
@@ -66,41 +65,41 @@ date:   2017-09-06 08:00:00 -0700
 
 <h1 style="text-align: center">Our Mission</h1>
 
-Our mission is to **make purchasing solar/storage as easy as purchasing any other consumer electronic**. 
+Our mission is to **make purchasing solar/storage as easy as purchasing any other consumer electronic**.
 
 If we look to the car, the smartphone, the window A/C unit — these devices spread like wildfire across the globe because they were off-the-shelf products that required no configuration but great benefits. Identical appliances were churned out at an industrial scale for a global audience. They were “plug n play”. Plug n play solar has been around for a while, but has never taken off (probably because behind-the-meter power is still sketchy and poorly understood). The potential for plug n play solar is huge — it could mean cheap, zero-configuration solar energy spreading to consumers at the pace of the smartphone, the car or air-conditioning.
 
-----
-        
+---
+
 <div>
     <h2>As seen on</h2>
     <div style="margin: 0 auto; display: flex; flex-wrap: wrap; justify-content: space-around;">
      <div style="padding: 10px">
-            <a style="color: inherit" href="https://conta.cc/3hLT8lD" target="_blank"><img src="press5.png" style="max-height: 39px"></a>
+            <a style="color: inherit" href="https://conta.cc/3hLT8lD" target="_blank"><img src="/assets/about/press5.png" style="max-height: 39px"></a>
         </div>
         <div style="padding: 10px">
-            <a style="color: inherit" href="https://porch.com/advice/embrace-future-install-solar-panels-roof" target="_blank"><img src="press6.png" style="max-height: 39px"></a>
+            <a style="color: inherit" href="https://porch.com/advice/embrace-future-install-solar-panels-roof" target="_blank"><img src="/assets/about/press6.png" style="max-height: 39px"></a>
         </div>
         <div style="padding: 10px">
-            <a style="color: inherit" href="https://news.ycombinator.com/item?id=14821478" target="_blank"><img src="press1.jpg" style="max-height: 39px"></a>
+            <a style="color: inherit" href="https://news.ycombinator.com/item?id=14821478" target="_blank"><img src="/assets/about/press1.jpg" style="max-height: 39px"></a>
         </div>
         <div style="padding: 10px">
-            <a style="color: inherit" href="https://hackernoon.com/200-for-a-green-diy-self-sufficient-bedroom-that-your-landlord-wont-hate-b3b4cdcfb4f4" target="_blank"><img src="press3.png" style="max-height: 39px"></a>
+            <a style="color: inherit" href="https://hackernoon.com/200-for-a-green-diy-self-sufficient-bedroom-that-your-landlord-wont-hate-b3b4cdcfb4f4" target="_blank"><img src="/assets/about/press3.png" style="max-height: 39px"></a>
         </div>
         <div style="padding: 10px">
-            <a style="color: inherit" href="https://www.reddit.com/r/geek/comments/6ov9oc/200_solar_selfsufficiency_without_your_landlord/" target="_blank"><img src="press2.png" style="max-height: 39px"></a>
+            <a style="color: inherit" href="https://www.reddit.com/r/geek/comments/6ov9oc/200_solar_selfsufficiency_without_your_landlord/" target="_blank"><img src="/assets/about/press2.png" style="max-height: 39px"></a>
         </div>
          <div style="padding: 10px">
-            <a style="color: inherit" href="https://www.genios.de/fachzeitschriften/artikel/BILA/20160408/der-sonnige/144014626.html" target="_blank"><img src="press4.png" style="max-height: 39px"></a>
+            <a style="color: inherit" href="https://www.genios.de/fachzeitschriften/artikel/BILA/20160408/der-sonnige/144014626.html" target="_blank"><img src="/assets/about/press4.png" style="max-height: 39px"></a>
         </div>
         <div style="padding: 10px">
             <a style="color: inherit" href="https://latchcollective.com/resources" target="_blank">
-                <img src="press7.png" style="max-height: 39px">
+                <img src="/assets/about/press7.png" style="max-height: 39px">
             </a>
         </div>
         <div style="padding: 10px">
             <a style="color: inherit" href="https://electrade.app/" target="_blank">
-                <img src="press8.jpg" style="max-height: 39px">
+                <img src="/assets/about/press8.jpg" style="max-height: 39px">
             </a>
         </div>
         <div style="padding: 10px">
@@ -112,10 +111,6 @@ If we look to the car, the smartphone, the window A/C unit — these devices
     </div>
 </div>
 
-
-
 Niko showing off his current system:
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/XOsCX6yUe44" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
