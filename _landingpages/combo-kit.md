@@ -26,7 +26,7 @@ image: /blog/combo-kit.jpg
 
 More affordable version off Amazon:
 
-- [Panels](https://amzn.to/3H3RGds) -  $494.99
+- [Inverter, Solar Controller, UPS](https://amzn.to/3H3RGds) -  $494.99
 - [Battery](https://amzn.to/47izeZi) - $469.99
 - [Solar Panels](https://watts247.com/product/canadian-solar-455w-cs3w-455-ms-mono-monofacial-solar-panel-per-piece/) - $820
 
