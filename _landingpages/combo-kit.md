@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: 3000W solar battery combo kit that will run your whole apartment
 date: 2023-12-09T21:45:08.609Z
 image: /blog/combo-kit.jpg
