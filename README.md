@@ -2,6 +2,6 @@
 
 This is a Jekyll-generated site offering DIY hacks for solar power systems.
 
-It's built with bootstrap 4 and PayPal - yikes!
+It's built with bootstrap 5 and PayPal - yikes!
 
-Follow the project on http://sunboxlabs.com
+Follow the project on https://sunboxlabs.com
