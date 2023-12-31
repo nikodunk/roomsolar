@@ -21,3 +21,13 @@ image: /blog/combo-kit.jpg
   - $1,090
 
 => $2,495 total
+
+
+
+More affordable version off Amazon:
+
+- https://amzn.to/3H3RGds -  $494.99
+- https://amzn.to/47izeZi - $469.99
+- https://amzn.to/48DrNwO - $816.00
+
+=> $1,779 total
