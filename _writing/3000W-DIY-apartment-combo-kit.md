@@ -25,9 +25,10 @@ image: /blog/combo-kit.jpg
 
 More affordable version off Amazon:
 
-- [3kW Inverter, Solar Controller, UPS](https://amzn.to/3H3RGds) -  $495
-- [2.4kWh Battery](https://amzn.to/47izeZi) - $470
-- [1.8kW Solar Panels](https://watts247.com/product/canadian-solar-455w-cs3w-455-ms-mono-monofacial-solar-panel-per-piece/) - $820
-  - or with second-hand solar panels: $50 * 6 = $300
+- [1.9kW second-hand solar panels](https://www.facebook.com/marketplace/item/862769312175401)
+  - 6 * 320W
+  - @ $50 = $300
+- [3kW inverter, solar Controller, UPS](https://amzn.to/3H3RGds) -  $495
+- [2.4kWh battery](https://amzn.to/48dJ2VK) - $420
 
-=> $1,785 total, or with second-hand solar $1,255 total
+=> $1,215 total
