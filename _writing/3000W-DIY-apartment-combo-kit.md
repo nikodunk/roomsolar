@@ -32,8 +32,7 @@ More affordable version off Amazon:
 
 => $1,215 total
 
-
-* Financial Payback & Embodied Energy
+#### Financial Payback & Embodied Energy
 
 ```
 Financial payback period for 3000W
@@ -43,16 +42,14 @@ Yearly value creation: 1,100kWh/y * $0.29/kWh = $319/y energy created
 100W system payback period: $1,200 / $319 = 4 years until payback
 ```
 
-How green is it:
+#### How green is it:
 
-```
 Production footprint PV ([source](https://sustainability.stackexchange.com/questions/8317/what-is-the-typical-embodied-energy-of-a-solar-photovoltaic-panel)):
-2,900kWhee/kW * 1.8kW = 5,200kWh embodied energy
+`2,900kWhee/kW * 1.8kW = 5,200kWh embodied energy`
 
 Production footprint LiFePo4 battery ([source](https://ris.utwente.nl/ws/portalfiles/portal/189571307/10.1016_j.procir.2019.01.099.pdf)):
-106kWhee/kWh * 2.4kWh = 254kWh embodied energy
+`106kWhee/kWh * 2.4kWh = 254kWh embodied energy`
 
 Annual energy production system: 1100kWh/y
-Payback period: 5450kWh / 1100kWh/y = 5 year footprint payback
-```
+`Payback period: 5450kWh / 1100kWh/y = 5 year footprint payback`
 
