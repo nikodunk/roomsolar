@@ -1,11 +1,11 @@
 ---
-layout: foo
-title: "The Landlord-Friendly, Self-Install Solar + Battery Kit for your off-grid Apartment, Condo, Balcony, Backup and Camping needs"
+layout: base
+title: 'The Landlord-Friendly, Self-Install Solar + Battery Kit for your off-grid Apartment, Condo, Balcony, Backup and Camping needs'
 date: 2020-05-28 08:00:00 -0700
-image: "/blog/solar-kit/img/banner.jpg"
-cost: "$ "
-tags: ["solar", "apartment"]
-type: "post"
+image: '/blog/solar-kit/img/banner.jpg'
+cost: '$ '
+tags: ['solar', 'apartment']
+type: 'post'
 comments: true
 aliases: [/solar-kit/]
 ---

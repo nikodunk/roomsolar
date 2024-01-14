@@ -5,32 +5,28 @@ date: 2023-12-09T21:45:08.609Z
 image: /blog/combo-kit.jpg
 ---
 
-- [1.8kW solar panels](https://signaturesolar.com/solarever-455w-split-cell-mono-perc-solar-panel-silver/)
-  - 1.8kW solar
-  - 4 x 455W panels
-  - $746
-- [3kW inverter, solar Controller, UPS](https://signaturesolar.com/growatt-24v-3kw-150vdc-stackable-off-grid-inverter/)
-
+- [1.9kW second-hand solar panels](https://www.facebook.com/marketplace/item/862769312175401) (though if there's no used panels near you then [new ones](https://signaturesolar.com/solarever-455w-split-cell-mono-perc-solar-panel-silver/) 4 x 455W = $746 is great too)
+  - 6 x 320W @ $50
+  - $300
+- [3kW inverter, solar controller, UPS all-in-one](https://amzn.to/3H3RGds)
   - 3kW pure sine wave inverter
-  - 2kW MPPT solar charge controller
-  - UPS function module all-in-one
-  - $659
+  - 4kW MPPT solar charge controller
+  - UPS function - falls back to grid when battery empty
+  - $495
+- [2.5kWh battery](https://amzn.to/48dJ2VK)
+  - $420
 
+=> $1,215 total
+
+---
+
+Component alternatives:
+
+- [3kW inverter, solar Controller, UPS](https://signaturesolar.com/growatt-24v-3kw-150vdc-stackable-off-grid-inverter/)
+  - $659
 - [3kWh battery](https://bigbattery.com/products/24v-mule-lifepo4-120ah-3kwh/)
   - 3kWh battery
   - $1,090
-
-=> $2,495 total
-
-More affordable version off Amazon:
-
-- [1.9kW second-hand solar panels](https://www.facebook.com/marketplace/item/862769312175401)
-  - 6 x 320W
-  - @ $50 = $300
-- [3kW inverter, solar Controller, UPS](https://amzn.to/3H3RGds) - $495
-- [2.4kWh battery](https://amzn.to/48dJ2VK) - $420
-
-=> $1,215 total
 
 #### Financial Payback & Embodied Energy
 
@@ -52,4 +48,3 @@ Production footprint LiFePo4 battery ([source](https://ris.utwente.nl/ws/portalf
 
 Annual energy production system: 1100kWh/y
 `Payback period: 5450kWh / 1100kWh/y = 5 year footprint payback`
-
