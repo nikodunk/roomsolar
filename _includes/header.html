@@ -1,150 +1,191 @@
 <!DOCTYPE html>
 <html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, shrink-to-fit=no"
+    />
+    <link rel="icon" href="/assets/sarah_spinning_sun.png" />
 
-<head>
-	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-	<link rel="icon" href="/assets/sarah_spinning_sun.png">
+    <title>
+      {{ page.title }} | Sunboxlabs - Premium Solar Kits for self-install clean
+      energy, and batteries for backup, off-grid & outdoors.
+    </title>
 
-	<title>{{ page.title }} | Sunboxlabs - Premium Solar Kits for self-install clean energy, and batteries for backup, off-grid & outdoors.</title>
+    <meta
+      name="description"
+      content="Sunboxlabs - Premium Solar Kits for self-install clean energy, and batteries for backup, off-grid & outdoors."
+    />
+    {{
+      with.Site.Params.meta.keywords
+    }}
+    <meta name="keywords" content="{{ . }}" />
+    {{
+      end
+    }}
 
-	<meta name="description" content="Sunboxlabs - Premium Solar Kits for self-install clean energy, and batteries for backup, off-grid & outdoors.">
-	{{ with .Site.Params.meta.keywords }}
-	<meta name="keywords" content="{{ . }}">{{ end }}
+    <!--  Essential META Tags -->
+    <meta
+      property="og:title"
+      content="{{
+        page.title
+      }} | Sunboxlabs - Premium Solar Kits for self-install clean energy, and batteries for backup, off-grid & outdoors."
+    />
+    <meta
+      property="og:description"
+      content="Sunboxlabs - Premium Solar Kits for self-install clean energy, and batteries for backup, off-grid & outdoors. | {{ .Summary | plainify | safeHTML }}"
+    />
+    <meta property="og:image" content="/assets/{{ page.image }}" />
+    <meta property="og:url" content="{{ page.url }}" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta property="og:site_name" content="{{ .site.title }}" />
+    <meta
+      name="twitter:image:alt"
+      content="Sunboxlabs - Premium Solar Kits for self-install clean energy, and batteries for backup, off-grid & outdoors."
+    />
 
-	<!--  Essential META Tags -->
-	<meta property="og:title"
-		content="{{ page.title }} | Sunboxlabs - Premium Solar Kits for self-install clean energy, and batteries for backup, off-grid & outdoors.">
-	<meta property="og:description"
-		content="Sunboxlabs - Premium Solar Kits for self-install clean energy, and batteries for backup, off-grid & outdoors. | {{ .Summary | plainify | safeHTML }}">
-	<meta property="og:image" content="/assets/{{ page.image }}">
-	<meta property="og:url" content="{{ page.url }}">
-	<meta name="twitter:card" content="summary_large_image">
-	<meta property="og:site_name" content="{{ .site.title }}">
-	<meta name="twitter:image:alt"
-		content="Sunboxlabs - Premium Solar Kits for self-install clean energy, and batteries for backup, off-grid & outdoors.">
+    <meta
+      name="facebook-domain-verification"
+      content="d9nb2r05ht1utbp7q2blq9qwx8f8be"
+    />
 
-	<meta name="facebook-domain-verification" content="d9nb2r05ht1utbp7q2blq9qwx8f8be" />
+    <link
+      media="screen"
+      href="/assets/css/bootstrap5.min.css"
+      rel="stylesheet"
+      type="text/css"
+    />
+    <link
+      media="screen"
+      href="/assets/css/styles.css"
+      rel="stylesheet"
+      type="text/css"
+    />
+  </head>
 
-	<link media="screen" href="/assets/css/bootstrap5.min.css" rel="stylesheet" type="text/css">
-	<link media="screen" href="/assets/css/styles.css" rel="stylesheet" type="text/css">
-
-</head>
-
-<!-- Begin Menu Navigation
+  <!-- Begin Menu Navigation
 ================================================== -->
 
-<body>
-  <nav
-    class="navbar navbar-expand-lg navbar-light bg-light p-1 p-md-0"
-    style="background-color: white !important"
-  >
-    <div class="container-fluid">
-      <a class="navbar-brand" href="/">
-        <img
-          src="/assets/sarah_spinning_sun.gif"
-          width="30"
-          height="30"
-          class="d-inline-block align-top"
-          alt=""
-        />
-        &nbsp;sunboxlabs
-      </a>
-      <button
-        class="navbar-toggler"
-        type="button"
-        data-bs-toggle="collapse"
-        data-bs-target="#navbarSupportedContent"
-        aria-controls="navbarSupportedContent"
-        aria-expanded="false"
-        aria-label="Toggle navigation"
-      >
-        <span class="navbar-toggler-icon"></span>
-      </button>
-      <div class="collapse navbar-collapse" id="navbarSupportedContent">
-        <div
-          class="navbar-nav navbar-right pt-1"
-          style="margin-left: auto; padding-right: 20px"
+  <body>
+    <nav
+      class="navbar navbar-expand-lg navbar-light bg-light p-1 p-md-0"
+      style="background-color: white !important"
+    >
+      <div class="container-fluid">
+        <a class="navbar-brand" href="/">
+          <img
+            src="/assets/sarah_spinning_sun.gif"
+            width="30"
+            height="30"
+            class="d-inline-block align-top"
+            alt=""
+          />
+          &nbsp;sunboxlabs
+        </a>
+        <button
+          class="navbar-toggler"
+          type="button"
+          data-bs-toggle="collapse"
+          data-bs-target="#navbarSupportedContent"
+          aria-controls="navbarSupportedContent"
+          aria-expanded="false"
+          aria-label="Toggle navigation"
         >
-          <a class="nav-item nav-link" href="/">Grid-tied Solar</a>
-          <a class="nav-item nav-link" href="/solar-kit">Off-grid Battery</a>
-          <a class="nav-item nav-link" href="/about">About</a>
-          <a class="nav-item nav-link" href="/blog">Blog</a>
-          <!-- <a class="nav-item nav-link" href="/faq">FAQ</a> -->
-          <a class="nav-item nav-link" href="/contact">Contact</a>
-          <span class="nav-item nav-link d-none d-md-inline" href=""
-            >&nbsp;</span
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <div
+            class="navbar-nav navbar-right pt-1"
+            style="margin-left: auto; padding-right: 20px"
           >
-          <form class="form-group form-inline row" id="electrade-nav">
-            <input
-              type="email"
-              required
-              name="email"
-              placeholder="you@email.com"
-              class="form-control col"
-              style="
-                border-radius: 0;
-                border-top-left-radius: 3px;
-                border-bottom-left-radius: 3px;
-              "
-            />
-            <input
-              class="btn btn-block btn-primary form-control col"
-              style="
-                border-radius: 0;
-                border-top-right-radius: 3px;
-                border-bottom-right-radius: 3px;
-              "
-              type="submit"
-              value="Subscribe"
-              id="submit-form"
-            />
-          </form>
-          <div id="WIP-nav" style="display: none">
-            <p class="text-dark text-right">Submitting...</p>
-          </div>
+            <a class="nav-item nav-link" href="/">Grid-tied Solar</a>
+            <a class="nav-item nav-link" href="/solar-kit">Off-grid Battery</a>
+            <a class="nav-item nav-link" href="/apartment-solar-kit"
+              >Off-Grid Home Kit</a
+            >
 
-          <div id="thanks-nav" style="display: none">
-            <h3 class="text-dark text-right">Thank you!</h3>
+            <a class="nav-item nav-link" href="/about">About</a>
+            <a class="nav-item nav-link" href="/blog">Blog</a>
+            <!-- <a class="nav-item nav-link" href="/faq">FAQ</a> -->
+            <a class="nav-item nav-link" href="/contact">Contact</a>
+            <span class="nav-item nav-link d-none d-md-inline" href=""
+              >&nbsp;</span
+            >
+            <form class="form-group form-inline row" id="electrade-nav">
+              <input
+                type="email"
+                required
+                name="email"
+                placeholder="you@email.com"
+                class="form-control col"
+                style="
+                  border-radius: 0;
+                  border-top-left-radius: 3px;
+                  border-bottom-left-radius: 3px;
+                "
+              />
+              <input
+                class="btn btn-block btn-primary form-control col"
+                style="
+                  border-radius: 0;
+                  border-top-right-radius: 3px;
+                  border-bottom-right-radius: 3px;
+                "
+                type="submit"
+                value="Subscribe"
+                id="submit-form"
+              />
+            </form>
+            <div id="WIP-nav" style="display: none">
+              <p class="text-dark text-right">Submitting...</p>
+            </div>
+
+            <div id="thanks-nav" style="display: none">
+              <h3 class="text-dark text-right">Thank you!</h3>
+            </div>
           </div>
         </div>
       </div>
-    </div>
-  </nav>
+    </nav>
 
-  <br /><br />
+    <br /><br />
 
-  <script>
-    // SUBMIT EMAIL TO GSHEET
-    var $formElementNav = document.getElementById("electrade-nav");
-    var $WIPNav = document.getElementById("WIP-nav");
-    var $thanksNav = document.getElementById("thanks-nav");
-    var url =
-      "https://script.google.com/macros/s/AKfycbwRbZS37yjD4W-qV8f8nFxlVFcuS-D3eBjEQomLZHA6TkXkoMg/exec";
-    $formElementNav.addEventListener("submit", function (event) {
-      event.preventDefault();
-      $formElementNav.style.display = "none";
-      $WIPNav.style.display = "block";
-      fetch(
-        url + "?email=" + $formElementNav.elements[0].value.replace("@", "%40")
-      )
-        .then((response) => {
-          if (response.ok) {
-            $WIPNav.style.display = "none";
-            $thanksNav.style.display = "block";
-            return response.json();
-          }
-          return Promise.reject(response);
-        })
-        .then((data) => {
-          console.log(data);
-        })
-        .catch((error) => {
-          console.warn(error);
-        });
-    });
-  </script>
+    <script>
+      // SUBMIT EMAIL TO GSHEET
+      var $formElementNav = document.getElementById('electrade-nav')
+      var $WIPNav = document.getElementById('WIP-nav')
+      var $thanksNav = document.getElementById('thanks-nav')
+      var url =
+        'https://script.google.com/macros/s/AKfycbwRbZS37yjD4W-qV8f8nFxlVFcuS-D3eBjEQomLZHA6TkXkoMg/exec'
+      $formElementNav.addEventListener('submit', function (event) {
+        event.preventDefault()
+        $formElementNav.style.display = 'none'
+        $WIPNav.style.display = 'block'
+        fetch(
+          url +
+            '?email=' +
+            $formElementNav.elements[0].value.replace('@', '%40')
+        )
+          .then(response => {
+            if (response.ok) {
+              $WIPNav.style.display = 'none'
+              $thanksNav.style.display = 'block'
+              return response.json()
+            }
+            return Promise.reject(response)
+          })
+          .then(data => {
+            console.log(data)
+          })
+          .catch(error => {
+            console.warn(error)
+          })
+      })
+    </script>
 
-  <!-- End Navigation
+    <!-- End Navigation
 ================================================== -->
-<body>
+    <body></body>
+  </body>
+</html>
