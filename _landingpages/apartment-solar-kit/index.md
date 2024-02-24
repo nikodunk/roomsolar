@@ -2,7 +2,7 @@
 layout: base
 title: 'The Landlord-Friendly, Self-Install Mobile Solar Kit'
 date: 2020-05-28 08:00:00 -0700
-image: '/img_7/header.jpg'
+image: '/3000w-apartment-solar/solar-kit-9.jpg'
 type: 'post'
 comments: true
 ---
