@@ -53,7 +53,7 @@ layout: page
 <div class="row">
   <div class="col-12 order-sm-2 col-sm-7">
   <h3>If we can make <b>solar energy</b> a <b>consumer electronic</b>, it can spread as fast as the satellite dish has.</h3>
-  <p>Or the window air conditioner. Or the smartphone</b>. We are starting small with small kits, but as battery and solar prices come down, we will soon be able to cover more use cases.</p>
+  <p>Or the window air conditioner. Or the smartphone. We are starting small with small kits, but as battery and solar prices come down, we will soon be able to cover more use cases.</p>
   </div>
   <div class="col-12 order-sm-1 col-sm-5">
     <img src="/assets/solar-kit/img/SOLUTION.jpg">
