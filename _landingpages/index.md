@@ -15,7 +15,7 @@ My favorite 3 benefits are
 
 - "It's To-Go" - take it with you if you move. Throw it in the back of a truck. No permanent attachments or mounts to worry about.
 - Landlord-friendly - Non destructively place it on your roof without making holes. No roof damange, holes, or permits.
-- Hybrid - Runs off solar, then off the battery, then flips to the grid if both other sources are dead as plan C. It's "like a plug-in hybrid" that only starts using gas once the batteries are drained. But the batteries on this thing are huge and recharge every day. It's like an off-grid system, but won't leave you in the dark if you get a string of really dark days in winter.
+- Hybrid - Runs off solar, then off the battery, then flips to the grid if both other sources are dead as plan C. It's "like a plug-in hybrid" that only starts using gas once the batteries are drained. But the batteries on this thing are huge and recharge every day. It's like an off-grid system, but won't make you re-plug your fridge if you get too little sunlight and go HAM on the heating in winter.
 
 <img src="/assets/3000w-apartment-solar/solar-kit-9.jpg" />
 
