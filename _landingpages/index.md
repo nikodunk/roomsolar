@@ -7,7 +7,7 @@ image: '/3000w-apartment-solar/solar-kit-9.jpg'
 
 # Run your home off stored sunshine
 
-#### The DIY off-grid solar battery kit that can run your home
+#### The off-grid solar battery kit to can run your home with parts off Amazon
 
 <img src="/assets/3000w-apartment-solar/solar-kit-9.jpg" />
 
