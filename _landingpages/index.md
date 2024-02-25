@@ -5,7 +5,7 @@ date: 2024-02-04 08:00:00 -0700
 image: '/3000w-apartment-solar/solar-kit-9.jpg'
 ---
 
-# The Plug and Play solar system that can
+# The DIY, Plug and Play solar battery system that can run your home.
 
 Runs your home off stored sunshine most of the year, saves you money day to day (pays for itself in 4 years), and backs you up in power outages.
 
