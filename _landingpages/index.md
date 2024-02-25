@@ -5,9 +5,9 @@ date: 2024-02-04 08:00:00 -0700
 image: '/3000w-apartment-solar/solar-kit-9.jpg'
 ---
 
-# The DIY off-grid solar battery kit that can run your home
+# Run your home off stored sunshine
 
-Run your home off stored sunshine
+#### The DIY off-grid solar battery kit that can run your home
 
 <img src="/assets/3000w-apartment-solar/solar-kit-9.jpg" />
 
