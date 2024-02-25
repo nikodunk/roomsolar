@@ -7,11 +7,15 @@ image: '/3000w-apartment-solar/solar-kit-9.jpg'
 
 # The DIY, plug and play solar battery system that can run your home
 
-Runs your home off stored sunshine most of the year, saves you money day to day (pays for itself in 4 years), and backs you up in power outages.
+- Runs your home off stored sunshine most of the year,
+- While the grid is on it saves you money (pays for itself in 4 years) and makes your consumption greener
+- Seamlessly backs you up when it's not. We don't even notice power outages, public safety shut-offs, hurricane outages.
 
-- Mobile - take it with you if you move. "To-Go system"
-- Non destructive - just place it on your roof without making holes "Landlord-friendly"
-- Hybrid - Runs off solar, then off the battery, then flips to the grid if both other sources are dead as plan C. It's like a plug-in hybrid that only starts using gas once the batteries are drained. But the batteries on this thing are huge and recharge every day.
+My favorite 3 benefits are
+
+- "It's To-Go" - take it with you if you move. Throw it in the back of a truck. No permanent attachments or mounts to worry about.
+- Landlord-friendly - Non destructively place it on your roof without making holes. No roof damange, holes, or permits.
+- Hybrid - Runs off solar, then off the battery, then flips to the grid if both other sources are dead as plan C. It's "like a plug-in hybrid" that only starts using gas once the batteries are drained. But the batteries on this thing are huge and recharge every day. It's like an off-grid system, but won't leave you in the dark if you get a string of really dark days in winter.
 
 <img src="/assets/3000w-apartment-solar/solar-kit-9.jpg" />
 
