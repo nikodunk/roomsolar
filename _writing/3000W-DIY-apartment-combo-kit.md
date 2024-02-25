@@ -5,6 +5,8 @@ date: 2023-12-09T21:45:08.609Z
 image: /blog/combo-kit.jpg
 ---
 
+Now moved to the [main page](/)
+
 - [1.9kW second-hand solar panels](https://www.facebook.com/marketplace/item/862769312175401) (though if there's no used panels near you then [new ones](https://signaturesolar.com/solarever-455w-split-cell-mono-perc-solar-panel-silver/) 4 x 455W = $746 is great too)
   - 6 x 320W [Sunpower T5s](https://www.youtube.com/watch?v=7JCVlUvUJ60) @ $50
   - $300
