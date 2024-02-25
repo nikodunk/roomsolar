@@ -5,17 +5,9 @@ date: 2024-02-04 08:00:00 -0700
 image: '/3000w-apartment-solar/solar-kit-9.jpg'
 ---
 
-# The DIY, plug and play solar battery system that can run your home
+# The DIY, plug and play, off-grid solar battery kit that can run your home
 
-- Runs your home off stored sunshine most of the year,
-- While the grid is on it saves you money (pays for itself in 4 years) and makes your consumption greener
-- Seamlessly backs you up when it's not. We don't even notice power outages, public safety shut-offs, hurricane outages.
-
-My favorite 3 benefits are
-
-- "It's To-Go" - take it with you if you move. Throw it in the back of a truck. No permanent attachments or mounts to worry about.
-- Landlord-friendly - Non destructively place it on your roof without making holes. No roof damange, holes, or permits.
-- Hybrid - Runs off solar, then off the battery, then flips to the grid if both other sources are dead as plan C. It's "like a plug-in hybrid" that only starts using gas once the batteries are drained. But the batteries on this thing are huge and recharge every day. It's like an off-grid system, but won't make you re-plug your fridge if you get too little sunlight and go HAM on the heating in winter.
+Run your home off stored sunshine
 
 <img src="/assets/3000w-apartment-solar/solar-kit-9.jpg" />
 
@@ -30,9 +22,30 @@ My favorite 3 benefits are
     <img src="/assets/3000w-apartment-solar/phone-2.png" style="max-width: 350px !important;  padding: 10px"/>
 </div>
 
-The system runs my fridge, [induction stove](https://www.ikea.com/us/en/p/tillreda-portable-induction-cooktop-1-zone-white-10493520/) (ikea, placed on gas stove), kettle, TV, and everything else. It could also run microwaves and space heaters. You can track the usage and inputs with an app - I got a (bad and expensive) tracker dongle but I'd strongly recommend [solar assistant](https://solar-assistant.io/).
+- Use free self-generated energy to reduce your power bill (to zero if you only use what you make). It generally pays for itself in 4 years with those savings.
+- If you ever drain all the energy you've stored that day in the battery it seamlessly passes through energy from the wall.
+- If the grid goes out it seamlessly backs you up (but you now can no longer use more than you've made). We don't even notice power outages & public safety shut-offs anymore (same for snowstorm outages or hurricane outages).
 
-The secret sauce is that the sunbox (and it's satellite on the roof - the solar panels) act as a buffer between your devices and the wall. It only ever draws from the wall and doesn't push back. It's not hooked up to the meter, doesn't require an permit, etc. It's just a buffer between you and the wall. The downside is that you need to run your own "alternate electricity system" through the house (ie. long white extension cables) to each room, as you're side-stepping the house's built-in wiring in the walls and using your own, that you can redirect to the sunbox.
+The system runs my kitchen, dining & living room - fridge, [induction stove](https://www.ikea.com/us/en/p/tillreda-portable-induction-cooktop-1-zone-white-10493520/) (ikea, placed on gas stove), kettle, entertainment system, and everything else. It could also run microwaves and space heaters. It doesn't run my lights - it's a PITA to get an alternate power system to everywhere I want lights. But LEDs nowadays are in the 2-5 watt range, so consumption of those is minimal. The system powers all of my high-power devices above, which makes a way bigger dent with fewer cables.
+
+You can track the usage and inputs with an app - I got a (bad and expensive) tracker dongle but I'd strongly recommend [solar assistant](https://solar-assistant.io/).
+
+My favorite 3 benefits are
+
+- "It's To-Go" - take it with you if you move. Throw it in the back of a truck. No permanent attachments or mounts to worry about.
+- Landlord-friendly - Non destructively place it on your roof without making holes. No roof damange, holes, or permits.
+- Hybrid - Runs off solar, then off the battery, then flips to the grid if both other sources are dead as plan C. It's "like a plug-in hybrid car" that only uses gas if you drive further than your electric range. But the batteries on this thing are huge and self-recharge every day. It's usually an off-grid system, but it won't make you re-plug your fridge if you ever drain the batteries.
+
+The secret sauce is that the sunbox only ever draws from the wall and doesn't push back energy. The sunbox (and it's satellite on the roof - the solar panels) acts as a buffer between your devices and the wall. It's not hooked up to the meter, doesn't require a permit, etc.
+
+The other secret sauce, and potential downside is that you need to run your own "alternate electricity system" through the house (ie. long white extension cables) to each room, as you're side-stepping the house's built-in wiring in the walls and using your own that you can redirect to the sunbox.
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+    <img src="/assets/3000w-apartment-solar/wiring.jpg" style="max-width: 350px !important;  padding: 10px"/>
+    <img src="/assets/3000w-apartment-solar/wiring-2.jpg" style="max-width: 350px !important;  padding: 10px"/>
+</div>
+
+Relatively neat wiring from the box to the fridge, induction cooktop and on to the living room.
 
 ### Components & Cost
 
