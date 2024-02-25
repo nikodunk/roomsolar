@@ -1,10 +1,8 @@
 ---
 layout: page
 title: 'The Landlord-Friendly, Self-Install Solar Kit. Take it with you if you move!'
-date: 2020-05-28 08:00:00 -0700
+date: 2024-02-04 08:00:00 -0700
 image: '/3000w-apartment-solar/solar-kit-9.jpg'
-type: 'post'
-comments: true
 ---
 
 # The Plug and Play solar system that can
