@@ -7,15 +7,15 @@ image: '/3000w-apartment-solar/solar-kit-9.jpg'
 
 # Run your home off stored sunshine
 
-#### The off-grid solar battery kit to can run your home with parts off Amazon
+##### Go off-grid anywhere with this solar battery kit, assembled from parts off Amazon
 
 <img src="/assets/3000w-apartment-solar/solar-kit-9.jpg" />
 
-1.2kW removably placed on my apartment's roof
+1.2kW of solar panels removably placed on my apartment's roof
 
 <img src="/assets/3000w-apartment-solar/solar-kit-10.jpg"/>
 
-3kW controller/inverter with a 2.5kWh battery that runs my apartment 24/7.
+3kW controller/inverter in my living room with a 2.5kWh battery that runs my apartment 24/7
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
     <img src="/assets/3000w-apartment-solar/phone-1.png" style="max-width: 350px !important;  padding: 10px"/>
