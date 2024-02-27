@@ -5,7 +5,7 @@ date: 2024-02-04 08:00:00 -0700
 image: '/3000w-apartment-solar/solar-kit-9.jpg'
 ---
 
-- Backup for power outages. We don't even notice power outages or public safety shut-offs anymore (same would go snowstorm outages or hurricane outages elsewhere).
+- Backup for power outages. Battery acts like a "solar-assisted UPS" (uninterruptable power supply). We don't even notice power outages or public safety shut-offs anymore (same would go snowstorm outages or hurricane outages elsewhere).
 - Saves you money the rest of the year until sun is down & battery is empty, then falls back to the grid. It generally pays for itself in 4 years with those savings.
 
 Stored sunlight runs my kitchen, dining & living room - fridge, [induction stove](https://www.ikea.com/us/en/p/tillreda-portable-induction-cooktop-1-zone-white-10493520/) (ikea, placed on gas stove), kettle, entertainment system, and everything else. It could also run microwaves and space heaters. It doesn't run my lights - it's a PITA to get an alternate power system to everywhere I want lights. But LEDs nowadays are in the 2-5 watt range, so consumption of those is minimal. The system powers all of my high-power devices above, which makes a way bigger dent with fewer cables.
