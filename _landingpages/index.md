@@ -5,11 +5,10 @@ date: 2024-02-04 08:00:00 -0700
 image: '/3000w-apartment-solar/solar-kit-9.jpg'
 ---
 
-- Use free self-generated energy to reduce your power bill (to zero if you only use what you make). It generally pays for itself in 4 years with those savings.
-- If you ever drain all the energy you've stored that day in the battery it seamlessly passes through energy from the wall.
-- If the grid goes out it seamlessly backs you up (but you now can no longer use more than you've made). We don't even notice power outages & public safety shut-offs anymore (same for snowstorm outages or hurricane outages).
+- Backup for power outages. We don't even notice power outages or public safety shut-offs anymore (same would go snowstorm outages or hurricane outages elsewhere).
+- Saves you money the rest of the year until it's empty, then falls back to the grid. It generally pays for itself in 4 years with those savings.
 
-The system runs my kitchen, dining & living room - fridge, [induction stove](https://www.ikea.com/us/en/p/tillreda-portable-induction-cooktop-1-zone-white-10493520/) (ikea, placed on gas stove), kettle, entertainment system, and everything else. It could also run microwaves and space heaters. It doesn't run my lights - it's a PITA to get an alternate power system to everywhere I want lights. But LEDs nowadays are in the 2-5 watt range, so consumption of those is minimal. The system powers all of my high-power devices above, which makes a way bigger dent with fewer cables.
+Stored sunlight runs my kitchen, dining & living room - fridge, [induction stove](https://www.ikea.com/us/en/p/tillreda-portable-induction-cooktop-1-zone-white-10493520/) (ikea, placed on gas stove), kettle, entertainment system, and everything else. It could also run microwaves and space heaters. It doesn't run my lights - it's a PITA to get an alternate power system to everywhere I want lights. But LEDs nowadays are in the 2-5 watt range, so consumption of those is minimal. The system powers all of my high-power devices above, which makes a way bigger dent with fewer cables.
 
 <div
   style="
@@ -57,14 +56,28 @@ Cables through window-gap to solar panel, plug into wall for pass-through UPS mo
 
 ### Components & Cost
 
+<a href="https://www.facebook.com/marketplace/item/862769312175401">
+  <img src="https://scontent-sjc3-1.xx.fbcdn.net/v/t45.5328-4/392436174_6481248398640267_3289546566727165355_n.jpg?stp=dst-jpg_p180x540&_nc_cat=105&ccb=1-7&_nc_sid=247b10&_nc_ohc=w6ueW6-AwpsAX_nm303&_nc_ht=scontent-sjc3-1.xx&oh=00_AfDKpmCPmxpdBEmKlTnbzpc5GPI7JoUDr1UQjn4FXIOkJg&oe=65E227CD" style="width: 300px"/>
+</a>
+
 - [1.9kW second-hand solar panels](https://www.facebook.com/marketplace/item/862769312175401) (though if there's no used panels near you then [new ones](https://signaturesolar.com/solarever-455w-split-cell-mono-perc-solar-panel-silver/) 4 x 455W = $746 is great too)
   - 6 x 320W [Sunpower T5s](https://www.youtube.com/watch?v=7JCVlUvUJ60) @ $50
   - $300
+
+<a href="https://amzn.to/3H3RGds">
+  <img src="https://powmr.com/cdn/shop/files/all-in-one-inverter-charger-of-3000watt-110vac-24vdc-1.jpg?v=1684406432&width=300" style="width: 300px"/>
+</a>
+
 - [3kW inverter, solar controller, UPS all-in-one](https://amzn.to/3H3RGds)
   - 3kW pure sine wave inverter
   - 4kW MPPT solar charge controller
   - UPS function - falls back to grid when battery empty
   - $495
+
+<a href="https://amzn.to/48dJ2VK">
+  <img src="https://m.media-amazon.com/images/I/71r4VVhRz2L.jpg" style="width: 300px"/>
+</a>
+
 - [2.5kWh battery](https://amzn.to/48dJ2VK)
   - $420
 
