@@ -48,6 +48,13 @@ The other secret sauce, and potential downside, is that you need to run your own
 
 Relatively neat wiring from the box to the fridge, induction cooktop and on to the living room.
 
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+    <img src="/assets/3000w-apartment-solar/IMG_6692.jpeg" style="max-width: 350px !important;  padding: 10px"/>
+    <img src="/assets/3000w-apartment-solar/IMG_6695.jpeg" style="max-width: 350px !important;  padding: 10px"/>
+</div>
+
+Main 2,500W power distribution strip | Cables to solar panel and backup power from wall.
+
 ### Components & Cost
 
 - [1.9kW second-hand solar panels](https://www.facebook.com/marketplace/item/862769312175401) (though if there's no used panels near you then [new ones](https://signaturesolar.com/solarever-455w-split-cell-mono-perc-solar-panel-silver/) 4 x 455W = $746 is great too)
