@@ -53,7 +53,7 @@ Relatively neat wiring from the box to the fridge, induction cooktop and on to t
     <img src="/assets/3000w-apartment-solar/IMG_6695.jpeg" style="max-width: 350px !important;  padding: 10px"/>
 </div>
 
-Main 2,500W power distribution strip | Cables to solar panel and backup power from wall.
+Cables through window-gap to solar panel, plug into wall for pass-through UPS mode - Main 2,500W power distribution strip
 
 ### Components & Cost
 
