@@ -60,9 +60,9 @@ Cables through window-gap to solar panel, plug into wall for pass-through UPS mo
   <img src="https://scontent-sjc3-1.xx.fbcdn.net/v/t45.5328-4/392436174_6481248398640267_3289546566727165355_n.jpg?stp=dst-jpg_p180x540&_nc_cat=105&ccb=1-7&_nc_sid=247b10&_nc_ohc=w6ueW6-AwpsAX_nm303&_nc_ht=scontent-sjc3-1.xx&oh=00_AfDKpmCPmxpdBEmKlTnbzpc5GPI7JoUDr1UQjn4FXIOkJg&oe=65E227CD" style="width: 300px"/>
 </a>
 
-- [1.9kW second-hand solar panels](https://www.facebook.com/marketplace/item/862769312175401) (though if there's no used panels near you then [new ones](https://signaturesolar.com/solarever-455w-split-cell-mono-perc-solar-panel-silver/) 4 x 455W = $746 is great too)
-  - 6 x 320W [Sunpower T5s](https://www.youtube.com/watch?v=7JCVlUvUJ60) @ $50
-  - $300
+- [1.28kW second-hand solar panels](https://www.facebook.com/marketplace/item/862769312175401) (though if there's no used panels near you then [new ones](https://signaturesolar.com/solarever-455w-split-cell-mono-perc-solar-panel-silver/) 4 x 455W = $746 is great too)
+  - 4 x 320W [Sunpower T5s](https://www.youtube.com/watch?v=7JCVlUvUJ60) @ $50
+  - $200
 
 <a href="https://amzn.to/3H3RGds">
   <img src="https://powmr.com/cdn/shop/files/all-in-one-inverter-charger-of-3000watt-110vac-24vdc-1.jpg?v=1684406432&width=300" style="width: 300px"/>
@@ -81,7 +81,7 @@ Cables through window-gap to solar panel, plug into wall for pass-through UPS mo
 - [2.5kWh battery](https://amzn.to/48dJ2VK)
   - $420
 
-=> $1,215 total
+=> $1,115 total
 
 ### How to guide
 
@@ -100,13 +100,13 @@ Yearly value creation: 1,100kWh/y * $0.29/kWh = $319/y energy created
 ### How green is it:
 
 Production footprint PV ([source](https://sustainability.stackexchange.com/questions/8317/what-is-the-typical-embodied-energy-of-a-solar-photovoltaic-panel)):
-`2,900kWhee/kW * 1.8kW = 5,200kWh embodied energy`
+`2,900kWhee/kW * 1.28kW = 3,712kWh embodied energy`
 
 Production footprint LiFePo4 battery ([source](https://ris.utwente.nl/ws/portalfiles/portal/189571307/10.1016_j.procir.2019.01.099.pdf)):
 `106kWhee/kWh * 2.4kWh = 254kWh embodied energy`
 
 Annual energy production system: 1100kWh/y
-`Payback period: 5450kWh / 1100kWh/y = 5 year footprint payback`
+`Payback period: 3966kWh / 1100kWh/y = 3.5 year footprint payback`
 
 ### FAQ
 
