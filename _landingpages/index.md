@@ -1,8 +1,8 @@
 ---
 layout: index
-title: 'The Landlord-Friendly, Self-Install Solar Kit. Take it with you if you move!'
+title: 'The Landlord-Friendly, Self-Install Solar Kit.'
 date: 2024-02-04 08:00:00 -0700
-image: '/3000w-apartment-solar/solar-kit-9.jpg'
+image: '/3000w-apartment-solar/outside.jpg'
 ---
 
 - Backup for power outages. Battery acts like a "solar-assisted UPS" (uninterruptable power supply). We don't even notice power outages or public safety shut-offs anymore (same would go snowstorm outages or hurricane outages elsewhere).
