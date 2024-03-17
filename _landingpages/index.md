@@ -17,7 +17,7 @@ $200 - [1.28kW second-hand solar panels](https://www.facebook.com/marketplace/it
   <img src="https://powmr.com/cdn/shop/files/all-in-one-inverter-charger-of-3000watt-110vac-24vdc-1.jpg?v=1684406432&width=300" style="width: 300px"/>
 </a>
 
-$495 - [3kW inverter, solar controller, UPS all-in-one](https://amzn.to/3H3RGds) - 3kW pure sine wave inverter, 4kW MPPT solar charge controller, UPS function - falls back to grid when battery empty
+$390 - [3kW inverter, solar controller, UPS all-in-one](https://amzn.to/3H3RGds) - 3kW pure sine wave inverter, 4kW MPPT solar charge controller, UPS function - falls back to grid when battery empty
 
 <a href="https://amzn.to/48dJ2VK">
   <img src="https://m.media-amazon.com/images/I/71r4VVhRz2L.jpg" style="width: 300px"/>
@@ -25,7 +25,7 @@ $495 - [3kW inverter, solar controller, UPS all-in-one](https://amzn.to/3H3RGds)
 
 $420 - [2.5kWh battery](https://amzn.to/48dJ2VK)
 
-=> $1,115 total
+=> $1,010 total
 
 ### How to guide
 
@@ -35,10 +35,10 @@ Coming soon
 
 ```
 Financial payback period for 3000W
-System cost : $1,200 on Amazon in 2023
+System cost : $1,010 on Amazon in 2024
 Yearly energy creation: 365d * 4.26hsun/d * 1800W = 2,800kWh/y (but more like 1,100kWh/year)
 Yearly value creation: 1,100kWh/y * $0.29/kWh = $319/y energy created
-100W system payback period: $1,115 / $319 = 3.5 years until payback
+100W system payback period: $1,010 / $319 = 3.2 years until payback
 ```
 
 ### How green is it:
