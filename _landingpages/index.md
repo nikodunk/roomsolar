@@ -5,59 +5,10 @@ date: 2024-02-04 08:00:00 -0700
 image: '/3000w-apartment-solar/outside.jpg'
 ---
 
-- Backup for power outages. Battery acts like a "solar-assisted UPS" (uninterruptable power supply). We don't even notice power outages or public safety shut-offs anymore (same would go snowstorm outages or hurricane outages elsewhere).
-- Saves you money the rest of the year until sun is down & battery is empty, then falls back to the grid. It generally pays for itself in 4 years with those savings.
-
-Stored sunlight runs my kitchen, dining & living room - fridge, [induction stove](https://www.ikea.com/us/en/p/tillreda-portable-induction-cooktop-1-zone-white-10493520/) (ikea, placed on gas stove), kettle, entertainment system, and everything else. It could also run microwaves and space heaters. It doesn't run my lights - it's a PITA to get an alternate power system to everywhere I want lights. But LEDs nowadays are in the 2-5 watt range, so consumption of those is minimal. The system powers all of my high-power devices above, which makes a way bigger dent with fewer cables.
-
-<div
-  style="
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    margin-top: 50px;
-  "
->
-  <img
-    src="/assets/3000w-apartment-solar/phone-1.png"
-    style="max-width: 350px !important; padding: 10px"
-  />
-  <img
-    src="/assets/3000w-apartment-solar/phone-2.png"
-    style="max-width: 350px !important; padding: 10px"
-  />
-</div>
-
-You can track the usage and inputs with an app - I got a (bad and expensive) tracker dongle but I'd strongly recommend [solar assistant](https://solar-assistant.io/).
-
-My favorite 3 benefits are
-
-- "It's To-Go" - take it with you if you move. Throw it in the back of a truck. No permanent attachments or mounts to worry about.
-- Landlord-friendly - Non destructively place it on your roof without making holes. No roof damange, holes, or permits.
-- Hybrid - Runs off solar, then off the battery, then flips to the grid if both other sources are dead as plan C. It's "like a plug-in hybrid car" that only uses gas if you drive further than your electric range. But the batteries on this thing are huge and self-recharge every day. It's usually an off-grid system, but it won't make you re-plug your fridge if you ever drain the batteries.
-
-The secret sauce is that the sunbox is usually off grid, but if it runs out of power it only ever _draws_ energy from the wall and doesn't push any back. The sunbox (and it's satellite on the roof - the solar panels) are acting as a "solar buffer" between your devices and the wall. It's not wired into the meter, doesn't require a permit, etc.
-
-The other secret sauce, and potential downside, is that you need to run your own "alternate electricity system" through the house (ie. long white extension cables) to each room, as you're side-stepping the house's built-in wiring in the walls and using your own that you can redirect to the sunbox.
-
-<div style="display: flex; flex-wrap: wrap; justify-content: center;">
-    <img src="/assets/3000w-apartment-solar/wiring.jpg" style="max-width: 350px !important;  padding: 10px"/>
-    <img src="/assets/3000w-apartment-solar/wiring-2.jpg" style="max-width: 350px !important;  padding: 10px"/>
-</div>
-
-Relatively neat wiring from the box to the fridge, induction cooktop and on to the living room.
-
-<div style="display: flex; flex-wrap: wrap; justify-content: center;">
-    <img src="/assets/3000w-apartment-solar/IMG_6692.jpeg" style="max-width: 350px !important;  padding: 10px"/>
-    <img src="/assets/3000w-apartment-solar/IMG_6695.jpeg" style="max-width: 350px !important;  padding: 10px"/>
-</div>
-
-Cables through window-gap to solar panel, plug into wall for pass-through UPS mode - Main 2,500W power distribution strip
-
 ### Components & Cost
 
 <a href="https://www.facebook.com/marketplace/item/862769312175401">
-  <img src="https://scontent-sjc3-1.xx.fbcdn.net/v/t45.5328-4/392436174_6481248398640267_3289546566727165355_n.jpg?stp=dst-jpg_p180x540&_nc_cat=105&ccb=1-7&_nc_sid=247b10&_nc_ohc=w6ueW6-AwpsAX_nm303&_nc_ht=scontent-sjc3-1.xx&oh=00_AfDKpmCPmxpdBEmKlTnbzpc5GPI7JoUDr1UQjn4FXIOkJg&oe=65E227CD" style="width: 300px"/>
+  <img src="/assets/3000w-apartment-solar/second_hand_panels.jpg" style="width: 300px"/>
 </a>
 
 - [1.28kW second-hand solar panels](https://www.facebook.com/marketplace/item/862769312175401) (though if there's no used panels near you then [new ones](https://signaturesolar.com/solarever-455w-split-cell-mono-perc-solar-panel-silver/) 4 x 455W = $746 is great too)
