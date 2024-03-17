@@ -5,25 +5,25 @@ date: 2024-02-04 08:00:00 -0700
 image: '/3000w-apartment-solar/outside.jpg'
 ---
 
-### Components & Cost
+### Components & Cost - $1,010 total
 
 <a href="https://www.facebook.com/marketplace/item/862769312175401">
   <img src="/assets/3000w-apartment-solar/second_hand_panels.jpg" style="width: 300px"/>
 </a>
 
-$200 - [1.28kW second-hand solar panels](https://www.facebook.com/marketplace/item/862769312175401) - 4 x 320W [Sunpower T5s](https://www.youtube.com/watch?v=7JCVlUvUJ60) @ $50 - though if there's no used panels near you then [new ones](https://signaturesolar.com/solarever-455w-split-cell-mono-perc-solar-panel-silver/) 4 x 455W = $746 is great too
-
-<a href="https://amzn.to/3H3RGds">
-  <img src="https://powmr.com/cdn/shop/files/all-in-one-inverter-charger-of-3000watt-110vac-24vdc-1.jpg?v=1684406432&width=300" style="width: 300px"/>
-</a>
-
-$389 - [3kW inverter, solar controller, UPS all-in-one](https://amzn.to/3H3RGds) - 3kW pure sine wave inverter, 4kW MPPT solar charge controller, UPS function - falls back to grid when battery empty
+**$200** for [1.2kW solar (used)](https://www.facebook.com/marketplace/item/862769312175401) - 4 x 320W [Sunpower T5s](https://www.youtube.com/watch?v=7JCVlUvUJ60) @ $50 - though if there's no used panels near you then [new ones](https://signaturesolar.com/solarever-455w-split-cell-mono-perc-solar-panel-silver/) 4 x 455W = $746 is great too
 
 <a href="https://amzn.to/48dJ2VK">
   <img src="https://m.media-amazon.com/images/I/71r4VVhRz2L.jpg" style="width: 300px"/>
 </a>
 
-$418 - [2.5kWh battery](https://amzn.to/48dJ2VK)
+**$418** for [2.5kWh LiFePo4 battery](https://amzn.to/48dJ2VK)
+
+<a href="https://amzn.to/3H3RGds">
+  <img src="https://powmr.com/cdn/shop/files/all-in-one-inverter-charger-of-3000watt-110vac-24vdc-1.jpg?v=1684406432&width=300" style="width: 300px"/>
+</a>
+
+**$389** for [3kW inverter/controller/UPS all-in-one](https://amzn.to/3H3RGds) - 3kW pure sine wave inverter, 4kW MPPT solar charge controller, UPS function - falls back to grid when battery empty
 
 => $1,010 total
 
