@@ -17,13 +17,13 @@ $200 - [1.28kW second-hand solar panels](https://www.facebook.com/marketplace/it
   <img src="https://powmr.com/cdn/shop/files/all-in-one-inverter-charger-of-3000watt-110vac-24vdc-1.jpg?v=1684406432&width=300" style="width: 300px"/>
 </a>
 
-$390 - [3kW inverter, solar controller, UPS all-in-one](https://amzn.to/3H3RGds) - 3kW pure sine wave inverter, 4kW MPPT solar charge controller, UPS function - falls back to grid when battery empty
+$389 - [3kW inverter, solar controller, UPS all-in-one](https://amzn.to/3H3RGds) - 3kW pure sine wave inverter, 4kW MPPT solar charge controller, UPS function - falls back to grid when battery empty
 
 <a href="https://amzn.to/48dJ2VK">
   <img src="https://m.media-amazon.com/images/I/71r4VVhRz2L.jpg" style="width: 300px"/>
 </a>
 
-$420 - [2.5kWh battery](https://amzn.to/48dJ2VK)
+$418 - [2.5kWh battery](https://amzn.to/48dJ2VK)
 
 => $1,010 total
 
@@ -54,6 +54,7 @@ Annual energy production system: 1100kWh/y
 
 ### FAQ
 
+Mobile
 What's the catch? Seems to good to be true? Well, this thing sits between your devices and the wall. So you need to neatly run extension cables from every room in the house to the "sun box", and then run one cable from the box to the panels, and another to the wall (optional, just so it can fall back to pulling power from the wall). Photos of this are coming soon.
 
 Will it ever push power back into the wall? Nope! It'll only ever draw from the wall in the event that both the sun is down and the battery is dead (so your fridge won't go off overnight for example).
