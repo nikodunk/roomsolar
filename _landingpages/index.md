@@ -36,9 +36,9 @@ Coming soon
 ```
 Financial payback period for 3000W
 System cost : $1,010 on Amazon in 2024
-Yearly energy creation: 365d * 4.26hsun/d * 1800W = 2,800kWh/y (but more like 1,100kWh/year)
-Yearly value creation: 1,100kWh/y * $0.29/kWh = $319/y energy created
-100W system payback period: $1,010 / $319 = 3.2 years until payback
+Yearly energy creation: 365d * 4.26hsun/d * 1.280kW = 2,000kWh/y (but more like 1,000kWh/year after losses)
+Yearly value creation: 1,000kWh/y * $0.55/kWh = $550/y energy created
+100W system payback period: $1,010 / $550 = 2 years until payback
 ```
 
 ### How green is it:
