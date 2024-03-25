@@ -5,7 +5,7 @@ date: 2024-02-04 08:00:00 -0700
 image: '/3000w-apartment-solar/outside.jpg'
 ---
 
-### Components & Cost - $1,010 total
+### Components & Cost - $1,124 total
 
 <a href="https://www.facebook.com/marketplace/item/862769312175401">
   <img src="/assets/3000w-apartment-solar/second_hand_panels.jpg" style="width: 300px"/>
@@ -25,7 +25,17 @@ image: '/3000w-apartment-solar/outside.jpg'
 
 **$389** for [3kW inverter/controller/UPS all-in-one](https://amzn.to/3H3RGds) - 3kW pure sine wave inverter, 4kW MPPT solar charge controller, UPS function - falls back to grid when battery empty
 
-=> $1,010 total
+Other:
+
+- https://amzn.to/43NkcuJ - 14.79
+- https://amzn.to/4cwxY8Y - 30.42
+- https://amzn.to/4cuS3fx - 13.00
+- https://amzn.to/43u3ikz x2 - 17.00
+- https://amzn.to/43u3r7B - 12.99
+- https://amzn.to/43y5Qhx - 8.89
+- **Total**: 114.09
+
+=> $1,124 total
 
 ### How to guide
 
@@ -35,10 +45,10 @@ Coming soon
 
 ```
 Financial payback period for 3000W
-System cost : $1,010 on Amazon in 2024
+System cost : $1,124 on Amazon in 2024
 Yearly energy creation: 365d * 4.26hsun/d * 1.280kW = 2,000kWh/y (but more like 1,000kWh/year after losses)
 Yearly value creation: 1,000kWh/y * $0.55/kWh in SF = $550/y energy created
-100W system payback period: $1,010 / $550 = 2 years until payback
+100W system payback period: $1,124 / $550 = 2 years until payback
 ```
 
 ### How green is it:
