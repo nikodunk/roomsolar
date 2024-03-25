@@ -5,37 +5,25 @@ date: 2024-02-04 08:00:00 -0700
 image: '/3000w-apartment-solar/outside.jpg'
 ---
 
-### Components & Cost - $1,124 total
+Cables / Tender:
 
-<a href="https://www.facebook.com/marketplace/item/862769312175401">
-  <img src="/assets/3000w-apartment-solar/second_hand_panels.jpg" style="width: 300px"/>
-</a>
+- https://amzn.to/43NkcuJ - $14.79
+- https://amzn.to/4cwxY8Y - $30.42
+- https://amzn.to/4cuS3fx - $13.00
+- https://amzn.to/43u3ikz x2 - $17.00
+- https://amzn.to/43u3r7B - $12.99
+- https://amzn.to/43y5Qhx - $8.89
+- **Total**: $114.09
 
-**$200** for [1.2kW solar (used)](https://www.facebook.com/marketplace/item/862769312175401) - 4 x 320W [Sunpower T5s](https://www.youtube.com/watch?v=7JCVlUvUJ60) @ $50 - though if there's no used panels near you then [new ones](https://signaturesolar.com/solarever-455w-split-cell-mono-perc-solar-panel-silver/) 4 x 455W = $746 is great too
+**=> $1,124 total**
 
-<a href="https://amzn.to/48dJ2VK">
-  <img src="https://m.media-amazon.com/images/I/71r4VVhRz2L.jpg" style="width: 300px"/>
-</a>
+Remote tracking (optional):
 
-**$418** for [2.5kWh LiFePo4 battery](https://amzn.to/48dJ2VK)
-
-<a href="https://amzn.to/3H3RGds">
-  <img src="https://powmr.com/cdn/shop/files/all-in-one-inverter-charger-of-3000watt-110vac-24vdc-1.jpg?v=1684406432&width=300" style="width: 300px"/>
-</a>
-
-**$389** for [3kW inverter/controller/UPS all-in-one](https://amzn.to/3H3RGds) - 3kW pure sine wave inverter, 4kW MPPT solar charge controller, UPS function - falls back to grid when battery empty
-
-Other:
-
-- https://amzn.to/43NkcuJ - 14.79
-- https://amzn.to/4cwxY8Y - 30.42
-- https://amzn.to/4cuS3fx - 13.00
-- https://amzn.to/43u3ikz x2 - 17.00
-- https://amzn.to/43u3r7B - 12.99
-- https://amzn.to/43y5Qhx - 8.89
-- **Total**: 114.09
-
-=> $1,124 total
+- https://amzn.to/3Vs3COI - $7.99
+- https://amzn.to/3TPaXGI - $23.92
+- https://amzn.to/4a6UMdI - $6.99
+- https://solar-assistant.io - $55.83
+- **Total** (additional): $94.73
 
 ### How to guide
 
@@ -64,7 +52,6 @@ Annual energy production system: 1100kWh/y
 
 ### FAQ
 
-Mobile
 What's the catch? Seems to good to be true? Well, this thing sits between your devices and the wall. So you need to neatly run extension cables from every room in the house to the "sun box", and then run one cable from the box to the panels, and another to the wall (optional, just so it can fall back to pulling power from the wall). Photos of this are coming soon.
 
 Will it ever push power back into the wall? Nope! It'll only ever draw from the wall in the event that both the sun is down and the battery is dead (so your fridge won't go off overnight for example).
