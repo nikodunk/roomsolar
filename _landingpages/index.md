@@ -7,22 +7,22 @@ image: '/3000w-apartment-solar/outside.jpg'
 
 Cables / Tender:
 
-- https://amzn.to/43NkcuJ - $14.79
-- https://amzn.to/4cwxY8Y - $30.42
-- https://amzn.to/4cuS3fx - $13.00
-- https://amzn.to/43u3ikz x2 - $17.00
-- https://amzn.to/43u3r7B - $12.99
-- https://amzn.to/43y5Qhx - $8.89
+- [https://amzn.to/43NkcuJ](https://amzn.to/43NkcuJ) - $14.79
+- [https://amzn.to/4cwxY8Y](https://amzn.to/4cwxY8Y) - $30.42
+- [https://amzn.to/4cuS3fx](https://amzn.to/4cuS3fx) - $13.00
+- [https://amzn.to/43u3ikz](https://amzn.to/43u3ikz) x2 - $17.00
+- [https://amzn.to/43u3r7B](https://amzn.to/43u3r7B) - $12.99
+- [https://amzn.to/43y5Qhx](https://amzn.to/43y5Qhx) - $8.89
 - **Total**: $114.09
 
 **=> $1,124 total**
 
 Remote tracking (optional):
 
-- https://amzn.to/3Vs3COI - $7.99
-- https://amzn.to/3TPaXGI - $23.92
-- https://amzn.to/4a6UMdI - $6.99
-- https://solar-assistant.io - $55.83
+- [https://amzn.to/3Vs3COI](https://amzn.to/3Vs3COI) - $7.99
+- [https://amzn.to/3TPaXGI](https://amzn.to/3TPaXGI) - $23.92
+- [https://amzn.to/4a6UMdI](https://amzn.to/4a6UMdI) - $6.99
+- [https://solar-assistant.io](https://solar-assistant.io) - $55.83
 - **Total** (additional): $94.73
 
 ### How to guide
