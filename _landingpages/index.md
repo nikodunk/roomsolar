@@ -27,7 +27,7 @@ Remote tracking (optional):
 
 ### How to guide
 
-Coming soon
+Coming soon, for now refer to Will Prowse's wiring guide to his very-similar [48V 3000W off-grid solar system](https://www.mobile-solarpower.com/mobile-48v-system.html) which I followed and works great for me!
 
 ### Financial Payback & Embodied Energy
 
