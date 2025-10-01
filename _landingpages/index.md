@@ -15,7 +15,7 @@ Cables / Tender:
 - [https://amzn.to/43y5Qhx](https://amzn.to/43y5Qhx) - $8.89
 - **Total**: $114.09
 
-**=> $1,124 total**
+**=> $912 total**
 
 Remote tracking (optional):
 
@@ -33,7 +33,7 @@ Coming soon, for now refer to Will Prowse's wiring guide on his very-similar [48
 
 ```
 Financial payback period for 3000W
-System cost : $1,124 on Amazon in 2024
+System cost : $1,124 on Amazon in 2024 (now $912)
 Yearly energy creation: 365d * 4.26hsun/d * 1.280kW = 2,000kWh/y (but more like 1,000kWh/year after losses)
 Yearly value creation: 1,000kWh/y * $0.55/kWh in SF = $550/y energy created
 100W system payback period: $1,124 / $550 = 2 years until payback
