@@ -4,27 +4,11 @@ This is a Jekyll-generated site offering DIY hacks for solar power systems.
 
 Follow the project on https://sunboxlabs.com
 
+Built with [Jekyll](https://jekyllrb.com/).
 
-## Podman install
+`brew install ruby` # if that doesn't work then follow [Homebrew](https://jekyllrb.com/docs/installation/macos/) or [distrobox](https://jekyllrb.com/docs/installation/ubuntu/) guide
 
-`podman build -t sunboxlabs .`
-
-```
-podman run --rm -it \
-  -p 4000:4000 -p 35729:35729 \
-  -v .:/srv/sunboxlabs \
-  sunboxlabs
-```
-
-## Native install
-
-Build with [Jekyll](https://jekyllrb.com/).
-
-`brew install ruby`
-
-`gem install bundler jekyll` # sometimes, to update jekyll
-
-`bundle install` to install the Jekyll dependencies
+`bundle install` to install the Jekyll dependencies, or sometimes, to update jekyll `gem install bundler jekyll`
 
 `./serve.sh` or `bundle exec jekyll serve --livereload` to run
 
