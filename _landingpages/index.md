@@ -15,7 +15,7 @@ Cables / Tender:
 - [https://amzn.to/43y5Qhx](https://amzn.to/43y5Qhx) - $8.89
 - **Total**: $114.09
 
-**=> $912 total**
+**=> $832 total**
 
 Remote tracking (optional):
 
