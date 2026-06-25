@@ -708,3 +708,79 @@ code {
   display: block;
   word-wrap: break-word;
 }
+
+/* ------------------------------------------------------------------------------ */
+/* INDEX PAGE THEME */
+
+:root {
+  --accent: #e8a020;
+  --accent-light: #fff3e0;
+  --section-gap: 3rem;
+}
+
+.hero-title {
+  color: #1a1a1a;
+}
+
+.hero-title strong {
+  color: var(--accent);
+}
+
+.hero-subtitle {
+  font-size: 1.2rem;
+  color: #555;
+}
+
+.video-embed {
+  border-radius: 12px;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.10);
+}
+
+.section-divider {
+  border: 0;
+  height: 1px;
+  background: linear-gradient(to right, transparent, #e0e0e0, transparent);
+  margin: var(--section-gap) auto;
+  max-width: 80%;
+}
+
+.section-heading {
+  position: relative;
+  margin-bottom: 1.5rem;
+  padding-bottom: 0.5rem;
+}
+
+.section-heading::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 48px;
+  height: 3px;
+  background: var(--accent);
+  border-radius: 2px;
+}
+
+.section-img {
+  max-height: 440px;
+  width: auto;
+  padding: 5px;
+  border-radius: 8px;
+}
+
+.cta-section {
+  background: var(--accent-light);
+  padding: 3rem 1rem;
+  border-radius: 12px;
+  margin-bottom: 2rem;
+}
+
+@media (max-width: 768px) {
+  .section-img {
+    max-height: 300px;
+    margin-top: 1rem;
+  }
+  .cta-section {
+    padding: 2rem 1rem;
+  }
+}
