@@ -555,6 +555,30 @@ label{
   gap: 10px;
 }
 
+.part-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  font-size: 0.9rem;
+}
+
+.part-list li {
+  padding: 3px 0;
+  border-bottom: 1px solid #f0f0f0;
+}
+
+.part-list li:last-child {
+  border-bottom: none;
+}
+
+.part-list li a {
+  color: #0066c0;
+}
+
+.part-list li a:hover {
+  text-decoration: underline;
+}
+
 @media (max-width: 768px) {
   .part-card {
     width: 100%;
