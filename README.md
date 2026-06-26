@@ -8,7 +8,7 @@ Built with [Jekyll](https://jekyllrb.com/).
 
 `brew install ruby` # if that doesn't work then follow [Homebrew](https://jekyllrb.com/docs/installation/macos/) or [distrobox](https://jekyllrb.com/docs/installation/ubuntu/) guide
 
-`gem install bundler jekyll` # sometimes, to update jekyll
+optional, to update jekyll: `gem install bundler jekyll` 
 
 `bundle install` to install the Jekyll dependencies
 
