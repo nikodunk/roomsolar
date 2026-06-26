@@ -750,22 +750,13 @@ code {
   padding-bottom: 0.5rem;
 }
 
-.section-heading::after {
-  content: '';
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  width: 48px;
-  height: 3px;
-  background: var(--accent);
-  border-radius: 2px;
-}
+
 
 .section-img {
   max-height: 440px;
   width: auto;
   padding: 5px;
-  border-radius: 8px;
+  border-radius: 12px;
 }
 
 .cta-section {
